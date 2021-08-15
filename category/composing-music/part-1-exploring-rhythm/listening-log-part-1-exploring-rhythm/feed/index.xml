@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Tue, 10 Aug 2021 13:00:57 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Aug 2021 02:21:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,6 @@
 	<item>
 		<title>Listening to Boris Blacher &#8211; Variations On A Theme of Paganini</title>
 		<link>./../../../../../listening-to-boris-blacher-variations-on-a-theme-of-paganini/index.html</link>
-					<comments>./../../../../../listening-to-boris-blacher-variations-on-a-theme-of-paganini/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Mon, 12 Jul 2021 06:51:35 +0000</pubDate>
@@ -95,15 +94,12 @@
 <p>Hough, S., 2013. On the art of variation: why Paganini&#8217;s theme is so popular. [online] the Guardian. Available at: https://www.theguardian.com/music/2013/jul/05/how-paganini-became-pop [Accessed 9 July 2021].</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../../../listening-to-boris-blacher-variations-on-a-theme-of-paganini/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Researching Variable Metre</title>
 		<link>./../../../../../researching-variable-metre/index.html</link>
-					<comments>./../../../../../researching-variable-metre/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Sun, 11 Jul 2021 00:47:00 +0000</pubDate>
@@ -187,15 +183,12 @@
 <p>Quinn, I., 2005. Blacher: Paganini Variations; Ornament; Pianissimo Study; Fantasy: The Record Connoisseur&#8217;s Magazine. American Record Guide, 68(5), pp. 79.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../../../researching-variable-metre/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Listening to Rodion Shchedrin &#8211; Carmen Suite</title>
 		<link>./../../../../../listening-to-rodion-shchedrin-carmen-suite/index.html</link>
-					<comments>./../../../../../listening-to-rodion-shchedrin-carmen-suite/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Mon, 05 Jul 2021 04:45:39 +0000</pubDate>
@@ -265,15 +258,12 @@
 <p>Plisetskaya, M., 2001.&nbsp;<em>I, maya plisetskaya</em>. [Place of publication not identified]: Yale Univ Press.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../../../listening-to-rodion-shchedrin-carmen-suite/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Sound Of Revolution</title>
 		<link>./../../../../../the-sound-of-revolution/index.html</link>
-					<comments>./../../../../../the-sound-of-revolution/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 05:23:59 +0000</pubDate>
@@ -335,8 +325,6 @@
 </div></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../../../the-sound-of-revolution/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

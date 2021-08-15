@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Sat, 14 Aug 2021 07:41:37 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Aug 2021 13:29:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -139,11 +139,11 @@
 
 
 
-<p>You can find the score <a href="https://drive.google.com/file/d/16vTmL9k_V6KmxsBahdxAzGWKtiGmQv1C/view?usp=sharing" data-type="URL" data-id="https://drive.google.com/file/d/16vTmL9k_V6KmxsBahdxAzGWKtiGmQv1C/view?usp=sharing" target="_blank">here</a> and listen to it below:</p>
+<p>You can find the score <a href="https://bit.ly/pedroassignment1" data-type="URL" data-id="https://bit.ly/pedroassignment1" target="_blank">here</a> and listen to it below:</p>
 
 
 
-<p></p>
+<figure class="wp-block-audio"><audio controls src="./../../../wp-content/uploads/2021/08/Assignment-1-Wild-dance-Kontakt.mp3"></audio></figure>
 
 
 
@@ -287,7 +287,8 @@
 ]]></content:encoded>
 					
 		
-		
+		<enclosure url="./../../../wp-content/uploads/2021/08/Assignment-1-Wild-dance-Kontakt.mp3" length="3224994" type="audio/mpeg" />
+
 			</item>
 		<item>
 		<title>Project 4 &#8211; About Structure</title>
@@ -385,9 +386,111 @@
 		
 			</item>
 		<item>
+		<title>Listening to Carlos Chávez &#8211; Toccata for Percussion</title>
+		<link>./../../../listening-to-carlos-chavez-toccata-for-percussion/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Thu, 05 Aug 2021 02:41:00 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=216</guid>
+
+					<description><![CDATA[The backstory surrounding the Toccata is fascinating. Carlos Chávez was commissioned by John Cage to create a piece&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2 id="when-i-came-across-this-piece-on-youtube-i-was-expecting-a-latin-rhythm-percussion-piece-probably-because-the-composer-was-mexican" class="cnvs-block-section-heading cnvs-block-section-heading-1629007147368 is-style-cnvs-block-section-heading-2 halignleft" >
+	<span class="cnvs-section-title">
+		<span>When I came across this piece on Youtube, I was expecting a Latin rhythm percussion piece. Probably because the composer was Mexican.</span>
+	</span>
+</h2>
+
+
+
+<p><meta charset="utf-8"></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Carlos Chávez: Toccata" width="640" height="360" src="https://www.youtube.com/embed/Smrbcl_klQM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Fox, J., 2014. <em>Carlos Chávez: Toccata</em>.  Available at: &lt;https://www.youtube.com/watch?v=Smrbcl_klQM> [Accessed 5 August 2021].</figcaption></figure>
+
+
+
+<p>The backstory surrounding the Toccata is fascinating. Carlos Chávez was commissioned by John Cage to create a piece for the percussion ensemble with which he was travelling. As a result, the <meta charset="utf-8">Toccata for Percussion was created. The sad part is that <meta charset="utf-8">Cage&#8217;s ensemble was unable to execute the opening movement, which requires all members to play long, continuous drum rolls, and the piece was never played. The Toccata was not performed until 1948 (Hall, 2008).</p>
+
+
+
+<p>The moral of this story, in my opinion, is that there is a fine line between what the composer wants and what the players are capable of playing. In my compositions, I&#8217;ll try to keep this in mind.</p>
+
+
+
+<p>This is a three-movement work composed entirely of percussion instruments, the majority of which are unpitched (or indefinite-pitched). I was expecting Latin percussion instruments, but, with the exception of the Indian Drum, all of the other instruments are standard orchestral instruments, not exotic ones.</p>
+
+
+
+<p>After a first listen, I discovered that Chávez divided the piece into Membranes and Metalic instruments, with a few wooden instruments thrown in the mix. The wooden instruments, I believe, are used for melody and the other for rhythm.</p>
+
+
+
+<p>In terms of the first movement, I found it to be highly interactive. Instruments can be heard playing the passing theme at different times. Other times, as in the example below, the sound shifts from low to high pitch.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="448" src="./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-11.58.59-1024x448.png" alt="" class="wp-image-218" srcset="./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-11.58.59-1024x448.png 1024w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-11.58.59-300x131.png 300w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-11.58.59-768x336.png 768w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-11.58.59-1536x671.png 1536w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-11.58.59-2048x895.png 2048w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-11.58.59-640x280.png 640w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-11.58.59-960x420.png 960w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-11.58.59.png 2558w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This first movement is characterized by the eight notes, that create some of the motifs of this part.</p>
+
+
+
+<p>When I got to the end of this movement, I realized it ended the same way it started: with a roll. Actually, rolls are present in all music and may be the Toccata&#8217;s most prominent feature. When I got to the end of the movement, I realized it ended with a roll, just like it had begun.  Because Chávez wrote these final rolls without diminuendo, I believe it will be difficult for players to keep the roll while changing the strength of strokes at the same time.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="469" src="./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.17.19-1024x469.png" alt="" class="wp-image-220" srcset="./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.17.19-1024x469.png 1024w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.17.19-300x138.png 300w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.17.19-768x352.png 768w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.17.19-1536x704.png 1536w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.17.19-2048x939.png 2048w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.17.19-640x293.png 640w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.17.19-960x440.png 960w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.17.19.png 2452w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>With the exception of the xylophone, the instruments in the second movement are all metallic. This movement seemed more mysterious to me, perhaps because of the sound of the metallic instruments and the slower tempo. But, thanks to the xylophone and glockenspiel, it&#8217;s also the most melodic of the movements. I found it particularly fascinating when all of the instruments imitated one another, resulting in a unique timbre.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.12.25-991x1024.png" alt="" class="wp-image-219" width="423" height="437" srcset="./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.12.25-991x1024.png 991w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.12.25-290x300.png 290w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.12.25-768x794.png 768w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.12.25-300x310.png 300w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.12.25-640x661.png 640w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.12.25-960x992.png 960w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-12.12.25.png 1318w" sizes="(max-width: 423px) 100vw, 423px" /></figure>
+
+
+
+<p>The third movement is more complex, and I finally found the Latin rhythms I was looking for at the beginning. We return to membrane instruments in this movement, with the glockenspiel, maracas, and claves added later. This movement appears to use more sixteenth notes than the previous ones, making it feel faster. The third movement continues to be interactive, with some instruments passing the motif from one instrument to the next, like the example below.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="450" src="./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-13.30.36-1024x450.png" alt="" class="wp-image-221" srcset="./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-13.30.36-1024x450.png 1024w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-13.30.36-300x132.png 300w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-13.30.36-768x338.png 768w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-13.30.36-1536x675.png 1536w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-13.30.36-2048x900.png 2048w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-13.30.36-640x281.png 640w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-13.30.36-960x422.png 960w, ./../../../wp-content/uploads/2021/08/Screenshot-2021-08-15-at-13.30.36.png 2548w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>On a personal note, I found the Toccata for Percussion to be a fascinating composition in which I was able to acquire a feel of how different percussion instruments may be used to convey both rhythm and melody.</p>
+
+
+
+<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1629005686283 is-style-cnvs-block-section-heading-6 halignleft" >
+	<span class="cnvs-section-title">
+		<span>References</span>
+	</span>
+</h2>
+
+
+
+<p>HALL, J.R., 2008.&nbsp;<em>Development of the percussion ensemble through the contributions of the Latin American composers Amadeo Roldán, José Ardévol, Carlos Chávez, and Alberto Ginastera</em>, The Ohio State University, p. 61.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Project 3 &#8211; Three and more instruments</title>
 		<link>./../../../project-3-three-and-more-instruments/index.html</link>
-					<comments>./../../../project-3-three-and-more-instruments/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Tue, 27 Jul 2021 09:02:18 +0000</pubDate>
@@ -533,15 +636,12 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../project-3-three-and-more-instruments/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Listening to Boris Blacher &#8211; Variations On A Theme of Paganini</title>
 		<link>./../../../listening-to-boris-blacher-variations-on-a-theme-of-paganini/index.html</link>
-					<comments>./../../../listening-to-boris-blacher-variations-on-a-theme-of-paganini/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Mon, 12 Jul 2021 06:51:35 +0000</pubDate>
@@ -614,15 +714,12 @@
 <p>Hough, S., 2013. On the art of variation: why Paganini&#8217;s theme is so popular. [online] the Guardian. Available at: https://www.theguardian.com/music/2013/jul/05/how-paganini-became-pop [Accessed 9 July 2021].</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../listening-to-boris-blacher-variations-on-a-theme-of-paganini/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Project 2 &#8211; Percussion Duets</title>
 		<link>./../../../project-2-percussion-duets/index.html</link>
-					<comments>./../../../project-2-percussion-duets/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Sun, 11 Jul 2021 06:37:23 +0000</pubDate>
@@ -852,15 +949,12 @@
 <p>Solomon, S., 2002. How to write for percussion. 1st ed. New York: SZSolomon, p.42.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../project-2-percussion-duets/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Researching Variable Metre</title>
 		<link>./../../../researching-variable-metre/index.html</link>
-					<comments>./../../../researching-variable-metre/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Sun, 11 Jul 2021 00:47:00 +0000</pubDate>
@@ -944,15 +1038,12 @@
 <p>Quinn, I., 2005. Blacher: Paganini Variations; Ornament; Pianissimo Study; Fantasy: The Record Connoisseur&#8217;s Magazine. American Record Guide, 68(5), pp. 79.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../researching-variable-metre/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Listening to Rodion Shchedrin &#8211; Carmen Suite</title>
 		<link>./../../../listening-to-rodion-shchedrin-carmen-suite/index.html</link>
-					<comments>./../../../listening-to-rodion-shchedrin-carmen-suite/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Mon, 05 Jul 2021 04:45:39 +0000</pubDate>
@@ -1022,15 +1113,12 @@
 <p>Plisetskaya, M., 2001.&nbsp;<em>I, maya plisetskaya</em>. [Place of publication not identified]: Yale Univ Press.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../listening-to-rodion-shchedrin-carmen-suite/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Project 1: Percussion Solos</title>
 		<link>./../../../project-1-percussion-solos/index.html</link>
-					<comments>./../../../project-1-percussion-solos/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 07:41:51 +0000</pubDate>
@@ -1292,72 +1380,6 @@
 <p>FLOREK, P.J., 2015.&nbsp;<em>Modern forms of an ancient art: a selection of contemporary fanfares for multiple trumpets demonstrating evolutionary processes in the fanfare form</em>, University of North Texas, p.14.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../project-1-percussion-solos/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Listening to Arthur Honegger &#8211; Cello Sonata, H. 20: III. Presto</title>
-		<link>./../../../listening-to-arthur-honegger-cello-sonata-h-20-iii-presto/index.html</link>
-					<comments>./../../../listening-to-arthur-honegger-cello-sonata-h-20-iii-presto/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 14:52:01 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
-		<guid isPermaLink="false">https://pedrovintem.000webhostapp.com/?p=32</guid>
-
-					<description><![CDATA[My&#160;first&#160;listening&#160;log&#160;was&#160;an&#160;assignment&#160;in&#160;which&#160;I&#160;was&#160;given&#160;a&#160;list&#160;of&#160;composers&#160;to choose&#160;from. I chose Honegger because I have never listened to him before. I&#8217;m glad I did. I&#8230;]]></description>
-										<content:encoded><![CDATA[
-<h2 id="honegger-showed-me-that-we-are-on-the-road-to-nowhere" class="cnvs-block-section-heading cnvs-block-section-heading-1623907804669 is-style-cnvs-block-section-heading-3 halignleft" >
-	<span class="cnvs-section-title">
-		<span>Honegger showed me that we are on the road to nowhere</span>
-	</span>
-</h2>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Spotify Embed: Cello Sonata, H. 20: III. Presto" width="100%" height="380" allowtransparency="true" frameborder="0" allow="encrypted-media" src="https://open.spotify.com/embed/track/3bk7txJoz14H5HLW0Lwm28?si=83277edda9ca4516"></iframe>
-</div><figcaption>Honegger, A., Bertsch, B. and Weber, M., 2003.&nbsp;<em>Cello Sonata, H. 20: III. Presto</em>. [Streaming] Available at: &lt;https://open.spotify.com/track/3bk7txJoz14H5HLW0Lwm28?si=f55b4198c69f4b59&gt; [Accessed 17 June 2021].</figcaption></figure>
-
-
-
-<p>My&nbsp;first&nbsp;listening&nbsp;log&nbsp;was&nbsp;an&nbsp;assignment&nbsp;in&nbsp;which&nbsp;I&nbsp;was&nbsp;given&nbsp;a&nbsp;list&nbsp;of&nbsp;composers&nbsp;to choose&nbsp;from. I chose Honegger because I have never listened to him before. I&#8217;m glad I did.</p>
-
-
-
-<p>I listened to Cello Sonata, H.20 and I was surprised when the III. Presto started. The music starts with a sharp cello that immediately took me to Tango sounds. I was not expecting that. But that feeling lasted for a second because the music immediately takes a rhythm that is nothing like Tango. It goes with a very paced rhythm, almost mechanical, marked by the cello and followed by the piano. Then, is the piano that marks the rhythm. For me, this is done in a very subtle but interesting way. </p>
-
-
-
-<p>The music becomes more melodious toward the finish, and it appears that it is becoming calmer, but I believe Honegger is deceiving us. The mechanical rhythm is constant, and the apotheosis is approaching until it abruptly ends. Instead of ending in a D, as you might expect, the cello and piano end a B and a B#, respectively. That was incredible.</p>
-
-
-
-<p>Another thing I found fascinating was listening to multiple musicians perform this piece and seeing how they approached the finish in quite different ways. Some clearly marked it, indicating that it had come to an end. Others failed to create the surprise that Honegger envisioned. But, in my perspective, Bertsch and Webber did an excellent job.</p>
-
-
-
-<p>One last thought.</p>
-
-
-
-<p>Because my mind was still expecting a finish, this finale remained stuck in my thoughts. The&nbsp;thing&nbsp;is,&nbsp;you&#8217;ve&nbsp;been&nbsp;rushing&nbsp;somewhere&nbsp;for&nbsp;more&nbsp;than&nbsp;3&nbsp;minutes,&nbsp;but&nbsp;you&#8217;ve&nbsp;arrived&nbsp;nowhere. Is this song about life? About being born in an instant, living your life at full speed, and having it abruptly end?</p>
-
-
-
-<p>That reminds me of the hit tune &#8220;Road to Nowhere&#8221; by Talking Heads. I&#8217;m not suggesting David Byrne was influenced by Honegger, but the mechanically striking snare throughout the song makes you feel like you&#8217;re on your way somewhere. But as David sings, you&#8217;re not. And that is alright.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Spotify Embed: Road to Nowhere" width="100%" height="380" allowtransparency="true" frameborder="0" allow="encrypted-media" src="https://open.spotify.com/embed/track/2co8fDyaVmxv8xruQWORnC?si=eb525b83a94d4259"></iframe>
-</div><figcaption>Talking Heads, 2021.&nbsp;<em>Road to Nowhere</em>. [Streaming] Available at: &lt;https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC?si=eb525b83a94d4259&gt; [Accessed 17 June 2021].</figcaption></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>./../../../listening-to-arthur-honegger-cello-sonata-h-20-iii-presto/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

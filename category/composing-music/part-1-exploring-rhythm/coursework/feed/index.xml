@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Thu, 12 Aug 2021 01:38:42 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Aug 2021 02:21:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -117,7 +117,6 @@
 		<item>
 		<title>Project 3 &#8211; Three and more instruments</title>
 		<link>./../../../../../project-3-three-and-more-instruments/index.html</link>
-					<comments>./../../../../../project-3-three-and-more-instruments/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Tue, 27 Jul 2021 09:02:18 +0000</pubDate>
@@ -263,15 +262,12 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../../../project-3-three-and-more-instruments/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Project 2 &#8211; Percussion Duets</title>
 		<link>./../../../../../project-2-percussion-duets/index.html</link>
-					<comments>./../../../../../project-2-percussion-duets/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Sun, 11 Jul 2021 06:37:23 +0000</pubDate>
@@ -501,15 +497,12 @@
 <p>Solomon, S., 2002. How to write for percussion. 1st ed. New York: SZSolomon, p.42.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../../../project-2-percussion-duets/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Project 1: Percussion Solos</title>
 		<link>./../../../../../project-1-percussion-solos/index.html</link>
-					<comments>./../../../../../project-1-percussion-solos/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 07:41:51 +0000</pubDate>
@@ -771,8 +764,6 @@
 <p>FLOREK, P.J., 2015.&nbsp;<em>Modern forms of an ancient art: a selection of contemporary fanfares for multiple trumpets demonstrating evolutionary processes in the fanfare form</em>, University of North Texas, p.14.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../../../project-1-percussion-solos/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

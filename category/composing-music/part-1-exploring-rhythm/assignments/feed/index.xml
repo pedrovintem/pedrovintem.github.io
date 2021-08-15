@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Sat, 14 Aug 2021 07:41:37 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Aug 2021 13:29:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -139,11 +139,11 @@
 
 
 
-<p>You can find the score <a href="https://drive.google.com/file/d/16vTmL9k_V6KmxsBahdxAzGWKtiGmQv1C/view?usp=sharing" data-type="URL" data-id="https://drive.google.com/file/d/16vTmL9k_V6KmxsBahdxAzGWKtiGmQv1C/view?usp=sharing" target="_blank">here</a> and listen to it below:</p>
+<p>You can find the score <a href="https://bit.ly/pedroassignment1" data-type="URL" data-id="https://bit.ly/pedroassignment1" target="_blank">here</a> and listen to it below:</p>
 
 
 
-<p></p>
+<figure class="wp-block-audio"><audio controls src="./../../../../../wp-content/uploads/2021/08/Assignment-1-Wild-dance-Kontakt.mp3"></audio></figure>
 
 
 
@@ -287,7 +287,8 @@
 ]]></content:encoded>
 					
 		
-		
+		<enclosure url="./../../../../../wp-content/uploads/2021/08/Assignment-1-Wild-dance-Kontakt.mp3" length="3224994" type="audio/mpeg" />
+
 			</item>
 	</channel>
 </rss>
