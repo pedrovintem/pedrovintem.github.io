@@ -1,0 +1,119 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.gallery-type-justified {
+	--pk-twitter-caption-color: #FFFFFF;
+	--pk-twitter-caption-background: rgba(0, 0, 0, 0.5);
+	--pk-twitter-loader-border-color: rgba(0, 0, 0, 0.25);
+	--pk-twitter-loader-color: #777;
+	--pk-twitter-caption-font-size: 0.75rem;
+}
+
+/*--------------------------------------------------------------*/
+.gallery-type-justified {
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	min-height: 1.5rem;
+}
+
+.gallery-type-justified .gallery-item {
+	display: inline-block;
+	overflow: hidden;
+	position: absolute;
+	margin: 0;
+	/* background: #888888; To have gray placeholders while the gallery is loading with waitThumbnailsLoad = false */
+	opacity: 0.1;
+}
+
+.gallery-type-justified .gallery-item > img,
+.gallery-type-justified .gallery-item > a > img {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+	border: none;
+	opacity: 0;
+}
+
+.gallery-type-justified .gallery-item > .caption {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: 0;
+	padding: 0.5rem;
+	opacity: 0;
+	color: var(--pk-twitter-caption-color);
+	background-color: var(--pk-twitter-caption-background);
+	font-size: var(--pk-twitter-caption-font-size);
+	transition: 0.2s ease opacity;
+}
+
+.gallery-type-justified .gallery-item > .caption.caption-visible {
+	opacity: 1;
+}
+
+.gallery-type-justified > .entry-visible {
+	opacity: 1;
+	background: none;
+}
+
+.gallery-type-justified > .entry-visible > img,
+.gallery-type-justified > .entry-visible > a > img {
+	opacity: 1;
+}
+
+.gallery-type-justified > .jg-filtered {
+	display: none;
+}
+
+.gallery-type-justified.justified-loaded:before {
+	display: none;
+}
+
+.gallery-type-justified:before {
+	width: 1.5rem;
+	height: 1.5rem;
+	border: 2px solid var(--pk-twitter-loader-border-color);
+	border-top-color: var(--pk-twitter-loader-color);
+	border-radius: 50%;
+	position: relative;
+	-webkit-animation: loader-rotate 1s linear infinite;
+	animation: loader-rotate 1s linear infinite;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+	text-align: center;
+	content: "";
+}
+
+@-webkit-keyframes loader-rotate {
+	0% {
+		transform: rotate(0);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+@keyframes loader-rotate {
+	0% {
+		transform: rotate(0);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
