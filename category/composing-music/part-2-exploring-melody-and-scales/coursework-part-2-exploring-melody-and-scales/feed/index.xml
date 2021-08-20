@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Coursework &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../../index.html</link>
+	<description>Learning Log</description>
+	<lastBuildDate>Fri, 20 Aug 2021 06:35:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Project 5 – Pentatonic Melody</title>
+		<link>./../../../../../project-5-pentatonic-melody/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Fri, 20 Aug 2021 06:35:45 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Part 2 Exploring melody and scales]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=244</guid>
+
+					<description><![CDATA[The purpose of this project, which is part 2 of the program, is to compose three short contrasting&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>The purpose of this project, which is part 2 of the program, is to compose three short contrasting melodies for vocals based on the pentatonic scale. To keep them engaging, it&#8217;s a good idea to be conscious of the dynamics, tempo, and rhythm.</p>
+
+
+
+<h2 id="example-1" class="cnvs-block-section-heading cnvs-block-section-heading-1629440873273 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Example 1</span>
+	</span>
+</h2>
+
+
+
+<p>In my first exercise, I attempted to make things as simple as possible, concentrating mostly on the melody shape. It&#8217;s written in C, but I begin in E to add interest and to allow the melody to descend a little to lead the listener to the highest note in the melody.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="288" src="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1024x288.png" alt="" class="wp-image-248" srcset="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1024x288.png 1024w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-300x84.png 300w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-768x216.png 768w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1536x432.png 1536w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-2048x576.png 2048w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-640x180.png 640w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-960x270.png 960w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1.png 2171w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 id="example-2" class="cnvs-block-section-heading cnvs-block-section-heading-1629440879230 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Example 2</span>
+	</span>
+</h2>
+
+
+
+<p>I opted to develop an exercise with the F# pentatonic because it can be played on the piano&#8217;s black keys. It began to sound Chinese to me, so I went with it. It ended up having a straight melody shape, starting low, rising, going down, going higher, falliing, going up a little and ending almost straight.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="440" src="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1024x440.png" alt="" class="wp-image-246" srcset="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1024x440.png 1024w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-300x129.png 300w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-768x330.png 768w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1536x660.png 1536w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-2048x880.png 2048w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-640x275.png 640w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-960x412.png 960w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2.png 2172w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 id="example-3" class="cnvs-block-section-heading cnvs-block-section-heading-1629440884585 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Example 3</span>
+	</span>
+</h2>
+
+
+
+<p>After hearing Debussy&#8217;s La Fille Aux Cheveux De Lin, I was drawn to the main motif&#8217;s &#8220;wave&#8221; shape. I wanted to create a melody that resembled waves. I used the Bb pentatonic, but there&#8217;s a modulation to Eb in the middle, then back to Bb in the conclusion.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="438" src="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-1024x438.png" alt="" class="wp-image-247" srcset="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-1024x438.png 1024w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-300x128.png 300w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-768x328.png 768w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-1536x656.png 1536w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-2048x875.png 2048w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-640x273.png 640w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-960x410.png 960w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3.png 2172w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Finally, I believe that this effort helped me to better comprehend the pentatonic scale&#8217;s possibilities and to reinforce my knowledge of articulations from Taylor&#8217;s material.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

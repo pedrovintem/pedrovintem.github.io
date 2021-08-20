@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Sun, 15 Aug 2021 06:03:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Aug 2021 09:49:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,113 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
+		<title>Thoughts on the Pentatonic Scale</title>
+		<link>./../../../thoughts-on-the-pentatonic-scale/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Wed, 18 Aug 2021 03:41:00 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Exploring melody and scales]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=228</guid>
+
+					<description><![CDATA[I must confess that, aside from knowing what the pentatonic scale was, I had no idea how important&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2 id="the-universal-language" class="cnvs-block-section-heading cnvs-block-section-heading-1629344592441 is-style-cnvs-block-section-heading-2 halignleft" >
+	<span class="cnvs-section-title">
+		<span>The universal language</span>
+	</span>
+</h2>
+
+
+
+<p>I must confess that, aside from knowing what the pentatonic scale was, I had no idea how important it was in music. I used to think it was a simple scale that was mostly used in nursery rhymes and was used as the first scale a novice learns.</p>
+
+
+
+<p>Despite the fact that I was not mistaken, after viewing this incredible video by musician Anuja Kamat, I realized that the pentatonic scale is used all over the world.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Introductory episode: Basic theory of Indian Classical Music" width="640" height="360" src="https://www.youtube.com/embed/9VQjH0RrdXU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Anuja Kamat, 2014. <em>Introductory episode: Basic theory of Indian Classical Music</em>.  Available at: &lt;https://www.youtube.com/watch?v=9VQjH0RrdXU> [Accessed 18 August 2021].</figcaption></figure>
+
+
+
+<p>But why is the pentatonic scale employed by ancient civilizations and people all across the world? Mathematics and frequency are the keys to the solution. Because all notes have a straightforward relationship between them, as illustrated in the points below, all notes sound good. As a result, they appeal to everyone&#8217;s ears.</p>
+
+
+
+<ul class="is-style-cnvs-list-styled"><li>tonic has whatever frequency&nbsp;you first chose</li><li>supertonic has the frequency of tonic multiplied by 1⅛</li><li>mediant has the frequency of tonic multiplied by 1¼</li><li>dominant has the frequency of tonic multiplied by 1½</li><li>submediant has the frequency of tonic multiplied by 1⅔</li><li>tonic (octave above) has the frequency of orginal tonic&nbsp;multiplied by 2</li></ul>
+
+
+
+<p>The pentatonic scale appears in a variety of musical styles, which is fascinating. In the Chinese folk tune Mo Li Hua, for example.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jasmine_barrow.svg/2880px-Jasmine_barrow.svg.png" alt=""/></figure>
+
+
+
+<p>In the well-known Amazing Grace, for example.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="96" src="./../../../wp-content/uploads/2021/08/image-1024x96.png" alt="" class="wp-image-233" srcset="./../../../wp-content/uploads/2021/08/image-1024x96.png 1024w, ./../../../wp-content/uploads/2021/08/image-300x28.png 300w, ./../../../wp-content/uploads/2021/08/image-768x72.png 768w, ./../../../wp-content/uploads/2021/08/image-640x60.png 640w, ./../../../wp-content/uploads/2021/08/image-960x90.png 960w, ./../../../wp-content/uploads/2021/08/image.png 1048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Hold On We&#8217;re Going Home by Drake is another song that uses the pentatonic scale, which is quite prevalent in pop music.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="79" src="./../../../wp-content/uploads/2021/08/untitled-2-1-1024x79.png" alt="" class="wp-image-232" srcset="./../../../wp-content/uploads/2021/08/untitled-2-1-1024x79.png 1024w, ./../../../wp-content/uploads/2021/08/untitled-2-1-300x23.png 300w, ./../../../wp-content/uploads/2021/08/untitled-2-1-768x59.png 768w, ./../../../wp-content/uploads/2021/08/untitled-2-1-1536x119.png 1536w, ./../../../wp-content/uploads/2021/08/untitled-2-1-2048x159.png 2048w, ./../../../wp-content/uploads/2021/08/untitled-2-1-640x50.png 640w, ./../../../wp-content/uploads/2021/08/untitled-2-1-960x74.png 960w, ./../../../wp-content/uploads/2021/08/untitled-2-1.png 2066w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>It is also employed by classical composers. Debussy&#8217;s La Fille Aux Cheveux De Lin contains another melody based on the pentatonic scale (except for an F).</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.teoria.com/res/images/articles/debussy-fille-aux-cheveux-des-lin/tema.gif" alt=""/></figure>
+
+
+
+<p>It makes me wonder whether maybe the pentatonic scale is the so-coveted universal language. A common language shared by people from various places, cultures, and eras. Even if two persons from completely different cultures and musical backgrounds are brought together, they may agree that these five notes sound good. </p>
+
+
+
+<p>This Bob McFerrin story exemplifies it perfectly.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Bobby McFerrin Demonstrates the Power of the Pentatonic Scale" width="640" height="360" src="https://www.youtube.com/embed/ne6tB2KiZuk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>World Science Festival, 2009. <em>Bobby McFerrin Demonstrates the Power of the Pentatonic Scale</em>.  Available at: &lt;https://www.youtube.com/watch?v=ne6tB2KiZuk> [Accessed 18 August 2021].</figcaption></figure>
+
+
+
+<p>Although I still believe the pentatonic scale is a simple scale, I now recognize its significance in music and the vast possibilities it offers. I&#8217;m going to use them in the pentatonic scale melody project I&#8217;m working on.</p>
+
+
+
+<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1629345034820 is-style-cnvs-block-section-heading-6 halignleft" >
+	<span class="cnvs-section-title">
+		<span>References</span>
+	</span>
+</h2>
+
+
+
+<p>Powell, J., 2010.&nbsp;<em>How music works</em>. New York, NY: Little, Brown.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Listening to Carlos Chávez &#8211; Toccata for Percussion</title>
 		<link>./../../../listening-to-carlos-chavez-toccata-for-percussion/index.html</link>
 		

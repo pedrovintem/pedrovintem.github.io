@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Sun, 15 Aug 2021 13:29:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Aug 2021 09:49:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,184 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
+		<title>Project 5 – Pentatonic Melody</title>
+		<link>./../../../project-5-pentatonic-melody/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Fri, 20 Aug 2021 06:35:45 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Part 2 Exploring melody and scales]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=244</guid>
+
+					<description><![CDATA[The purpose of this project, which is part 2 of the program, is to compose three short contrasting&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>The purpose of this project, which is part 2 of the program, is to compose three short contrasting melodies for vocals based on the pentatonic scale. To keep them engaging, it&#8217;s a good idea to be conscious of the dynamics, tempo, and rhythm.</p>
+
+
+
+<h2 id="example-1" class="cnvs-block-section-heading cnvs-block-section-heading-1629440873273 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Example 1</span>
+	</span>
+</h2>
+
+
+
+<p>In my first exercise, I attempted to make things as simple as possible, concentrating mostly on the melody shape. It&#8217;s written in C, but I begin in E to add interest and to allow the melody to descend a little to lead the listener to the highest note in the melody.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="288" src="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1024x288.png" alt="" class="wp-image-248" srcset="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1024x288.png 1024w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-300x84.png 300w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-768x216.png 768w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1536x432.png 1536w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-2048x576.png 2048w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-640x180.png 640w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-960x270.png 960w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1.png 2171w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 id="example-2" class="cnvs-block-section-heading cnvs-block-section-heading-1629440879230 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Example 2</span>
+	</span>
+</h2>
+
+
+
+<p>I opted to develop an exercise with the F# pentatonic because it can be played on the piano&#8217;s black keys. It began to sound Chinese to me, so I went with it. It ended up having a straight melody shape, starting low, rising, going down, going higher, falliing, going up a little and ending almost straight.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="440" src="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1024x440.png" alt="" class="wp-image-246" srcset="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1024x440.png 1024w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-300x129.png 300w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-768x330.png 768w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1536x660.png 1536w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-2048x880.png 2048w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-640x275.png 640w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-960x412.png 960w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2.png 2172w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 id="example-3" class="cnvs-block-section-heading cnvs-block-section-heading-1629440884585 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Example 3</span>
+	</span>
+</h2>
+
+
+
+<p>After hearing Debussy&#8217;s La Fille Aux Cheveux De Lin, I was drawn to the main motif&#8217;s &#8220;wave&#8221; shape. I wanted to create a melody that resembled waves. I used the Bb pentatonic, but there&#8217;s a modulation to Eb in the middle, then back to Bb in the conclusion.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="438" src="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-1024x438.png" alt="" class="wp-image-247" srcset="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-1024x438.png 1024w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-300x128.png 300w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-768x328.png 768w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-1536x656.png 1536w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-2048x875.png 2048w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-640x273.png 640w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-960x410.png 960w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3.png 2172w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Finally, I believe that this effort helped me to better comprehend the pentatonic scale&#8217;s possibilities and to reinforce my knowledge of articulations from Taylor&#8217;s material.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Thoughts on the Pentatonic Scale</title>
+		<link>./../../../thoughts-on-the-pentatonic-scale/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Wed, 18 Aug 2021 03:41:00 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Exploring melody and scales]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=228</guid>
+
+					<description><![CDATA[I must confess that, aside from knowing what the pentatonic scale was, I had no idea how important&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2 id="the-universal-language" class="cnvs-block-section-heading cnvs-block-section-heading-1629344592441 is-style-cnvs-block-section-heading-2 halignleft" >
+	<span class="cnvs-section-title">
+		<span>The universal language</span>
+	</span>
+</h2>
+
+
+
+<p>I must confess that, aside from knowing what the pentatonic scale was, I had no idea how important it was in music. I used to think it was a simple scale that was mostly used in nursery rhymes and was used as the first scale a novice learns.</p>
+
+
+
+<p>Despite the fact that I was not mistaken, after viewing this incredible video by musician Anuja Kamat, I realized that the pentatonic scale is used all over the world.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Introductory episode: Basic theory of Indian Classical Music" width="640" height="360" src="https://www.youtube.com/embed/9VQjH0RrdXU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Anuja Kamat, 2014. <em>Introductory episode: Basic theory of Indian Classical Music</em>.  Available at: &lt;https://www.youtube.com/watch?v=9VQjH0RrdXU> [Accessed 18 August 2021].</figcaption></figure>
+
+
+
+<p>But why is the pentatonic scale employed by ancient civilizations and people all across the world? Mathematics and frequency are the keys to the solution. Because all notes have a straightforward relationship between them, as illustrated in the points below, all notes sound good. As a result, they appeal to everyone&#8217;s ears.</p>
+
+
+
+<ul class="is-style-cnvs-list-styled"><li>tonic has whatever frequency&nbsp;you first chose</li><li>supertonic has the frequency of tonic multiplied by 1⅛</li><li>mediant has the frequency of tonic multiplied by 1¼</li><li>dominant has the frequency of tonic multiplied by 1½</li><li>submediant has the frequency of tonic multiplied by 1⅔</li><li>tonic (octave above) has the frequency of orginal tonic&nbsp;multiplied by 2</li></ul>
+
+
+
+<p>The pentatonic scale appears in a variety of musical styles, which is fascinating. In the Chinese folk tune Mo Li Hua, for example.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jasmine_barrow.svg/2880px-Jasmine_barrow.svg.png" alt=""/></figure>
+
+
+
+<p>In the well-known Amazing Grace, for example.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="96" src="./../../../wp-content/uploads/2021/08/image-1024x96.png" alt="" class="wp-image-233" srcset="./../../../wp-content/uploads/2021/08/image-1024x96.png 1024w, ./../../../wp-content/uploads/2021/08/image-300x28.png 300w, ./../../../wp-content/uploads/2021/08/image-768x72.png 768w, ./../../../wp-content/uploads/2021/08/image-640x60.png 640w, ./../../../wp-content/uploads/2021/08/image-960x90.png 960w, ./../../../wp-content/uploads/2021/08/image.png 1048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Hold On We&#8217;re Going Home by Drake is another song that uses the pentatonic scale, which is quite prevalent in pop music.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="79" src="./../../../wp-content/uploads/2021/08/untitled-2-1-1024x79.png" alt="" class="wp-image-232" srcset="./../../../wp-content/uploads/2021/08/untitled-2-1-1024x79.png 1024w, ./../../../wp-content/uploads/2021/08/untitled-2-1-300x23.png 300w, ./../../../wp-content/uploads/2021/08/untitled-2-1-768x59.png 768w, ./../../../wp-content/uploads/2021/08/untitled-2-1-1536x119.png 1536w, ./../../../wp-content/uploads/2021/08/untitled-2-1-2048x159.png 2048w, ./../../../wp-content/uploads/2021/08/untitled-2-1-640x50.png 640w, ./../../../wp-content/uploads/2021/08/untitled-2-1-960x74.png 960w, ./../../../wp-content/uploads/2021/08/untitled-2-1.png 2066w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>It is also employed by classical composers. Debussy&#8217;s La Fille Aux Cheveux De Lin contains another melody based on the pentatonic scale (except for an F).</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.teoria.com/res/images/articles/debussy-fille-aux-cheveux-des-lin/tema.gif" alt=""/></figure>
+
+
+
+<p>It makes me wonder whether maybe the pentatonic scale is the so-coveted universal language. A common language shared by people from various places, cultures, and eras. Even if two persons from completely different cultures and musical backgrounds are brought together, they may agree that these five notes sound good. </p>
+
+
+
+<p>This Bob McFerrin story exemplifies it perfectly.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Bobby McFerrin Demonstrates the Power of the Pentatonic Scale" width="640" height="360" src="https://www.youtube.com/embed/ne6tB2KiZuk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>World Science Festival, 2009. <em>Bobby McFerrin Demonstrates the Power of the Pentatonic Scale</em>.  Available at: &lt;https://www.youtube.com/watch?v=ne6tB2KiZuk> [Accessed 18 August 2021].</figcaption></figure>
+
+
+
+<p>Although I still believe the pentatonic scale is a simple scale, I now recognize its significance in music and the vast possibilities it offers. I&#8217;m going to use them in the pentatonic scale melody project I&#8217;m working on.</p>
+
+
+
+<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1629345034820 is-style-cnvs-block-section-heading-6 halignleft" >
+	<span class="cnvs-section-title">
+		<span>References</span>
+	</span>
+</h2>
+
+
+
+<p>Powell, J., 2010.&nbsp;<em>How music works</em>. New York, NY: Little, Brown.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Reflection on Assignment 1</title>
 		<link>./../../../reflection-on-assignment-1/index.html</link>
 		
@@ -1008,340 +1186,6 @@
 
 
 <p>Plisetskaya, M., 2001.&nbsp;<em>I, maya plisetskaya</em>. [Place of publication not identified]: Yale Univ Press.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Project 1: Percussion Solos</title>
-		<link>./../../../project-1-percussion-solos/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Thu, 01 Jul 2021 07:41:51 +0000</pubDate>
-				<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Coursework]]></category>
-		<category><![CDATA[Part 1 Exploring rhythm]]></category>
-		<guid isPermaLink="false">https://pedrovintem.000webhostapp.com/?p=71</guid>
-
-					<description><![CDATA[Composing exclusively for percussion is something new for me. In fact, composing in notation is also a first&#8230;]]></description>
-										<content:encoded><![CDATA[
-<h2 id="i-have-never-composed-for-percussion-before" class="cnvs-block-section-heading cnvs-block-section-heading-1624948072250 is-style-cnvs-block-section-heading-3 halignleft" >
-	<span class="cnvs-section-title">
-		<span>I have never composed for percussion before</span>
-	</span>
-</h2>
-
-
-
-<p>Composing exclusively for percussion is something new for me. In fact, composing in notation is also a first for me. Usually, I just sit at the piano and compose. I believe that creating in this way took me longer, but that time allowed me to go deeper into the instruments and better understand what I could do with them.</p>
-
-
-
-<p>The lack of a standard for notating percussion instruments was the first hurdle I faced (Black and Gerou, 2005). As a result, to have a consistent notation, I used the Essential Dictionary of Orchestration. Also, because some percussion instruments have little or no natural resonance, I chose to change the note-length in order to have fewer rests, which keeps the piece from becoming cluttered and difficult to read (Solomon, 2002). </p>
-
-
-
-<p>The&nbsp;goal&nbsp;for&nbsp;this&nbsp;project&nbsp;was&nbsp;to&nbsp;compose&nbsp;four&nbsp;short&nbsp;pieces&nbsp;for&nbsp;untuned&nbsp;instruments&nbsp;of&nbsp;my&nbsp;choice. I chose the Triangle, the Snare Drum, the Taiko and the Tambourine.</p>
-
-
-
-<h2 id="the-triangle" class="has-huge-font-size">The Triangle</h2>
-
-
-
-<p>Because this is my first time composing for percussion, I chose to work with the triangle. Eric Hopes wrote it best when he said: &#8220;The truth is that anyone can play the triangle. It is one of the most basic musical instruments.&#8221; (How to Be a Professional Triangle Player | Musicians of the Utah Symphony, n.d.). To test it out, I started writing in a simple time signature, and it sounded good. A section of this work was influenced by Antonín Dvořák&#8217;s Symphony No. 9 in E minor (3rd movement), of which I discovered a performance of the triangle on Youtube.</p>
-
-
-
-<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1624949067525 cnvs-block-collapsibles-2" >
-	
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1624949067564" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="bsp-orchestral-sessions-triangle-dvorak-symphony-9-mvt-iii" class="cnvs-block-collapsible-heading">
-			<a href="#"><em>BSP Orchestral Sessions: Triangle / Dvorak Symphony #9 Mvt. III</em>.</a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="BSP Orchestral Sessions: Triangle / Dvorak Symphony #9 Mvt. III" width="640" height="360" src="https://www.youtube.com/embed/RrvTZWxk4vs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>Black Swamp Percussion, 2021.&nbsp;<em>BSP Orchestral Sessions: Triangle / Dvorak Symphony #9 Mvt. III</em>.  Available at: &lt;https://www.youtube.com/watch?v=RrvTZWxk4vs&gt; [Accessed 29 June 2021].</figcaption></figure>
-
-	</div>
-</div>
-
-
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1624949067573" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="" class="cnvs-block-collapsible-heading">
-			<a href="#"></a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-			</div>
-</div>
-
-</div>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://pedrovintem.000webhostapp.com/wp-content/uploads/2021/06/Project-1-Percussion-solos-Triangle-1-1024x403.png" alt="" class="wp-image-94"/></figure>
-
-
-
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1cCwI1KtqD4xXz9_LMgGHwhcKvb8jKM-e"></audio></figure>
-
-
-
-<h2 id="the-snare-drum" class="has-huge-font-size">The Snare Drum</h2>
-
-
-
-<p>For me, the snare drum was an obvious option because it is the percussion instrument with which I am most familiar. Chop Suey! by System Of A Down began playing on my Spotify while I was composing this piece. I interpreted it as both a divine sign and a challenge. Could this song&#8217;s verse serve as inspiration for a snare solo? Yes, I believe so.</p>
-
-
-
-<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1624949278903 cnvs-block-collapsibles-2" >
-	
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1624949278939" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="system-of-a-down-chop-suey" class="cnvs-block-collapsible-heading">
-			<a href="#">System Of A Down &#8211; Chop Suey!</a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Spotify Embed: Chop Suey!" width="100%" height="380" allowtransparency="true" frameborder="0" allow="encrypted-media" src="https://open.spotify.com/embed/track/2DlHlPMa4M17kufBvI2lEN?si=f0c52e1e3e8140b3"></iframe>
-</div><figcaption>System Of A Down, 2001.&nbsp;<em>Chop Suey!</em>. [online] Available at: &lt;https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN?si=a09b43b598914518&gt; [Accessed 29 June 2021].</figcaption></figure>
-
-	</div>
-</div>
-
-
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1624949278943" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="-2" class="cnvs-block-collapsible-heading">
-			<a href="#"></a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-			</div>
-</div>
-
-</div>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://pedrovintem.000webhostapp.com/wp-content/uploads/2021/06/Project-1-Percussion-solos-Snare-1024x550.png" alt="" class="wp-image-92"/></figure>
-
-
-
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=15EaJuvfsjjbVj6AI3XPSBiTD7AjHM_Pr"></audio></figure>
-
-
-
-<h2 id="the-taiko" class="has-huge-font-size">The Taiko</h2>
-
-
-
-<p>Because I knew nothing about this instrument, I did some research and discovered the principle of &#8220;breath rhythm,&#8221; in which a piece&#8217;s metrical markers are sensed and played as the rhythm of breath (Powell, 2012). This inspired me to set the tempo to 64 because an adult breath rhythm is around 16 breaths per minute, multiplied by four equals 64. This piece, I believe, can translate your breathing before doing something exciting, such as fighting in a war or kissing someone for the first time. Your breathing quickens, you hold your breath for a brief moment, and then it&#8217;s all adrenaline.</p>
-
-
-
-<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1624949578282 cnvs-block-collapsibles-2" >
-	
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1624949578325" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="this-is-japanese-taiko-drum-o-taiko-by-master-eitetsu-hayashi" class="cnvs-block-collapsible-heading">
-			<a href="#"><em>This is Japanese Taiko Drum! (O-taiko by master Eitetsu Hayashi)</em></a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="This is Japanese Taiko Drum! (O-taiko by master Eitetsu Hayashi)" width="640" height="480" src="https://www.youtube.com/embed/ub195aGvfXQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>tmme1234, 2016.&nbsp;<em>This is Japanese Taiko Drum! (O-taiko by master Eitetsu Hayashi)</em>.  Available at: &lt;https://www.youtube.com/watch?v=ub195aGvfXQ&gt; [Accessed 29 June 2021].</figcaption></figure>
-
-	</div>
-</div>
-
-
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1624949578329" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="-3" class="cnvs-block-collapsible-heading">
-			<a href="#"></a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-			</div>
-</div>
-
-</div>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://pedrovintem.000webhostapp.com/wp-content/uploads/2021/06/Project-1-Percussion-solos-Taiko-2-1024x700.png" alt="" class="wp-image-87"/></figure>
-
-
-
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1YdElwJ_E-cqqi441BUOpSFdbgLULA20s"></audio></figure>
-
-
-
-<h2 id="the-tambourine" class="has-huge-font-size">The Tambourine</h2>
-
-
-
-<p>For me, this was not an obvious choice. I&#8217;d never given the tambourine much thought before, but when I was looking for instruments, I came across Edoardo Giachino&#8217;s video of him playing it and was inspired to use it in this project.</p>
-
-
-
-<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1625122579406 cnvs-block-collapsibles-2" >
-	
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1625122579457" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="edoardo-giachino-mr-tambourine-man-tamburello-basco" class="cnvs-block-collapsible-heading">
-			<a href="#">Edoardo Giachino Mr Tambourine Man Tamburello Basco</a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Edoardo Giachino Mr Tambourine Man Tamburello Basco" width="640" height="360" src="https://www.youtube.com/embed/xbhk5yYgUxI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>Giachino, E., 2015.&nbsp;<em>Edoardo Giachino Mr Tambourine Man Tamburello Basco</em>.  Available at: &lt;https://www.youtube.com/watch?v=xbhk5yYgUxI&gt; [Accessed 1 July 2021].</figcaption></figure>
-
-	</div>
-</div>
-
-
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1625122579463" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="-4" class="cnvs-block-collapsible-heading">
-			<a href="#"></a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-			</div>
-</div>
-
-</div>
-
-
-
-<p>What I like about the tambourine is that it reminds me of Spanish/Latin sounds that I&#8217;m familiar with. Particularly in Bizet&#8217;s Carmen, which I may review later in my listening log. I attempted to create some fanfare in this piece. Fanfares are typically performed for brass or brass and percussion instruments (Florek, 2015), so I figured why not a tambourine fanfare?</p>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://pedrovintem.000webhostapp.com/wp-content/uploads/2021/07/Project-1-Percussion-solos-Tambourine-1024x403.png" alt="" class="wp-image-96"/></figure>
-
-
-
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1eMvaqAlEY7mRBmlpm7FphDAoQLrmT2wK"></audio></figure>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1624950766200 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Black, D. and Gerou, T., 2005.&nbsp;<em>Essential Dictionary of Orchestration</em>. 3rd ed. Los Angeles, CA: Alfred Music, p.183.</p>
-
-
-
-<p>Solomon, S., 2002.&nbsp;<em>How to write for percussion</em>. 1st ed. New York: SZSolomon, p.42.</p>
-
-
-
-<p>Musiciansutahsymphony.com. n.d.&nbsp;<em>How to Be a Professional Triangle Player | Musicians of the Utah Symphony</em>. [online] Available at: &lt;https://musiciansutahsymphony.com/how-to-become-a-professional-triangle-player/&gt; [Accessed 29 June 2021].</p>
-
-
-
-<p>Spaces.oca.ac.uk. 2020.&nbsp;<em>My Listening and Learning Log for Music 1: Composing Music</em>. [online] Available at: &lt;https://spaces.oca.ac.uk/anthonycomposingmusic/category/coursework/part-1/project-1/&gt; [Accessed 29 June 2021].</p>
-
-
-
-<p>Powell, K., 2012. Composing Sound Identity in Taiko Drumming.&nbsp;<em>Anthropology &amp; Education Quarterly</em>, [online] 43(1), pp.101&#8211;119. Available at: &lt;http://www.jstor.org/stable/41410159&gt; [Accessed 29 June 2021].</p>
-
-
-
-<p>FLOREK, P.J., 2015.&nbsp;<em>Modern forms of an ancient art: a selection of contemporary fanfares for multiple trumpets demonstrating evolutionary processes in the fanfare form</em>, University of North Texas, p.14.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The Sound Of Revolution</title>
-		<link>./../../../the-sound-of-revolution/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Thu, 17 Jun 2021 05:23:59 +0000</pubDate>
-				<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Part 1 Exploring rhythm]]></category>
-		<guid isPermaLink="false">https://pedrovintem.000webhostapp.com/?p=15</guid>
-
-					<description><![CDATA[I remember going to a football stadium for the first time when I was six years old to&#8230;]]></description>
-										<content:encoded><![CDATA[
-<h2 id="thinking-about-percussion-led-me-to-a-revolution" class="cnvs-block-section-heading cnvs-block-section-heading-1623902327817 is-style-cnvs-block-section-heading-2 halignleft" >
-	<span class="cnvs-section-title">
-		<span>Thinking about percussion led me to a revolution.</span>
-	</span>
-</h2>
-
-
-
-<p>I remember going to a football stadium for the first time when I was six years old to see a game at the Sport Lisboa and Benfica stadium. A large concrete stadium with a capacity of roughly 120.000 spectators. The score was 0-0 at halftime, and the fans were growing concerned. Then something happened that I had never experienced before. The concrete benches began to shake, a rumbling sound grew louder, and it felt like an earthquake. It was the supporters&#8217; feet that stomped on the ground. Thousands of people making a rhythmic sound altogether. It was frightening, powerful and incredible. It was my first experience with live percussion. Benfica won by 3-0.</p>
-
-
-
-<p>Beginning my music degree with a study of rhythm and percussion prompted me to look into the history of percussion instruments and their role in music. I ended up viewing Steven Schick&#8217;s presentation. </p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="On the Bridge: The Beginnings of Contemporary Percussion Music with Steven Schick -- To Be Musical" width="640" height="360" src="https://www.youtube.com/embed/-lkAOZC1w3g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>University of California Television (UCTV), 2013.&nbsp;<em>On the Bridge: The Beginnings of Contemporary Percussion Music with Steven Schick &#8212; To Be Musical</em>.  Available at: &lt;http://University/ of California Television (UCTV)&gt; [Accessed 17 June 2021].</figcaption></figure>
-
-
-
-<p>The presentation was entertaining and light while yet being instructive. One thing he said remained with me out of all the things he mentioned. His definition of percussion instruments.</p>
-
-
-
-<blockquote class="wp-block-quote is-style-default"><p>&#8220;[Percussion instruments] are simple objects that make sound by striking them.&#8221;</p><cite>University of California Television (UCTV), 2013.&nbsp;<em>On the Bridge: The Beginnings of Contemporary Percussion Music with Steven Schick &#8212; To Be Musical</em>.  Available at: &lt;http://University/ of California Television (UCTV)&gt; [Accessed 17 June 2021].</cite></blockquote>
-
-
-
-<p>It&#8217;s really that simple. It&#8217;s so simple that I believe anyone, regardless of musical knowledge, can play a percussion instrument. And I believe that is why percussion is at the very beginning of this course. It&#8217;s simple, doable and fun. And yet it&#8217;s so powerful.</p>
-
-
-
-<p>Steven Schick also mentions a quote by John Cage.</p>
-
-
-
-<blockquote class="wp-block-quote"><p>&#8220;Percussion music is revolution.&#8221;</p><cite>Cage, J., 1973.&nbsp;<em>Silence</em>. Middletown: Wesleyan University Press, p.87.</cite></blockquote>
-
-
-
-<p>John Cage, I believe, meant that percussion allowed musicians to break away from the constraints imposed by classical composers who used the same sounds. Percussion provided an opportunity for exploration. Anything that generated a sound when struck may be included in the music. And the terms &#8220;percussion&#8221; and &#8220;revolution&#8221; immediately brought José Afonso&#8217;s Grândola Vila Morena to mind. Since it was utilized as the start of the Portuguese revolution, this is one of the most emblematic Portuguese songs. Only voice and the sound of marching feet on gravel can be heard during the entire song. And it caused a revolution, politically and musically speaking. For me, that was because of percussion. Isn&#8217;t it percussion if you hit the gravel with your feet? It makes sound by striking them, right?</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Spotify Embed: Grândola vila morena" width="100%" height="380" allowtransparency="true" frameborder="0" allow="encrypted-media" src="https://open.spotify.com/embed/track/4YTZhbzc5dV87hhup8HVuo?si=9ece3bec8c6d4058"></iframe>
-</div></figure>
 ]]></content:encoded>
 					
 		
