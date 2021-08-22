@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Fri, 20 Aug 2021 09:49:47 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Aug 2021 08:28:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,58 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
+		<title>Listening to Mo Li Hua</title>
+		<link>./../listening-to-mo-li-hua/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Sat, 21 Aug 2021 07:21:00 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Exploring melody and scales]]></category>
+		<guid isPermaLink="false">./../index.html?p=241</guid>
+
+					<description><![CDATA[While researching the pentatonic scale, I stumbled upon Mo Li Hua, a Chinese folk song written in C.&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>While researching the pentatonic scale, I stumbled upon Mo Li Hua, a Chinese folk song written in C. This song from the eighteenth century piqued my curiosity, so I decided to investigate it more.</p>
+
+
+
+<p>The lyrics are as follows, in their literal translation:</p>
+
+
+
+<p>What a beautiful jasmine flower<br>What a beautiful jasmine flower<br>Sweet-smelling, beautiful, stems full of buds<br>Fragrant and white, everyone praises<br>Let me pluck you down<br>Give to someone else<br>Jasmine flower, oh jasmine flower</p>
+
+
+
+<figure class="wp-block-image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jasmine_barrow.svg/2880px-Jasmine_barrow.svg.png" alt=""/></figure>
+
+
+
+<p>When I first read this score, the slurs between two notes, going one tone up or down, gave it a very pleasant Chinese characteristic sound. It&#8217;s almost like a vocal slide that makes you feel either eager or peaceful depending on which direction you&#8217;re facing.</p>
+
+
+
+<p>The song begins with a simple phrase that progresses from E to C, the song&#8217;s highest note, and then down to G. The song proceeds to a calmer section after the repetition of the first phrase, with mostly crochets and note repetition. It eventually descends to C, one octave lower than the highest C.</p>
+
+
+
+<p>The last section is when the slur is used more frequently, most likely because the melody shifts from praising the jasmine blossom to taking it up and offering it to someone else. After ascending to the highest C, the song begins to descend to the lowest note, G. I believe the impression of falling down is achieved using this slurs going from E to lower G. It was strikingly beautiful to me.</p>
+
+
+
+<p>I then went to Youtube to look for more versions of this song, and I came across this one by the Choir of St John&#8217;s College Cambridge, which I thought was the most fascinating arrangement.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="茉莉花 (Mo li hua, Jasmine Flower)" width="640" height="360" src="https://www.youtube.com/embed/6RytYfX5jdY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>The Choir of St John&#8217;s College Cambridge, 2018. <em>茉莉花 (Mo li hua, Jasmine Flower)</em>.  Available at: &lt;https://www.youtube.com/watch?v=6RytYfX5jdY> [Accessed 21 August 2021].</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Project 5 – Pentatonic Melody</title>
 		<link>./../project-5-pentatonic-melody/index.html</link>
 		
@@ -44,11 +96,15 @@
 
 
 
-<p>In my first exercise, I attempted to make things as simple as possible, concentrating mostly on the melody shape. It&#8217;s written in C, but I begin in E to add interest and to allow the melody to descend a little to lead the listener to the highest note in the melody.</p>
+<p>I attempted to make things as simple as possible in my first exercise, concentrating mostly on the melody shape. It&#8217;s written in C, but I begin in E to add interest and to allow the melody to descend a little to lead the listener to the highest note in the melody.</p>
 
 
 
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="288" src="./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1024x288.png" alt="" class="wp-image-248" srcset="./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1024x288.png 1024w, ./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-300x84.png 300w, ./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-768x216.png 768w, ./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1536x432.png 1536w, ./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-2048x576.png 2048w, ./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-640x180.png 640w, ./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-960x270.png 960w, ./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1.png 2171w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1.mp3"></audio></figure>
 
 
 
@@ -60,11 +116,15 @@
 
 
 
-<p>I opted to develop an exercise with the F# pentatonic because it can be played on the piano&#8217;s black keys. It began to sound Chinese to me, so I went with it. It ended up having a straight melody shape, starting low, rising, going down, going higher, falliing, going up a little and ending almost straight.</p>
+<p>I opted to develop an exercise with the F# pentatonic because it can be played on the piano&#8217;s black keys. It began to sound Chinese to me, so I went with it. It ended up having a straight melody shape, starting low, rising, going down, going higher, falling, going up a little and ending almost straight.</p>
 
 
 
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="440" src="./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1024x440.png" alt="" class="wp-image-246" srcset="./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1024x440.png 1024w, ./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-300x129.png 300w, ./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-768x330.png 768w, ./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1536x660.png 1536w, ./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-2048x880.png 2048w, ./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-640x275.png 640w, ./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-960x412.png 960w, ./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2.png 2172w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2.mp3"></audio></figure>
 
 
 
@@ -84,11 +144,18 @@
 
 
 
-<p>Finally, I believe that this effort helped me to better comprehend the pentatonic scale&#8217;s possibilities and to reinforce my knowledge of articulations from Taylor&#8217;s material.</p>
+<figure class="wp-block-audio"><audio controls src="./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3.mp3"></audio></figure>
+
+
+
+<p>Finally, I believe that this effort helped me better comprehend the pentatonic scale&#8217;s possibilities and reinforce my knowledge of articulations from Taylor&#8217;s material.</p>
 ]]></content:encoded>
 					
 		
-		
+		<enclosure url="./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1.mp3" length="447655" type="audio/mpeg" />
+<enclosure url="./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2.mp3" length="828520" type="audio/mpeg" />
+<enclosure url="./../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3.mp3" length="645141" type="audio/mpeg" />
+
 			</item>
 		<item>
 		<title>Thoughts on the Pentatonic Scale</title>
@@ -1125,95 +1192,6 @@
 
 
 <p>Solomon, S., 2002. How to write for percussion. 1st ed. New York: SZSolomon, p.42.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Researching Variable Metre</title>
-		<link>./../researching-variable-metre/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Sun, 11 Jul 2021 00:47:00 +0000</pubDate>
-				<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Part 1 Exploring rhythm]]></category>
-		<guid isPermaLink="false">https://pedrovintem.000webhostapp.com/?p=118</guid>
-
-					<description><![CDATA[It&#8217;s amusing that a quick Google search for [Variable Metre Boris Blacher] yields nearly exclusively results from OCA&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>It&#8217;s amusing that a quick Google search for [Variable Metre Boris Blacher] yields nearly exclusively results from OCA students&#8217; blogs. Are we the only ones who have written on Variable Metre?</p>
-
-
-
-<p>I&#8217;m not going to provide an entire biography of Boris Blacher here (an excellent summary can be found in Simon, 2003), but I did discover that he studied architecture before becoming a renowned composer. Probably that is why he developed the Variable Metre, which is made up of &#8220;patterns, certainly, but used as expressive building blocks&#8221; (Matthew-Walker 2003, p.24).</p>
-
-
-
-<p>But first, let&#8217;s look at the formal definition of Variable Metre from The Oxford Dictionary of Music:</p>
-
-
-
-<blockquote class="wp-block-quote">[a rhythmical process] whereby systematic changes of metre are planned according to mathematical relationships.</p><cite>(Kennedy, Kennedy and Rutherford-Johnson, 2013)</cite></blockquote>
-
-
-
-<p>I believe that it is simpler to say that Variable Metre is when a piece of music with a continual shift in time signature based on a numeric pattern. This pattern can have a mathematical relationship, but I don&#8217;t believe it is always true. It&#8217;s also easier to understand if you look at it:</p>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://drive.google.com/uc?export=download&amp;id=1fZQ6vsTcWMsSif1J3uHEMJGXZ2JLKa2I" alt=""/></figure>
-
-
-
-<p>Numbers below the tempo marker indicate the time signature, while dots indicate incremental changes to the next value.</p>
-
-
-
-<p>Although some sources claim he did not invent Variable Metre (Quinn, 2005), he was most likely the one who developed it most.</p>
-
-
-
-<p>I must admit that when I initially read the definition of Variable Metre, I was sceptical about whether or not I would enjoy hearing it. I agreed with critics who claimed that this method was more like eye-music than ear-music (Matthew-Walker 2003, p.24). My opinion changed when I heard his Piano Concerto No.2.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Boris Blacher - Piano Concerto No.2 Op.42" width="640" height="480" src="https://www.youtube.com/embed/00QddeqyE5U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>fyrexianoff, 2012.&nbsp;<em>Boris Blacher &#8211; Piano Concerto No.2 Op.42</em>. [image] Available at: &lt;https://www.youtube.com/watch?v=00QddeqyE5U&gt; [Accessed 11 July 2021].</figcaption></figure>
-
-
-
-<p>After hearing it multiple times and assessing which sections I loved the most and which parts I didn&#8217;t believe Variable Metre made a significant difference, I realized that this technique works best when the notes are&nbsp;repeated. In Konzert für Klavier und Orchester, No. 2: I. Allegro, this happens. You&#8217;re listening to the same thing over and over, but each time the time changes, a new puzzle piece is added. As if a block is being added to a building to make it more stunning. This enables the creation of anticipation and disruption. I believe these two qualities are&nbsp;appealing to the ear.</p>
-
-
-
-<p>In conclusion, I believe it was worthwhile to learn about Variable Metre, but I find it difficult to think of it as anything more than a creative exercise if it is not utilized with repetition.</p>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1626070536852 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Simon, J. (2003) &#8216;Chasing the blahs with Blacher. (On Music)&#8217;, <em>The New Leader</em>, 86(2), 34+, available: https://link.gale.com/apps/doc/A100544790/ITOF?u=ucca&amp;sid=summon&amp;xid=a718ba22 [accessed 09 Jul 2021].</p>
-
-
-
-<p>Kennedy, M., Kennedy, J. and Rutherford-Johnson, T., 2013.&nbsp;<em>The Oxford dictionary of music</em>. 6th ed. Oxford: Oxford Univ. Press.</p>
-
-
-
-<p>Matthew-Walker, R. 2003, Boris Blacher, Musical Opinion Limited, 126, pp. 24.</p>
-
-
-
-<p>Quinn, I., 2005. Blacher: Paganini Variations; Ornament; Pianissimo Study; Fantasy: The Record Connoisseur&#8217;s Magazine. American Record Guide, 68(5), pp. 79.</p>
 ]]></content:encoded>
 					
 		

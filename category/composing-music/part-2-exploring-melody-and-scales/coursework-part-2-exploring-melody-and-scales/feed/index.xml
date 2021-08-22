@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Fri, 20 Aug 2021 06:35:45 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Aug 2021 08:28:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -44,11 +44,15 @@
 
 
 
-<p>In my first exercise, I attempted to make things as simple as possible, concentrating mostly on the melody shape. It&#8217;s written in C, but I begin in E to add interest and to allow the melody to descend a little to lead the listener to the highest note in the melody.</p>
+<p>I attempted to make things as simple as possible in my first exercise, concentrating mostly on the melody shape. It&#8217;s written in C, but I begin in E to add interest and to allow the melody to descend a little to lead the listener to the highest note in the melody.</p>
 
 
 
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="288" src="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1024x288.png" alt="" class="wp-image-248" srcset="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1024x288.png 1024w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-300x84.png 300w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-768x216.png 768w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1536x432.png 1536w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-2048x576.png 2048w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-640x180.png 640w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-960x270.png 960w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1.png 2171w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1.mp3"></audio></figure>
 
 
 
@@ -60,11 +64,15 @@
 
 
 
-<p>I opted to develop an exercise with the F# pentatonic because it can be played on the piano&#8217;s black keys. It began to sound Chinese to me, so I went with it. It ended up having a straight melody shape, starting low, rising, going down, going higher, falliing, going up a little and ending almost straight.</p>
+<p>I opted to develop an exercise with the F# pentatonic because it can be played on the piano&#8217;s black keys. It began to sound Chinese to me, so I went with it. It ended up having a straight melody shape, starting low, rising, going down, going higher, falling, going up a little and ending almost straight.</p>
 
 
 
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="440" src="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1024x440.png" alt="" class="wp-image-246" srcset="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1024x440.png 1024w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-300x129.png 300w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-768x330.png 768w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1536x660.png 1536w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-2048x880.png 2048w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-640x275.png 640w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-960x412.png 960w, ./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2.png 2172w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2.mp3"></audio></figure>
 
 
 
@@ -84,11 +92,18 @@
 
 
 
-<p>Finally, I believe that this effort helped me to better comprehend the pentatonic scale&#8217;s possibilities and to reinforce my knowledge of articulations from Taylor&#8217;s material.</p>
+<figure class="wp-block-audio"><audio controls src="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3.mp3"></audio></figure>
+
+
+
+<p>Finally, I believe that this effort helped me better comprehend the pentatonic scale&#8217;s possibilities and reinforce my knowledge of articulations from Taylor&#8217;s material.</p>
 ]]></content:encoded>
 					
 		
-		
+		<enclosure url="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1.mp3" length="447655" type="audio/mpeg" />
+<enclosure url="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2.mp3" length="828520" type="audio/mpeg" />
+<enclosure url="./../../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3.mp3" length="645141" type="audio/mpeg" />
+
 			</item>
 	</channel>
 </rss>

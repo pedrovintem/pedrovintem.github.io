@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Fri, 20 Aug 2021 09:49:47 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Aug 2021 08:28:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,58 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
+		<title>Listening to Mo Li Hua</title>
+		<link>./../../../listening-to-mo-li-hua/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Sat, 21 Aug 2021 07:21:00 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Exploring melody and scales]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=241</guid>
+
+					<description><![CDATA[While researching the pentatonic scale, I stumbled upon Mo Li Hua, a Chinese folk song written in C.&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>While researching the pentatonic scale, I stumbled upon Mo Li Hua, a Chinese folk song written in C. This song from the eighteenth century piqued my curiosity, so I decided to investigate it more.</p>
+
+
+
+<p>The lyrics are as follows, in their literal translation:</p>
+
+
+
+<p>What a beautiful jasmine flower<br>What a beautiful jasmine flower<br>Sweet-smelling, beautiful, stems full of buds<br>Fragrant and white, everyone praises<br>Let me pluck you down<br>Give to someone else<br>Jasmine flower, oh jasmine flower</p>
+
+
+
+<figure class="wp-block-image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jasmine_barrow.svg/2880px-Jasmine_barrow.svg.png" alt=""/></figure>
+
+
+
+<p>When I first read this score, the slurs between two notes, going one tone up or down, gave it a very pleasant Chinese characteristic sound. It&#8217;s almost like a vocal slide that makes you feel either eager or peaceful depending on which direction you&#8217;re facing.</p>
+
+
+
+<p>The song begins with a simple phrase that progresses from E to C, the song&#8217;s highest note, and then down to G. The song proceeds to a calmer section after the repetition of the first phrase, with mostly crochets and note repetition. It eventually descends to C, one octave lower than the highest C.</p>
+
+
+
+<p>The last section is when the slur is used more frequently, most likely because the melody shifts from praising the jasmine blossom to taking it up and offering it to someone else. After ascending to the highest C, the song begins to descend to the lowest note, G. I believe the impression of falling down is achieved using this slurs going from E to lower G. It was strikingly beautiful to me.</p>
+
+
+
+<p>I then went to Youtube to look for more versions of this song, and I came across this one by the Choir of St John&#8217;s College Cambridge, which I thought was the most fascinating arrangement.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="茉莉花 (Mo li hua, Jasmine Flower)" width="640" height="360" src="https://www.youtube.com/embed/6RytYfX5jdY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>The Choir of St John&#8217;s College Cambridge, 2018. <em>茉莉花 (Mo li hua, Jasmine Flower)</em>.  Available at: &lt;https://www.youtube.com/watch?v=6RytYfX5jdY> [Accessed 21 August 2021].</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Project 5 – Pentatonic Melody</title>
 		<link>./../../../project-5-pentatonic-melody/index.html</link>
 		
@@ -44,11 +96,15 @@
 
 
 
-<p>In my first exercise, I attempted to make things as simple as possible, concentrating mostly on the melody shape. It&#8217;s written in C, but I begin in E to add interest and to allow the melody to descend a little to lead the listener to the highest note in the melody.</p>
+<p>I attempted to make things as simple as possible in my first exercise, concentrating mostly on the melody shape. It&#8217;s written in C, but I begin in E to add interest and to allow the melody to descend a little to lead the listener to the highest note in the melody.</p>
 
 
 
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="288" src="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1024x288.png" alt="" class="wp-image-248" srcset="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1024x288.png 1024w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-300x84.png 300w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-768x216.png 768w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1536x432.png 1536w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-2048x576.png 2048w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-640x180.png 640w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-960x270.png 960w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1.png 2171w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1.mp3"></audio></figure>
 
 
 
@@ -60,11 +116,15 @@
 
 
 
-<p>I opted to develop an exercise with the F# pentatonic because it can be played on the piano&#8217;s black keys. It began to sound Chinese to me, so I went with it. It ended up having a straight melody shape, starting low, rising, going down, going higher, falliing, going up a little and ending almost straight.</p>
+<p>I opted to develop an exercise with the F# pentatonic because it can be played on the piano&#8217;s black keys. It began to sound Chinese to me, so I went with it. It ended up having a straight melody shape, starting low, rising, going down, going higher, falling, going up a little and ending almost straight.</p>
 
 
 
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="440" src="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1024x440.png" alt="" class="wp-image-246" srcset="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1024x440.png 1024w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-300x129.png 300w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-768x330.png 768w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1536x660.png 1536w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-2048x880.png 2048w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-640x275.png 640w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-960x412.png 960w, ./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2.png 2172w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2.mp3"></audio></figure>
 
 
 
@@ -84,11 +144,18 @@
 
 
 
-<p>Finally, I believe that this effort helped me to better comprehend the pentatonic scale&#8217;s possibilities and to reinforce my knowledge of articulations from Taylor&#8217;s material.</p>
+<figure class="wp-block-audio"><audio controls src="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3.mp3"></audio></figure>
+
+
+
+<p>Finally, I believe that this effort helped me better comprehend the pentatonic scale&#8217;s possibilities and reinforce my knowledge of articulations from Taylor&#8217;s material.</p>
 ]]></content:encoded>
 					
 		
-		
+		<enclosure url="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1.mp3" length="447655" type="audio/mpeg" />
+<enclosure url="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2.mp3" length="828520" type="audio/mpeg" />
+<enclosure url="./../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3.mp3" length="645141" type="audio/mpeg" />
+
 			</item>
 		<item>
 		<title>Thoughts on the Pentatonic Scale</title>
@@ -1111,81 +1178,6 @@
 
 
 <p>Quinn, I., 2005. Blacher: Paganini Variations; Ornament; Pianissimo Study; Fantasy: The Record Connoisseur&#8217;s Magazine. American Record Guide, 68(5), pp. 79.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Listening to Rodion Shchedrin &#8211; Carmen Suite</title>
-		<link>./../../../listening-to-rodion-shchedrin-carmen-suite/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Mon, 05 Jul 2021 04:45:39 +0000</pubDate>
-				<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Part 1 Exploring rhythm]]></category>
-		<guid isPermaLink="false">https://pedrovintem.000webhostapp.com/?p=105</guid>
-
-					<description><![CDATA[When I was researching the tambourine, I came across Rodion Shchedrin&#8217;s Carmen Suite for string orchestra and percussion&#8230;]]></description>
-										<content:encoded><![CDATA[
-<h2 id="it-doesnt-hurt-trying-to-do-something-new" class="cnvs-block-section-heading cnvs-block-section-heading-1625410855934 is-style-cnvs-block-section-heading-3 halignleft" >
-	<span class="cnvs-section-title">
-		<span>It doesn&#8217;t hurt trying to do something new.</span>
-	</span>
-</h2>
-
-
-
-<p>When I was researching the tambourine, I came across Rodion Shchedrin&#8217;s Carmen Suite for string orchestra and percussion (1967). </p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Bizet / Shchedrin : Carmen Suite" width="640" height="360" src="https://www.youtube.com/embed/QysD8zCfGTs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>France Musique, 2020.&nbsp;<em>Bizet / Shchedrin: Carmen Suite</em>.  Available at: &lt;https://www.youtube.com/watch?v=QysD8zCfGTs&gt; [Accessed 4 July 2021].</figcaption></figure>
-
-
-
-<p>A little backstory. When Shchedrin&#8217;s wife, Maya Plisetskaya, asked Shostakovich to write a new Carmen ballet, he &#8220;gently but firmly refused.&#8221; &#8220;I&#8217;m afraid of Bizet.&#8221; After that, she asked her husband, who agreed. Shostakovich&#8217;s response demonstrates Shchedrin&#8217;s bravery. After its debut performance, the Carmen Suite was deemed &#8220;disrespectful&#8221; to Bizet&#8217;s opera and was banned by the Soviet leadership. (Plisetskaya, 2001)</p>
-
-
-
-<p>I feel that percussion, such as tubular bells, cymbals and castanets, are used throughout Shchedrin&#8217;s score to emphasize rhythms. Although he pays homage to the original material, he frequently pushes the music in unexpected ways, heightening the atmosphere and drama.</p>
-
-
-
-<p>On&nbsp;the&nbsp;other&nbsp;side,&nbsp;I&nbsp;find&nbsp;the&nbsp;presence&nbsp;of&nbsp;percussion&nbsp;to&nbsp;be&nbsp;rather&nbsp;comic&nbsp;at&nbsp;times, such&nbsp;as&nbsp;when&nbsp;the&nbsp;timpani&nbsp;glissando&nbsp;is&nbsp;used&nbsp;or&nbsp;when&nbsp;the&nbsp;strings&nbsp;provide&nbsp;distinctive&nbsp;effects. </p>
-
-
-
-<p>Overall, I think the experiment of using percussion to replace other instruments was a great success, and the end result was quite entertaining. If it&#8217;s superior to the original? I don&#8217;t believe it is necessary to respond.</p>
-
-
-
-<p>It reminded me of Johnny Cash&#8217;s Hurt version. It was a risky move for producer Rick Rubin to persuade Johnny Cash to record a version of Nine Inch Nail&#8217;s Hurt. Cash refused to sing the song, which was widely regarded as one of NIN&#8217;s best. It wasn&#8217;t until he read the lyrics that Cash realized he could make his own version of the song. Finally, the singer and producer managed to create a masterpiece from a masterpiece. It wasn&#8217;t better or worse than the original; rather, it was unique. Instead of being a song about drugs and self-destruction, they transformed it into an acoustic song about the epilogue of an eventful life.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Johnny Cash - Hurt (Official Music Video)" width="640" height="360" src="https://www.youtube.com/embed/8AHCfZTRGiI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>Cash, J., 2021.&nbsp;<em>Johnny Cash &#8211; Hurt (Official Music Video)</em>.  Available at: &lt;https://www.youtube.com/watch?v=8AHCfZTRGiI&gt; [Accessed 4 July 2021].</figcaption></figure>
-
-
-
-<p>Like NIN/Cash&#8217;s Hurt, Bizet/Shchedrin&#8217;s Carmen can exist in the music world indefinitely as two different but interconnected works that don&#8217;t have to be judged against each other.</p>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1625412893497 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Plisetskaya, M., 2001.&nbsp;<em>I, maya plisetskaya</em>. [Place of publication not identified]: Yale Univ Press.</p>
 ]]></content:encoded>
 					
 		
