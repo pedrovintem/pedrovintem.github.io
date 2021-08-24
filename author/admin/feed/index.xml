@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Sun, 22 Aug 2021 08:28:35 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Aug 2021 04:06:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,71 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
+		<title>Listening to Claude Debussy &#8211; La Fille aux Cheveux de Lin, Prélude No.8</title>
+		<link>./../../../listening-to-claude-debussy-la-fille-aux-cheveux-de-lin-prelude-no-8/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Tue, 24 Aug 2021 04:06:05 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Exploring melody and scales]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=239</guid>
+
+					<description><![CDATA[One of the composers with whom I most identify is Claude Debussy. So when I stumbled across this&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>One of the composers with whom I most identify is Claude Debussy. So when I stumbled across this piece when researching pentatonic scale melodies, I knew I&#8217;d like it. I was not mistaken.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Michelangeli - Debussy - La fille aux cheveux de lin" width="640" height="480" src="https://www.youtube.com/embed/MswHKA4dako?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>caprottimusic, 2006. <em>Michelangeli &#8211; Debussy &#8211; La fille aux cheveux de lin</em>.  Available at: &lt;https://www.youtube.com/watch?v=MswHKA4dako> [Accessed 24 August 2021].</figcaption></figure>
+
+
+
+<p>My primary focus during this analysis will be on melody since that&#8217;s the component of the unit I&#8217;m studying.</p>
+
+
+
+<p>This work, written by Claude Debussy between 1909 and 1910 for piano, was later transferred to a variety of other instruments.</p>
+
+
+
+<p>The theme is introduced with a simple but lovely melodic line consisting entirely of Gb major pentatonic notes. I find this melody to be interesting because it ascends and descends in the pentatonic scale &#8212; in theory, that may sound boring, but it&#8217;s rather pleasing to listen to in this case.</p>
+
+
+
+<p>The theme is then repeated, but instead of going up and down like the first time, we start descending the Gb scale in bar 10. This indicates that the music is going forward and not stuck in the same repetitive pattern, which should be uninteresting.</p>
+
+
+
+<p>The work maintains its wave-like melody, but at bar 15, during one of the dramatic ascends, we switch to the Cb major pentatonic scale, reaching the highest note in the piece thus far. The melody then gradually descends in the Gb major scale, with the one quaver &#8211; two semiquavers that are so characteristic of this work, bringing familiarity and tranquillity to the music.</p>
+
+
+
+<p>In bar 19, the score states &#8220;Un Peu Animé&#8221;, which I believe is the start of the song&#8217;s climax, where we ascend into three octaves in the scale of Eb Major and reach the highest note so far in the melody.</p>
+
+
+
+<p>After the exhilaration of the finale, the primary theme returns, offering familiarity and security once more. However, it&#8217;s worth noting that this theme is a chord-based version of the familiar motif.</p>
+
+
+
+<p>It all comes to a halt at bar 28 when the motif returns, but this time an octave higher. This gives the music a lot of tranquillity and a little dreaminess, in my opinion. It&#8217;s as if we&#8217;re reminiscing about how it all began. It&#8217;s also a little nostalgic.</p>
+
+
+
+<p>In bar 33, we repeat bar 14, which brings us to the end of the song. The PP and minims make sure we reach a safe and stable conclusion.</p>
+
+
+
+<p>Finally, I was drawn to this music since it is a singable melody that employs simple and common scales. This is the kind of melody I enjoy writing, and I&#8217;m hoping to get some inspiration from Debussy in Assignment 2.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Listening to Mo Li Hua</title>
 		<link>./../../../listening-to-mo-li-hua/index.html</link>
 		
@@ -957,241 +1022,6 @@
 
 
 <p>Hough, S., 2013. On the art of variation: why Paganini&#8217;s theme is so popular. [online] the Guardian. Available at: https://www.theguardian.com/music/2013/jul/05/how-paganini-became-pop [Accessed 9 July 2021].</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Project 2 &#8211; Percussion Duets</title>
-		<link>./../../../project-2-percussion-duets/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Sun, 11 Jul 2021 06:37:23 +0000</pubDate>
-				<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Coursework]]></category>
-		<category><![CDATA[Part 1 Exploring rhythm]]></category>
-		<guid isPermaLink="false">https://pedrovintem.000webhostapp.com/?p=121</guid>
-
-					<description><![CDATA[Composing for two instruments should have been easy for me, but it turned out to be more difficult.&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>Composing for two instruments should have been easy for me, but it turned out to be more difficult. Beyond the obvious snare and bass drum, I had a hard time deciding which instruments should make a duet. Then I had difficulties getting it to function beyond the basic concept; I constantly felt like one instrument was missing.</p>
-
-
-
-<p>The purpose of this project is to write four short compositions with at least eight bars each for two untuned instruments. The conversation between the instruments should be explored in the first two parts. The latter two should experiment with unusual time signatures &#8211; five and seven beats per bar, respectively.</p>
-
-
-
-<h2 id="snare-drum-bass-drum">Snare Drum &amp; Bass Drum</h2>
-
-
-
-<p>For the first study, I chose the one that was most comfortable for me. I&#8217;m familiar with the snare and bass drum&#8217;s characteristics, so I sought to create a piece that would explore a dialogue between the two. The goal is for each participant to &#8220;talk&#8221; in turn until they are both in unison. The second section of this composition was inspired by a scene from Carmen Suite (that I reviewed <a href="https://pedrovintem.000webhostapp.com/2021/07/listening-to-rodion-shchedrin-carmen-suite" target="_blank">here</a>), in which the Marimba and Vibrafono had a little dialogue.</p>
-
-
-
-<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1625973391243 cnvs-block-collapsibles-2" >
-	
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1625973391270" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="rodion-shchedrin-carmen-suite" class="cnvs-block-collapsible-heading">
-			<a href="#">Rodion Shchedrin – Carmen Suite</a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-image size-large"><img src="https://pedrovintem.000webhostapp.com/wp-content/uploads/2021/07/Screenshot-2021-07-03-at-22.47.39-1024x321.png" alt="" class="wp-image-122"/></figure>
-
-	</div>
-</div>
-
-
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1625973391274" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="" class="cnvs-block-collapsible-heading">
-			<a href="#"></a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-			</div>
-</div>
-
-</div>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://pedrovintem.000webhostapp.com/wp-content/uploads/2021/07/Project-2-Percussion-solos-Snare-Bass-Drum-745x1024.png" alt="" class="wp-image-123"/></figure>
-
-
-
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1IYWIw9IMgy0QJ5kqTFWpH71-Gy5LvhHc"></audio></figure>
-
-
-
-<h2 id="shaker-wood-block">Shaker &amp; Wood Block</h2>
-
-
-
-<p>In this work, I had a concept of a conversation, but it&#8217;s one of those where one side does the majority of the talking while the other simply attempts to say something but finds it nearly impossible and eventually becomes frustrated. If I&#8217;m being frank, I think the shaker can be irritating if used frequently. I discovered George Crumb&#8217;s Music For a Summer Evening when researching the shaker. The use of the shaker piqued my interest, and it led me to conclude the conversation in bar 7.</p>
-
-
-
-<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1625974329757 cnvs-block-collapsibles-2" >
-	
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1625974329805" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="g-crumb-music-for-a-summer-evening-makrokosmos-iii" class="cnvs-block-collapsible-heading">
-			<a href="#">G. Crumb: Music for a Summer Evening (Makrokosmos III)</a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="G. Crumb: Music for a Summer Evening (Makrokosmos III)" width="640" height="360" src="https://www.youtube.com/embed/Et8pUMm0VE8?start=119&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>Shpachenko, N., 2014.&nbsp;<em>G. Crumb: Music for a Summer Evening (Makrokosmos III)</em>.  Available at: &lt;https://www.youtube.com/watch?v=Et8pUMm0VE8&gt; [Accessed 11 July 2021].</figcaption></figure>
-
-	</div>
-</div>
-
-
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1625974329810" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="-2" class="cnvs-block-collapsible-heading">
-			<a href="#"></a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-			</div>
-</div>
-
-</div>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://pedrovintem.000webhostapp.com/wp-content/uploads/2021/07/Project-2-Percussion-solos-Shaker-Wood-Block-1024x622.png" alt="" class="wp-image-125"/></figure>
-
-
-
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1ZN0yhn8GKOKUDeQlWchSO-K4sAVFRGGf"></audio></figure>
-
-
-
-<h2 id="castanets-tambourine">Castanets &amp; Tambourine</h2>
-
-
-
-<p>When I was listening to Carmen Suite, I noticed how the castanets were used to create a more danceable rhythm. I looked into what approaches could be used in the castanets for my third composition, but in the end, the flamenco dancers who hit their shoes on the floor to mark the rhythm inspired me more.</p>
-
-
-
-<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1625975001948 cnvs-block-collapsibles-2" >
-	
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1625975002122" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="john-parks-castanet-performance-tips" class="cnvs-block-collapsible-heading">
-			<a href="#">John Parks: Castanet Performance Tips</a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="John Parks: Castanet Performance Tips" width="640" height="360" src="https://www.youtube.com/embed/jXqFEx-S0hw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>Black Swamp Percussion, 2017.&nbsp;<em>John Parks: Castanet Performance Tips</em>.  Available at: &lt;https://www.youtube.com/watch?v=jXqFEx-S0hw&gt; [Accessed 11 July 2021].</figcaption></figure>
-
-	</div>
-</div>
-
-
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1625975002149" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="melina-najjar-flamenco-dance-farruca-with-yazan-ibrahim" class="cnvs-block-collapsible-heading">
-			<a href="#">Melina Najjar- Flamenco dance Farruca with Yazan Ibrahim</a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Melina Najjar- Flamenco dance Farruca with Yazan Ibrahim" width="640" height="360" src="https://www.youtube.com/embed/eIBCd4zmPDA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>Najjar, M., 2020.&nbsp;<em>Melina Najjar- Flamenco dance Farruca with Yazan Ibrahim</em>.  Available at: &lt;https://www.youtube.com/watch?v=eIBCd4zmPDA&gt; [Accessed 11 July 2021].</figcaption></figure>
-
-	</div>
-</div>
-
-</div>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://pedrovintem.000webhostapp.com/wp-content/uploads/2021/07/Project-2-Percussion-solos-Castanets-Tambourine-1-1024x933.png" alt="" class="wp-image-129"/></figure>
-
-
-
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1LvZgIM443SsHXTA0b08Hl4F3TqSsOAqd"></audio></figure>
-
-
-
-<h2 id="triangle-cymbal">Triangle &amp; Cymbal</h2>
-
-
-
-<p>With the last one, I wanted to go darker. In my perspective, the cymbal has either a massive marking when struck hard or a mystery marking when slammed softly. After seeing Vic Firth&#8217;s video with the suspended cymbal, I decided to use the Marimba Mallet&#8217;s deeper tone. However, because it is preferable to describe the desired sound rather than the mallet (Solomon, 2002), I put &#8220;dark.&#8221;</p>
-
-
-
-<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1625981577123 cnvs-block-collapsibles-2" >
-	
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1625981577173" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="suspended-cymbal-1-selection-and-techniques-vic-firth-percussion-101" class="cnvs-block-collapsible-heading">
-			<a href="#">Suspended Cymbal 1: Selection and Techniques / Vic Firth Percussion 101</a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Suspended Cymbal 1: Selection and Techniques / Vic Firth Percussion 101" width="640" height="480" src="https://www.youtube.com/embed/m51seFRRal0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>Firth, V., 2012.&nbsp;<em>Suspended Cymbal 1: Selection and Techniques / Vic Firth Percussion 101</em>.  Available at: &lt;https://www.youtube.com/watch?v=m51seFRRal0&gt; [Accessed 11 July 2021].</figcaption></figure>
-
-	</div>
-</div>
-
-
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1625981577178" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="-3" class="cnvs-block-collapsible-heading">
-			<a href="#"></a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-			</div>
-</div>
-
-</div>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://pedrovintem.000webhostapp.com/wp-content/uploads/2021/07/Project-2-Percussion-solos-Triangle-Cymbal-2-1024x674.png" alt="" class="wp-image-127"/></figure>
-
-
-
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1a3BrL-d4sOx6aMF-_d2DayNyySYu8Bbm"></audio></figure>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1625981826194 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Solomon, S., 2002. How to write for percussion. 1st ed. New York: SZSolomon, p.42.</p>
 ]]></content:encoded>
 					
 		

@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Sun, 22 Aug 2021 08:28:35 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Aug 2021 04:06:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,71 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
+		<title>Listening to Claude Debussy &#8211; La Fille aux Cheveux de Lin, Prélude No.8</title>
+		<link>./../../../listening-to-claude-debussy-la-fille-aux-cheveux-de-lin-prelude-no-8/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Tue, 24 Aug 2021 04:06:05 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Exploring melody and scales]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=239</guid>
+
+					<description><![CDATA[One of the composers with whom I most identify is Claude Debussy. So when I stumbled across this&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>One of the composers with whom I most identify is Claude Debussy. So when I stumbled across this piece when researching pentatonic scale melodies, I knew I&#8217;d like it. I was not mistaken.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Michelangeli - Debussy - La fille aux cheveux de lin" width="640" height="480" src="https://www.youtube.com/embed/MswHKA4dako?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>caprottimusic, 2006. <em>Michelangeli &#8211; Debussy &#8211; La fille aux cheveux de lin</em>.  Available at: &lt;https://www.youtube.com/watch?v=MswHKA4dako> [Accessed 24 August 2021].</figcaption></figure>
+
+
+
+<p>My primary focus during this analysis will be on melody since that&#8217;s the component of the unit I&#8217;m studying.</p>
+
+
+
+<p>This work, written by Claude Debussy between 1909 and 1910 for piano, was later transferred to a variety of other instruments.</p>
+
+
+
+<p>The theme is introduced with a simple but lovely melodic line consisting entirely of Gb major pentatonic notes. I find this melody to be interesting because it ascends and descends in the pentatonic scale &#8212; in theory, that may sound boring, but it&#8217;s rather pleasing to listen to in this case.</p>
+
+
+
+<p>The theme is then repeated, but instead of going up and down like the first time, we start descending the Gb scale in bar 10. This indicates that the music is going forward and not stuck in the same repetitive pattern, which should be uninteresting.</p>
+
+
+
+<p>The work maintains its wave-like melody, but at bar 15, during one of the dramatic ascends, we switch to the Cb major pentatonic scale, reaching the highest note in the piece thus far. The melody then gradually descends in the Gb major scale, with the one quaver &#8211; two semiquavers that are so characteristic of this work, bringing familiarity and tranquillity to the music.</p>
+
+
+
+<p>In bar 19, the score states &#8220;Un Peu Animé&#8221;, which I believe is the start of the song&#8217;s climax, where we ascend into three octaves in the scale of Eb Major and reach the highest note so far in the melody.</p>
+
+
+
+<p>After the exhilaration of the finale, the primary theme returns, offering familiarity and security once more. However, it&#8217;s worth noting that this theme is a chord-based version of the familiar motif.</p>
+
+
+
+<p>It all comes to a halt at bar 28 when the motif returns, but this time an octave higher. This gives the music a lot of tranquillity and a little dreaminess, in my opinion. It&#8217;s as if we&#8217;re reminiscing about how it all began. It&#8217;s also a little nostalgic.</p>
+
+
+
+<p>In bar 33, we repeat bar 14, which brings us to the end of the song. The PP and minims make sure we reach a safe and stable conclusion.</p>
+
+
+
+<p>Finally, I was drawn to this music since it is a singable melody that employs simple and common scales. This is the kind of melody I enjoy writing, and I&#8217;m hoping to get some inspiration from Debussy in Assignment 2.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Listening to Mo Li Hua</title>
 		<link>./../../../listening-to-mo-li-hua/index.html</link>
 		
@@ -1089,95 +1154,6 @@
 
 
 <p>Solomon, S., 2002. How to write for percussion. 1st ed. New York: SZSolomon, p.42.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Researching Variable Metre</title>
-		<link>./../../../researching-variable-metre/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Sun, 11 Jul 2021 00:47:00 +0000</pubDate>
-				<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Part 1 Exploring rhythm]]></category>
-		<guid isPermaLink="false">https://pedrovintem.000webhostapp.com/?p=118</guid>
-
-					<description><![CDATA[It&#8217;s amusing that a quick Google search for [Variable Metre Boris Blacher] yields nearly exclusively results from OCA&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>It&#8217;s amusing that a quick Google search for [Variable Metre Boris Blacher] yields nearly exclusively results from OCA students&#8217; blogs. Are we the only ones who have written on Variable Metre?</p>
-
-
-
-<p>I&#8217;m not going to provide an entire biography of Boris Blacher here (an excellent summary can be found in Simon, 2003), but I did discover that he studied architecture before becoming a renowned composer. Probably that is why he developed the Variable Metre, which is made up of &#8220;patterns, certainly, but used as expressive building blocks&#8221; (Matthew-Walker 2003, p.24).</p>
-
-
-
-<p>But first, let&#8217;s look at the formal definition of Variable Metre from The Oxford Dictionary of Music:</p>
-
-
-
-<blockquote class="wp-block-quote">[a rhythmical process] whereby systematic changes of metre are planned according to mathematical relationships.</p><cite>(Kennedy, Kennedy and Rutherford-Johnson, 2013)</cite></blockquote>
-
-
-
-<p>I believe that it is simpler to say that Variable Metre is when a piece of music with a continual shift in time signature based on a numeric pattern. This pattern can have a mathematical relationship, but I don&#8217;t believe it is always true. It&#8217;s also easier to understand if you look at it:</p>
-
-
-
-<figure class="wp-block-image size-large"><img src="https://drive.google.com/uc?export=download&amp;id=1fZQ6vsTcWMsSif1J3uHEMJGXZ2JLKa2I" alt=""/></figure>
-
-
-
-<p>Numbers below the tempo marker indicate the time signature, while dots indicate incremental changes to the next value.</p>
-
-
-
-<p>Although some sources claim he did not invent Variable Metre (Quinn, 2005), he was most likely the one who developed it most.</p>
-
-
-
-<p>I must admit that when I initially read the definition of Variable Metre, I was sceptical about whether or not I would enjoy hearing it. I agreed with critics who claimed that this method was more like eye-music than ear-music (Matthew-Walker 2003, p.24). My opinion changed when I heard his Piano Concerto No.2.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Boris Blacher - Piano Concerto No.2 Op.42" width="640" height="480" src="https://www.youtube.com/embed/00QddeqyE5U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>fyrexianoff, 2012.&nbsp;<em>Boris Blacher &#8211; Piano Concerto No.2 Op.42</em>. [image] Available at: &lt;https://www.youtube.com/watch?v=00QddeqyE5U&gt; [Accessed 11 July 2021].</figcaption></figure>
-
-
-
-<p>After hearing it multiple times and assessing which sections I loved the most and which parts I didn&#8217;t believe Variable Metre made a significant difference, I realized that this technique works best when the notes are&nbsp;repeated. In Konzert für Klavier und Orchester, No. 2: I. Allegro, this happens. You&#8217;re listening to the same thing over and over, but each time the time changes, a new puzzle piece is added. As if a block is being added to a building to make it more stunning. This enables the creation of anticipation and disruption. I believe these two qualities are&nbsp;appealing to the ear.</p>
-
-
-
-<p>In conclusion, I believe it was worthwhile to learn about Variable Metre, but I find it difficult to think of it as anything more than a creative exercise if it is not utilized with repetition.</p>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1626070536852 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Simon, J. (2003) &#8216;Chasing the blahs with Blacher. (On Music)&#8217;, <em>The New Leader</em>, 86(2), 34+, available: https://link.gale.com/apps/doc/A100544790/ITOF?u=ucca&amp;sid=summon&amp;xid=a718ba22 [accessed 09 Jul 2021].</p>
-
-
-
-<p>Kennedy, M., Kennedy, J. and Rutherford-Johnson, T., 2013.&nbsp;<em>The Oxford dictionary of music</em>. 6th ed. Oxford: Oxford Univ. Press.</p>
-
-
-
-<p>Matthew-Walker, R. 2003, Boris Blacher, Musical Opinion Limited, 126, pp. 24.</p>
-
-
-
-<p>Quinn, I., 2005. Blacher: Paganini Variations; Ornament; Pianissimo Study; Fantasy: The Record Connoisseur&#8217;s Magazine. American Record Guide, 68(5), pp. 79.</p>
 ]]></content:encoded>
 					
 		
