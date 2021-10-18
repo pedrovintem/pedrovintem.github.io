@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Thu, 30 Sep 2021 09:56:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Oct 2021 06:59:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,45 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>Project 10 &#8211; A contrapuntal trial</title>
+		<link>./../../../../../project-10-a-contrapuntal-trial/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Tue, 05 Oct 2021 05:45:00 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Part 3 Round, descants, polyphony]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=513</guid>
+
+					<description><![CDATA[The goal of this project was to create three different melodic lines that combined to make a little&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>The goal of this project was to create three different melodic lines that combined to make a little polyphony. The same triad chord should be used to begin and end the song.</p>
+
+
+
+<p>I started with three flutes, as one of the coursework examples suggested, but after experimenting with different melodies, I realized the three voices would sound too similar, so I switched to a woodwind trio of Flute, Oboe, and Bassoon.</p>
+
+
+
+<p>This little polyphony was written in a different way from the rest of my projects. I composed vertically, which means I worked on all three melodies at the same time, one bar at a time. I began by deciding on a key (G minor), then came up with a chord progression that I liked: Gm &#8211; Eb – Bb &#8211; Gm. With these factors in mind, I began each bar with the triads of each chord and designed the melodies in each bar to connect the triads.</p>
+
+
+
+<p>This way of work was interesting since I didn&#8217;t have a sense of a final melody while I worked, but when I got to the end, I could clearly hear the many melodies. I then made some adjustments to ensure that the voices don&#8217;t clash when played simultaneously, particularly with the 2nd and 7th intervals, which sound dissonant.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="914" src="./../../../../../wp-content/uploads/2021/10/Project-10-1024x914.png" alt="" class="wp-image-515" srcset="./../../../../../wp-content/uploads/2021/10/Project-10-1024x914.png 1024w, ./../../../../../wp-content/uploads/2021/10/Project-10-300x268.png 300w, ./../../../../../wp-content/uploads/2021/10/Project-10-768x686.png 768w, ./../../../../../wp-content/uploads/2021/10/Project-10-1536x1371.png 1536w, ./../../../../../wp-content/uploads/2021/10/Project-10-2048x1829.png 2048w, ./../../../../../wp-content/uploads/2021/10/Project-10-640x571.png 640w, ./../../../../../wp-content/uploads/2021/10/Project-10-960x857.png 960w, ./../../../../../wp-content/uploads/2021/10/Project-10.png 2222w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Project 9 &#8211; Descants</title>
 		<link>./../../../../../project-9-descants/index.html</link>
 		

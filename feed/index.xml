@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Fri, 15 Oct 2021 12:50:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Oct 2021 06:59:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -643,6 +643,45 @@
 
 
 <p>Hylton, J., 2005. Comprehensive choral music education. Taipei: Pearson Education Taiwan Ltd.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Project 10 &#8211; A contrapuntal trial</title>
+		<link>./../project-10-a-contrapuntal-trial/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Tue, 05 Oct 2021 05:45:00 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Part 3 Round, descants, polyphony]]></category>
+		<guid isPermaLink="false">./../index.html?p=513</guid>
+
+					<description><![CDATA[The goal of this project was to create three different melodic lines that combined to make a little&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>The goal of this project was to create three different melodic lines that combined to make a little polyphony. The same triad chord should be used to begin and end the song.</p>
+
+
+
+<p>I started with three flutes, as one of the coursework examples suggested, but after experimenting with different melodies, I realized the three voices would sound too similar, so I switched to a woodwind trio of Flute, Oboe, and Bassoon.</p>
+
+
+
+<p>This little polyphony was written in a different way from the rest of my projects. I composed vertically, which means I worked on all three melodies at the same time, one bar at a time. I began by deciding on a key (G minor), then came up with a chord progression that I liked: Gm &#8211; Eb – Bb &#8211; Gm. With these factors in mind, I began each bar with the triads of each chord and designed the melodies in each bar to connect the triads.</p>
+
+
+
+<p>This way of work was interesting since I didn&#8217;t have a sense of a final melody while I worked, but when I got to the end, I could clearly hear the many melodies. I then made some adjustments to ensure that the voices don&#8217;t clash when played simultaneously, particularly with the 2nd and 7th intervals, which sound dissonant.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="914" src="./../wp-content/uploads/2021/10/Project-10-1024x914.png" alt="" class="wp-image-515" srcset="./../wp-content/uploads/2021/10/Project-10-1024x914.png 1024w, ./../wp-content/uploads/2021/10/Project-10-300x268.png 300w, ./../wp-content/uploads/2021/10/Project-10-768x686.png 768w, ./../wp-content/uploads/2021/10/Project-10-1536x1371.png 1536w, ./../wp-content/uploads/2021/10/Project-10-2048x1829.png 2048w, ./../wp-content/uploads/2021/10/Project-10-640x571.png 640w, ./../wp-content/uploads/2021/10/Project-10-960x857.png 960w, ./../wp-content/uploads/2021/10/Project-10.png 2222w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
 		
@@ -1646,273 +1685,6 @@
 					
 		
 		
-			</item>
-		<item>
-		<title>Assignment 2</title>
-		<link>./../assignment-2/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Tue, 14 Sep 2021 13:30:00 +0000</pubDate>
-				<category><![CDATA[Assignments]]></category>
-		<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Part 2 Exploring melody and scales]]></category>
-		<guid isPermaLink="false">./../index.html?p=344</guid>
-
-					<description><![CDATA[As part of the second assignment, I had to write a composition for a solo woodwind instrument that&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>As part of the second assignment, I had to write a composition for a solo woodwind instrument that lasted between 1:30 and 2 minutes. The challenge of this composition is that I can use whichever scale I choose (it can be more than one scale), to take advantage of the instrument&#8217;s specific features and to respect its range.</p>
-
-
-
-<p>You can find the final score <a href="https://drive.google.com/uc?export=download&amp;id=119PoSR35LbSVWA-Gnx6kXQBo5EyIMBrI" data-type="URL" data-id="https://drive.google.com/uc?export=download&amp;id=119PoSR35LbSVWA-Gnx6kXQBo5EyIMBrI" target="_blank">here</a> and listen to it below:</p>
-
-
-
-<figure class="wp-block-audio"><audio controls src="./../wp-content/uploads/2021/09/Assignment-2.mp3"></audio></figure>
-
-
-
-<p>Just like in the first assignment, I thought it was beneficial to create an outline and get an idea of what I was trying to accomplish beforehand. Though it may seem counterproductive at first, the structure and the idea helped me stay focused and keep a coherent thought process.</p>
-
-
-
-<h2 id="the-idea-theme" class="cnvs-block-section-heading cnvs-block-section-heading-1631516667878 halignleft" >
-	<span class="cnvs-section-title">
-		<span>The Idea / Theme</span>
-	</span>
-</h2>
-
-
-
-<p>This piece will centre around a character that is mournful during the workweek and eccentric on the weekend. In a routine and boring job, weekdays become monotonous and boring, while weekends become exciting and fun.</p>
-
-
-
-<p>Usually on Mondays you feel melancholy, Tuesday through Thursday are monotonous and regretful, followed by Friday and Saturday with euphoria, and finally Sunday turns slowly into melancholy again and you&#8217;re back on Monday.</p>
-
-
-
-<h2 id="the-structure" class="cnvs-block-section-heading cnvs-block-section-heading-1631516674208 halignleft" >
-	<span class="cnvs-section-title">
-		<span>The Structure</span>
-	</span>
-</h2>
-
-
-
-<p>As soon as I had the idea, the structure made sense to me. First, there is an intro, followed by the main theme, and then there is a happy section. Revert to the main motif before ending the same way it began.</p>
-
-
-
-<p>For the first two parts, the tempo would be slow, followed by a fast tempo for the third part, and then slowly decreasing for the final two parts.</p>
-
-
-
-<figure class="wp-block-table is-style-regular cnvs-block-core-table-1628498574118"><table><thead><tr><th>Theme</th><th>Section</th><th>Duration / Tempo</th></tr></thead><tbody><tr><td>The week starts slowly and melancholic</td><td>A</td><td><meta charset="utf-8">~40 seconds at ~50 bpm </td></tr><tr><td>The rest of the week is mournful</td><td>B</td><td><meta charset="utf-8">~40 seconds at <meta charset="utf-8">~50 bpm </td></tr><tr><td>It&#8217;s the weekend! Party non-stop until&#8230;</td><td>C</td><td>~30 seconds at 140 bpm</td></tr><tr><td>Sunday brings the mourning again</td><td>B&#8217;</td><td><meta charset="utf-8">~30 seconds at <meta charset="utf-8">~50 bpm  </td></tr><tr><td>And monday is here again</td><td>A&#8217;</td><td><meta charset="utf-8">~30 seconds at <meta charset="utf-8">~50 bpm  </td></tr></tbody></table></figure>
-
-
-
-<h2 id="the-motifs" class="cnvs-block-section-heading cnvs-block-section-heading-1631516680946 halignleft" >
-	<span class="cnvs-section-title">
-		<span>The Motifs</span>
-	</span>
-</h2>
-
-
-
-<p>My process for composing a motif was to play simple lines on the piano and to find one that sounds right to me. Inspiration overcame transpiration in this case. After some time, I began playing these four notes.</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" width="360" height="208" src="./../wp-content/uploads/2021/09/Screenshot-2021-09-14-at-12.13.05.png" alt="" class="wp-image-350" srcset="./../wp-content/uploads/2021/09/Screenshot-2021-09-14-at-12.13.05.png 360w, ./../wp-content/uploads/2021/09/Screenshot-2021-09-14-at-12.13.05-300x173.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></figure>
-
-
-
-<p>In spite of the simplicity of the melody, I liked the quaver/crochet rhythm, which gave me a sense of lull and monotony that I felt was appropriate for the B part. Although it feels like it is going up, it lacks the strength to stay up and goes down. Likewise, our character longs for the energy to accomplish something but returns to mourning.</p>
-
-
-
-<p>After that, I discovered that the scale I wanted to work on would be the E harmonic minor, with the seventh diminished, which sounds exotic but at the same time lamenting.</p>
-
-
-
-<p>The A part of the song has a similar motif to the B part, but to me, it feels more nostalgic, like someone is remembering the good old days (like the weekend).</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" width="410" height="236" src="./../wp-content/uploads/2021/09/Screenshot-2021-09-14-at-12.12.33.png" alt="" class="wp-image-351" srcset="./../wp-content/uploads/2021/09/Screenshot-2021-09-14-at-12.12.33.png 410w, ./../wp-content/uploads/2021/09/Screenshot-2021-09-14-at-12.12.33-300x173.png 300w" sizes="(max-width: 410px) 100vw, 410px" /></figure>
-
-
-
-<p>Because the C part is festive, I knew right away that I needed to change the scale, but not by much because the character remains the same and I didn&#8217;t want to have a big contrast. I chose to use the Ukrainian minor scale in the key of C, which is one of the most widely used scales in Klezmer music. As I worked with this scale, I realized these are exactly the notes of the G harmonic minor scale. I found this scale very festive even though it is a minor scale, which goes against the common idea that minor scales are sad.</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" width="250" height="186" src="./../wp-content/uploads/2021/09/Screenshot-2021-09-14-at-12.14.47.png" alt="" class="wp-image-352"/></figure>
-
-
-
-<p>In the C part of the song, the motif is made up of quavers and semiquavers, enjoying the wonderful staccato the clarinet can produce.</p>
-
-
-
-<h2 id="the-clarinet" class="cnvs-block-section-heading cnvs-block-section-heading-1631516687676 halignleft" >
-	<span class="cnvs-section-title">
-		<span>The Clarinet</span>
-	</span>
-</h2>
-
-
-
-<p>The clarinet is extremely versatile, and that&#8217;s why I chose it. With this piece, I wanted to push myself to explore both low and high registers while maintaining a cohesive line throughout. Clarinets have the broadest range of all woodwinds and can easily transition from <em>pianissimo</em> to <em>fortissimo</em> (Adler, 2002).</p>
-
-
-
-<p>My research on the clarinet led me to these videos from Josh Plotner which explain, among other things, that the composer should avoid the Throat Tones register (from G4 to Bb4) due to its hollowness and weak sound. Although I tried to avoid these notes, it was difficult for me to eliminate them from the melody.</p>
-
-
-
-<p>In the videos, it is also explained to avoid flutter tongue and use growl instead, since it sounds better.</p>
-
-
-
-<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1631590324464 cnvs-block-collapsibles-2" >
-	
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1631590324524" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="part-i-essential-writing-for-clarinet" class="cnvs-block-collapsible-heading">
-			<a href="#">Part I—Essential Writing for Clarinet</a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Part I—Essential Writing for Clarinet" width="640" height="360" src="https://www.youtube.com/embed/yVrFZ3SvI-s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-	</div>
-</div>
-
-
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1631590324530" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="part-ii-advanced-writing-for-clarinet" class="cnvs-block-collapsible-heading">
-			<a href="#">Part II—Advanced Writing for Clarinet</a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Part II—Advanced Writing for Clarinet" width="640" height="360" src="https://www.youtube.com/embed/2W6_0OeUM8c?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-	</div>
-</div>
-
-</div>
-
-
-
-<p><a href="https://ymmd.org.uk/wp-content/uploads/2019/09/Writing-for-the-Clarinet-.pdf" target="_blank">This</a> document from the Young Music Makers of Dyfed offers some techniques for the clarinet, one of which caught my attention, which is breathing into the clarinet without playing any notes.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="254" src="./../wp-content/uploads/2021/09/Screenshot-2021-09-14-at-11.41.52-1024x254.png" alt="" class="wp-image-349" srcset="./../wp-content/uploads/2021/09/Screenshot-2021-09-14-at-11.41.52-1024x254.png 1024w, ./../wp-content/uploads/2021/09/Screenshot-2021-09-14-at-11.41.52-300x74.png 300w, ./../wp-content/uploads/2021/09/Screenshot-2021-09-14-at-11.41.52-768x190.png 768w, ./../wp-content/uploads/2021/09/Screenshot-2021-09-14-at-11.41.52-640x158.png 640w, ./../wp-content/uploads/2021/09/Screenshot-2021-09-14-at-11.41.52-960x238.png 960w, ./../wp-content/uploads/2021/09/Screenshot-2021-09-14-at-11.41.52.png 1454w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>2019.&nbsp;<em>Writing for the Clarinet</em>. [pdf] Available at: &lt;https://ymmd.org.uk/wp-content/uploads/2019/09/Writing-for-the-Clarinet-.pdf&gt; [Accessed 14 September 2021].</figcaption></figure>
-
-
-
-<p>It is also advised to avoid the transition between B4 and Bb4, referred to as &#8220;the break,&#8221; due to its difficult transition that only experienced players can handle (Adler, 2002).</p>
-
-
-
-<h2 id="the-composition" class="cnvs-block-section-heading cnvs-block-section-heading-1631516693910 halignleft" >
-	<span class="cnvs-section-title">
-		<span>The Composition</span>
-	</span>
-</h2>
-
-
-
-<p><strong>Part A</strong> Bars 1-9</p>
-
-
-
-<p>This section serves as a brief introduction and presents the first motif. The purpose of this section is to show the listener that the melody will stay in the Chalumeau register.</p>
-
-
-
-<ul class="is-style-cnvs-list-styled"><li>Bars 1-4 are slow notes establishing the scale</li><li>Bars 5-9 are the part A motif followed by a descending to end this part</li></ul>
-
-
-
-<p><strong>Part B</strong> Bars 10-19</p>
-
-
-
-<p>While the tempo remains the same, the time signature switches to 3/4 here, and the dynamics increase. As a result, the listener can feel the character&#8217;s discomfort and lament.</p>
-
-
-
-<ul class="is-style-cnvs-list-styled"><li>Bars 10-11 the main motif is presented and raised by one step</li><li>Bars 12-13 a variation of the motif going down and ending in the 5th</li><li>Bar 14 is a variation of the main motif</li><li>Bar 15 is a repetition of bar 11</li><li>Bar 16 is similar to bar 11 but with the extra QUAVER</li><li>Bars 17-19 the melody descends ending with a trill to the tonic</li></ul>
-
-
-
-<p><strong>Part C</strong> Bars 20-43</p>
-
-
-
-<p>In contrast to the previous two, this is the fastest section. Here, glissandos and growls are used to convey the feel of the parties and the exuberance of the weekend concept.</p>
-
-
-
-<ul class="is-style-cnvs-list-styled"><li>Bar 20 is a scale run ascending over two octaves</li><li>Bar 21-22 a glissando sustained and played fortissimo</li><li>Bars 23-24 a crescendo in dynamics and offbeat notes</li><li>Bars 25-27 is the part C motif and its variations</li><li>Bar 28 the triplets are descending</li><li>Bars 29-30 are another variation of the motif</li><li>Bars 31-32 is the repetition of the same note in the semiquaver/quaver rhythm, ending in a flutter tongue in the highest E</li><li>Bars 33-34 are a variation of the motif</li><li>Bars 35-39 the quavers are used with the staccato</li><li>Bars 40-43 are a descending of crochets with quavers in between</li></ul>
-
-
-
-<p><strong>Part B&#8217;</strong> Bars 44-51</p>
-
-
-
-<p>The B part is shortened here, leading the listener slowly from the party of the C section to the end. Dynamic returns to <em>piano</em>.</p>
-
-
-
-<ul class="is-style-cnvs-list-styled"><li>Bars 44-47 return to the harmonic scale and to the crochet/quaver rhtyhm</li><li>Bars 48-51 are the main motif with a few variations</li></ul>
-
-
-
-<p><strong>Part A&#8217;</strong> Bars 52-58</p>
-
-
-
-<p>While this section is slower than the previous one, it is similar to the introduction, ending in the same note as it began, giving it the appearance of being forever looped.</p>
-
-
-
-<ul id="block-ad39ec09-be8d-4cce-993a-7a3c6c802173" class="is-style-cnvs-list-styled"><li>Bars 52-55 are similar to bars 5-7 but in a 3/4 time signature</li><li>Bar 56 is made entirely of crochets</li><li>Bars 57-58 a little pause to breathe into the instrument and realising the final two notes</li></ul>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1631591988786 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Adler, S., 2002.&nbsp;<em>The study of orchestration</em>. 3rd ed. New York: W.W. Norton.<a href="https://www.facebook.com/sharer.php?u=./woodwind-instruments/" target="_blank"></a></p>
-
-
-
-<p>2019.&nbsp;<em>Writing for the Clarinet</em>. [pdf] Available at: &lt;https://ymmd.org.uk/wp-content/uploads/2019/09/Writing-for-the-Clarinet-.pdf&gt; [Accessed 14 September 2021].</p>
-]]></content:encoded>
-					
-		
-		<enclosure url="./../wp-content/uploads/2021/09/Assignment-2.mp3" length="3263133" type="audio/mpeg" />
-
 			</item>
 	</channel>
 </rss>
