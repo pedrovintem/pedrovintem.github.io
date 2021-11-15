@@ -1,0 +1,143 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.pk-subscribe-form-wrap {
+	--pk-subscribe-with-bg-color: #FFFFFF;
+	--pk-subscribe-with-bg-elements-color: #FFFFFF;
+	--pk-subscribe-heading-font-size: 1.25rem;
+	--pk-subscribe-privacy-font-size: 80%;
+}
+
+/*--------------------------------------------------------------*/
+.pk-subscribe-form-wrap {
+	position: relative;
+}
+
+.pk-subscribe-form-wrap .pk-subscribe-bg {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+}
+
+.pk-subscribe-form-wrap .pk-subscribe-bg img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	-o-object-fit: cover;
+	object-fit: cover;
+	font-family: 'object-fit: cover;';
+}
+
+.pk-subscribe-form-wrap .pk-input-group {
+	display: flex;
+}
+
+.pk-subscribe-form-wrap .pk-alert {
+	margin: 1rem 0 0;
+}
+
+.pk-subscribe-form-wrap .pk-font-heading {
+	font-size: var(--pk-subscribe-heading-font-size);
+}
+
+.pk-subscribe-form-wrap .pk-privacy {
+	margin: 1rem 0 0;
+	font-size: var(--pk-subscribe-privacy-font-size);
+}
+
+.pk-subscribe-form-wrap .pk-privacy label {
+	margin-bottom: 0;
+	cursor: pointer;
+}
+
+.pk-subscribe-form-wrap .pk-privacy input[type="checkbox"] {
+	margin-right: 0.5rem;
+}
+
+.pk-subscribe-form-wrap .pk-subscribe-message a,
+.pk-subscribe-form-wrap .pk-privacy a {
+	border: none;
+	text-decoration: underline;
+}
+
+.pk-subscribe-form-wrap .pk-subscribe-message a:hover,
+.pk-subscribe-form-wrap .pk-privacy a:hover {
+	text-decoration: none;
+}
+
+.pk-subscribe-with-name .pk-input-group {
+	flex-direction: column;
+}
+
+.pk-subscribe-with-name .pk-input-group input,
+.pk-subscribe-with-name .pk-input-group button {
+	margin-top: 0.5rem;
+}
+
+.pk-subscribe-with-name .pk-input-group input:first-child,
+.pk-subscribe-with-name .pk-input-group button:first-child {
+	margin-top: 0;
+}
+
+.pk-subscribe-with-name .pk-input-group input[type="text"] {
+	width: 100%;
+}
+
+.pk-subscribe-with-bg {
+	color: var(--pk-subscribe-with-bg-color);
+	overflow: hidden;
+}
+
+.pk-subscribe-with-bg .pk-subscribe-container {
+	position: relative;
+	padding: 2rem;
+	z-index: 2;
+}
+
+.pk-subscribe-with-bg .pk-input-group input,
+.pk-subscribe-with-bg .pk-input-group button {
+	margin-top: 0.5rem;
+}
+
+.pk-subscribe-with-bg .pk-input-group input:first-child,
+.pk-subscribe-with-bg .pk-input-group button:first-child {
+	margin-top: 0;
+}
+
+.pk-subscribe-with-bg .section-heading {
+	color: var(--pk-subscribe-with-bg-elements-color);
+}
+
+.pk-subscribe-with-bg .pk-title,
+.pk-subscribe-with-bg .pk-subscribe-message,
+.pk-subscribe-with-bg .pk-subscribe-message a,
+.pk-subscribe-with-bg .pk-privacy,
+.pk-subscribe-with-bg .pk-privacy a {
+	color: var(--pk-subscribe-with-bg-elements-color);
+}
+
+.pk-subscribe-with-bg .subscription {
+	box-shadow: none !important;
+}
+
+.pk-subscribe-form-widget .pk-bg-overlay {
+	text-align: center;
+}
+
+.pk-subscribe-form-widget .pk-bg-overlay .pk-input-group {
+	background: transparent;
+	display: block;
+}
+
+.pk-subscribe-form-widget .pk-bg-overlay .pk-input-group button {
+	margin-bottom: 0;
+}

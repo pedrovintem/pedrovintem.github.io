@@ -1,0 +1,50 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.pk-scroll-to-top {
+	--pk-scrolltop-background: #a0a0a0;
+	--pk-scrolltop-icon-color: #FFFFFF;
+	--pk-scrolltop-opacity: 1;
+	--pk-scrolltop-opacity-hover: 0.7;
+}
+
+/*--------------------------------------------------------------*/
+.pk-scroll-to-top {
+	background: var(--pk-scrolltop-background);
+	display: none;
+	position: fixed;
+	left: -9999px;
+	bottom: 2rem;
+	opacity: 0;
+	transition: opacity 0.25s;
+}
+
+.pk-scroll-to-top.pk-active {
+	opacity: var(--pk-scrolltop-opacity);
+	left: auto;
+	right: 2rem;
+}
+
+.pk-scroll-to-top:hover {
+	opacity: var(--pk-scrolltop-opacity-hover);
+}
+
+.pk-scroll-to-top .pk-icon {
+	display: block;
+	padding: .6rem;
+	color: var(--pk-scrolltop-icon-color);
+	line-height: 1;
+	transition: opacity .2s ease;
+}
+
+@media (min-width: 760px) {
+	.pk-scroll-to-top {
+		display: block;
+	}
+}
