@@ -12,12 +12,458 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Mon, 18 Oct 2021 06:59:57 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Nov 2021 13:09:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.1</generator>
-</channel>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>Reflections on Assignment 4</title>
+		<link>./../../../../reflections-on-assignment-4/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Mon, 15 Nov 2021 13:09:52 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Part 4 Exploring counterpoint]]></category>
+		<guid isPermaLink="false">https://shocking-purpose.localsite.io/?p=590</guid>
+
+					<description><![CDATA[For part 4 of this unit, I had the opportunity to explore how a counterpoint composition can be&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>For part 4 of this unit, I had the opportunity to explore how a counterpoint composition can be developed with the main subject as the focal point. Bach&#8217;s fugues proved to be of great importance here.</p>
+
+
+
+<p>I also explored tuned percussion instruments for the first time. I found them varied and versatile. I will certainly explore composition with the timpani and the glockenspiel.</p>
+
+
+
+<p>As a result of listening to Ragtime, I also developed a better understanding of rhythm and syncopation in some compositions.</p>
+
+
+
+<h3 id="about-assignment-4">About Assignment 4</h3>
+
+
+
+<p>So far, this assignment has been the most challenging. The assignment was difficult for me for a number of reasons, but I suspect it was the challenge of writing something different that I placed on myself.</p>
+
+
+
+<p>In general, I am not pleased with the composition. It has some parts that I like, especially the motif and some rhythmic details in section C, but as a whole, it doesn&#8217;t appeal to me as much as some of my other compositions.</p>
+
+
+
+<p>Despite being aware that a university is a place where people take chances, I will attempt to create something I&#8217;m more familiar with in the next assignment to increase my self-confidence.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Assignment 4</title>
+		<link>./../../../../assignment-4/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Mon, 15 Nov 2021 10:07:51 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Part 4 Exploring counterpoint]]></category>
+		<guid isPermaLink="false">https://shocking-purpose.localsite.io/?p=582</guid>
+
+					<description><![CDATA[In assignment 4, I had to compose an imitative counterpoint for around 3 minutes using woodwinds and tuned&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>In assignment 4, I had to compose an imitative counterpoint for around 3 minutes using woodwinds and tuned percussion.</p>
+
+
+
+<p>You can find the final score <a href="./../../../../wp-content/uploads/2021/11/Assignment-43-Full-Score.pdf" data-type="URL" data-id="./../../../../wp-content/uploads/2021/11/Assignment-43-Full-Score.pdf" target="_blank">here</a> and listen to it below:</p>
+
+
+
+<h2 id="the-idea-theme" class="cnvs-block-section-heading cnvs-block-section-heading-1634108541003 halignleft" >
+	<span class="cnvs-section-title">
+		<span>The Idea / Theme</span>
+	</span>
+</h2>
+
+
+
+<p>Having felt that my previous assignments were a bit on the safe side, I decided to incorporate the element of surprise into this assignment. It was important for me to try things I hadn&#8217;t done before. I wanted to go to places that made me uncomfortable and use my ingenuity to see if I could surprise myself.</p>
+
+
+
+<p>Regarding the theme, along with the idea of surprise, this piece will be about a party, for instance, a wedding, where a dance will be performed by two voices. Then something goes wrong between these two voices, maybe an argument or an altercation that completely changes the mood. Ultimately, both parties reach an agreement and get back to dancing.</p>
+
+
+
+<h2 id="the-structure" class="cnvs-block-section-heading cnvs-block-section-heading-1634108659753 halignleft" >
+	<span class="cnvs-section-title">
+		<span>The Structure</span>
+	</span>
+</h2>
+
+
+
+<p>The idea largely determines the structure. This turns the structure into an A-B-C-A-B. I envision this piece beginning with an intro (A section) that will be in the same key, but rhythmically different from the B section. When we move from the B section to the C section, there will be a change in key, time signature, tempo, and dynamics to create a full contrast. After this section, we return to the intro and then the B section.</p>
+
+
+
+<p>The A section will be in a minor key, the B section in a major key, and the C section in a minor key. In this piece, I will start in the key of E minor, then move to its relative major key of G major. In the C section, I will use the key of B minor, which is a fifth from the key of E minor, because I want to create some contrast without sounding too abrupt.</p>
+
+
+
+<figure class="wp-block-table is-style-regular cnvs-block-core-table-1628498574118"><table><thead><tr><th>Theme</th><th>Section &amp; Triad</th><th>Duration / Tempo</th></tr></thead><tbody><tr><td>The instruments present themselves and get in the mood for the party</td><td>A &#8211; E minor</td><td>~20 seconds at 75 bpm </td></tr><tr><td>They party and dance together with one instrument initiating the dance and the other following</td><td>B &#8211; G major</td><td>~50 seconds at 95 bpm </td></tr><tr><td>Tension builds up and there&#8217;s a fight</td><td>C &#8211; B minor</td><td>~40 seconds at 80 bpm </td></tr><tr><td>They come into agreement and return to get themselves in the mood for part</td><td>A&#8217; &#8211; E minor</td><td>~20 seconds at 75 bpm </td></tr><tr><td>They slowly return to the dance and party until the end</td><td>B&#8217; &#8211; G major</td><td>~50 seconds at 95 bpm </td></tr></tbody></table></figure>
+
+
+
+<h2 id="the-motifs" class="cnvs-block-section-heading cnvs-block-section-heading-1634108877461 halignleft" >
+	<span class="cnvs-section-title">
+		<span>The Motifs</span>
+	</span>
+</h2>
+
+
+
+<p>As I was playing around with the piano, I came up with a motif (in red) that started short and developed into a bigger subject.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="252" src="./../../../../wp-content/uploads/2021/11/Assignment-432-1024x252.png" alt="" class="wp-image-595" srcset="./../../../../wp-content/uploads/2021/11/Assignment-432-1024x252.png 1024w, ./../../../../wp-content/uploads/2021/11/Assignment-432-300x74.png 300w, ./../../../../wp-content/uploads/2021/11/Assignment-432-768x189.png 768w, ./../../../../wp-content/uploads/2021/11/Assignment-432-1536x378.png 1536w, ./../../../../wp-content/uploads/2021/11/Assignment-432-2048x504.png 2048w, ./../../../../wp-content/uploads/2021/11/Assignment-432-640x157.png 640w, ./../../../../wp-content/uploads/2021/11/Assignment-432-960x236.png 960w, ./../../../../wp-content/uploads/2021/11/Assignment-432.png 2172w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 id="the-instruments" class="cnvs-block-section-heading cnvs-block-section-heading-1634110169912 halignleft" >
+	<span class="cnvs-section-title">
+		<span>The Instruments</span>
+	</span>
+</h2>
+
+
+
+<p>Having reviewed a recent video from Philharmonia, I decided to choose the vibraphone because of the sustained sound it produces.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Instruments: Percussion" width="640" height="360" src="https://www.youtube.com/embed/-lJctvybAJ8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Philharmonia Orchestra (London, UK), 2013. Instruments: Percussion. Available at:&lt;https://www.youtube.com/watch?v=-lJctvybAJ8> [Accessed 15 November 2021].</figcaption></figure>
+
+
+
+<p>I decided to go with the bassoon for the woodwind instrument again because I am finding it to be much more versatile than I had anticipated.</p>
+
+
+
+<p>The combination of these instruments seemed unusual to me, and I was not wrong. Youtube and Spotify returned few results, but I found this performance of a piece by Alexandre Ouzounoff that encouraged me to continue experimenting with these two instruments.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Alexandre Ouzounoff: Cependant, la lune se lève pour basson et vibraphone (2013)" width="640" height="360" src="https://www.youtube.com/embed/Vo1Fgqq8-Kw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>University of Michigan Bassoon Studio, 2015. Alexandre Ouzounoff: Cependant, la lune se lève pour basson et vibraphone (2013). Available at: &lt;https://www.youtube.com/watch?v=Vo1Fgqq8-Kw> [Accessed 15 November 2021].</figcaption></figure>
+
+
+
+<h2 id="the-composition" class="cnvs-block-section-heading cnvs-block-section-heading-1634110414281 halignleft" >
+	<span class="cnvs-section-title">
+		<span>The composition</span>
+	</span>
+</h2>
+
+
+
+<p><strong>Section A</strong> Bars 1-6</p>
+
+
+
+<p>As an introduction to the piece, I composed a short section with both instruments presenting themselves in different moods: the bassoon is strong and sustained, and the vibraphone is fast and harmonious.</p>
+
+
+
+<p>I was inspired by Stravinsky&#8217;s bassoon solo in Rite Of Spring to start the piece on a high sustained note.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Stravinsky&#039;s Rite Of Spring Bassoon solo by Gustavo Nunez" width="640" height="480" src="https://www.youtube.com/embed/Xfg9IIXhcPk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Nick B., 2007. <em>Stravinsky&#8217;s Rite Of Spring Bassoon solo by Gustavo Nunez</em>. Available at: &lt;https://www.youtube.com/watch?v=Xfg9IIXhcPk> [Accessed 15 November 2021].<br></figcaption></figure>
+
+
+
+<p>This introduction ends abruptly to convey the main idea of a piece with surprise elements.</p>
+
+
+
+<p><strong>Section B</strong> Bars 7-26</p>
+
+
+
+<p>Here, the time signature changes and the bassoon plays the main subject, copied by the vibraphone. With the bassoon playing a countersubject in E in bar 13, the vibraphone is now free to play the main subject in G, which now is a major third.</p>
+
+
+
+<p>In bar 20, the bassoon returns to the main theme but starts in C, which is a major 4th of G. The vibraphone continues to fill the room with ascending and descending notes.</p>
+
+
+
+<p>Both instruments start ascending melodies in bar 23, which leads to a climax and the end of this section.</p>
+
+
+
+<p><strong>Section C</strong> Bars 27-40</p>
+
+
+
+<p>The section begins with a low dynamic and just the vibraphone playing. Although the key changes to B minor, I wanted to create another level of surprise and ambiguity, so I played an F major chord on the high notes, while the low notes created dissonance.</p>
+
+
+
+<p>This section motif is then played by the bassoon, accompanied by a steady rhythm played by the vibraphone. Sometimes the vibraphone completes a triad, such as the A major in bar 28, but sometimes it just plays dissonant tones.</p>
+
+
+
+<p>In the absence of harmony between the instruments, the tension rises with minor triads and the tempo increases.</p>
+
+
+
+<p>At Bar 36, both instruments play staccato, and the tempo is the fastest in the entire piece. The vibraphone continues with its ascending and descending melody, while the bassoon is more steady in its notes.</p>
+
+
+
+<p>At the end, in bar 40, they are both tired of the previous part and rest in minim notes before concluding with a B major triad.</p>
+
+
+
+<p><strong>Section A&#8217;</strong> Bars 41-43</p>
+
+
+
+<p>The section starts with a chord in G major, marking a key change, and proceeds into a version of the intro.</p>
+
+
+
+<p><strong>Section B</strong>&#8216; Bars 44-67</p>
+
+
+
+<p>In this section, a bassoon augmented subject is played while the vibraphone plays the motif, followed by a counterpoint.</p>
+
+
+
+<p>In bar 56, the bassoon plays an inversion of the subject while the vibraphone plays parts of the motif and triads.</p>
+
+
+
+<p>In bar 62, the bassoon plays the main motif, which is quickly repeated by the vibraphone in increasing tones until they both end in a G.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Bach&#8217;s Fugues</title>
+		<link>./../../../../listening-to-bachs-fugues/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Mon, 15 Nov 2021 02:58:46 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 4 Exploring counterpoint]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=541</guid>
+
+					<description><![CDATA[The Well-Tempered Clavier, Book 1: Fugue No. 8 in D-Sharp Minor, BWV 853 I felt this fugue was&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h4 id="the-well-tempered-clavier-book-1-fugue-no-8-in-d-sharp-minor-bwv-853"><meta charset="utf-8">The Well-Tempered Clavier, Book 1: Fugue No. 8 in D-Sharp Minor, BWV 853</h4>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="The Well-Tempered Clavier, Book 1: Fugue No. 8 in D-Sharp Minor, BWV 853" width="640" height="480" src="https://www.youtube.com/embed/ZG8LVgUzSc0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Gould, G., 2015.&nbsp;<em>The Well-Tempered Clavier, Book 1: Fugue No. 8 in D-Sharp Minor, BWV 853</em>. Available at: &lt;https://www.youtube.com/watch?v=ZG8LVgUzSc0&gt; [Accessed 12 November 2021].</figcaption></figure>
+
+
+
+<p>I felt this fugue was really lovely, especially because I enjoyed the theme and Bach used it frequently throughout this composition. In fact, I thought this fugue was quite theme-centric, with the theme inverted, augmented, and rhythmically varied. It’s also worth noting that this fugue goes from a straightforward exposition to a three-voiced narrative.</p>
+
+
+
+<p>To be clear, some sources indicate that this fugue is in Eb minor; nevertheless, the prelude is in Eb minor, but the fugue is in D# minor in most scores I discovered. Although I don’t believe it matters, I’ll keep mentioning that this fugue is in D# minor.</p>
+
+
+
+<p>This fugue begins with the first voice exposition of the theme, while the second voice (in red) imitate it. Right away, the lowest voice repeats it a second time. Bach repeats this three-bar theme four times in the first 14 bars, which shows how important this theme is to him.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="614" src="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.15.14-1-1024x614.png" alt="" class="wp-image-544" srcset="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.15.14-1-1024x614.png 1024w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.15.14-1-300x180.png 300w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.15.14-1-768x461.png 768w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.15.14-1-1536x921.png 1536w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.15.14-1-640x384.png 640w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.15.14-1-960x576.png 960w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.15.14-1.png 1884w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>In order to emphasize the theme-centric nature of the fugue, the theme is repeated five times from bar 19 to bar 29, before there is an inversion (in blue). I was interested to see if the inversion is an exact mirror of the theme. I got my answer right away: no. The very first note, D#, goes to an A#, the perfect fifth. However, the inversion goes down a perfect fourth. Following these first notes, everything is mirrored.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="573" src="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.28.32-1024x573.png" alt="" class="wp-image-545" srcset="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.28.32-1024x573.png 1024w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.28.32-300x168.png 300w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.28.32-768x430.png 768w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.28.32-1536x859.png 1536w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.28.32-640x358.png 640w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.28.32-960x537.png 960w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-12.28.32.png 1888w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Afterwards, the lower voice plays an augmentation of the theme (in green) at double speed. In my opinion, this is where the piece begins to climax and become more complex.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="396" src="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-14.56.14-1024x396.png" alt="" class="wp-image-546" srcset="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-14.56.14-1024x396.png 1024w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-14.56.14-300x116.png 300w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-14.56.14-768x297.png 768w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-14.56.14-1536x593.png 1536w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-14.56.14-640x247.png 640w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-14.56.14-960x371.png 960w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-25-at-14.56.14.png 1934w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>It is difficult for me to follow and analyze without assistance from here. I noticed that the theme is imitated and reversed as well as amplified and augmented throughout the entire piece, making it a complex and engaging ending.</p>
+
+
+
+<h4 id="the-well-tempered-clavier-book-i-fugue-no-14-in-f-sharp-minor-bwv-859">The Well-Tempered Clavier, Book I: Fugue <meta charset="utf-8">No. 14 in F-sharp minor, BWV 859</h4>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="The Well-Tempered Clavier, Book 1: Fugue No. 14 in F-Sharp Minor, BWV 859" width="640" height="480" src="https://www.youtube.com/embed/uzeucBPHi00?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Gould, G., 2015.&nbsp;<em>The Well-Tempered Clavier, Book 1: Fugue No. 14 in F-Sharp Minor, BWV 859</em>. Available at: &lt;https://youtu.be/uzeucBPHi00&gt; [Accessed 12 November 2021].</figcaption></figure>
+
+
+
+<p>I found this fugue to be slow, sorrowful, but at the same time, I found it to sometimes be beautifully harmonious. Contrary to other fugues I have heard, I believe this could be played in a church, with the long notes resonating in the long walls. Alternatively, a choral group could perform it.</p>
+
+
+
+<p>The theme (in red) and countertheme (in brown) are presented in the first six bars of this fugue, which is interesting. The theme’s long notes are precisely counterbalanced by the countertheme’s quavers, allowing both to be heard clearly. When the third voice is added in the lower bass, it sounds really lovely to me. This produces a really fascinating and recognizable sound that binds all of the voices together.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="1008" src="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.25.03-1024x1008.png" alt="" class="wp-image-548" srcset="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.25.03-1024x1008.png 1024w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.25.03-300x295.png 300w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.25.03-768x756.png 768w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.25.03-80x80.png 80w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.25.03-640x630.png 640w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.25.03-960x945.png 960w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.25.03.png 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>I was curious as to how Bach composed the theme and counter-theme to work together so beautifully, so I decided to investigate further. One thing I observed is that both melodies, especially the countertheme, move in a step-by-step manner, only leaping in the finish. This, I believe, allows the intervals to move from fifths to thirds, as seen at the start of bar 5. In addition, the opposing motion in the first two bars, when one of the melodies rises (in red) and the other falls (in blue), generates a lovely contrast and tension, which is released in the last two bars, when both move in the same direction.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="678" src="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.41.43-1024x678.png" alt="" class="wp-image-549" srcset="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.41.43-1024x678.png 1024w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.41.43-300x199.png 300w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.41.43-768x508.png 768w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.41.43-640x424.png 640w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.41.43-960x635.png 960w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-10.41.43.png 1496w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>When I previously stated that I considered this piece to be quite harmonic at moments, I was making reference to bars 13 and 14. All melodies, I suppose, have the same function here: to set the stage for the return of the theme and countertheme, but this time in a more powerful form. The theme is mostly played by the two upper voices with the thirds. This brings the piece to a close with a mini-climax.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1001" height="1024" src="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.17.10-1001x1024.png" alt="" class="wp-image-550" srcset="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.17.10-1001x1024.png 1001w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.17.10-293x300.png 293w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.17.10-768x786.png 768w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.17.10-1501x1536.png 1501w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.17.10-300x307.png 300w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.17.10-640x655.png 640w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.17.10-960x982.png 960w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.17.10.png 1604w" sizes="(max-width: 1001px) 100vw, 1001px" /></figure>
+
+
+
+<p>Something new appears later, at the conclusion of bar 20. The motif has been inverted (in blue). This inversion is accompanied by lower voice quavers that sound like the countertheme. I believe this is employed to have a familiar sound with this new inversion theme.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="724" src="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.29.16-1024x724.png" alt="" class="wp-image-551" srcset="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.29.16-1024x724.png 1024w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.29.16-300x212.png 300w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.29.16-768x543.png 768w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.29.16-1536x1087.png 1536w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.29.16-640x453.png 640w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.29.16-960x679.png 960w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.29.16.png 1668w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>One last thing I’d like to mention is something I don’t recall hearing in previous fugues. When two voices play similar melodies while the other two wait their time to play identical tunes. As with prior examples, most of this is done using the third interval. All of this builds up to the final theme and countertheme section.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="355" src="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.41.33-1024x355.png" alt="" class="wp-image-552" srcset="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.41.33-1024x355.png 1024w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.41.33-300x104.png 300w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.41.33-768x267.png 768w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.41.33-1536x533.png 1536w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.41.33-2048x711.png 2048w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.41.33-640x222.png 640w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.41.33-960x333.png 960w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-26-at-11.41.33.png 2328w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Project 11 &#8211; Inventing free counterpoint</title>
+		<link>./../../../../project-11-inventing-free-counterpoint/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Thu, 21 Oct 2021 10:27:57 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Part 4 Exploring counterpoint]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=519</guid>
+
+					<description><![CDATA[During this project, I had to practice composing counterpoints for two instruments. There were two parts to the&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>During this project, I had to practice composing counterpoints for two instruments. There were two parts to the brief. With exercises 1 and 2, one of the instruments is already provided in the briefing, and the challenge is to compose a counterpoint for it. The task in exercises 3 and 4 is to compose two tunes with contrasting characters.</p>
+
+
+
+<p>The workbook states that any tuning percussion instrument and woodwind instrument may be used. In order to get more familiar with tuned percussion, I decided to use them in all exercises.</p>
+
+
+
+<h4 id="exercise-1">Exercise 1</h4>
+
+
+
+<p>With this exercise, the top melody was provided and I was asked to compose the bottom melody. As I looked at the written melody for the first time, I noticed that it had long notes, mirims, and crochets, so I decided to use mostly quavers and semiquavers to have a nice rhythmic contrast. I also took advantage of the opportunity to contrast the dynamics, sometimes having the vibraphone play higher than the flute.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="329" src="./../../../../wp-content/uploads/2021/10/Project-11-1-1024x329.png" alt="" class="wp-image-521" srcset="./../../../../wp-content/uploads/2021/10/Project-11-1-1024x329.png 1024w, ./../../../../wp-content/uploads/2021/10/Project-11-1-300x96.png 300w, ./../../../../wp-content/uploads/2021/10/Project-11-1-768x246.png 768w, ./../../../../wp-content/uploads/2021/10/Project-11-1-1536x493.png 1536w, ./../../../../wp-content/uploads/2021/10/Project-11-1-2048x657.png 2048w, ./../../../../wp-content/uploads/2021/10/Project-11-1-640x205.png 640w, ./../../../../wp-content/uploads/2021/10/Project-11-1-960x308.png 960w, ./../../../../wp-content/uploads/2021/10/Project-11-1.png 2163w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 id="exercise-2">Exercise 2</h4>
+
+
+
+<p>Here, the bottom part was given, and I composed the top melody. With the first three bars of my melody, I worked with the staccato from the flute by adding semiquavers, resulting in an interaction between the two instruments. In the next three bars, I made the marimba melody follow the descending flute melody, but with fast notes to emphasize the different melodies. The marimba contrasts with the flute in the last three bars by going up while the flute continues to go down.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="577" src="./../../../../wp-content/uploads/2021/10/Project-11-2-1024x577.png" alt="" class="wp-image-522" srcset="./../../../../wp-content/uploads/2021/10/Project-11-2-1024x577.png 1024w, ./../../../../wp-content/uploads/2021/10/Project-11-2-300x169.png 300w, ./../../../../wp-content/uploads/2021/10/Project-11-2-768x433.png 768w, ./../../../../wp-content/uploads/2021/10/Project-11-2-1536x866.png 1536w, ./../../../../wp-content/uploads/2021/10/Project-11-2-2048x1154.png 2048w, ./../../../../wp-content/uploads/2021/10/Project-11-2-640x361.png 640w, ./../../../../wp-content/uploads/2021/10/Project-11-2-960x541.png 960w, ./../../../../wp-content/uploads/2021/10/Project-11-2.png 2166w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 id="exercise-3">Exercise 3</h4>
+
+
+
+<p>In the third exercise, I followed the workbook&#8217;s suggestion and started one melody later than the other, so the listener could more easily pick out the different voices. I developed a little theme that begins with the flute, then the tubular bells accompany it. Following this repetition, however, both melodies drift away. With a wave-shaped melody, the flute is more unstable, with a descending melody in bar 3 and an ascending melody until bar 5. In the meantime, the tubular bells are more stable, using almost always the same rhythm except for bar 7 when they take the opportunity of the calmer flute to express themselves.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="662" src="./../../../../wp-content/uploads/2021/10/Project-11-3-1024x662.png" alt="" class="wp-image-523" srcset="./../../../../wp-content/uploads/2021/10/Project-11-3-1024x662.png 1024w, ./../../../../wp-content/uploads/2021/10/Project-11-3-300x194.png 300w, ./../../../../wp-content/uploads/2021/10/Project-11-3-768x497.png 768w, ./../../../../wp-content/uploads/2021/10/Project-11-3-1536x994.png 1536w, ./../../../../wp-content/uploads/2021/10/Project-11-3-2048x1325.png 2048w, ./../../../../wp-content/uploads/2021/10/Project-11-3-640x414.png 640w, ./../../../../wp-content/uploads/2021/10/Project-11-3-960x621.png 960w, ./../../../../wp-content/uploads/2021/10/Project-11-3.png 2223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 id="exercise-4">Exercise 4</h4>
+
+
+
+<p>Similarly to the previous exercise, I tried to start one melody after another, while the instruments followed a similar theme. I could see how this theme could be used in different ways if it were a longer composition. Thus, for example, the xylophone plays two notes on the first part of the theme while the bassoon plays staccato over the same notes. However, after this repetition, the melodies go the opposite way. Generally, they move oppositely, except in the last bar when both move down and up to the final F.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="681" src="./../../../../wp-content/uploads/2021/10/Project-11-4-1024x681.png" alt="" class="wp-image-524" srcset="./../../../../wp-content/uploads/2021/10/Project-11-4-1024x681.png 1024w, ./../../../../wp-content/uploads/2021/10/Project-11-4-300x199.png 300w, ./../../../../wp-content/uploads/2021/10/Project-11-4-768x511.png 768w, ./../../../../wp-content/uploads/2021/10/Project-11-4-1536x1021.png 1536w, ./../../../../wp-content/uploads/2021/10/Project-11-4-2048x1361.png 2048w, ./../../../../wp-content/uploads/2021/10/Project-11-4-640x425.png 640w, ./../../../../wp-content/uploads/2021/10/Project-11-4-960x638.png 960w, ./../../../../wp-content/uploads/2021/10/Project-11-4.png 2222w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
 </rss>
