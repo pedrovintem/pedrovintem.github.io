@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Mon, 15 Nov 2021 13:09:53 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Nov 2021 08:39:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -83,6 +83,10 @@
 
 
 
+<figure class="wp-block-audio"><audio controls src="./../wp-content/uploads/2021/11/Assignment-4.mp3"></audio></figure>
+
+
+
 <h2 id="the-idea-theme" class="cnvs-block-section-heading cnvs-block-section-heading-1634108541003 halignleft" >
 	<span class="cnvs-section-title">
 		<span>The Idea / Theme</span>
@@ -149,7 +153,7 @@
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe loading="lazy" title="Instruments: Percussion" width="640" height="360" src="https://www.youtube.com/embed/-lJctvybAJ8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>Philharmonia Orchestra (London, UK), 2013. Instruments: Percussion. Available at:&lt;https://www.youtube.com/watch?v=-lJctvybAJ8> [Accessed 15 November 2021].</figcaption></figure>
+</div><figcaption>Philharmonia Orchestra (London, UK), 2013. Instruments: Percussion. Available at:&lt;https://www.youtube.com/watch?v=-lJctvybAJ8&gt; [Accessed 15 November 2021].</figcaption></figure>
 
 
 
@@ -163,7 +167,7 @@
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe loading="lazy" title="Alexandre Ouzounoff: Cependant, la lune se lève pour basson et vibraphone (2013)" width="640" height="360" src="https://www.youtube.com/embed/Vo1Fgqq8-Kw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>University of Michigan Bassoon Studio, 2015. Alexandre Ouzounoff: Cependant, la lune se lève pour basson et vibraphone (2013). Available at: &lt;https://www.youtube.com/watch?v=Vo1Fgqq8-Kw> [Accessed 15 November 2021].</figcaption></figure>
+</div><figcaption>University of Michigan Bassoon Studio, 2015.&nbsp;Alexandre Ouzounoff: Cependant, la lune se lève pour basson et vibraphone (2013). Available at: &lt;https://www.youtube.com/watch?v=Vo1Fgqq8-Kw&gt; [Accessed 15 November 2021].</figcaption></figure>
 
 
 
@@ -189,7 +193,7 @@
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe loading="lazy" title="Stravinsky&#039;s Rite Of Spring Bassoon solo by Gustavo Nunez" width="640" height="480" src="https://www.youtube.com/embed/Xfg9IIXhcPk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>Nick B., 2007. <em>Stravinsky&#8217;s Rite Of Spring Bassoon solo by Gustavo Nunez</em>. Available at: &lt;https://www.youtube.com/watch?v=Xfg9IIXhcPk> [Accessed 15 November 2021].<br></figcaption></figure>
+</div><figcaption>Nick B., 2007.&nbsp;<em>Stravinsky&#8217;s Rite Of Spring Bassoon solo by Gustavo Nunez</em>. Available at: &lt;https://www.youtube.com/watch?v=Xfg9IIXhcPk&gt; [Accessed 15 November 2021].<br></figcaption></figure>
 
 
 
@@ -261,7 +265,8 @@
 ]]></content:encoded>
 					
 		
-		
+		<enclosure url="./../wp-content/uploads/2021/11/Assignment-4.mp3" length="3017582" type="audio/mpeg" />
+
 			</item>
 		<item>
 		<title>Listening to Bach&#8217;s Fugues</title>
