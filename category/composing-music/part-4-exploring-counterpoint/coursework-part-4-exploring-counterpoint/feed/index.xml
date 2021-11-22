@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Thu, 21 Oct 2021 10:27:58 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Nov 2021 07:28:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,49 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
+		<title>Project 12: Two-Part Invention</title>
+		<link>./../../../../../project-12-two-part-invention/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Mon, 08 Nov 2021 07:01:00 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Part 4 Exploring counterpoint]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=610</guid>
+
+					<description><![CDATA[In the first exercise for a two-part experience, I aimed to compose something similar to what I heard&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>In the first exercise for a two-part experience, I aimed to compose something similar to what I heard from Bach and a more &#8220;traditional&#8221; invention. After reading about invention, I gathered some process rules that allow to write an invention.</p>
+
+
+
+<ul class="is-style-cnvs-list-styled"><li>Write a motif in one voice</li><li>The second voice repeats the motif in another octave</li><li>The first voice imitates the motif on the dominant</li><li>The second voice imitates the motif it played before but this time on the dominant</li><li>Then use parts or the whole motif in augmented, diminuted or inversed version while the other voice plays counterpoint</li><li>End in the tonic</li></ul>
+
+
+
+<p>Although I know these are not stric rules, I tried to apply the process here to help me compose faster and with fewer elements. I must say I liked this process. I started with a motif that is played in both voices on the tonic and on the dominant. I then passed to both voices playing a diminuted version of the motif and ending with the oboe playing a inversion while the bassoon plays a augmented motif. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="722" height="1024" src="./../../../../../wp-content/uploads/2021/11/project-12-1-722x1024.png" alt="" class="wp-image-611" srcset="./../../../../../wp-content/uploads/2021/11/project-12-1-722x1024.png 722w, ./../../../../../wp-content/uploads/2021/11/project-12-1-212x300.png 212w, ./../../../../../wp-content/uploads/2021/11/project-12-1-768x1089.png 768w, ./../../../../../wp-content/uploads/2021/11/project-12-1-1083x1536.png 1083w, ./../../../../../wp-content/uploads/2021/11/project-12-1-1445x2048.png 1445w, ./../../../../../wp-content/uploads/2021/11/project-12-1-300x425.png 300w, ./../../../../../wp-content/uploads/2021/11/project-12-1-640x907.png 640w, ./../../../../../wp-content/uploads/2021/11/project-12-1-960x1361.png 960w, ./../../../../../wp-content/uploads/2021/11/project-12-1.png 2222w" sizes="(max-width: 722px) 100vw, 722px" /></figure>
+
+
+
+<p>In my second exercise, I tried to apply a more rhythmic invention while using the marimba. As in the first exercise, I created a motif that is repeated and imitated by both voices. I didn&#8217;t feel the need to augment the motif since I got the sense that I would lose the rhytm of it, so I used an diminuted version of the motif in the marimba while the flute plays an inversion.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="928" src="./../../../../../wp-content/uploads/2021/11/Project-12-2-1024x928.png" alt="" class="wp-image-612" srcset="./../../../../../wp-content/uploads/2021/11/Project-12-2-1024x928.png 1024w, ./../../../../../wp-content/uploads/2021/11/Project-12-2-300x272.png 300w, ./../../../../../wp-content/uploads/2021/11/Project-12-2-768x696.png 768w, ./../../../../../wp-content/uploads/2021/11/Project-12-2-1536x1392.png 1536w, ./../../../../../wp-content/uploads/2021/11/Project-12-2-2048x1856.png 2048w, ./../../../../../wp-content/uploads/2021/11/Project-12-2-640x580.png 640w, ./../../../../../wp-content/uploads/2021/11/Project-12-2-960x870.png 960w, ./../../../../../wp-content/uploads/2021/11/Project-12-2.png 2223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Project 11 &#8211; Inventing free counterpoint</title>
 		<link>./../../../../../project-11-inventing-free-counterpoint/index.html</link>
 		
