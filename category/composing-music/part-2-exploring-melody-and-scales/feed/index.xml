@@ -1741,5 +1741,198 @@
 		
 		
 			</item>
+		<item>
+		<title>Project 5 – Pentatonic Melody</title>
+		<link>./../../../../project-5-pentatonic-melody/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Fri, 20 Aug 2021 06:35:45 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Part 2 Exploring melody and scales]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=244</guid>
+
+					<description><![CDATA[The purpose of this project, which is part 2 of the program, is to compose three short contrasting&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>The purpose of this project, which is part 2 of the program, is to compose three short contrasting melodies for vocals based on the pentatonic scale. To keep them engaging, it&#8217;s a good idea to be conscious of the dynamics, tempo, and rhythm.</p>
+
+
+
+<h2 id="example-1" class="cnvs-block-section-heading cnvs-block-section-heading-1629440873273 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Example 1</span>
+	</span>
+</h2>
+
+
+
+<p>I attempted to make things as simple as possible in my first exercise, concentrating mostly on the melody shape. It&#8217;s written in C, but I begin in E to add interest and to allow the melody to descend a little to lead the listener to the highest note in the melody.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="288" src="./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1024x288.png" alt="" class="wp-image-248" srcset="./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1024x288.png 1024w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-300x84.png 300w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-768x216.png 768w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-1536x432.png 1536w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-2048x576.png 2048w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-640x180.png 640w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1-960x270.png 960w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1-1.png 2171w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1.mp3"></audio></figure>
+
+
+
+<h2 id="example-2" class="cnvs-block-section-heading cnvs-block-section-heading-1629440879230 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Example 2</span>
+	</span>
+</h2>
+
+
+
+<p>I opted to develop an exercise with the F# pentatonic because it can be played on the piano&#8217;s black keys. It began to sound Chinese to me, so I went with it. It ended up having a straight melody shape, starting low, rising, going down, going higher, falling, going up a little and ending almost straight.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="440" src="./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1024x440.png" alt="" class="wp-image-246" srcset="./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1024x440.png 1024w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-300x129.png 300w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-768x330.png 768w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-1536x660.png 1536w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-2048x880.png 2048w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-640x275.png 640w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2-960x412.png 960w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2.png 2172w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2.mp3"></audio></figure>
+
+
+
+<h2 id="example-3" class="cnvs-block-section-heading cnvs-block-section-heading-1629440884585 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Example 3</span>
+	</span>
+</h2>
+
+
+
+<p>After hearing Debussy&#8217;s La Fille Aux Cheveux De Lin, I was drawn to the main motif&#8217;s &#8220;wave&#8221; shape. I wanted to create a melody that resembled waves. I used the Bb pentatonic, but there&#8217;s a modulation to Eb in the middle, then back to Bb in the conclusion.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="438" src="./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-1024x438.png" alt="" class="wp-image-247" srcset="./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-1024x438.png 1024w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-300x128.png 300w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-768x328.png 768w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-1536x656.png 1536w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-2048x875.png 2048w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-640x273.png 640w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3-960x410.png 960w, ./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3.png 2172w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3.mp3"></audio></figure>
+
+
+
+<p>Finally, I believe that this effort helped me better comprehend the pentatonic scale&#8217;s possibilities and reinforce my knowledge of articulations from Taylor&#8217;s material.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-1.mp3" length="447655" type="audio/mpeg" />
+<enclosure url="./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-2.mp3" length="828520" type="audio/mpeg" />
+<enclosure url="./../../../../wp-content/uploads/2021/08/Project-5-Pentatonic-Melody-3.mp3" length="645141" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>Thoughts on the Pentatonic Scale</title>
+		<link>./../../../../thoughts-on-the-pentatonic-scale/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Wed, 18 Aug 2021 03:41:00 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Exploring melody and scales]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=228</guid>
+
+					<description><![CDATA[I must confess that, aside from knowing what the pentatonic scale was, I had no idea how important&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2 id="the-universal-language" class="cnvs-block-section-heading cnvs-block-section-heading-1629344592441 is-style-cnvs-block-section-heading-2 halignleft" >
+	<span class="cnvs-section-title">
+		<span>The universal language</span>
+	</span>
+</h2>
+
+
+
+<p>I must confess that, aside from knowing what the pentatonic scale was, I had no idea how important it was in music. I used to think it was a simple scale that was mostly used in nursery rhymes and was used as the first scale a novice learns.</p>
+
+
+
+<p>Despite the fact that I was not mistaken, after viewing this incredible video by musician Anuja Kamat, I realized that the pentatonic scale is used all over the world.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Introductory episode: Basic theory of Indian Classical Music" width="640" height="360" src="https://www.youtube.com/embed/9VQjH0RrdXU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Anuja Kamat, 2014. <em>Introductory episode: Basic theory of Indian Classical Music</em>.  Available at: &lt;https://www.youtube.com/watch?v=9VQjH0RrdXU> [Accessed 18 August 2021].</figcaption></figure>
+
+
+
+<p>But why is the pentatonic scale employed by ancient civilizations and people all across the world? Mathematics and frequency are the keys to the solution. Because all notes have a straightforward relationship between them, as illustrated in the points below, all notes sound good. As a result, they appeal to everyone&#8217;s ears.</p>
+
+
+
+<ul class="is-style-cnvs-list-styled"><li>tonic has whatever frequency&nbsp;you first chose</li><li>supertonic has the frequency of tonic multiplied by 1⅛</li><li>mediant has the frequency of tonic multiplied by 1¼</li><li>dominant has the frequency of tonic multiplied by 1½</li><li>submediant has the frequency of tonic multiplied by 1⅔</li><li>tonic (octave above) has the frequency of orginal tonic&nbsp;multiplied by 2</li></ul>
+
+
+
+<p>The pentatonic scale appears in a variety of musical styles, which is fascinating. In the Chinese folk tune Mo Li Hua, for example.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jasmine_barrow.svg/2880px-Jasmine_barrow.svg.png" alt=""/></figure>
+
+
+
+<p>In the well-known Amazing Grace, for example.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="96" src="./../../../../wp-content/uploads/2021/08/image-1024x96.png" alt="" class="wp-image-233" srcset="./../../../../wp-content/uploads/2021/08/image-1024x96.png 1024w, ./../../../../wp-content/uploads/2021/08/image-300x28.png 300w, ./../../../../wp-content/uploads/2021/08/image-768x72.png 768w, ./../../../../wp-content/uploads/2021/08/image-640x60.png 640w, ./../../../../wp-content/uploads/2021/08/image-960x90.png 960w, ./../../../../wp-content/uploads/2021/08/image.png 1048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Hold On We&#8217;re Going Home by Drake is another song that uses the pentatonic scale, which is quite prevalent in pop music.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="79" src="./../../../../wp-content/uploads/2021/08/untitled-2-1-1024x79.png" alt="" class="wp-image-232" srcset="./../../../../wp-content/uploads/2021/08/untitled-2-1-1024x79.png 1024w, ./../../../../wp-content/uploads/2021/08/untitled-2-1-300x23.png 300w, ./../../../../wp-content/uploads/2021/08/untitled-2-1-768x59.png 768w, ./../../../../wp-content/uploads/2021/08/untitled-2-1-1536x119.png 1536w, ./../../../../wp-content/uploads/2021/08/untitled-2-1-2048x159.png 2048w, ./../../../../wp-content/uploads/2021/08/untitled-2-1-640x50.png 640w, ./../../../../wp-content/uploads/2021/08/untitled-2-1-960x74.png 960w, ./../../../../wp-content/uploads/2021/08/untitled-2-1.png 2066w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>It is also employed by classical composers. Debussy&#8217;s La Fille Aux Cheveux De Lin contains another melody based on the pentatonic scale (except for an F).</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.teoria.com/res/images/articles/debussy-fille-aux-cheveux-des-lin/tema.gif" alt=""/></figure>
+
+
+
+<p>It makes me wonder whether maybe the pentatonic scale is the so-coveted universal language. A common language shared by people from various places, cultures, and eras. Even if two persons from completely different cultures and musical backgrounds are brought together, they may agree that these five notes sound good. </p>
+
+
+
+<p>This Bob McFerrin story exemplifies it perfectly.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Bobby McFerrin Demonstrates the Power of the Pentatonic Scale" width="640" height="360" src="https://www.youtube.com/embed/ne6tB2KiZuk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>World Science Festival, 2009. <em>Bobby McFerrin Demonstrates the Power of the Pentatonic Scale</em>.  Available at: &lt;https://www.youtube.com/watch?v=ne6tB2KiZuk> [Accessed 18 August 2021].</figcaption></figure>
+
+
+
+<p>Although I still believe the pentatonic scale is a simple scale, I now recognize its significance in music and the vast possibilities it offers. I&#8217;m going to use them in the pentatonic scale melody project I&#8217;m working on.</p>
+
+
+
+<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1629345034820 is-style-cnvs-block-section-heading-6 halignleft" >
+	<span class="cnvs-section-title">
+		<span>References</span>
+	</span>
+</h2>
+
+
+
+<p>Powell, J., 2010.&nbsp;<em>How music works</em>. New York, NY: Little, Brown.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
 	</channel>
 </rss>
