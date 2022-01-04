@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Mon, 30 Aug 2021 03:59:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Dec 2021 15:03:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -191,11 +191,11 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1QFohpqSI7WnSGFSBj_y1PvFNbjsYxoIb"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../../wp-content/uploads/2021/12/Project-3-Percussion-ensemble-3.mp3"></audio></figure>
 
 
 
-<figure class="wp-block-video"><video controls src="https://drive.google.com/uc?export=download&amp;id=1oWri57YcFylpa5OnADSwpJ4X8h_gVUZv"></video></figure>
+<figure class="wp-block-video"><video controls src="./../../../../../wp-content/uploads/2021/12/Lacoste-The-Big-Leap.mov"></video></figure>
 
 
 
@@ -255,7 +255,7 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1rt7wr1KcbuzbBUEI-Lu215_0_0Umffg5"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../../wp-content/uploads/2021/12/Project-3-Percussion-ensemble-Beguine.mp3"></audio></figure>
 
 
 
@@ -263,7 +263,10 @@
 ]]></content:encoded>
 					
 		
-		
+		<enclosure url="./../../../../../wp-content/uploads/2021/12/Project-3-Percussion-ensemble-3.mp3" length="1093402" type="audio/mpeg" />
+<enclosure url="./../../../../../wp-content/uploads/2021/12/Lacoste-The-Big-Leap.mov" length="6279762" type="video/quicktime" />
+<enclosure url="./../../../../../wp-content/uploads/2021/12/Project-3-Percussion-ensemble-Beguine.mp3" length="911067" type="audio/mpeg" />
+
 			</item>
 		<item>
 		<title>Project 2 &#8211; Percussion Duets</title>
@@ -329,7 +332,7 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1IYWIw9IMgy0QJ5kqTFWpH71-Gy5LvhHc"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Snare-Bass-Drum.mp3"></audio></figure>
 
 
 
@@ -378,7 +381,7 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1ZN0yhn8GKOKUDeQlWchSO-K4sAVFRGGf"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Shaker-Wood-Block.mp3"></audio></figure>
 
 
 
@@ -433,7 +436,7 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1LvZgIM443SsHXTA0b08Hl4F3TqSsOAqd"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Castanets-Tambourine.mp3"></audio></figure>
 
 
 
@@ -482,7 +485,7 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1a3BrL-d4sOx6aMF-_d2DayNyySYu8Bbm"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Triangle-Cymbal-2.mp3"></audio></figure>
 
 
 
@@ -498,7 +501,11 @@
 ]]></content:encoded>
 					
 		
-		
+		<enclosure url="./../../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Snare-Bass-Drum.mp3" length="572520" type="audio/mpeg" />
+<enclosure url="./../../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Shaker-Wood-Block.mp3" length="376602" type="audio/mpeg" />
+<enclosure url="./../../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Castanets-Tambourine.mp3" length="445565" type="audio/mpeg" />
+<enclosure url="./../../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Triangle-Cymbal-2.mp3" length="635214" type="audio/mpeg" />
+
 			</item>
 		<item>
 		<title>Project 1: Percussion Solos</title>
@@ -578,7 +585,11 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1cCwI1KtqD4xXz9_LMgGHwhcKvb8jKM-e"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Triangle.mp3"></audio></figure>
+
+
+
+<p></p>
 
 
 
@@ -602,7 +613,7 @@
 		
 
 <figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Spotify Embed: Chop Suey!" width="100%" height="380" allowtransparency="true" frameborder="0" allow="encrypted-media" src="https://open.spotify.com/embed/track/2DlHlPMa4M17kufBvI2lEN?si=f0c52e1e3e8140b3"></iframe>
+<iframe loading="lazy" title="Spotify Embed: Chop Suey!" width="100%" height="80" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" src="https://open.spotify.com/embed/track/2DlHlPMa4M17kufBvI2lEN?si=f0c52e1e3e8140b3&#038;utm_source=oembed"></iframe>
 </div><figcaption>System Of A Down, 2001.&nbsp;<em>Chop Suey!</em>. [online] Available at: &lt;https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN?si=a09b43b598914518&gt; [Accessed 29 June 2021].</figcaption></figure>
 
 	</div>
@@ -627,7 +638,11 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=15EaJuvfsjjbVj6AI3XPSBiTD7AjHM_Pr"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Snare.mp3"></audio></figure>
+
+
+
+<p></p>
 
 
 
@@ -676,7 +691,11 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1YdElwJ_E-cqqi441BUOpSFdbgLULA20s"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Taiko-2.mp3"></audio></figure>
+
+
+
+<p></p>
 
 
 
@@ -729,7 +748,11 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1eMvaqAlEY7mRBmlpm7FphDAoQLrmT2wK"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Tambourine.mp3"></audio></figure>
+
+
+
+<p></p>
 
 
 
@@ -765,7 +788,11 @@
 ]]></content:encoded>
 					
 		
-		
+		<enclosure url="./../../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Triangle.mp3" length="389141" type="audio/mpeg" />
+<enclosure url="./../../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Snare.mp3" length="431982" type="audio/mpeg" />
+<enclosure url="./../../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Taiko-2.mp3" length="605435" type="audio/mpeg" />
+<enclosure url="./../../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Tambourine.mp3" length="305549" type="audio/mpeg" />
+
 			</item>
 	</channel>
 </rss>

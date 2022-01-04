@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Mon, 30 Aug 2021 03:59:43 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Dec 2021 14:13:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -462,11 +462,11 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1QFohpqSI7WnSGFSBj_y1PvFNbjsYxoIb"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../wp-content/uploads/2021/12/Project-3-Percussion-ensemble-3.mp3"></audio></figure>
 
 
 
-<figure class="wp-block-video"><video controls src="https://drive.google.com/uc?export=download&amp;id=1oWri57YcFylpa5OnADSwpJ4X8h_gVUZv"></video></figure>
+<figure class="wp-block-video"><video controls src="./../../../../wp-content/uploads/2021/12/Lacoste-The-Big-Leap.mov"></video></figure>
 
 
 
@@ -526,7 +526,7 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1rt7wr1KcbuzbBUEI-Lu215_0_0Umffg5"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../wp-content/uploads/2021/12/Project-3-Percussion-ensemble-Beguine.mp3"></audio></figure>
 
 
 
@@ -534,7 +534,10 @@
 ]]></content:encoded>
 					
 		
-		
+		<enclosure url="./../../../../wp-content/uploads/2021/12/Project-3-Percussion-ensemble-3.mp3" length="1093402" type="audio/mpeg" />
+<enclosure url="./../../../../wp-content/uploads/2021/12/Lacoste-The-Big-Leap.mov" length="6279762" type="video/quicktime" />
+<enclosure url="./../../../../wp-content/uploads/2021/12/Project-3-Percussion-ensemble-Beguine.mp3" length="911067" type="audio/mpeg" />
+
 			</item>
 		<item>
 		<title>Listening to Boris Blacher &#8211; Variations On A Theme of Paganini</title>
@@ -678,7 +681,7 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1IYWIw9IMgy0QJ5kqTFWpH71-Gy5LvhHc"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Snare-Bass-Drum.mp3"></audio></figure>
 
 
 
@@ -727,7 +730,7 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1ZN0yhn8GKOKUDeQlWchSO-K4sAVFRGGf"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Shaker-Wood-Block.mp3"></audio></figure>
 
 
 
@@ -782,7 +785,7 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1LvZgIM443SsHXTA0b08Hl4F3TqSsOAqd"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Castanets-Tambourine.mp3"></audio></figure>
 
 
 
@@ -831,7 +834,7 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1a3BrL-d4sOx6aMF-_d2DayNyySYu8Bbm"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Triangle-Cymbal-2.mp3"></audio></figure>
 
 
 
@@ -847,7 +850,11 @@
 ]]></content:encoded>
 					
 		
-		
+		<enclosure url="./../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Snare-Bass-Drum.mp3" length="572520" type="audio/mpeg" />
+<enclosure url="./../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Shaker-Wood-Block.mp3" length="376602" type="audio/mpeg" />
+<enclosure url="./../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Castanets-Tambourine.mp3" length="445565" type="audio/mpeg" />
+<enclosure url="./../../../../wp-content/uploads/2021/12/Project-2-Percussion-solos-Triangle-Cymbal-2.mp3" length="635214" type="audio/mpeg" />
+
 			</item>
 		<item>
 		<title>Researching Variable Metre</title>
@@ -1014,6 +1021,83 @@
 		
 			</item>
 		<item>
+		<title>Listening to System Of A Down &#8211; Chop Suey!</title>
+		<link>./../../../../listening-to-system-of-a-down-chop-suey/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 10:14:00 +0000</pubDate>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 1 Exploring rhythm]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=708</guid>
+
+					<description><![CDATA[As I was working on project 1, System Of A Down&#8217;s Chop Suey! began playing on my Spotify.&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>As I was working on project 1, System Of A Down&#8217;s Chop Suey! began playing on my Spotify. Although I have always enjoyed this song, I never paid close attention to it.</p>
+
+
+
+<p>Chop Suey! is the first single from the Los Angeles band&#8217;s second studio album, Toxicity, it&#8217;s one of the most recognizable songs in the Nu-Metal genre and it was voted the greatest metal song of the 21st century by Metal Hammer magazine (Metal Hammer, 2021).</p>
+
+
+
+<p>While System Of A Down is an American heavy metal band, all of its members are of Armenian descent, being either the children of Armenian immigrants or immigrants themselves from Armenia. This contributes to the novel sound that they brought to the Heavy Metal scene, which is especially apparent in Chop Suey!.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="System Of A Down - Chop Suey! (Official HD Video)" width="640" height="480" src="https://www.youtube.com/embed/CSvFpBOe8eY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>System Of A Down, 2009.&nbsp;<em>System Of A Down &#8211; Chop Suey! (Official HD Video)</em>.  Available at: &lt;https://www.youtube.com/watch?v=CSvFpBOe8eY&gt; [Accessed 2 July 2021].</figcaption></figure>
+
+
+
+<p>One reason this song is so enjoyable is that it is both familiar and experimental at the same time. “It has this very experimental side that wasn’t like anything the radio was playing at the time, but also a really melodic side that really caught people,” says the band&#8217;s guitarist Daron Malakian (Everley, 2021).</p>
+
+
+
+<p>Initially, we hear an acoustic guitar with a danceable rhythm, followed by bass and drums. The intro leads to the heavy part with heavily distorted electric guitar and open hi-hats on the drums. After that, the novel part begins.</p>
+
+
+
+<p>The voice, guitar, bass, and drums are all unified in the verse. They all have the same rhythm, the same rests, and the same notes. It&#8217;s confusing, unexpected, and a nod to rap music. For me, this is the most memorable part of the song because it is almost like a staccato in a heavy metal song.</p>
+
+
+
+<p>After the verse, the song moves flawlessly to the chorus. This is a melodic and calm part. The two voices are in harmony, the guitar is playing a simpler arpeggio and the drums are just sustaining the rhythm. This is another interesting take on this song, because instead of the chorus being the climax and the most memorable part of the song, as it usually is, here is the relaxing part that makes a bridge between the chaotic verse.</p>
+
+
+
+<p>The song repeats the pre-verse riff, then the verse and chorus again before moving to the bridge. Here, the chaos returns with the distorted guitars and intense drums is combined with a new melody sung by Gregorian chant-like harmonies. Once again, an unexpecting twist makes this song even more memorable.</p>
+
+
+
+<p>The bridge moves almost unnoticeably to the chorus but with few changes in melody and in the guitar, keeping it fresh but familiar at the same time until the end of the song.</p>
+
+
+
+<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1640873187970 is-style-cnvs-block-section-heading-6 halignleft" >
+	<span class="cnvs-section-title">
+		<span>References</span>
+	</span>
+</h2>
+
+
+
+<p>Metal Hammer. 2021.&nbsp;<em>System Of A Down&#8217;s Chop Suey! has been voted the greatest metal song of the 21st century</em>. [online] Available at: &lt;https://www.loudersound.com/news/system-of-a-downs-chop-suey-has-been-voted-the-greatest-metal-song-of-the-21st-century&gt; [Accessed 2 July 2021].</p>
+
+
+
+<p>Everley, D., 2021.&nbsp;<em>The Story Behind The Song: System Of A Down’s Chop Suey!</em>. [online] Metal Hammer. Available at: &lt;https://www.loudersound.com/features/system-of-a-down-chop-suey-story-behind-the-song&gt; [Accessed 2 July 2021].</p>
+
+
+
+<p> </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Project 1: Percussion Solos</title>
 		<link>./../../../../project-1-percussion-solos/index.html</link>
 		
@@ -1091,7 +1175,11 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1cCwI1KtqD4xXz9_LMgGHwhcKvb8jKM-e"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Triangle.mp3"></audio></figure>
+
+
+
+<p></p>
 
 
 
@@ -1115,7 +1203,7 @@
 		
 
 <figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Spotify Embed: Chop Suey!" width="100%" height="380" allowtransparency="true" frameborder="0" allow="encrypted-media" src="https://open.spotify.com/embed/track/2DlHlPMa4M17kufBvI2lEN?si=f0c52e1e3e8140b3"></iframe>
+<iframe loading="lazy" title="Spotify Embed: Chop Suey!" width="100%" height="80" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" src="https://open.spotify.com/embed/track/2DlHlPMa4M17kufBvI2lEN?si=f0c52e1e3e8140b3&#038;utm_source=oembed"></iframe>
 </div><figcaption>System Of A Down, 2001.&nbsp;<em>Chop Suey!</em>. [online] Available at: &lt;https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN?si=a09b43b598914518&gt; [Accessed 29 June 2021].</figcaption></figure>
 
 	</div>
@@ -1140,7 +1228,11 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=15EaJuvfsjjbVj6AI3XPSBiTD7AjHM_Pr"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Snare.mp3"></audio></figure>
+
+
+
+<p></p>
 
 
 
@@ -1189,7 +1281,11 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1YdElwJ_E-cqqi441BUOpSFdbgLULA20s"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Taiko-2.mp3"></audio></figure>
+
+
+
+<p></p>
 
 
 
@@ -1242,7 +1338,11 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="https://drive.google.com/uc?export=download&amp;id=1eMvaqAlEY7mRBmlpm7FphDAoQLrmT2wK"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="./../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Tambourine.mp3"></audio></figure>
+
+
+
+<p></p>
 
 
 
@@ -1278,7 +1378,11 @@
 ]]></content:encoded>
 					
 		
-		
+		<enclosure url="./../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Triangle.mp3" length="389141" type="audio/mpeg" />
+<enclosure url="./../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Snare.mp3" length="431982" type="audio/mpeg" />
+<enclosure url="./../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Taiko-2.mp3" length="605435" type="audio/mpeg" />
+<enclosure url="./../../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Tambourine.mp3" length="305549" type="audio/mpeg" />
+
 			</item>
 		<item>
 		<title>The Sound Of Revolution</title>
