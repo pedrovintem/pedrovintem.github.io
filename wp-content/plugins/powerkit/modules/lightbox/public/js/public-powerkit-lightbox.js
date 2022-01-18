@@ -7,14 +7,18 @@
 	$.fn.powerkitLightbox = function( options ) {
 
 		var settings = $.extend( {
-			gallery : false,
-		}, options);
+			gallery: false,
+		}, options );
 
-		var objSelector       = this;
-		var imageSelector     = null;
+		var objSelector = this;
+		var imageSelector = null;
 		var containerSelector = null;
+		var initGallery = [];
 
 		$( objSelector ).each( function() {
+			var id = Math.random().toString( 36 ).substr( 2, 9 );
+
+			console.log(this);
 
 			if ( $( this ).is( 'img' ) ) {
 				imageSelector = this;
@@ -26,12 +30,12 @@
 
 				var container = $( this ).parent();
 
-				if ( ! $( container ).is( 'a' ) ) {
+				if ( !$( container ).is( 'a' ) ) {
 					return;
 				}
 
 				var imagehref = $( container ).attr( 'href' );
-				if ( ! imagehref.match( /\.(gif|jpeg|jpg|png)/ ) ) {
+				if ( !imagehref.match( /\.(gif|jpeg|jpg|png)/ ) ) {
 					return;
 				}
 
@@ -62,59 +66,61 @@
 
 				container = $( container ).parent();
 
-				$( '> a', container ).not('.pk-pin-it').addClass( 'pk-image-popup' );
+				$( '> a', container ).not( '.pk-pin-it' ).addClass( 'pk-image-popup' );
 
 				if ( powerkit_lightbox_localize.zoom_icon ) {
-					$( '> a', container ).not('.pk-pin-it').addClass( 'pk-zoom-icon-popup' );
+					$( '> a', container ).not( '.pk-pin-it' ).addClass( 'pk-zoom-icon-popup' );
 				}
 
 				if ( $( objSelector ).is( 'img' ) ) {
 					containerSelector = container;
 				}
 
-			});
+			} );
 
-			if ( ! $( objSelector ).is( 'img' ) ) {
+			if ( !$( objSelector ).is( 'img' ) ) {
 				containerSelector = this;
 			}
 
-			$( containerSelector ).magnificPopup( {
-				delegate: '.pk-image-popup',
-				type: 'image',
-				tClose: powerkit_lightbox_localize.text_close + '(Esc)',
-				tLoading: powerkit_lightbox_localize.text_loading,
-				gallery: {
-					enabled: settings.gallery,
-					tPrev: powerkit_lightbox_localize.text_previous,
-					tNext: powerkit_lightbox_localize.text_next,
-					tCounter: '<span class="mfp-counter">%curr% ' + powerkit_lightbox_localize.text_counter + ' %total%</span>'
-				},
-				image: {
-					titleSrc: function( item ) {
-						let figure = item.el.closest( 'figure' );
+			if ( $( containerSelector ).is( '[data-pk-uuid]' ) ) {
+				return;
+			}
 
-						let description = $( figure ).find( 'img' ).data( 'lightbox-description' );
+			$( containerSelector ).attr( 'data-pk-uuid', id );
 
-						if ( ! description ) {
-							description = $( figure ).find( '.wp-caption-text' ).text();
-						}
+			initGallery[ id ] = GLightbox( {
+				loop: settings.gallery,
+				touchNavigation: true,
+				autoplayVideos: true,
+				selector: `[data-pk-uuid="${id}"] .pk-image-popup`,
+			} );
 
-						if ( ! description ) {
-							description = $( figure ).find( 'figcaption' ).text();
-						}
+			initGallery[ id ].on( 'slide_before_load', ( data ) => {
+				const { slideIndex, slideNode, slideConfig, player, trigger } = data;
 
-						return description;
-					}
-				},
+				let figure = $( trigger ).closest( 'figure' );
+
+				let description = $( figure ).find( 'img' ).data( 'lightbox-description' ) || '';
+
+				if ( !description ) {
+					description = $( figure ).find( '.wp-caption-text' ).text();
+				}
+
+				if ( !description ) {
+					description = $( figure ).find( 'figcaption' ).text();
+				}
+
+				if ( description ) {
+					slideConfig.title = description;
+				}
 			} );
 		} );
-
 	};
 
 
 	function initPowerkitLightbox() {
 		var excludeSelectors = powerkit_lightbox_localize.exclude_selectors;
-		var imageSelectors   = powerkit_lightbox_localize.single_image_selectors;
+		var imageSelectors = powerkit_lightbox_localize.single_image_selectors;
 		var gallerySelectors = powerkit_lightbox_localize.gallery_selectors
 
 		// Exclude.
@@ -131,14 +137,14 @@
 
 		// Single Init -----------------------------------
 		$( imageSelectors ).imagesLoaded( function() {
-			var exSplit = excludeSelectors.split(',');
-			var glSplit = gallerySelectors.split(',');
+			var exSplit = excludeSelectors.split( ',' );
+			var glSplit = gallerySelectors.split( ',' );
 
 			// Join exclude selectors.
 			filterSelectors = exSplit.concat( glSplit ).filter( function( value ) {
-				return !! value;
+				return !!value;
 			} ).filter( function( value ) {
-				return ! this[ value ] && ( this[ value ] = true );
+				return !this[ value ] && ( this[ value ] = true );
 			}, Object.create( null ) ).join( ',' );
 
 			// Init.
@@ -156,6 +162,7 @@
 
 	$( document ).ready( function() {
 		initPowerkitLightbox();
+
 		$( document.body ).on( 'post-load image-load', function() {
 			initPowerkitLightbox();
 		} );

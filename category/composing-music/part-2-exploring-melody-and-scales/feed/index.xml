@@ -12,13 +12,13 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Fri, 15 Oct 2021 06:55:50 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Jan 2022 15:39:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 	<item>
 		<title>Reflections on Assignment 2</title>
 		<link>./../../../../reflections-on-assignment-2/index.html</link>
@@ -52,7 +52,7 @@
 			<div class="cs-posts-area__outer">
 				<div class="cs-posts-area__main  cs-posts-area__grid">
 					
-<article class="post-241 post type-post status-publish format-standard has-post-thumbnail category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-241 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -171,7 +171,7 @@
 			<div class="cs-posts-area__outer">
 				<div class="cs-posts-area__main  cs-posts-area__grid">
 					
-<article class="post-288 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-288 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -197,7 +197,7 @@
 
 
 
-<article class="post-332 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-332 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -1695,7 +1695,8 @@
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Sat, 21 Aug 2021 07:21:00 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
+				<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Listening Log]]></category>
 		<category><![CDATA[Part 2 Exploring melody and scales]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=241</guid>
 
