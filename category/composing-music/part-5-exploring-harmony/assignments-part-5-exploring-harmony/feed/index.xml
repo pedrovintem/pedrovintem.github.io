@@ -12,14 +12,53 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Wed, 12 Jan 2022 15:39:38 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 22 Jan 2022 11:33:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 	<item>
+		<title>Revision of Assignment 5 after tutor feedback</title>
+		<link>./../../../../../revision-of-assignment-5-after-tutor-feedback/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Thu, 06 Jan 2022 11:06:00 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Part 5 Exploring harmony]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=769</guid>
+
+					<description><![CDATA[My reviewed score can be viewed here. Since my tutor commented that the flute was unsupported by the&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>My reviewed score can be viewed <a href="./../../../../../wp-content/uploads/2022/01/Assignment-5-revision-Full-Score.pdf" data-type="URL" data-id="./../../../../../wp-content/uploads/2022/01/Assignment-5-revision-Full-Score.pdf" target="_blank">here</a>.</p>
+
+
+
+<p>Since my tutor commented that the flute was unsupported by the piano in bar 31, I rewrote the piano to be even more minimalistic in order to create a dramatic point for the flute. This creates a great contrast between the previous and the following busy textures.</p>
+
+
+
+<p>In regard to notation, I added a time signature, slurred the grace notes, and reviewed all accidentals, especially the B flats in the B-minor scale that should be A sharps.</p>
+
+
+
+<p>With pedal markings, quaver and crochet sounded the same, so, as suggested by the tutor, I reviewed all the notes that had pedal markings to avoid over notating.</p>
+
+
+
+<p>To emphasize the staccato sound of the C section, I added some articulation marks.</p>
+
+
+
+<p>As the tutor pointed out, the chords were a bit heavy and muddy in bars 43-46. So, I softened the piano chords in those bars.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Reflections on Assignment 5</title>
 		<link>./../../../../../reflections-on-assignment-5/index.html</link>
 		
@@ -143,7 +182,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="82" src="./../../../../../wp-content/uploads/2021/12/Assignment-5-22-1024x82.png" alt="" class="wp-image-651" srcset="./../../../../../wp-content/uploads/2021/12/Assignment-5-22-1024x82.png 1024w, ./../../../../../wp-content/uploads/2021/12/Assignment-5-22-300x24.png 300w, ./../../../../../wp-content/uploads/2021/12/Assignment-5-22-768x62.png 768w, ./../../../../../wp-content/uploads/2021/12/Assignment-5-22-1536x123.png 1536w, ./../../../../../wp-content/uploads/2021/12/Assignment-5-22-2048x164.png 2048w, ./../../../../../wp-content/uploads/2021/12/Assignment-5-22-640x51.png 640w, ./../../../../../wp-content/uploads/2021/12/Assignment-5-22-960x77.png 960w, ./../../../../../wp-content/uploads/2021/12/Assignment-5-22.png 2171w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img width="1024" height="82" src="./../../../../../wp-content/uploads/2021/12/Assignment-5-22-1024x82.png" alt="" class="wp-image-651" srcset="./../../../../../wp-content/uploads/2021/12/Assignment-5-22-1024x82.png 1024w, ./../../../../../wp-content/uploads/2021/12/Assignment-5-22-300x24.png 300w, ./../../../../../wp-content/uploads/2021/12/Assignment-5-22-768x62.png 768w, ./../../../../../wp-content/uploads/2021/12/Assignment-5-22-1536x123.png 1536w, ./../../../../../wp-content/uploads/2021/12/Assignment-5-22-2048x164.png 2048w, ./../../../../../wp-content/uploads/2021/12/Assignment-5-22-640x51.png 640w, ./../../../../../wp-content/uploads/2021/12/Assignment-5-22-960x77.png 960w, ./../../../../../wp-content/uploads/2021/12/Assignment-5-22.png 2171w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

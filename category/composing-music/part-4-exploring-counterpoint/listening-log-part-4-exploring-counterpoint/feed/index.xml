@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 	<item>
 		<title>Listening to Bach&#8217;s Fugues</title>
 		<link>./../../../../../listening-to-bachs-fugues/index.html</link>
@@ -37,7 +37,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="The Well-Tempered Clavier, Book 1: Fugue No. 8 in D-Sharp Minor, BWV 853" width="640" height="480" src="https://www.youtube.com/embed/ZG8LVgUzSc0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="The Well-Tempered Clavier, Book 1: Fugue No. 8 in D-Sharp Minor, BWV 853" width="640" height="480" src="https://www.youtube.com/embed/ZG8LVgUzSc0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div><figcaption>Gould, G., 2015.&nbsp;<em>The Well-Tempered Clavier, Book 1: Fugue No. 8 in D-Sharp Minor, BWV 853</em>. Available at: &lt;https://www.youtube.com/watch?v=ZG8LVgUzSc0&gt; [Accessed 12 November 2021].</figcaption></figure>
 
 
@@ -466,7 +466,7 @@
 
 
 <figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Spotify Embed: Adagio in C Minor" width="100%" height="80" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" src="https://open.spotify.com/embed/track/2hdBC9gUzlb0mpzDFOWv8n?si=ec602f74e4074406&#038;utm_source=oembed"></iframe>
+<iframe loading="lazy" title="Spotify Embed: Adagio in C Minor" width="100%" height="80" style="[object Object]" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" src="https://open.spotify.com/embed/track/2hdBC9gUzlb0mpzDFOWv8n?si=ec602f74e4074406&#038;utm_source=oembed"></iframe>
 </div></figure>
 
 

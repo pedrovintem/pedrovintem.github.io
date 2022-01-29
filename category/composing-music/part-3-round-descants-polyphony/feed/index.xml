@@ -12,14 +12,61 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Wed, 12 Jan 2022 15:39:38 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Jan 2022 11:30:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 	<item>
+		<title>Revision of Assignment 3 after tutor feedback</title>
+		<link>./../../../../revision-of-assignment-3-after-tutor-feedback/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Tue, 04 Jan 2022 10:27:00 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Part 3 Round, descants, polyphony]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=759</guid>
+
+					<description><![CDATA[My reviewed score can be accessed here. Although the tutor&#8217;s feedback was positive, he pointed out several issues,&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>My reviewed score can be accessed <a href="./../../../../wp-content/uploads/2022/01/Assignment-3-Revision-Full-Score.pdf" data-type="URL" data-id="./../../../../wp-content/uploads/2022/01/Assignment-3-Revision-Full-Score.pdf" target="_blank">here</a>.</p>
+
+
+
+<p>Although the tutor&#8217;s feedback was positive, he pointed out several issues, the biggest of which was the heavyweight of the B and C sections, compared to the lightness and elegance of the A section. The suggestion was that I offer some of the lightness of the beginning in the next sections, so there would be a balance between all sections.</p>
+
+
+
+<p>Despite my attempts to incorporate some of the qualities of the opening into the C section, I was not able to do it because every time I tried to change it, I felt that I was losing my sense of what this piece was.&nbsp;</p>
+
+
+
+<p>However, most of the changes were made in section B. Particularly the creation of a two-part counterpoint between the oboe and bassoon.&nbsp;</p>
+
+
+
+<p>I changed the key signature in the B section from C# to Db because, as the tutor pointed out, five flats are easier to read than seven sharps.</p>
+
+
+
+<p>Because there were times when staccatos and repeated notes were under slurs, I reviewed them all. My tutor pointed out that this wasn&#8217;t modern standard notation.&nbsp;</p>
+
+
+
+<p>As the tutor pointed out, the oboe and bassoon did not have any rests and the flute had very few rests. Throughout the piece, I added a few rests for all three instruments, without sacrificing the overall sonority I wanted. Other than the flute, which has a long rest in the middle section, I couldn&#8217;t find space for long rests on the other instruments.</p>
+
+
+
+<p>It hadn&#8217;t occurred to me that the two first pages were denser than the rest, so I spread them out.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Reflections on Assignment 3</title>
 		<link>./../../../../reflections-on-assignment-3/index.html</link>
 		
@@ -83,7 +130,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="358" src="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-1024x358.png" alt="" class="wp-image-473" srcset="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-1024x358.png 1024w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-300x105.png 300w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-768x268.png 768w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-640x224.png 640w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-960x336.png 960w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47.png 1190w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img width="1024" height="358" src="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-1024x358.png" alt="" class="wp-image-473" srcset="./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-1024x358.png 1024w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-300x105.png 300w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-768x268.png 768w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-640x224.png 640w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-960x336.png 960w, ./../../../../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47.png 1190w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -18,8 +18,6 @@
 		$( objSelector ).each( function() {
 			var id = Math.random().toString( 36 ).substr( 2, 9 );
 
-			console.log(this);
-
 			if ( $( this ).is( 'img' ) ) {
 				imageSelector = this;
 			} else {

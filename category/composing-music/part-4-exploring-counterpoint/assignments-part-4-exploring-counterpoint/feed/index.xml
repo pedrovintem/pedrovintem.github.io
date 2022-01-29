@@ -12,14 +12,45 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Wed, 12 Jan 2022 15:39:38 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Jan 2022 17:59:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 	<item>
+		<title>Revision of Assignment 4 after tutor feedback</title>
+		<link>./../../../../../revision-of-assignment-4-after-tutor-feedback/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Wed, 05 Jan 2022 14:39:00 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[Composing Music]]></category>
+		<category><![CDATA[Part 4 Exploring counterpoint]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=764</guid>
+
+					<description><![CDATA[My reviewed score can be viewed here. In my revision, I developed the C and A&#8217; sections since&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>My reviewed score can be viewed <a href="./../../../../../wp-content/uploads/2022/01/Assignment-4-Revision-Full-Score.pdf" data-type="URL" data-id="./../../../../../wp-content/uploads/2022/01/Assignment-4-Revision-Full-Score.pdf" target="_blank">here</a>.</p>
+
+
+
+<p>In my revision, I developed the C and A&#8217; sections since the tutor pointed out that they were the most characteristic passages. In my composition, I explored and developed the uncommon harmonies and the contrapuntal section.</p>
+
+
+
+<p>My tutor pointed out that both instruments had a number of challenging passages. As for the bassoon, these passages aren&#8217;t impossible to play and their musical sonority justifies them. The vibraphone, however, had some difficult passages, particularly fast chords of three notes. I changed most of the three-note chords to two-note chords without losing the sonority I intended.</p>
+
+
+
+<p>As for the notation, I rearranged the order of the instruments, because the bassoon should be above the vibraphone. Additionally, I deleted the bracket in the vibraphone, changed the font for tempo, and adjusted the layout so that the gaps between the instruments are consistent.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Reflections on Assignment 4</title>
 		<link>./../../../../../reflections-on-assignment-4/index.html</link>
 		
@@ -135,7 +166,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="252" src="./../../../../../wp-content/uploads/2021/11/Assignment-432-1024x252.png" alt="" class="wp-image-595" srcset="./../../../../../wp-content/uploads/2021/11/Assignment-432-1024x252.png 1024w, ./../../../../../wp-content/uploads/2021/11/Assignment-432-300x74.png 300w, ./../../../../../wp-content/uploads/2021/11/Assignment-432-768x189.png 768w, ./../../../../../wp-content/uploads/2021/11/Assignment-432-1536x378.png 1536w, ./../../../../../wp-content/uploads/2021/11/Assignment-432-2048x504.png 2048w, ./../../../../../wp-content/uploads/2021/11/Assignment-432-640x157.png 640w, ./../../../../../wp-content/uploads/2021/11/Assignment-432-960x236.png 960w, ./../../../../../wp-content/uploads/2021/11/Assignment-432.png 2172w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img width="1024" height="252" src="./../../../../../wp-content/uploads/2021/11/Assignment-432-1024x252.png" alt="" class="wp-image-595" srcset="./../../../../../wp-content/uploads/2021/11/Assignment-432-1024x252.png 1024w, ./../../../../../wp-content/uploads/2021/11/Assignment-432-300x74.png 300w, ./../../../../../wp-content/uploads/2021/11/Assignment-432-768x189.png 768w, ./../../../../../wp-content/uploads/2021/11/Assignment-432-1536x378.png 1536w, ./../../../../../wp-content/uploads/2021/11/Assignment-432-2048x504.png 2048w, ./../../../../../wp-content/uploads/2021/11/Assignment-432-640x157.png 640w, ./../../../../../wp-content/uploads/2021/11/Assignment-432-960x236.png 960w, ./../../../../../wp-content/uploads/2021/11/Assignment-432.png 2172w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
