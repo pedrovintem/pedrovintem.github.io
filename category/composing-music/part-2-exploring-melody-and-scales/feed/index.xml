@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Wed, 12 Jan 2022 15:39:15 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Jan 2022 22:12:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -1767,7 +1767,7 @@
 
 
 
-<p>I attempted to make things as simple as possible in my first exercise, concentrating mostly on the melody shape. It&#8217;s written in C, but I begin in E to add interest and to allow the melody to descend a little to lead the listener to the highest note in the melody.</p>
+<p>I attempted to make things as simple as possible in my first exercise, concentrating mostly on the melody shape. It&#8217;s written in C, but I begin in E to add interest and, at the same time, allow the melody shape to descend a little and prepare the listener to the highest note.</p>
 
 
 
@@ -1787,7 +1787,7 @@
 
 
 
-<p>I opted to develop an exercise with the F# pentatonic because it can be played on the piano&#8217;s black keys. It began to sound Chinese to me, so I went with it. It ended up having a straight melody shape, starting low, rising, going down, going higher, falling, going up a little and ending almost straight.</p>
+<p>I opted to develop an exercise with the F# pentatonic because it can be played on the piano&#8217;s black keys. It began to have a Chinese sound to me, so I decided to give it a try. It ended up having an interesting melody shape, starting low, rising, going down, going higher, falling, going up a little and ending almost straight.</p>
 
 
 
