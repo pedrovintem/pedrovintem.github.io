@@ -26,11 +26,15 @@
 			if ( $( this ).closest( '.pk-toc' ).hasClass( 'pk-toc-hide' ) ) {
 				$( this ).closest( '.pk-toc' ).removeClass( 'pk-toc-hide' );
 
+				$( this ).html( powerkit_toc_config.label_hide );
+
 				$( this ).closest( '.pk-toc' ).find('> ol, > ul').slideDown(200, function(){
 					$( this ).animate({opacity: 1}, 150, 'swing');
 				});
 			} else {
 				$( this ).closest( '.pk-toc' ).addClass( 'pk-toc-hide' );
+
+				$( this ).html( powerkit_toc_config.label_show );
 
 				$( this ).closest( '.pk-toc' ).find('> ol, > ul').animate({opacity: 0}, 150, 'swing', function(){
 					$( this ).slideUp(200);

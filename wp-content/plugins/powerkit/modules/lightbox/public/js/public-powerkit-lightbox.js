@@ -33,7 +33,7 @@
 				}
 
 				var imagehref = $( container ).attr( 'href' );
-				if ( !imagehref.match( /\.(gif|jpeg|jpg|png)/ ) ) {
+				if ( !imagehref.match( /\.(gif|jpeg|jpg|png|webp)/ ) ) {
 					return;
 				}
 
