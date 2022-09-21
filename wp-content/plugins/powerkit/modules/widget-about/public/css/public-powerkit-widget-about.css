@@ -1,0 +1,65 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.pk-widget-about,
+.pk-block-about {
+	--pk-about-small-color: #adb5bd;
+}
+
+/*--------------------------------------------------------------*/
+.pk-widget-about,
+.pk-block-about {
+	text-align: center;
+}
+
+.pk-widget-about .pk-about-media,
+.pk-block-about .pk-about-media {
+	margin-bottom: 1rem;
+}
+
+.pk-widget-about .pk-about-media img,
+.pk-block-about .pk-about-media img {
+	max-width: 100%;
+}
+
+.pk-widget-about .pk-about-content,
+.pk-widget-about .pk-about-small,
+.pk-widget-about .pk-about-button,
+.pk-widget-about .pk-social-links-wrap,
+.pk-block-about .pk-about-content,
+.pk-block-about .pk-about-small,
+.pk-block-about .pk-about-button,
+.pk-block-about .pk-social-links-wrap {
+	margin-top: 1rem;
+	margin-bottom: 0;
+}
+
+.pk-widget-about .pk-about-small,
+.pk-block-about .pk-about-small {
+	color: var(--pk-about-small-color);
+}
+
+.pk-widget-about .pk-about-button,
+.pk-block-about .pk-about-button {
+	display: inline-block;
+}
+
+.pk-widget-about .pk-social-links-items,
+.pk-block-about .pk-social-links-items {
+	justify-content: center;
+}
+
+.pk-widget-about .pk-social-links-item,
+.pk-block-about .pk-social-links-item {
+	min-width: 2rem;
+}
+
+.widget .pk-widget-about .title-widget {
+	margin: 0;
+}

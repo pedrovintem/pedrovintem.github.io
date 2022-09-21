@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Pedro &#8211; Pedro Vintém</title>
+	<title>Composing Music &#8211; Pedro Vintém</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Mon, 19 Sep 2022 11:13:59 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 31 Jan 2022 11:43:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,539 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Exercise 1.1 &#8211; Palestrina&#8217;s Kyrie from Missa Brevis</title>
-		<link>./../../../exercise-1-1-palestrinas-kyrie-from-missa-brevis/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Mon, 19 Sep 2022 11:13:59 +0000</pubDate>
-				<category><![CDATA[Coursework]]></category>
-		<category><![CDATA[Part 1 Renaissance period]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=852</guid>
-
-					<description><![CDATA[A master of contrapuntal composition, Giovanni Pierluigi da Palestrina composed 105 masses and 250 motets in the Italian&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>A master of contrapuntal composition, Giovanni Pierluigi da Palestrina composed 105 masses and 250 motets in the Italian Renaissance. A significant figure in the development of polyphony, he represented the conservatism of the 16th century on the subject of church music.</p>
-
-
-
-<p>Though it is widely believed that Palestrina saved polyphony by himself, it is a myth that is widely accepted, although it is also true that the Council of Trent (1545-1563) stressed the importance of musical clarity and Palestrina himself advocated it (Monson, 2002).</p>
-
-
-
-<p>Palestrina&#8217;s Missa Brevis (Short Mass) was first published in 1570 and is considered one of his most famous works. There are four voices in the Kyrie (Cantus, Altus, Tenor, and Bassus). With the exception of a brief homophonic section at the end of the second Kyrie, the texture is almost exclusively polyphonic. With a gentle melodic line and simple harmony, this piece stays in F major with only occasional chromatic changes, creating a restful, calm atmosphere.</p>
-
-
-
-<h2 id="exercise-1-1" class="cnvs-block-section-heading cnvs-block-section-heading-1663153509634 is-style-cnvs-block-section-heading-4 halignleft" >
-	<span class="cnvs-section-title">
-		<span>Exercise 1.1</span>
-	</span>
-</h2>
-
-
-
-<p>Listen to a recording of the <em>Kyrie </em>from Palestrina’s <em>Missa Brevis </em>and follow with a score.<br>Read the following comments about features of the music, and note an instance where each occurs in the score. You may find it to be most effective if you mark each occurrence onto a printout of the score or annotate a pdf of it electronically. Keep your annotations for reference later.</p>
-
-
-
-<ul><li>The entry of each vocal part is in imitation.</li><li>The texture is polyphonic &#8211; consisting of several independently moving, though coordinated, vocal parts.</li><li>The melody lines themselves move smoothly &#8211; mainly flowing by step with occasional leaps but then often turning back and returning to where they came from, or nearby.</li><li>Each part rises and falls, helping to create a sense of direction but with no single part assuming dominance over the others.</li><li>The ranges of the individual voice parts lie mainly within an octave and there is a general sense of balance to the individual melodic lines. They rise and fall in about equal measure, exploring the full range of the voice evenly.</li><li>The words are repeated and are clearly audible. The words overlap, each part at times following, at times leading, to create the musical texture.</li></ul>
-
-
-
-<figure class="wp-block-image size-full is-resized"><img src="./../../../wp-content/uploads/2022/09/IMSLP499356-PMLP327372-palestrina-missa-brevis-ed-Albrecht-partiturstriche2.jpg" alt="" class="wp-image-853" width="595" height="841" srcset="./../../../wp-content/uploads/2022/09/IMSLP499356-PMLP327372-palestrina-missa-brevis-ed-Albrecht-partiturstriche2.jpg 595w, ./../../../wp-content/uploads/2022/09/IMSLP499356-PMLP327372-palestrina-missa-brevis-ed-Albrecht-partiturstriche2-212x300.jpg 212w, ./../../../wp-content/uploads/2022/09/IMSLP499356-PMLP327372-palestrina-missa-brevis-ed-Albrecht-partiturstriche2-300x424.jpg 300w" sizes="(max-width: 595px) 100vw, 595px" /></figure>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" width="595" height="841" src="./../../../wp-content/uploads/2022/09/IMSLP499356-PMLP327372-palestrina-missa-brevis-ed-Albrecht-partiturstriche.jpg" alt="" class="wp-image-854" srcset="./../../../wp-content/uploads/2022/09/IMSLP499356-PMLP327372-palestrina-missa-brevis-ed-Albrecht-partiturstriche.jpg 595w, ./../../../wp-content/uploads/2022/09/IMSLP499356-PMLP327372-palestrina-missa-brevis-ed-Albrecht-partiturstriche-212x300.jpg 212w, ./../../../wp-content/uploads/2022/09/IMSLP499356-PMLP327372-palestrina-missa-brevis-ed-Albrecht-partiturstriche-300x424.jpg 300w" sizes="(max-width: 595px) 100vw, 595px" /></figure>
-
-
-
-<h5 id="the-entry-of-each-vocal-part-is-in-imitation">The entry of each vocal part is in imitation.</h5>
-
-
-
-<p>In yellow, I highlighted the parts where the voices imitate one another closely.</p>
-
-
-
-<h5 id="the-texture-is-polyphonic-consisting-of-several-independently-moving-though-coordinated-vocal-parts">The texture is polyphonic &#8211; consisting of several independently moving, though coordinated, vocal parts.</h5>
-
-
-
-<p>There is a stronger sense of polyphony in bars 28-31 (highlighted in red), where all voices move independently.</p>
-
-
-
-<h5 id="the-melody-lines-themselves-move-smoothly-mainly-flowing-by-step-with-occasional-leaps-but-then-often-turning-back-and-returning-to-where-they-came-from-or-nearby">The melody lines themselves move smoothly &#8211; mainly flowing by step with occasional leaps but then often turning back and returning to where they came from, or nearby.</h5>
-
-
-
-<p>Green highlights passages where the voices move almost exclusively by step. Alto jumps down to D in bar 47, but it quickly returns to upper G.</p>
-
-
-
-<h5 id="each-part-rises-and-falls-helping-to-create-a-sense-of-direction-but-with-no-single-part-assuming-dominance-over-the-others">Each part rises and falls, helping to create a sense of direction but with no single part assuming dominance over the others.</h5>
-
-
-
-<p>The blue lines, bars 11-14, indicate the rise and fall of each melody, showing some contrary motion, but with no particular voice dominating.</p>
-
-
-
-<h5 id="the-ranges-of-the-individual-voice-parts-lie-mainly-within-an-octave-and-there-is-a-general-sense-of-balance-to-the-individual-melodic-lines-they-rise-and-fall-in-about-equal-measure-exploring-the-f">The ranges of the individual voice parts lie mainly within an octave and there is a general sense of balance to the individual melodic lines. They rise and fall in about equal measure, exploring the full range of the voice evenly.</h5>
-
-
-
-<p>The voices are all within one octave, except Bass and Cantus, which are two tones down, A2 and D4, respectively, although they go there quite uncommonly.</p>
-
-
-
-<p>Bass C4 &#8211; A2<br>Tenor F4-F3<br>Alto B4 &#8211; B3<br>Cantus F5 &#8211; D4</p>
-
-
-
-<h5 id="the-words-are-repeated-and-are-clearly-audible-the-words-overlap-each-part-at-times-following-at-times-leading-to-create-the-musical-texture">The words are repeated and are clearly audible. The words overlap, each part at times following, at times leading, to create the musical texture.</h5>
-
-
-
-<p>Pink highlights parts where words are repeated either asynchronously, bars 20-27, or simultaneously, bars 56-58.</p>
-
-
-
-<p></p>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1663585956823 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Stevens, Denis William. &#8220;Giovanni Pierluigi da Palestrina&#8221;. Encyclopedia Britannica, 29 Jan. 2022, https://www.britannica.com/biography/Giovanni-Pierluigi-da-Palestrina. Accessed 19 September 2022.</p>
-
-
-
-<p>Monson, Craig A. “The Council of Trent Revisited.” <em>Journal of the American Musicological Society</em>, vol. 55, no. 1, 2002, pp. 1–37. <em>JSTOR</em>, https://doi.org/10.1525/jams.2002.55.1.1. Accessed 19 Sep. 2022.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Research point 1.0 &#8211; Renaissance madrigals</title>
-		<link>./../../../research-point-1-0-renaissance-madrigals/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Fri, 16 Sep 2022 14:17:47 +0000</pubDate>
-				<category><![CDATA[Coursework]]></category>
-		<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Part 1 Renaissance period]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=846</guid>
-
-					<description><![CDATA[Claudio Monteverdi (1567–1643) Monteverdi was an Italian composer, violinist, singer, and priest. He is often considered a revolutionary&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p></p>
-
-
-
-<h3 id="claudio-monteverdi-1567-1643">Claudio Monteverdi (1567–1643)</h3>
-
-
-
-<p>Monteverdi was an Italian composer, violinist, singer, and priest. He is often considered a revolutionary who marked the transition from Renaissance to Baroque music.</p>
-
-
-
-<p>Until the age of forty, Monteverdi worked primarily on madrigals, composing a total of nine books. In about four years, Monteverdi completed his first book of twenty-one madrigals for five voices. Overall, the first eight madrigals show the massive development from Renaissance polyphonic to baroque monodic styles.</p>
-
-
-
-<p>He wrote L&#8217;Orfeo, one of the earliest operas in the history of music, an innovative work that remains a part of today&#8217;s orchestra&#8217;s repertoire. Additionally, he has written sacred music.</p>
-
-
-
-<h3 id="orlando-di-lasso-1532-1594">Orlando di Lasso (1532 &#8211; 1594)</h3>
-
-
-
-<p>Lasso was a Franco-Flemish composer. With more than two thousand compositions to his credit, he was a prolific and versatile author. This collection includes all genres of his day, secular and sacred, including the mass, secular chanson in several languages, Latin motets, hymns, and madrigals. When he held the position of Kapellmeister at the Munich court, at the end of his life, he cultivated sacred music with a special dedication.</p>
-
-
-
-<p>He is considered the chief representative of the mature polyphonic style of the Netherlands school, along with Giovanni Pierluigi da Palestrina. At the end of the 16th century, he was one of the most famous and influential musicians in Europe.</p>
-
-
-
-<p>Regarding his madrigals, which he penned while living in Rome, his style was clear and concise, and his tunes were memorable.</p>
-
-
-
-<h3 id="comparison-between-orlando-di-lassos-matona-mia-cara-and-claudio-monteverdis-ah-dolente-partita">Comparison between Orlando di Lasso&#8217;s Matona, mia cara and Claudio Monteverdi&#8217;s Ah, Dolente Partita</h3>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Lassus | Matona, mia cara [á 4; The Mirandola Ensemble]" width="640" height="360" src="https://www.youtube.com/embed/wl51iST98hA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Ah! Dolente partita   Monteverdi" width="640" height="360" src="https://www.youtube.com/embed/-97t3lw2sJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>The main reason I chose to compare these two madrigals is their contrasting themes. Lasso&#8217;s one is a jovial, lighthearted, and almost mocking monologue between a German soldier and a supposedly Italian woman. Contrary to Monteverdi, his lament is a sombre recognition of death in late life.</p>
-
-
-
-<p>From the very beginning, these contrasting themes are evident.&nbsp;Matona, mia cara begins with all four voices in an F Major chord and in a fast tempo. The song develops with a mostly homophonic texture and a very marked rhythm, especially in the &#8220;Don, don, don&#8221; section.&nbsp;</p>
-
-
-
-<p>Ah, Dolente partita opens with only two voices in unison, singing a long, high E. The two voices stay in unison until bar 4 when they drift apart. As a result, it sounds very sorrowful and enigmatic. As the other voices enter, they do so timidly and not simultaneously. Only in bar 15 do all five voices sing together. However, just after that, in bar 16, the top two voices become silent. This creates a variety of aural experiences that convey the theme of lamentation.</p>
-
-
-
-<p>Monteverdi&#8217;s madrigal has a more polyphonic texture than Lasso&#8217;s. Consequently, Ah, Dolente partita has a richer sound ambience, but Matona, mia cara has a stronger rhythmic mark.&nbsp;</p>
-
-
-
-<p>As a final contrast, I would like to mention the melodic shape. In Lasso&#8217;s madrigal, there are some upward and downward lines, with a lot of repetition of the melody, so it could be sung in a group with a dance-like feeling.&nbsp;Monteverdi&#8217;s melody, however, tends to move downward or remain flat, which is most evident towards the end, as if the music is taking small steps toward death.</p>
-
-
-
-<p> </p>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1663325056128 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Arnold, Denis Midgley. &#8220;Claudio Monteverdi&#8221;. Encyclopedia Britannica, 28 Mar. 2022, https://www.britannica.com/biography/Claudio-Monteverdi. Accessed 16 September 2022.</p>
-
-
-
-<p>Britannica, The Editors of Encyclopaedia. &#8220;Orlando di Lasso&#8221;. Encyclopedia Britannica, 10 Jun. 2022, https://www.britannica.com/biography/Orlando-di-Lasso. Accessed 16 September 2022.</p>
-
-
-
-<p>MORTENSEN, B., 2009. Recording Reviews &#8211; [Claudio Monteverdi: Madrigals]: &#8220;Flaming Heart&#8221;; &#8220;Fire and Ashes&#8221;. <em>Choral Journal, </em>50(5), pp. 60-61. Accessed 16 September 2022.</p>
-
-
-
-<p>fhunrichse, 2008. <em>King&#8217;s Singers &#8211; Madrigal History Tour &#8211; Matona mia cara</em>, YouTube. Available at: https://www.youtube.com/watch?v=TPlb2jKCCQI . Accessed September 16, 2022.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Listening to Oscar Peterson &#8211; Hymn To Freedom</title>
-		<link>./../../../listening-to-oscar-peterson-hymn-to-freedom/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Thu, 15 Sep 2022 09:44:46 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=842</guid>
-
-					<description><![CDATA[I came across Oscar Peterson through a Mic.com article called&#160;&#8220;Did Jazz Forget About Oscar Petterson?&#8221;. The author points&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>I came across Oscar Peterson through a Mic.com article called&nbsp;<a href="https://www.mic.com/culture/oscar-peterson-black-white" target="_blank">&#8220;Did Jazz Forget About Oscar Petterson?&#8221;</a>. The author points out that when you think about jazz names, Petterson&#8217;s is not the first that comes to your mind (Johnson, 2022).</p>
-
-
-
-<p>Until today, I was unaware of Oscar Peterson&#8217;s name or work. Therefore, I decided to listen to &#8220;Hymn To Freedom&#8221;, a song featured in the article.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Oscar Peterson - Hymn To Freedom" width="640" height="360" src="https://www.youtube.com/embed/tCrrZ1NnCuM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>dgbailey777, 2010. <em>Oscar Peterson &#8211; Hymn To Freedom</em>.  Available at: &lt;https://www.youtube.com/watch?v=tCrrZ1NnCuM> [Accessed 15 September 2022].</figcaption></figure>
-
-
-
-<p>Oscar Peterson was born in Montreal, Canada on August 15, 1925 and grew up in a family where music was required of all five children. At the age of seven, he was able to play trumpet and piano. In his teens, he was already a prodigy when he became the star attraction of Canada&#8217;s renowned big band, the Johnny Holmes Orchestra (Peterson, 2003), and he was just 20 years old when he made his first trio recordings for RCA.</p>
-
-
-
-<p>As a result of his musical genius, he was able to play with and alongside many jazz legends of the era, including Ella Fitzgerald, Roy Eldridge, Louis Armstrong, Charlie Parker, and Billie Holiday (Johnson, 2022).</p>
-
-
-
-<p>From 1959-1965, he formed and played with the Oscar Peterson trio with Ray Brown on bass and Ed Thigpen on drums, becoming one of jazz history&#8217;s most celebrated groups. Jazz historian Alyn Shipton explains one of their strengths as &#8220;Peterson&#8217;s skill at promoting group interaction marked the beginning of a seismic shift in piano trios.&#8221; (Hansen, 2014).</p>
-
-
-
-<p>During the 1960s, there was racial segregation throughout the United States and Canada, and Peterson suffered a lot of racism when he toured with the Oscar Peterson trio. However, the experience of touring all over the world and especially his experiences in the south of the United States and observing the approach Dr. Martin Luther King Jr. took to peaceful protest, led him to write his most influential work, the “Hymn to Freedom” (Small, 2021).</p>
-
-
-
-<p>People all over the world quickly embraced &#8220;Hymn To Freedom&#8221; as the anthem of the Civil Rights Movement when it was written in 1962. A timeless and relevant piece, this song has been played at many major events around the globe.</p>
-
-
-
-<p>This song&#8217;s main melody captured my attention from the first listen. The song reminded me of a gospel song infused with blues and jazz.&nbsp;</p>
-
-
-
-<p>In terms of structure, Peterson plays the melody four times before going into his solo, then returning to the original melody one last time. I believe this is an effective way of structuring a hymn, since the first four times he repeats the melody with almost no variation. As a result, the listener is able to engage with the melodic intention of the song.&nbsp;The piano solo builds upon the previous chord progression, but it is melodically much more unique than those first four repetitions, creating some interest. He concludes the solo with an apotheosis, but then the original melody is played softer, calmer, bringing peace to the listener&#8217;s heart.</p>
-
-
-
-<p>My favorite part of this melody is the contrary motion technique, in which both voices go in opposite directions. While I&#8217;m still trying to figure out why I find it so pleasing to hear, I think it&#8217;s because it constantly creates a broader range of sounds. This makes it bigger and more interesting as a way of moving to the next part.</p>
-
-
-
-<figure class="wp-block-image is-resized"><img loading="lazy" src="http://ocastylistic.local/wp-content/uploads/2022/03/Screenshot-2022-03-13-at-12.10.35.png" alt="" class="wp-image-818" width="221" height="160"/></figure>
-
-
-
-<p></p>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1663234118739 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Johnson, M., 2022. DID JAZZ FORGET ABOUT OSCAR PETERSON?. [online] Mic.Com. Available at: <a href="https://www.mic.com/culture/oscar-peterson-black-white">https://www.mic.com/culture/oscar-peterson-black-white</a> [Accessed September 15, 2022].</p>
-
-
-
-<p>Hansen, F.A., 2014, The arrangement qualities and musical style of the Oscar Peterson Trio: 1959–1965, Five Towns College [Accessed September 15, 2022].</p>
-
-
-
-<p>Peterson, O., 2003, &#8220;A Jazz Odyssey: The Life of Oscar Peterson&#8221;, Jazz Education Journal, vol. 35, no. 4, pp. C2-C4, C7 [Accessed September 15, 2022].</p>
-
-
-
-<p>Small, C., 2021. The Black + White Truth about Oscar Peterson and racism in Canada.&nbsp;<em>POV Magazine</em>. Available at: https://povmagazine.com/the-black-white-truth-about-oscar-peterson-and-racism-in-canada/ [Accessed September 15, 2022].&nbsp;</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Exercise 1.0 – Carlo Gesualdo: Beltà, poi che t’assenti</title>
-		<link>./../../../exercise-1-0-carlo-gesualdo-belta-poi-che-tassenti/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Wed, 14 Sep 2022 22:07:39 +0000</pubDate>
-				<category><![CDATA[Coursework]]></category>
-		<category><![CDATA[Part 1 Renaissance period]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=834</guid>
-
-					<description><![CDATA[Since I was unfamiliar with Gesualdo&#8217;s work and its significance in music history, I did some research on&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>Since I was unfamiliar with Gesualdo&#8217;s work and its significance in music history, I did some research on this <a href="./../../../listening-to-gesualdo/index.html" data-type="post" data-id="824" target="_blank">post</a>.</p>
-
-
-
-<h2 id="exercise-1-0" class="cnvs-block-section-heading cnvs-block-section-heading-1663153509634 is-style-cnvs-block-section-heading-4 halignleft" >
-	<span class="cnvs-section-title">
-		<span>Exercise 1.0</span>
-	</span>
-</h2>
-
-
-
-<ul><li>Listen to the madrigal <em>Beltà poi che t’assenti </em>by Gesualdo.</li><li>With reference to a score, identify the chords in the first four bars. The answer is given at the end of the chapter.</li><li>Does this chord progression call to mind any music you know from later eras?</li><li>How would you describe the music in bb. 9-20 and the texture at bb. 40-42?</li><li>What does the word ‘dolore’ mean at b. 55?</li><li>In your own words, describe the kind of harmony, melody and texture that Gesualdo has employed to carry its meaning.</li></ul>
-
-
-
-<h5 id="with-reference-to-a-score-identify-the-chords-in-the-first-four-bars-the-answer-is-given-at-the-end-of-the-chapter">With reference to a score, identify the chords in the first four bars. The answer is given at the end of the chapter.</h5>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" width="810" height="608" src="./../../../wp-content/uploads/2022/09/Screenshot-2022-09-14-at-12.09.46.png" alt="" class="wp-image-837" srcset="./../../../wp-content/uploads/2022/09/Screenshot-2022-09-14-at-12.09.46.png 810w, ./../../../wp-content/uploads/2022/09/Screenshot-2022-09-14-at-12.09.46-300x225.png 300w, ./../../../wp-content/uploads/2022/09/Screenshot-2022-09-14-at-12.09.46-768x576.png 768w, ./../../../wp-content/uploads/2022/09/Screenshot-2022-09-14-at-12.09.46-640x480.png 640w" sizes="(max-width: 810px) 100vw, 810px" /></figure>
-
-
-
-<p>The chords are G minor, E major, D major, G major, D major, and F# Major.</p>
-
-
-
-<h5 id="does-this-chord-progression-call-to-mind-any-music-you-know-from-later-eras">Does this chord progression call to mind any music you know from later eras?<br></h5>
-
-
-
-<p>Although it didn&#8217;t sound like anything I&#8217;d heard before, I researched why this progression sounded so good together. One of the hints I found was that Gesualdo used mediant chords and doubly chromatic mediant chords, which indeed is true in this chord progression. E major is a doubly chromatic mediant from G minor. </p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Gesualdo: Chromatic Harmony and Microtonal Systems in Early Music" width="640" height="360" src="https://www.youtube.com/embed/JRF1vZiYB70?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>Shepherd, 2013. <em>Gesualdo: Chromatic Harmony and Microtonal Systems in Early Music</em>, YouTube. Available at: https://www.youtube.com/watch?v=JRF1vZiYB70 [Accessed September 14, 2022].</figcaption></figure>
-
-
-
-<p>Wagner used the mediant chords in the Magic Sleep Leitmotive from the Ring Cycle.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Wagner Leitmotives - 61 - Magic Sleep or Oblivion" width="640" height="360" src="https://www.youtube.com/embed/nY51ofn0vck?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>Pano, 2012. <em>Wagner Leitmotives &#8211; 61 &#8211; Magic Sleep or Oblivion</em>, YouTube. Available at: https://www.youtube.com/watch?v=nY51ofn0vck [Accessed September 14, 2022].<br></figcaption></figure>
-
-
-
-<h5 id="how-would-you-describe-the-music-in-bb-9-20-and-the-texture-at-bb-40-42">How would you describe the music in bb. 9-20 and the texture at bb. 40-42?</h5>
-
-
-
-<p>In bars 9-20, I would describe it as a chromatic imitative counterpoint.</p>
-
-
-
-<p>The texture at bb. 40-42 is homophonic.</p>
-
-
-
-<h5 id="what-does-the-word-dolore-mean-at-b-55">What does the word ‘dolore’ mean at b. 55?</h5>
-
-
-
-<p>It means pain, sorrow, and grief.</p>
-
-
-
-<h5 id="in-your-own-words-describe-the-kind-of-harmony-melody-and-texture-that-gesualdo-has-employed-to-carry-its-meaning">In your own words, describe the kind of harmony, melody and texture that Gesualdo has employed to carry its meaning.</h5>
-
-
-
-<p>By itself, the word &#8220;dolore&#8221; implies sorrow, but in the context of the text, it can also mean relief.</p>
-
-
-
-<blockquote class="wp-block-quote is-style-default"><p>&#8220;but a soul without a heart can feel no sorrow.&#8221;</p></blockquote>
-
-
-
-<p>If the character dies or at least has his heart figuratively taken away, he becomes numb and cannot feel pain. A relief from the grief associated with the lover&#8217;s departure.</p>
-
-
-
-<p>This is why the texture starts out polyphonic and with dissonances and then turns homophonic and consonant. Additionally, the melody creates a U shape. Starting moving downwards, taking the meaning of the word &#8220;dolore&#8221; to inconsolable grief, shifting to a rising melody towards the final G major chord. I interpret this last rising as Gesualdo&#8217;s acceptance of pain as an immutable truth or perhaps a morbid pleasure from the composer suffering from insanity at the end of his life.</p>
-
-
-
-<p></p>
-
-
-
-<p><br></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Listening to Gesualdo</title>
-		<link>./../../../listening-to-gesualdo/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Wed, 14 Sep 2022 10:52:05 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Part 1 Renaissance period]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=824</guid>
-
-					<description><![CDATA[I must admit that I didn&#8217;t know who Gesualdo was until today, so I had to make some&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>I must admit that I didn&#8217;t know who Gesualdo was until today, so I had to make some research about the composer.</p>
-
-
-
-<p>A Prince who composed secular madrigals, sacred vocal music, and instrumental music, Carlo Gesualdo da Venosa (c 1566 &#8211; 1613) published six books of madrigals and three books of sacred pieces during his lifetime. He was also notorious for brutally murdering his wife and lover in bed. In addition to this cold-hearted murder, many depraved tales have been told about Gesualdo&#8217;s mental health. Through these stories (whether true or not, it&#8217;s up for debate), we can trace a psychological portrait behind the composer whose work represents the culmination of Renaissance music at the end of the 16th century.</p>
-
-
-
-<p>His harmonic language is still considered daring and extravagant today because it incorporates elements of the late Italian madrigals, characterized by sound experimentalism. He used complex chromaticism in a way that was extraordinary for his time. This would not be heard again, or even hinted at until Wagner, Schoenberg and Stravinsky took it to new heights.</p>
-
-
-
-<p>This idiosyncratic use of chromaticism was not only an attempt to break the rules, representing his era in which Mannerism was emerging as deliberately disruptive but also had a rather specific objective: word painting.</p>
-
-
-
-<p>As an example, when the subject of Amor, pace non chero of his 1st Book of Madrigals calls for his lover, he uses consonance and long notes (Garbuio &amp; Fiorini, 2015).</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="676" src="./../../../wp-content/uploads/2022/09/7887a951ab66eeceed472f273e597ee7fb3586bc-1024x676.jpeg" alt="" class="wp-image-825" srcset="./../../../wp-content/uploads/2022/09/7887a951ab66eeceed472f273e597ee7fb3586bc-1024x676.jpeg 1024w, ./../../../wp-content/uploads/2022/09/7887a951ab66eeceed472f273e597ee7fb3586bc-300x198.jpeg 300w, ./../../../wp-content/uploads/2022/09/7887a951ab66eeceed472f273e597ee7fb3586bc-768x507.jpeg 768w, ./../../../wp-content/uploads/2022/09/7887a951ab66eeceed472f273e597ee7fb3586bc-1536x1014.jpeg 1536w, ./../../../wp-content/uploads/2022/09/7887a951ab66eeceed472f273e597ee7fb3586bc-2048x1352.jpeg 2048w, ./../../../wp-content/uploads/2022/09/7887a951ab66eeceed472f273e597ee7fb3586bc-640x423.jpeg 640w, ./../../../wp-content/uploads/2022/09/7887a951ab66eeceed472f273e597ee7fb3586bc-960x634.jpeg 960w, ./../../../wp-content/uploads/2022/09/7887a951ab66eeceed472f273e597ee7fb3586bc-scaled.jpeg 2560w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>But in Mille volte il moro of his 6th Book of Madrigals, the Morte (death) is described with uncontrolled polyphony and highly dissonant intervals (Garbuio &amp; Fiorini, 2015).</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="674" src="./../../../wp-content/uploads/2022/09/1da1339e64cc90c70e404ab948206bc181d5d580-1024x674.jpeg" alt="" class="wp-image-827" srcset="./../../../wp-content/uploads/2022/09/1da1339e64cc90c70e404ab948206bc181d5d580-1024x674.jpeg 1024w, ./../../../wp-content/uploads/2022/09/1da1339e64cc90c70e404ab948206bc181d5d580-300x198.jpeg 300w, ./../../../wp-content/uploads/2022/09/1da1339e64cc90c70e404ab948206bc181d5d580-768x506.jpeg 768w, ./../../../wp-content/uploads/2022/09/1da1339e64cc90c70e404ab948206bc181d5d580-1536x1011.jpeg 1536w, ./../../../wp-content/uploads/2022/09/1da1339e64cc90c70e404ab948206bc181d5d580-2048x1349.jpeg 2048w, ./../../../wp-content/uploads/2022/09/1da1339e64cc90c70e404ab948206bc181d5d580-640x421.jpeg 640w, ./../../../wp-content/uploads/2022/09/1da1339e64cc90c70e404ab948206bc181d5d580-960x632.jpeg 960w, ./../../../wp-content/uploads/2022/09/1da1339e64cc90c70e404ab948206bc181d5d580-scaled.jpeg 2560w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>It&#8217;s interesting to see how the technical complexity and themes changed from one book to another during his short life. The polyphonic tradition of the Renaissance dominates the first two books, while harmonic experimentalism dominates the third and fourth books. The last two, however, are characterized by more chromatic and dissonant writing, typically associated with mature composers. Considering the themes, his first two books are more simplistic, whereas his last two books are more dramatic in depicting themes of torture, pain, sadness, and death.</p>
-
-
-
-<p>It surprised me to find that although we see Gesualdo as an avant-garde musical genius of his time, some people consider him conservative. </p>
-
-
-
-<blockquote class="wp-block-quote"><p>&#8220;As conservative as it was possible to be in this time. Monteverdi was the radical, the new. There is a very curious letter from the poet Guarini, in which he says he prefers Gesualdo to the modern style because he is ‘so far from the hardness of Monteverdi.’ For Guarini, Gesualdo is so nice, so easy! Exactly the opposite of what we now think.”</p><cite>(Ross, 2011)</cite></blockquote>
-
-
-
-<p>Even though other contemporary composers experimented with new sonorities and pushed further the boundaries of what music could be, I believe Gesualdo was one of the leading composers of the late Renaissance. While developing polyphony, a better sense of structure and rhythmic order, he explored contrasting emotions (like in Dolcissima mia vita) and influenced composers hundreds of years after his death.</p>
-
-
-
-<p></p>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1639632443177 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Ross, A., 2011. Gesualdo. <em>Alex Ross: The Rest Is Noise</em>. Available at: https://www.therestisnoise.com/2011/12/gesualdo.html [Accessed September 14, 2022].</p>
-
-
-
-<p>Burton-Hill, C., 2014. Gesualdo: Glorious music and grisly murder. <em>BBC Culture</em>. Available at: https://www.bbc.com/culture/article/20130905-a-16th-century-musical-badass [Accessed September 14, 2022].</p>
-
-
-
-<p>Garbuio, R.L. &amp; Fiorini, C.F., 2015. &#8220;amor&#8221; e &#8220;morte&#8221; Nos Madrigais de Carlo Gesualdo: Um estudo sobre o desenvolvimento da escrita musical e textual. <em>Per Musi</em>. Available at: https://www.scielo.br/j/pm/a/rfCGr7VrcVTbmsczxX8YTsn/ [Accessed September 14, 2022].</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Revision of Assignment 5 after tutor feedback</title>
 		<link>./../../../revision-of-assignment-5-after-tutor-feedback/index.html</link>
 		
@@ -711,7 +178,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Suite for Flute - Bolling and Rampal - Baroque and Blue.mp4" width="640" height="480" src="https://www.youtube.com/embed/6r_2Qql4Qq8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Suite for Flute - Bolling and Rampal - Baroque and Blue.mp4" width="640" height="480" src="https://www.youtube.com/embed/6r_2Qql4Qq8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div><figcaption>Raul Martins, 2011.&nbsp;<em>Suite for Flute &#8211; Bolling and Rampal &#8211; Baroque and Blue.mp4</em>.  Available at: &lt;https://www.youtube.com/watch?v=6r_2Qql4Qq8&gt; [Accessed 24 December 2021].</figcaption></figure>
 
 
@@ -4291,7 +3758,7 @@
 						<div class="cs-entry__excerpt">
 				While researching the pentatonic scale, I stumbled upon Mo Li Hua, a Chinese folk song&hellip;			</div>
 			
-			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">August 21, 2021</div></div>		</div>
+			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../../../author/admin/index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">August 21, 2021</div></div>		</div>
 	</div>
 </article>
 
@@ -4317,7 +3784,7 @@
 						<div class="cs-entry__excerpt">
 				One of the composers with whom I most identify is Claude Debussy. So when I stumbled across&hellip;			</div>
 			
-			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">August 24, 2021</div></div>		</div>
+			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../../../author/admin/index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">August 24, 2021</div></div>		</div>
 	</div>
 </article>
 
@@ -4343,7 +3810,7 @@
 						<div class="cs-entry__excerpt">
 				The purpose of project 6 is to examine at least two solo wind instrument works from a&hellip;			</div>
 			
-			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">August 26, 2021</div></div>		</div>
+			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../../../author/admin/index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">August 26, 2021</div></div>		</div>
 	</div>
 </article>
 
@@ -4369,7 +3836,7 @@
 						<div class="cs-entry__excerpt">
 				I was listening to music on Spotify on shuffle when Tim Maia&#8217;s Não Quero Dinheiro came&hellip;			</div>
 			
-			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">September 6, 2021</div></div>		</div>
+			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../../../author/admin/index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">September 6, 2021</div></div>		</div>
 	</div>
 </article>
 
@@ -4410,7 +3877,7 @@
 						<div class="cs-entry__excerpt">
 				To compose melodies for woodwind instruments (Project 7), I first researched what types of&hellip;			</div>
 			
-			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">August 31, 2021</div></div>		</div>
+			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../../../author/admin/index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">August 31, 2021</div></div>		</div>
 	</div>
 </article>
 
@@ -4436,7 +3903,7 @@
 						<div class="cs-entry__excerpt">
 				I do not intend to conduct in-depth analyses of these solo compositions, but rather to&hellip;			</div>
 			
-			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">September 10, 2021</div></div>		</div>
+			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../../../author/admin/index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">September 10, 2021</div></div>		</div>
 	</div>
 </article>
 
@@ -4999,7 +4466,7 @@
 						<div class="cs-entry__excerpt">
 				As part of the second assignment, I had to write a composition for a solo woodwind&hellip;			</div>
 			
-			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">September 14, 2021</div></div>		</div>
+			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../../../author/admin/index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">September 14, 2021</div></div>		</div>
 	</div>
 </article>
 
@@ -5022,7 +4489,7 @@
 						<div class="cs-entry__excerpt">
 				The purpose of project 6 is to examine at least two solo wind instrument works from a&hellip;			</div>
 			
-			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">August 26, 2021</div></div>		</div>
+			<div class="cs-entry__post-meta" ><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="./../../../author/admin/index.html" title="View all posts by Pedro"><span class="cs-author">Pedro</span></a></div><div class="cs-meta-date">August 26, 2021</div></div>		</div>
 	</div>
 </article>
 				</div>

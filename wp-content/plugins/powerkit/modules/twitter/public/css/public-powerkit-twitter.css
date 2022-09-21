@@ -1,0 +1,183 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.pk-twitter-wrap {
+	--pk-twitter-a-color: inherit;
+	--pk-twitter-number-color: #000000;
+	--pk-twitter-tweet-border-color: #eeeeee;
+	--pk-twitter-a-font-family: inherit;
+	--pk-twitter-username-font-size: 0.875rem;
+	--pk-twitter-number-font-size: 0.875rem;
+	--pk-twitter-number-font-weight: bold;
+	--pk-twitter-content-font-size: 90%;
+	--pk-twitter-counters-font-size: 80%;
+	--pk-twitter-actions-font-size: 80%;
+	--pk-twitter-label-font-size: 80%;
+	--pk-twitter-count-font-size: 80%;
+}
+
+/*--------------------------------------------------------------*/
+.pk-twitter-wrap a {
+	font-family: var(--pk-twitter-a-font-family);
+	box-shadow: none !important;
+}
+
+.pk-twitter-header {
+	margin-bottom: 1.5rem;
+}
+
+.pk-twitter-container {
+	display: flex;
+	align-items: center;
+}
+
+.pk-twitter-link {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	box-shadow: none;
+	margin-right: 1rem;
+	flex: 0 0 50px;
+	width: 50px;
+	height: 50px;
+}
+
+.pk-twitter-avatar {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+}
+
+.pk-twitter-info a {
+	color: var(--pk-twitter-a-color);
+}
+
+.pk-twitter-name {
+	margin-bottom: 0;
+	word-break: break-all;
+}
+
+.pk-twitter-username {
+	font-size: var(--pk-twitter-username-font-size);
+	word-break: break-all;
+}
+
+.pk-twitter-counters {
+	display: flex;
+	margin-top: 1rem;
+	font-size: var(--pk-twitter-counters-font-size);
+}
+
+.pk-twitter-counters .counter + .counter {
+	margin-left: 0.5rem;
+}
+
+.pk-twitter-counters .number {
+	color: var(--pk-twitter-number-color);
+	font-weight: var(--pk-twitter-number-font-weight);
+	font-size: var(--pk-twitter-number-font-size);
+}
+
+.pk-twitter-tweet:after {
+	display: table;
+	clear: both;
+	width: 100%;
+	content: '';
+}
+
+.pk-twitter-content {
+	font-size: var(--pk-twitter-content-font-size);
+}
+
+.pk-twitter-label {
+	display: none;
+}
+
+.pk-twitter-count {
+	margin-left: 0.25rem;
+	font-size: var(--pk-twitter-count-font-size);
+}
+
+.pk-twitter-label {
+	margin-left: 0.25rem;
+	font-size: var(--pk-twitter-label-font-size);
+}
+
+.pk-twitter-count:empty {
+	display: none;
+}
+
+.pk-twitter-time {
+	display: block;
+	float: left;
+	margin-top: .25rem;
+	height: 20px;
+	display: flex;
+	align-items: center;
+}
+
+.pk-twitter-time:before {
+	font-family: "powerkit-icons";
+	content: "\f099";
+	margin-right: .25rem;
+}
+
+.pk-twitter-actions {
+	float: right;
+	margin-top: .25rem;
+	font-size: var(--pk-twitter-actions-font-size);
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+.pk-twitter-actions ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.pk-twitter-actions ul li {
+	display: inline-block;
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+
+.pk-twitter-actions ul li:not(:last-child) {
+	margin-right: .25rem;
+}
+
+.pk-twitter-actions ul li a {
+	display: flex;
+	align-items: center;
+	border: none;
+}
+
+.pk-twitter-actions ul li .pk-icon {
+	text-decoration: none;
+}
+
+.pk-twitter-footer {
+	display: flex;
+	justify-content: center;
+	margin-top: 1.5rem;
+}
+
+.pk-twitter-footer .pk-twitter-btn {
+	display: block;
+	width: 100%;
+}
+
+.pk-twitter-default .pk-twitter-tweet {
+	padding-top: 1rem;
+	margin-top: 1rem;
+	border-top: 1px var(--pk-twitter-tweet-border-color) solid;
+}

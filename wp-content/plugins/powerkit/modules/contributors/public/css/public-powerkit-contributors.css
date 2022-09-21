@@ -1,0 +1,107 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.pk-widget-contributors {
+	--pk-contributors-item-border-color: #eeeeee;
+	--pk-contributors-post-arrow-color: #ced4da;
+	--pk-contributors-post-arrow-color-hover: #fff;
+	--pk-contributors-post-arrow-backgroynd-hover: #6c757d;
+	--pk-contributors-avatar-border-radius: 100%;
+	--pk-contributors-post-arrow-border-radius: 100%;
+	--pk-contributors-description-font-size: 80%;
+	--pk-contributors-post-link-font-size: 0.875rem;
+	--pk-contributors-post-link-line-height: 1.25rem;
+	--pk-contributors-post-arrow-font-size: 14px;
+}
+
+/*--------------------------------------------------------------*/
+.pk-widget-contributors .pk-author-item {
+	display: flex;
+	margin-top: 1rem;
+	padding-top: 1rem;
+	border-top: 1px var(--pk-contributors-item-border-color) solid;
+}
+
+.pk-widget-contributors .pk-author-item:first-child {
+	margin-top: 0;
+	padding-top: 0;
+	border-top: none;
+}
+
+.pk-widget-contributors .pk-author-avatar {
+	flex: 0 0 80px;
+	width: 80px;
+	height: 80px;
+	margin-right: 1rem;
+	-o-object-fit: cover;
+	object-fit: cover;
+	font-family: 'object-fit: cover;';
+}
+
+.pk-widget-contributors .pk-author-avatar img {
+	border-radius: var(--pk-contributors-avatar-border-radius);
+}
+
+.pk-widget-contributors .pk-author-data {
+	flex-grow: 1;
+	width: 100%;
+}
+
+.pk-widget-contributors .pk-author-data .author-name {
+	margin-top: 0;
+	margin-bottom: .5rem;
+}
+
+.pk-widget-contributors .pk-author-data .author-description {
+	font-size: var(--pk-contributors-description-font-size);
+	margin-bottom: .5rem;
+}
+
+.pk-widget-contributors .pk-social-links-wrap {
+	margin-top: .5rem;
+}
+
+.pk-widget-contributors .pk-author-posts {
+	margin-top: 2rem;
+}
+
+.pk-widget-contributors .pk-author-posts > .pk-author-posts-single > a {
+	display: flex;
+	padding-top: 0.25rem;
+	padding-bottom: 0.25rem;
+	position: relative;
+	padding-left: 2rem;
+	font-size: var(--pk-contributors-post-link-font-size);
+	line-height: var(--pk-contributors-post-link-line-height);
+}
+
+.pk-widget-contributors .pk-author-posts > .pk-author-posts-single > a:before {
+	position: absolute;
+	left: 0;
+	top: 4px;
+	font-family: 'powerkit-icons';
+	content: "\e940";
+	color: var(--pk-contributors-post-arrow-color);
+	font-size: var(--pk-contributors-post-arrow-font-size);
+	margin-right: 1rem;
+	display: inline-block;
+	transition: .2s ease all;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 20px;
+	height: 20px;
+	border-radius: var(--pk-contributors-post-arrow-border-radius);
+}
+
+.pk-widget-contributors .pk-author-posts > .pk-author-posts-single > a:hover:before {
+	color: var(--pk-contributors-post-arrow-color-hover);
+	transition: .2s ease all;
+	background: var(--pk-contributors-post-arrow-backgroynd-hover);
+}
