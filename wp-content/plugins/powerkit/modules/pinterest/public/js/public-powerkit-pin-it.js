@@ -35,7 +35,7 @@
 
 				var imagehref = $( container ).attr( 'href' );
 
-				if ( typeof imagehref !== 'undefined' && imagehref.match( /\.(gif|jpeg|jpg|png|webp)/ ) ) {
+				if ( typeof imagehref !== 'undefined' && imagehref.match( /\.(gif|jpeg|jpg|png)/ ) ) {
 					pinURL = imagehref;
 				}
 

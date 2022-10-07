@@ -12,13 +12,13 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Fri, 07 Oct 2022 10:37:45 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Oct 2022 12:23:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Listening to Omar Thomas &#8211; Come Sunday II. Shout!</title>
 		<link>./../../../listening-to-omar-thomas-come-sunday-ii-shout/index.html</link>
@@ -44,7 +44,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Thomas: Come Sunday | Baylor University Wind Ensemble | TMEA 2020" width="640" height="360" src="https://www.youtube.com/embed/PSr5XurNQF8?start=407&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Thomas: Come Sunday | Baylor University Wind Ensemble | TMEA 2020" width="640" height="360" src="https://www.youtube.com/embed/PSr5XurNQF8?start=407&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -849,7 +849,7 @@
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe loading="lazy" title="Oscar Peterson - Hymn To Freedom" width="640" height="360" src="https://www.youtube.com/embed/tCrrZ1NnCuM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>dgbailey777, 2010. <em>Oscar Peterson &#8211; Hymn To Freedom</em>.  Available at: &lt;https://www.youtube.com/watch?v=tCrrZ1NnCuM> [Accessed 15 September 2022].</figcaption></figure>
+</div><figcaption>dgbailey777, 2010.&nbsp;<em>Oscar Peterson &#8211; Hymn To Freedom</em>.  Available at: &lt;https://www.youtube.com/watch?v=tCrrZ1NnCuM&gt; [Accessed 15 September 2022].</figcaption></figure>
 
 
 
@@ -885,10 +885,6 @@
 
 
 
-<figure class="wp-block-image is-resized"><img loading="lazy" src="http://ocastylistic.local/wp-content/uploads/2022/03/Screenshot-2022-03-13-at-12.10.35.png" alt="" class="wp-image-818" width="221" height="160"/></figure>
-
-
-
 <p></p>
 
 
@@ -901,7 +897,7 @@
 
 
 
-<p>Johnson, M., 2022. DID JAZZ FORGET ABOUT OSCAR PETERSON?. [online] Mic.Com. Available at: <a href="https://www.mic.com/culture/oscar-peterson-black-white">https://www.mic.com/culture/oscar-peterson-black-white</a> [Accessed September 15, 2022].</p>
+<p>Johnson, M., 2022. DID JAZZ FORGET ABOUT OSCAR PETERSON?. [online] Mic.Com. Available at:&nbsp;<a href="https://www.mic.com/culture/oscar-peterson-black-white">https://www.mic.com/culture/oscar-peterson-black-white</a>&nbsp;[Accessed September 15, 2022].</p>
 
 
 

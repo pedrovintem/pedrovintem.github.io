@@ -80,11 +80,3 @@
 	height: 2.5rem;
 	line-height: 2.5rem;
 }
-
-.wp-block-gallery figure.wp-block-image a.pk-pin-it {
-	display: block !important;
-	width: initial !important;
-	height: initial !important;
-	flex: initial !important;
-	min-width: 32px;
-}
