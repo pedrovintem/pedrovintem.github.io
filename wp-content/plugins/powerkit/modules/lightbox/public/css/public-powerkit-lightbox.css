@@ -48,3 +48,26 @@
 .pk-zoom-icon-popup img {
 	min-width: 100%;
 }
+
+.glightbox-clean .gslide-description {
+	background: transparent;
+}
+
+.glightbox-clean .gdesc-inner {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.glightbox-clean .gslide-title {
+	color: white;
+	font-family: inherit;
+	font-size: 1rem;
+	font-weight: inherit;
+}
+
+.glightbox-clean .gslide-desc {
+	color: rgba(255, 255, 255, 0.75);
+	font-family: inherit;
+	font-size: 0.75rem;
+	font-weight: inherit;
+}
