@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Mon, 30 Jan 2023 13:41:44 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Jan 2023 15:34:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,51 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
-		<title>Listening to SZA &#8211; Kill Bill</title>
-		<link>./../listening-to-sza-kill-bill/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Mon, 30 Jan 2023 13:41:09 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Part 3 Baroque Period]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../index.html?p=1221</guid>
-
-					<description><![CDATA[Although I appreciate pop music, I&#8217;m usually turned away from songs that are too popular on the charts.&#8230;]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Spotify Embed: Kill Bill" style="border-radius: 12px" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/track/1Qrg8KqiBpW07V7PNxwwwL?si=0505b2005f2b4d8b&#038;utm_source=oembed"></iframe>
-</div></figure>
-
-
-
-<p>Although I appreciate pop music, I&#8217;m usually turned away from songs that are too popular on the charts. But, when I stumbled upon SZA&#8217;s &#8220;Kill Bill&#8221; on the radio without knowing what it was, I was extremely surprised. The song really caught my attention. My impression was that the song never settled down, a feeling (a very good feeling) I also had when <a href="./../listening-to-beach-boys-god-only-knows/index.html" data-type="post" data-id="531" target="_blank">listening to God Only Knows</a>.</p>
-
-
-
-<p>The aspect that impressed me the most was the chorus vocal melody. It was straightforward yet stunning and flowed smoothly. Upon transcribing it, I discovered the song was in Ab Major, but the vocal melody only utilized the Ab once on the last note of the 4th beat, which was a rather weak one. There was also an A flat, a chromatic note just a half-step from the tonic, leading to a sense of uncertainty and incompletion.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="74" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-1024x74.png" alt="" class="wp-image-1222" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-1024x74.png 1024w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-300x22.png 300w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-768x55.png 768w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-1536x111.png 1536w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-2048x148.png 2048w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-640x46.png 640w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-960x69.png 960w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26.png 2578w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>The chord progression also caught my attention. Throughout the song, it used the same progression: Bbm-Eb-Ab-F or ii-V-I-VI. This again contributed to a sense of instability as it started on ii and placed the I on the third bar, which is a weaker position for establishing the key. The final chord was a modulation to a chromatic chord of F Major, which was my favourite part of the chorus. It was playful, and daring, and complemented the lyrics perfectly (e.g. &#8220;Rather be in jail than alone&#8221;).</p>
-
-
-
-<p>But right from the beginning, the song starts off sounding vague. There&#8217;s a distinct out-of-tune waver that is completely undefined. From that point, the song could head in any direction. Then, the drum beat enters and as with any typical pop song, you anticipate listening to a four-beat loop until the vocals begin. But the vocals come in on the fourth beat, like an anacrusis, unexpectedly.</p>
-
-
-
-<p>Ultimately, I don&#8217;t think &#8220;Kill Bill&#8221; will be regarded as a masterpiece like &#8220;God Only Knows,&#8221; but in today&#8217;s landscape of overwhelming similar-sounding pop music, I found the song to be invigorating. I hope it serves as inspiration for other artists to create pop music that departs from standard harmonic and melodic structures.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Research Point 3.2</title>
 		<link>./../research-point-3-2/index.html</link>
 		
@@ -147,7 +102,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="547" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-1024x547.png" alt="" class="wp-image-1209" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-1024x547.png 1024w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-300x160.png 300w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-768x410.png 768w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-640x342.png 640w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-960x513.png 960w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29.png 1292w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Ritornello Theme</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="547" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-1024x547.png" alt="" class="wp-image-1209" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-1024x547.png 1024w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-300x160.png 300w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-768x410.png 768w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-640x342.png 640w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-960x513.png 960w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29.png 1292w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Ritornello Theme</figcaption></figure>
 
 
 
@@ -227,11 +182,46 @@
 		
 			</item>
 		<item>
+		<title>Exercise 3.6</title>
+		<link>./../exercise-3-6/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2023 15:30:59 +0000</pubDate>
+				<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Part 3 Baroque Period]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../index.html?p=1152</guid>
+
+					<description><![CDATA[The exercise proved to be more challenging than anticipated. I began by creating the chords as outlined in&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>The exercise proved to be more challenging than anticipated. I began by creating the chords as outlined in the instructions, which was enjoyable and entertaining. It took some time to figure out the different melodic lines and determine whether, for example, the bass should move upward or downward from bar 1 to bar 2. Ultimately, I ended up with more dynamic lines in the Tenor and Bass compared to the Soprano and Alto, which appeared to be a bit static.</p>
+
+
+
+<p>The most challenging aspect for me was developing the melodic lines. I found that the Tenor and Bass lines were easier to work with and changing them added an interesting rhythm to the phrase. In beat 3 of bar 1, I added a passing note to the Tenor to shorten the leap. In bar 3, I continued to add quavers to the Tenor and Bass to maintain a similar rhythm as the first part.</p>
+
+
+
+<p>Upon examining Bach’s harmonization, I noticed that the main difference was that he added much more interest to bar 4, particularly with the descending Tenor.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="243" src="./../wp-content/uploads/2023/01/Exercise-3.6-1024x243.png" alt="" class="wp-image-1153" srcset="./../wp-content/uploads/2023/01/Exercise-3.6-1024x243.png 1024w, ./../wp-content/uploads/2023/01/Exercise-3.6-300x71.png 300w, ./../wp-content/uploads/2023/01/Exercise-3.6-768x182.png 768w, ./../wp-content/uploads/2023/01/Exercise-3.6-1536x364.png 1536w, ./../wp-content/uploads/2023/01/Exercise-3.6-2048x485.png 2048w, ./../wp-content/uploads/2023/01/Exercise-3.6-640x152.png 640w, ./../wp-content/uploads/2023/01/Exercise-3.6-960x227.png 960w, ./../wp-content/uploads/2023/01/Exercise-3.6.png 2220w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Exercise 3.5</title>
 		<link>./../exercise-3-5/index.html</link>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Fri, 20 Jan 2023 11:03:33 +0000</pubDate>
+		<pubDate>Sun, 15 Jan 2023 11:03:33 +0000</pubDate>
 				<category><![CDATA[Coursework]]></category>
 		<category><![CDATA[Part 3 Baroque Period]]></category>
 		<category><![CDATA[Stylistic Techniques]]></category>
@@ -306,41 +296,6 @@
 		
 			</item>
 		<item>
-		<title>Exercise 3.6</title>
-		<link>./../exercise-3-6/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Thu, 19 Jan 2023 15:30:59 +0000</pubDate>
-				<category><![CDATA[Coursework]]></category>
-		<category><![CDATA[Part 3 Baroque Period]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../index.html?p=1152</guid>
-
-					<description><![CDATA[The exercise proved to be more challenging than anticipated. I began by creating the chords as outlined in&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>The exercise proved to be more challenging than anticipated. I began by creating the chords as outlined in the instructions, which was enjoyable and entertaining. It took some time to figure out the different melodic lines and determine whether, for example, the bass should move upward or downward from bar 1 to bar 2. Ultimately, I ended up with more dynamic lines in the Tenor and Bass compared to the Soprano and Alto, which appeared to be a bit static.</p>
-
-
-
-<p>The most challenging aspect for me was developing the melodic lines. I found that the Tenor and Bass lines were easier to work with and changing them added an interesting rhythm to the phrase. In beat 3 of bar 1, I added a passing note to the Tenor to shorten the leap. In bar 3, I continued to add quavers to the Tenor and Bass to maintain a similar rhythm as the first part.</p>
-
-
-
-<p>Upon examining Bach’s harmonization, I noticed that the main difference was that he added much more interest to bar 4, particularly with the descending Tenor.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="243" src="./../wp-content/uploads/2023/01/Exercise-3.6-1024x243.png" alt="" class="wp-image-1153" srcset="./../wp-content/uploads/2023/01/Exercise-3.6-1024x243.png 1024w, ./../wp-content/uploads/2023/01/Exercise-3.6-300x71.png 300w, ./../wp-content/uploads/2023/01/Exercise-3.6-768x182.png 768w, ./../wp-content/uploads/2023/01/Exercise-3.6-1536x364.png 1536w, ./../wp-content/uploads/2023/01/Exercise-3.6-2048x485.png 2048w, ./../wp-content/uploads/2023/01/Exercise-3.6-640x152.png 640w, ./../wp-content/uploads/2023/01/Exercise-3.6-960x227.png 960w, ./../wp-content/uploads/2023/01/Exercise-3.6.png 2220w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Exercise 3.4</title>
 		<link>./../exercise-3-4/index.html</link>
 		
@@ -390,6 +345,51 @@
 
 
 <p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to SZA &#8211; Kill Bill</title>
+		<link>./../listening-to-sza-kill-bill/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Sun, 08 Jan 2023 13:41:09 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 3 Baroque Period]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../index.html?p=1221</guid>
+
+					<description><![CDATA[Although I appreciate pop music, I&#8217;m usually turned away from songs that are too popular on the charts.&#8230;]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Spotify Embed: Kill Bill" style="border-radius: 12px" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/track/1Qrg8KqiBpW07V7PNxwwwL?si=0505b2005f2b4d8b&#038;utm_source=oembed"></iframe>
+</div></figure>
+
+
+
+<p>Although I appreciate pop music, I&#8217;m usually turned away from songs that are too popular on the charts. But, when I stumbled upon SZA&#8217;s &#8220;Kill Bill&#8221; on the radio without knowing what it was, I was extremely surprised. The song really caught my attention. My impression was that the song never settled down, a feeling (a very good feeling) I also had when <a href="./../listening-to-beach-boys-god-only-knows/index.html" data-type="post" data-id="531" target="_blank">listening to God Only Knows</a>.</p>
+
+
+
+<p>The aspect that impressed me the most was the chorus vocal melody. It was straightforward yet stunning and flowed smoothly. Upon transcribing it, I discovered the song was in Ab Major, but the vocal melody only utilized the Ab once on the last note of the 4th beat, which was a rather weak one. There was also an A flat, a chromatic note just a half-step from the tonic, leading to a sense of uncertainty and incompletion.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="74" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-1024x74.png" alt="" class="wp-image-1222" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-1024x74.png 1024w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-300x22.png 300w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-768x55.png 768w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-1536x111.png 1536w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-2048x148.png 2048w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-640x46.png 640w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26-960x69.png 960w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-30-at-12.30.26.png 2578w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>The chord progression also caught my attention. Throughout the song, it used the same progression: Bbm-Eb-Ab-F or ii-V-I-VI. This again contributed to a sense of instability as it started on ii and placed the I on the third bar, which is a weaker position for establishing the key. The final chord was a modulation to a chromatic chord of F Major, which was my favourite part of the chorus. It was playful, and daring, and complemented the lyrics perfectly (e.g. &#8220;Rather be in jail than alone&#8221;).</p>
+
+
+
+<p>But right from the beginning, the song starts off sounding vague. There&#8217;s a distinct out-of-tune waver that is completely undefined. From that point, the song could head in any direction. Then, the drum beat enters and as with any typical pop song, you anticipate listening to a four-beat loop until the vocals begin. But the vocals come in on the fourth beat, like an anacrusis, unexpectedly.</p>
+
+
+
+<p>Ultimately, I don&#8217;t think &#8220;Kill Bill&#8221; will be regarded as a masterpiece like &#8220;God Only Knows,&#8221; but in today&#8217;s landscape of overwhelming similar-sounding pop music, I found the song to be invigorating. I hope it serves as inspiration for other artists to create pop music that departs from standard harmonic and melodic structures.</p>
 ]]></content:encoded>
 					
 		
@@ -483,6 +483,55 @@
 		
 			</item>
 		<item>
+		<title>Listening to Schubert: String Quintet in C Major</title>
+		<link>./../listening-to-schubert-string-quintet-in-c-major/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Fri, 23 Dec 2022 15:31:05 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 3 Baroque Period]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../index.html?p=1229</guid>
+
+					<description><![CDATA[Lately, I&#8217;ve been enjoying it more and more the cello. Actually, I think I&#8217;m particularly drawn to low-pitched&#8230;]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Spotify Embed: Schubert: String Quintet In C Major D.956, Op. Posth. 163" style="border-radius: 12px" width="100%" height="352" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/album/0tRo5sjdmtVi80mM5Ds2vR?si=1jo0RyGnTia2r_Ftt7vlpg&#038;utm_source=oembed"></iframe>
+</div></figure>
+
+
+
+<p>Lately, I&#8217;ve been enjoying it more and more the cello. Actually, I think  I&#8217;m particularly drawn to low-pitched instruments like the acoustic bass, bassoon, and cello. When I learned that Schubert wrote a piece for a string quintet with a second cello instead of the usual second viola, I was curious to listen to it.</p>
+
+
+
+<p>Listening to it was an emotional journey. The piece seemed to effortlessly shift from one mood to another. For instance, in the first movement (10:03-13:05), it transitioned from a beautiful melodic line to an intense, almost violent cello and back to the melodic line and again back to an angry mood. All this in just 3 minutes.</p>
+
+
+
+<p>Sometimes the piece reminded me of Beethoven. For example, at the beginning of the third movement (00:00-04:03), where there is such a strength that it almost looks like an entire orchestra is playing. I think sometimes I could hear a brass instrument within the strings, and it&#8217;s amazing how Schubert was able to create such magic.</p>
+
+
+
+<p>I think the decision to use two cellos gave the piece a full orchestral sound, especially during moments with a darker mood, such as the first movement.</p>
+
+
+
+<p>Overall, I thoroughly enjoyed this piece and it has sparked my interest in exploring Schubert&#8217;s other works.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Exercise 3.3 &#8211; Personal Reflection</title>
 		<link>./../exercise-3-3-personal-reflection/index.html</link>
 		
@@ -518,7 +567,7 @@
 		<link>./../research-3-0-instrumental-tunings-around-the-world-and-throughout-history/index.html</link>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Fri, 16 Dec 2022 14:53:49 +0000</pubDate>
+		<pubDate>Sun, 18 Dec 2022 14:53:49 +0000</pubDate>
 				<category><![CDATA[Coursework]]></category>
 		<category><![CDATA[Part 3 Baroque Period]]></category>
 		<category><![CDATA[Stylistic Techniques]]></category>
@@ -609,7 +658,7 @@
 		<link>./../exercise-3-2/index.html</link>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Thu, 15 Dec 2022 11:33:07 +0000</pubDate>
+		<pubDate>Fri, 16 Dec 2022 11:33:07 +0000</pubDate>
 				<category><![CDATA[Coursework]]></category>
 		<category><![CDATA[Part 3 Baroque Period]]></category>
 		<category><![CDATA[Stylistic Techniques]]></category>
@@ -7412,7 +7461,7 @@
 
 
 
-<article class="post-265 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-coursework-part-2-exploring-melody-and-scales category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-265 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-coursework-part-2-exploring-melody-and-scales category-listening-log-part-2-exploring-melody-and-scales category-listening-log category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -7438,7 +7487,7 @@
 
 
 
-<article class="post-326 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log-part-2-exploring-melody-and-scales category-listening-log category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-326 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -7479,7 +7528,7 @@
 			<div class="cs-posts-area__outer">
 				<div class="cs-posts-area__main  cs-posts-area__grid">
 					
-<article class="post-288 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-288 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log-part-2-exploring-melody-and-scales category-listening-log category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -7505,7 +7554,7 @@
 
 
 
-<article class="post-332 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log-part-2-exploring-melody-and-scales category-listening-log category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-332 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -8091,7 +8140,7 @@
 	</div>
 </article>
 
-<article class="post-265 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-coursework-part-2-exploring-melody-and-scales category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-265 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-coursework-part-2-exploring-melody-and-scales category-listening-log-part-2-exploring-melody-and-scales category-listening-log category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -10713,69 +10762,6 @@
 <enclosure url="./../wp-content/uploads/2021/12/Project-1-Percussion-solos-Taiko-2.mp3" length="605435" type="audio/mpeg" />
 <enclosure url="./../wp-content/uploads/2021/12/Project-1-Percussion-solos-Tambourine.mp3" length="305549" type="audio/mpeg" />
 
-			</item>
-		<item>
-		<title>Listening to Arthur Honegger &#8211; Cello Sonata, H. 20: III. Presto</title>
-		<link>./../listening-to-arthur-honegger-cello-sonata-h-20-iii-presto/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 07:52:01 +0000</pubDate>
-				<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Part 1 Exploring rhythm]]></category>
-		<guid isPermaLink="false">https://pedrovintem.000webhostapp.com/?p=32</guid>
-
-					<description><![CDATA[My&#160;first&#160;listening&#160;log&#160;was&#160;an&#160;assignment&#160;in&#160;which&#160;I&#160;was&#160;given&#160;a&#160;list&#160;of&#160;composers&#160;to choose&#160;from. I chose Honegger because I have never listened to him before. I&#8217;m glad I did. I&#8230;]]></description>
-										<content:encoded><![CDATA[
-<h2 id="honegger-showed-me-that-we-are-on-the-road-to-nowhere" class="cnvs-block-section-heading cnvs-block-section-heading-1623907804669 is-style-cnvs-block-section-heading-3 halignleft" >
-	<span class="cnvs-section-title">
-		<span>Honegger showed me that we are on the road to nowhere</span>
-	</span>
-</h2>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Spotify Embed: Cello Sonata, H. 20: III. Presto" width="100%" height="80" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" src="https://open.spotify.com/embed/track/3bk7txJoz14H5HLW0Lwm28?si=83277edda9ca4516&#038;utm_source=oembed"></iframe>
-</div><figcaption>Honegger, A., Bertsch, B. and Weber, M., 2003.&nbsp;<em>Cello Sonata, H. 20: III. Presto</em>. [Streaming] Available at: &lt;https://open.spotify.com/track/3bk7txJoz14H5HLW0Lwm28?si=f55b4198c69f4b59&gt; [Accessed 17 June 2021].</figcaption></figure>
-
-
-
-<p>My&nbsp;first&nbsp;listening&nbsp;log&nbsp;was&nbsp;an&nbsp;assignment&nbsp;in&nbsp;which&nbsp;I&nbsp;was&nbsp;given&nbsp;a&nbsp;list&nbsp;of&nbsp;composers&nbsp;to choose&nbsp;from. I chose Honegger because I have never listened to him before. I&#8217;m glad I did.</p>
-
-
-
-<p>I listened to Cello Sonata, H.20 and I was surprised when the III. Presto started. The music starts with a sharp cello that immediately took me to Tango sounds. I was not expecting that. But that feeling lasted for a second because the music immediately takes a rhythm that is nothing like Tango. It goes with a very paced rhythm, almost mechanical, marked by the cello and followed by the piano. Then, is the piano that marks the rhythm. For me, this is done in a very subtle but interesting way. </p>
-
-
-
-<p>The music becomes more melodious toward the finish, and it appears that it is becoming calmer, but I believe Honegger is deceiving us. The mechanical rhythm is constant, and the apotheosis is approaching until it abruptly ends. Instead of ending in a D, as you might expect, the cello and piano end a B and a B#, respectively. That was incredible.</p>
-
-
-
-<p>Another thing I found fascinating was listening to multiple musicians perform this piece and seeing how they approached the finish in quite different ways. Some clearly marked it, indicating that it had come to an end. Others failed to create the surprise that Honegger envisioned. But, in my perspective, Bertsch and Webber did an excellent job.</p>
-
-
-
-<p>One last thought.</p>
-
-
-
-<p>Because my mind was still expecting a finish, this finale remained stuck in my thoughts. The&nbsp;thing&nbsp;is,&nbsp;you&#8217;ve&nbsp;been&nbsp;rushing&nbsp;somewhere&nbsp;for&nbsp;more&nbsp;than&nbsp;3&nbsp;minutes,&nbsp;but&nbsp;you&#8217;ve&nbsp;arrived&nbsp;nowhere. Is this song about life? About being born in an instant, living your life at full speed, and having it abruptly end?</p>
-
-
-
-<p>That reminds me of the hit tune &#8220;Road to Nowhere&#8221; by Talking Heads. I&#8217;m not suggesting David Byrne was influenced by Honegger, but the mechanically striking snare throughout the song makes you feel like you&#8217;re on your way somewhere. But as David sings, you&#8217;re not. And that is alright.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Spotify Embed: Road to Nowhere - 2005 Remaster" width="100%" height="80" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" src="https://open.spotify.com/embed/track/2co8fDyaVmxv8xruQWORnC?si=eb525b83a94d4259&#038;utm_source=oembed"></iframe>
-</div><figcaption>Talking Heads, 2021.&nbsp;<em>Road to Nowhere</em>. [Streaming] Available at: &lt;https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC?si=eb525b83a94d4259&gt; [Accessed 17 June 2021].</figcaption></figure>
-]]></content:encoded>
-					
-		
-		
 			</item>
 	</channel>
 </rss>

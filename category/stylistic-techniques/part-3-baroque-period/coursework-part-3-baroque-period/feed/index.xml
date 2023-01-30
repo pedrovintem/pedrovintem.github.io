@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Mon, 30 Jan 2023 13:22:38 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Jan 2023 15:34:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -82,11 +82,46 @@
 		
 			</item>
 		<item>
+		<title>Exercise 3.6</title>
+		<link>./../../../../../exercise-3-6/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2023 15:30:59 +0000</pubDate>
+				<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Part 3 Baroque Period]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=1152</guid>
+
+					<description><![CDATA[The exercise proved to be more challenging than anticipated. I began by creating the chords as outlined in&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>The exercise proved to be more challenging than anticipated. I began by creating the chords as outlined in the instructions, which was enjoyable and entertaining. It took some time to figure out the different melodic lines and determine whether, for example, the bass should move upward or downward from bar 1 to bar 2. Ultimately, I ended up with more dynamic lines in the Tenor and Bass compared to the Soprano and Alto, which appeared to be a bit static.</p>
+
+
+
+<p>The most challenging aspect for me was developing the melodic lines. I found that the Tenor and Bass lines were easier to work with and changing them added an interesting rhythm to the phrase. In beat 3 of bar 1, I added a passing note to the Tenor to shorten the leap. In bar 3, I continued to add quavers to the Tenor and Bass to maintain a similar rhythm as the first part.</p>
+
+
+
+<p>Upon examining Bach’s harmonization, I noticed that the main difference was that he added much more interest to bar 4, particularly with the descending Tenor.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="243" src="./../../../../../wp-content/uploads/2023/01/Exercise-3.6-1024x243.png" alt="" class="wp-image-1153" srcset="./../../../../../wp-content/uploads/2023/01/Exercise-3.6-1024x243.png 1024w, ./../../../../../wp-content/uploads/2023/01/Exercise-3.6-300x71.png 300w, ./../../../../../wp-content/uploads/2023/01/Exercise-3.6-768x182.png 768w, ./../../../../../wp-content/uploads/2023/01/Exercise-3.6-1536x364.png 1536w, ./../../../../../wp-content/uploads/2023/01/Exercise-3.6-2048x485.png 2048w, ./../../../../../wp-content/uploads/2023/01/Exercise-3.6-640x152.png 640w, ./../../../../../wp-content/uploads/2023/01/Exercise-3.6-960x227.png 960w, ./../../../../../wp-content/uploads/2023/01/Exercise-3.6.png 2220w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Exercise 3.5</title>
 		<link>./../../../../../exercise-3-5/index.html</link>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Fri, 20 Jan 2023 11:03:33 +0000</pubDate>
+		<pubDate>Sun, 15 Jan 2023 11:03:33 +0000</pubDate>
 				<category><![CDATA[Coursework]]></category>
 		<category><![CDATA[Part 3 Baroque Period]]></category>
 		<category><![CDATA[Stylistic Techniques]]></category>
@@ -114,7 +149,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="269" src="./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36-1024x269.png" alt="" class="wp-image-1160" srcset="./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36-1024x269.png 1024w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36-300x79.png 300w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36-768x202.png 768w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36-1536x404.png 1536w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36-640x168.png 640w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36-960x253.png 960w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36.png 2014w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="269" src="./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36-1024x269.png" alt="" class="wp-image-1160" srcset="./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36-1024x269.png 1024w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36-300x79.png 300w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36-768x202.png 768w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36-1536x404.png 1536w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36-640x168.png 640w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36-960x253.png 960w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-20-at-11.00.36.png 2014w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -151,41 +186,6 @@
 
 
 <p>Greer, M.J. (2002) “Review: Analyzing Bach Cantatas, by Eric Chafe,” <em>Journal of the American Musicological Society</em>, 55(3), pp. 538–547. Available at: https://doi.org/10.1525/jams.2002.55.3.538.</p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Exercise 3.6</title>
-		<link>./../../../../../exercise-3-6/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Thu, 19 Jan 2023 15:30:59 +0000</pubDate>
-				<category><![CDATA[Coursework]]></category>
-		<category><![CDATA[Part 3 Baroque Period]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../../../index.html?p=1152</guid>
-
-					<description><![CDATA[The exercise proved to be more challenging than anticipated. I began by creating the chords as outlined in&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>The exercise proved to be more challenging than anticipated. I began by creating the chords as outlined in the instructions, which was enjoyable and entertaining. It took some time to figure out the different melodic lines and determine whether, for example, the bass should move upward or downward from bar 1 to bar 2. Ultimately, I ended up with more dynamic lines in the Tenor and Bass compared to the Soprano and Alto, which appeared to be a bit static.</p>
-
-
-
-<p>The most challenging aspect for me was developing the melodic lines. I found that the Tenor and Bass lines were easier to work with and changing them added an interesting rhythm to the phrase. In beat 3 of bar 1, I added a passing note to the Tenor to shorten the leap. In bar 3, I continued to add quavers to the Tenor and Bass to maintain a similar rhythm as the first part.</p>
-
-
-
-<p>Upon examining Bach’s harmonization, I noticed that the main difference was that he added much more interest to bar 4, particularly with the descending Tenor.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="243" src="./../../../../../wp-content/uploads/2023/01/Exercise-3.6-1024x243.png" alt="" class="wp-image-1153" srcset="./../../../../../wp-content/uploads/2023/01/Exercise-3.6-1024x243.png 1024w, ./../../../../../wp-content/uploads/2023/01/Exercise-3.6-300x71.png 300w, ./../../../../../wp-content/uploads/2023/01/Exercise-3.6-768x182.png 768w, ./../../../../../wp-content/uploads/2023/01/Exercise-3.6-1536x364.png 1536w, ./../../../../../wp-content/uploads/2023/01/Exercise-3.6-2048x485.png 2048w, ./../../../../../wp-content/uploads/2023/01/Exercise-3.6-640x152.png 640w, ./../../../../../wp-content/uploads/2023/01/Exercise-3.6-960x227.png 960w, ./../../../../../wp-content/uploads/2023/01/Exercise-3.6.png 2220w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -373,7 +373,7 @@
 		<link>./../../../../../research-3-0-instrumental-tunings-around-the-world-and-throughout-history/index.html</link>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Fri, 16 Dec 2022 14:53:49 +0000</pubDate>
+		<pubDate>Sun, 18 Dec 2022 14:53:49 +0000</pubDate>
 				<category><![CDATA[Coursework]]></category>
 		<category><![CDATA[Part 3 Baroque Period]]></category>
 		<category><![CDATA[Stylistic Techniques]]></category>
@@ -464,7 +464,7 @@
 		<link>./../../../../../exercise-3-2/index.html</link>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Thu, 15 Dec 2022 11:33:07 +0000</pubDate>
+		<pubDate>Fri, 16 Dec 2022 11:33:07 +0000</pubDate>
 				<category><![CDATA[Coursework]]></category>
 		<category><![CDATA[Part 3 Baroque Period]]></category>
 		<category><![CDATA[Stylistic Techniques]]></category>
