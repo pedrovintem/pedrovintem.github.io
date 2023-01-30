@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Mon, 30 Jan 2023 15:34:59 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Jan 2023 21:03:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,161 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
+		<title>Assignment 3</title>
+		<link>./../../../assignment-3-2/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Mon, 30 Jan 2023 21:03:28 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[Part 3 Baroque Period]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1164</guid>
+
+					<description><![CDATA[I approached this assignment by first thinking about the piece&#8217;s structure, drawing inspiration from Bach&#8217;s violin sonata. I&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>I approached this assignment by first thinking about the piece&#8217;s structure, drawing inspiration from Bach&#8217;s violin sonata. I researched various baroque dances, such as the Allemande, Courante, Sarabande, and Gigue, and decided to use the Allemande as a primary inspiration because of its 4/4 meter and binary form. After going through the chords several times, I decided to make my piece in binary form as well: the first section from bar 1 to bar 16 and the second from bar 17 to bar 33.</p>
+
+
+
+<p>I chose the first section to be 16 bars long, as this is a common length for the first section of dances like Allemande and Bach&#8217;s sonata. Additionally, the perfect cadence from bar 15 (C major) to bar 16 (F major) and the transition from F major to Bb major in bar 17 made it a logical choice. The presence of rehearsal letters also hinted that there would be a break in this section.</p>
+
+
+
+<p>As soon as I determined the structure of my composition, <a href="./../../../listening-to-bach-sonata-no-4-for-violin-and-harpsichord-in-c-minor-bmv-1017-1-siciliano/index.html" data-type="URL" data-id="./../../../listening-to-bach-sonata-no-4-for-violin-and-harpsichord-in-c-minor-bmv-1017-1-siciliano/index.html" target="_blank">I reviewed my previous analysis of Bach&#8217;s violin sonata to better understand his techniques</a>. </p>
+
+
+
+<p>My composition plan was to introduce the main theme of the sonata in the first bars and then explore it with repetitions and variations until the end of the A section. The B section would start with a similar theme, but with some slight changes to keep it fresh and then move to the main theme until the end of the piece.</p>
+
+
+
+<p>One of the challenges I faced right at the beginning of the composition was finding the right rhythms and notes. I tried several combinations and ideas but I ended up feeling that they didn&#8217;t match the Baroque style I was aiming for. Either sounded too simple or too uninteresting. My solution was to borrow material from my previous exercise, which was based on Bach&#8217;s Sonata for Viola da Gamba &amp; Harpsichord in G Minor.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="676" height="242" src="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13.png" alt="" class="wp-image-1165" srcset="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13.png 676w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13-300x107.png 300w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13-640x229.png 640w" sizes="(max-width: 676px) 100vw, 676px" /><figcaption class="wp-element-caption">Exercise 3.4 theme</figcaption></figure>
+
+
+
+<p>But even after finding a theme, I wasn&#8217;t satisfied with how it sounded in the first four bars, so I decided to begin it at rehearsal mark A (bar 5) and develop it from there. Overall, I was pleased with how the melody turned out and specifically enjoyed applying the lessons I learned from Bach by allowing the C# in bar 8 to move to bar 9 instead of resolving to D.</p>
+
+
+
+<p>There was a challenge with the first 4 bars since I lacked ideas as to what to do in order to make them interesting. My solution was to write an introduction that hinted at the main theme&#8217;s rhythm, as a preview of what was to come. Despite not being able to find out whether an introduction was common to the Baroque style, I decided to include it since it made sense in this composition.</p>
+
+
+
+<p>My goal in the B section was to make the violin sound freer, but not totally different from the previous section. In order to achieve this, I kept the tied note and the three descending notes from the main theme.</p>
+
+
+
+<p>The next step was ornamenting the violin and the treble harpsichord. I looked into Taylor (1998), Apel (1969) and Bach (1949) for guidance and kept in mind that Bach used ornamentations at the perfect timing. The main difficulty I faced was understanding how to write the first and final notes on the trills regarding the previous and the next note. For example, in bars 2 and 12, the previous note is the same upper note of the trill. Should the player play it two times or make it tied? I couldn&#8217;t find a definitive answer but it made sense to me to be tied.</p>
+
+
+
+<div class="is-layout-flex wp-container-8 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="532" height="184" src="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18.png" alt="" class="wp-image-1180" srcset="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18.png 532w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18-300x104.png 300w" sizes="(max-width: 532px) 100vw, 532px" /><figcaption class="wp-element-caption">Trill in Bar 2</figcaption></figure>
+</div>
+
+
+
+<div class="is-layout-flow wp-block-column" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="580" height="128" src="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06.png" alt="" class="wp-image-1181" srcset="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06.png 580w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06-300x66.png 300w" sizes="(max-width: 580px) 100vw, 580px" /><figcaption class="wp-element-caption">Trill in bar 8</figcaption></figure>
+</div>
+</div>
+
+
+
+<div class="is-layout-flex wp-container-11 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="588" height="154" src="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21.png" alt="" class="wp-image-1182" srcset="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21.png 588w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21-300x79.png 300w" sizes="(max-width: 588px) 100vw, 588px" /><figcaption class="wp-element-caption">Trill in bar 12</figcaption></figure>
+</div>
+
+
+
+<div class="is-layout-flow wp-block-column" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="450" height="136" src="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.23.png" alt="" class="wp-image-1170" srcset="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.23.png 450w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.23-300x91.png 300w" sizes="(max-width: 450px) 100vw, 450px" /><figcaption class="wp-element-caption">Turn in bar 17</figcaption></figure>
+</div>
+</div>
+
+
+
+<div class="is-layout-flex wp-container-14 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="382" height="168" src="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.39.png" alt="" class="wp-image-1171" srcset="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.39.png 382w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.39-300x132.png 300w" sizes="(max-width: 382px) 100vw, 382px" /><figcaption class="wp-element-caption">Mordant in bar 19</figcaption></figure>
+</div>
+
+
+
+<div class="is-layout-flow wp-block-column" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="462" height="156" src="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.01.27.png" alt="" class="wp-image-1183" srcset="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.01.27.png 462w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.01.27-300x101.png 300w" sizes="(max-width: 462px) 100vw, 462px" /><figcaption class="wp-element-caption">Trill in bar 20</figcaption></figure>
+</div>
+</div>
+
+
+
+<div class="is-layout-flex wp-container-17 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="646" height="208" src="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.35.png" alt="" class="wp-image-1184" srcset="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.35.png 646w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.35-300x97.png 300w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.35-640x206.png 640w" sizes="(max-width: 646px) 100vw, 646px" /><figcaption class="wp-element-caption">Trill in bar 30</figcaption></figure>
+</div>
+
+
+
+<div class="is-layout-flow wp-block-column" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="682" height="144" src="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51.png" alt="" class="wp-image-1185" srcset="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51.png 682w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51-300x63.png 300w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51-640x135.png 640w" sizes="(max-width: 682px) 100vw, 682px" /><figcaption class="wp-element-caption">Trill in bar 31</figcaption></figure>
+</div>
+</div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="133" src="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.04.47-1024x133.png" alt="" class="wp-image-1187" srcset="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.04.47-1024x133.png 1024w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.04.47-300x39.png 300w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.04.47-768x100.png 768w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.04.47-640x83.png 640w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.04.47-960x125.png 960w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.04.47.png 1122w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Trill in bar 32</figcaption></figure>
+
+
+
+<p>In bars 29 and 30, I decided to incorporate a suspiran, which is a technique I learned from an article by Peter Williams (1979).</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1020" height="190" src="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-11.07.29.png" alt="" class="wp-image-1205" srcset="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-11.07.29.png 1020w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-11.07.29-300x56.png 300w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-11.07.29-768x143.png 768w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-11.07.29-640x119.png 640w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-11.07.29-960x179.png 960w" sizes="(max-width: 1020px) 100vw, 1020px" /><figcaption class="wp-element-caption">Suspiran in bars 29 and 30</figcaption></figure>
+
+
+
+<p>Overall, I am pleased with how I was able to incorporate elements from Bach&#8217;s sonata into my composition, but I am aware that it may not sound as authentically Baroque as it could. Sometimes it sounds too contemporary. Possibly the pivotal question is this: How can we write in the style of a specific era if we have been influenced by later ones? This may be a constant challenge that composers face, and it&#8217;s something that I kept in mind throughout the composition process. Despite this, I am happy with the final result and how it captures the essence of the Baroque style while incorporating my own creative choices.</p>
+
+
+
+<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1674728556067 is-style-cnvs-block-section-heading-6 halignleft" >
+	<span class="cnvs-section-title">
+		<span>References</span>
+	</span>
+</h2>
+
+
+
+<p>Taylor, E. (1998) The AB Guide to Music Theory Part 1. Associated Board of the Royal Schools of Music Publishing.</p>
+
+
+
+<p>Apel, W. (1969) Harvard Dictionary of Music, 2nd Revised and Enlarged Edition. Second Revised&amp;enlarged. Belknap Press: An Imprint of Harvard University Press.</p>
+
+
+
+<p>Bach, C. P. E. (1949) Essay on the true art of playing keyboard instruments, Translated and Edited by William J. Mitchell. New York: W.W.Norton.</p>
+
+
+
+<p>Williams, P. (1979) “Figurenlehre from Monteverdi to Wagner. 3: The Suspirans,” <em>The Musical Times</em>, 120(1638), p. 648. Available at: https://doi.org/10.2307/962468.</p>
+
+
+
+<p> </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Research Point 3.2</title>
 		<link>./../../../research-point-3-2/index.html</link>
 		
@@ -102,7 +257,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="547" src="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-1024x547.png" alt="" class="wp-image-1209" srcset="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-1024x547.png 1024w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-300x160.png 300w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-768x410.png 768w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-640x342.png 640w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-960x513.png 960w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29.png 1292w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Ritornello Theme</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="547" src="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-1024x547.png" alt="" class="wp-image-1209" srcset="./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-1024x547.png 1024w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-300x160.png 300w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-768x410.png 768w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-640x342.png 640w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-960x513.png 960w, ./../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29.png 1292w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Ritornello Theme</figcaption></figure>
 
 
 
@@ -7409,7 +7564,7 @@
 			<div class="cs-posts-area__outer">
 				<div class="cs-posts-area__main  cs-posts-area__grid">
 					
-<article class="post-241 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log-part-2-exploring-melody-and-scales category-listening-log category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-241 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -7435,7 +7590,7 @@
 
 
 
-<article class="post-239 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log-part-2-exploring-melody-and-scales category-listening-log category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-239 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -7461,7 +7616,7 @@
 
 
 
-<article class="post-265 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-coursework-part-2-exploring-melody-and-scales category-listening-log-part-2-exploring-melody-and-scales category-listening-log category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-265 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-coursework-part-2-exploring-melody-and-scales category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -8140,7 +8295,7 @@
 	</div>
 </article>
 
-<article class="post-265 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-coursework-part-2-exploring-melody-and-scales category-listening-log-part-2-exploring-melody-and-scales category-listening-log category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-265 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-coursework-part-2-exploring-melody-and-scales category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -10475,293 +10630,6 @@
 					
 		
 		
-			</item>
-		<item>
-		<title>Project 1: Percussion Solos</title>
-		<link>./../../../project-1-percussion-solos/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Thu, 01 Jul 2021 07:41:51 +0000</pubDate>
-				<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Coursework]]></category>
-		<category><![CDATA[Part 1 Exploring rhythm]]></category>
-		<guid isPermaLink="false">https://pedrovintem.000webhostapp.com/?p=71</guid>
-
-					<description><![CDATA[Composing exclusively for percussion is something new for me. In fact, composing in notation is also a first&#8230;]]></description>
-										<content:encoded><![CDATA[
-<h2 id="i-have-never-composed-for-percussion-before" class="cnvs-block-section-heading cnvs-block-section-heading-1624948072250 is-style-cnvs-block-section-heading-3 halignleft" >
-	<span class="cnvs-section-title">
-		<span>I have never composed for percussion before</span>
-	</span>
-</h2>
-
-
-
-<p>Composing exclusively for percussion is something new for me. In fact, composing in notation is also a first for me. Usually, I just sit at the piano and compose. I believe that creating in this way took me longer, but that time allowed me to go deeper into the instruments and better understand what I could do with them.</p>
-
-
-
-<p>The lack of a standard for notating percussion instruments was the first hurdle I faced (Black and Gerou, 2005). As a result, to have a consistent notation, I used the Essential Dictionary of Orchestration. Also, because some percussion instruments have little or no natural resonance, I chose to change the note-length in order to have fewer rests, which keeps the piece from becoming cluttered and difficult to read (Solomon, 2002). </p>
-
-
-
-<p>The&nbsp;goal&nbsp;for&nbsp;this&nbsp;project&nbsp;was&nbsp;to&nbsp;compose&nbsp;four&nbsp;short&nbsp;pieces&nbsp;for&nbsp;untuned&nbsp;instruments&nbsp;of&nbsp;my&nbsp;choice. I chose the Triangle, the Snare Drum, the Taiko and the Tambourine.</p>
-
-
-
-<h2 class="has-huge-font-size" id="the-triangle">The Triangle</h2>
-
-
-
-<p>Because this is my first time composing for percussion, I chose to work with the triangle. Eric Hopes wrote it best when he said: &#8220;The truth is that anyone can play the triangle. It is one of the most basic musical instruments.&#8221; (How to Be a Professional Triangle Player | Musicians of the Utah Symphony, n.d.). To test it out, I started writing in a simple time signature, and it sounded good. A section of this work was influenced by Antonín Dvořák&#8217;s Symphony No. 9 in E minor (3rd movement), of which I discovered a performance of the triangle on Youtube.</p>
-
-
-
-<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1624949067525 cnvs-block-collapsibles-2" >
-	
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1624949067564" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="bsp-orchestral-sessions-triangle-dvorak-symphony-9-mvt-iii" class="cnvs-block-collapsible-heading">
-			<a href="#"><em>BSP Orchestral Sessions: Triangle / Dvorak Symphony #9 Mvt. III</em>.</a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="BSP Orchestral Sessions: Triangle / Dvorak Symphony #9 Mvt. III" width="640" height="360" src="https://www.youtube.com/embed/RrvTZWxk4vs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>Black Swamp Percussion, 2021.&nbsp;<em>BSP Orchestral Sessions: Triangle / Dvorak Symphony #9 Mvt. III</em>.  Available at: &lt;https://www.youtube.com/watch?v=RrvTZWxk4vs&gt; [Accessed 29 June 2021].</figcaption></figure>
-
-	</div>
-</div>
-
-
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1624949067573" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="" class="cnvs-block-collapsible-heading">
-			<a href="#"></a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-			</div>
-</div>
-
-</div>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="403" src="./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Triangle-1024x403.png" alt="" class="wp-image-792" srcset="./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Triangle-1024x403.png 1024w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Triangle-300x118.png 300w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Triangle-768x302.png 768w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Triangle-1536x604.png 1536w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Triangle-2048x805.png 2048w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Triangle-640x252.png 640w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Triangle-960x377.png 960w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Triangle.png 2223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<figure class="wp-block-audio"><audio controls src="./../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Triangle.mp3"></audio></figure>
-
-
-
-<p></p>
-
-
-
-<h2 class="has-huge-font-size" id="the-snare-drum">The Snare Drum</h2>
-
-
-
-<p>For me, the snare drum was an obvious option because it is the percussion instrument with which I am most familiar. Chop Suey! by System Of A Down began playing on my Spotify while I was composing this piece. I interpreted it as both a divine sign and a challenge. Could this song&#8217;s verse serve as inspiration for a snare solo? Yes, I believe so.</p>
-
-
-
-<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1624949278903 cnvs-block-collapsibles-2" >
-	
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1624949278939" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="system-of-a-down-chop-suey" class="cnvs-block-collapsible-heading">
-			<a href="#">System Of A Down &#8211; Chop Suey!</a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Spotify Embed: Chop Suey!" width="100%" height="80" style="[object Object]" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" src="https://open.spotify.com/embed/track/2DlHlPMa4M17kufBvI2lEN?si=f0c52e1e3e8140b3&#038;utm_source=oembed"></iframe>
-</div><figcaption>System Of A Down, 2001.&nbsp;<em>Chop Suey!</em>. [online] Available at: &lt;https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN?si=a09b43b598914518&gt; [Accessed 29 June 2021].</figcaption></figure>
-
-	</div>
-</div>
-
-
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1624949278943" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="-2" class="cnvs-block-collapsible-heading">
-			<a href="#"></a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-			</div>
-</div>
-
-</div>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="550" src="./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Snare-1024x550.png" alt="" class="wp-image-790" srcset="./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Snare-1024x550.png 1024w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Snare-300x161.png 300w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Snare-768x413.png 768w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Snare-1536x826.png 1536w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Snare-2048x1101.png 2048w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Snare-640x344.png 640w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Snare-960x516.png 960w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Snare.png 2223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<figure class="wp-block-audio"><audio controls src="./../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Snare.mp3"></audio></figure>
-
-
-
-<p></p>
-
-
-
-<h2 class="has-huge-font-size" id="the-taiko">The Taiko</h2>
-
-
-
-<p>Because I knew nothing about this instrument, I did some research and discovered the principle of &#8220;breath rhythm,&#8221; in which a piece&#8217;s metrical markers are sensed and played as the rhythm of breath (Powell, 2012). This inspired me to set the tempo to 64 because an adult breath rhythm is around 16 breaths per minute, multiplied by four equals 64. This piece, I believe, can translate your breathing before doing something exciting, such as fighting in a war or kissing someone for the first time. Your breathing quickens, you hold your breath for a brief moment, and then it&#8217;s all adrenaline.</p>
-
-
-
-<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1624949578282 cnvs-block-collapsibles-2" >
-	
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1624949578325" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="this-is-japanese-taiko-drum-o-taiko-by-master-eitetsu-hayashi" class="cnvs-block-collapsible-heading">
-			<a href="#"><em>This is Japanese Taiko Drum! (O-taiko by master Eitetsu Hayashi)</em></a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="This is Japanese Taiko Drum! (O-taiko by master Eitetsu Hayashi)" width="640" height="480" src="https://www.youtube.com/embed/ub195aGvfXQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>tmme1234, 2016.&nbsp;<em>This is Japanese Taiko Drum! (O-taiko by master Eitetsu Hayashi)</em>.  Available at: &lt;https://www.youtube.com/watch?v=ub195aGvfXQ&gt; [Accessed 29 June 2021].</figcaption></figure>
-
-	</div>
-</div>
-
-
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1624949578329" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="-3" class="cnvs-block-collapsible-heading">
-			<a href="#"></a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-			</div>
-</div>
-
-</div>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="700" src="./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Taiko-2-1024x700.png" alt="" class="wp-image-793" srcset="./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Taiko-2-1024x700.png 1024w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Taiko-2-300x205.png 300w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Taiko-2-768x525.png 768w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Taiko-2-1536x1051.png 1536w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Taiko-2-2048x1401.png 2048w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Taiko-2-640x438.png 640w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Taiko-2-960x657.png 960w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Taiko-2.png 2260w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<figure class="wp-block-audio"><audio controls src="./../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Taiko-2.mp3"></audio></figure>
-
-
-
-<p></p>
-
-
-
-<h2 class="has-huge-font-size" id="the-tambourine">The Tambourine</h2>
-
-
-
-<p>For me, this was not an obvious choice. I&#8217;d never given the tambourine much thought before, but when I was looking for instruments, I came across Edoardo Giachino&#8217;s video of him playing it and was inspired to use it in this project.</p>
-
-
-
-<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1625122579406 cnvs-block-collapsibles-2" >
-	
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1625122579457" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="edoardo-giachino-mr-tambourine-man-tamburello-basco" class="cnvs-block-collapsible-heading">
-			<a href="#">Edoardo Giachino Mr Tambourine Man Tamburello Basco</a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Edoardo Giachino Mr Tambourine Man Tamburello Basco" width="640" height="360" src="https://www.youtube.com/embed/xbhk5yYgUxI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>Giachino, E., 2015.&nbsp;<em>Edoardo Giachino Mr Tambourine Man Tamburello Basco</em>.  Available at: &lt;https://www.youtube.com/watch?v=xbhk5yYgUxI&gt; [Accessed 1 July 2021].</figcaption></figure>
-
-	</div>
-</div>
-
-
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1625122579463" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="-4" class="cnvs-block-collapsible-heading">
-			<a href="#"></a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-			</div>
-</div>
-
-</div>
-
-
-
-<p>What I like about the tambourine is that it reminds me of Spanish/Latin sounds that I&#8217;m familiar with. Particularly in Bizet&#8217;s Carmen, which I may review later in my listening log. I attempted to create some fanfare in this piece. Fanfares are typically performed for brass or brass and percussion instruments (Florek, 2015), so I figured why not a tambourine fanfare?</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="403" src="./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Tambourine-1024x403.png" alt="" class="wp-image-794" srcset="./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Tambourine-1024x403.png 1024w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Tambourine-300x118.png 300w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Tambourine-768x302.png 768w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Tambourine-1536x604.png 1536w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Tambourine-2048x805.png 2048w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Tambourine-640x252.png 640w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Tambourine-960x377.png 960w, ./../../../wp-content/uploads/2022/01/Project-1-Percussion-solos-Tambourine.png 2223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<figure class="wp-block-audio"><audio controls src="./../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Tambourine.mp3"></audio></figure>
-
-
-
-<p></p>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1624950766200 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Black, D. and Gerou, T., 2005.&nbsp;<em>Essential Dictionary of Orchestration</em>. 3rd ed. Los Angeles, CA: Alfred Music, p.183.</p>
-
-
-
-<p>Solomon, S., 2002.&nbsp;<em>How to write for percussion</em>. 1st ed. New York: SZSolomon, p.42.</p>
-
-
-
-<p>Musiciansutahsymphony.com. n.d.&nbsp;<em>How to Be a Professional Triangle Player | Musicians of the Utah Symphony</em>. [online] Available at: &lt;https://musiciansutahsymphony.com/how-to-become-a-professional-triangle-player/&gt; [Accessed 29 June 2021].</p>
-
-
-
-<p>Spaces.oca.ac.uk. 2020.&nbsp;<em>My Listening and Learning Log for Music 1: Composing Music</em>. [online] Available at: &lt;https://spaces.oca.ac.uk/anthonycomposingmusic/category/coursework/part-1/project-1/&gt; [Accessed 29 June 2021].</p>
-
-
-
-<p>Powell, K., 2012. Composing Sound Identity in Taiko Drumming.&nbsp;<em>Anthropology &amp; Education Quarterly</em>, [online] 43(1), pp.101&#8211;119. Available at: &lt;http://www.jstor.org/stable/41410159&gt; [Accessed 29 June 2021].</p>
-
-
-
-<p>FLOREK, P.J., 2015.&nbsp;<em>Modern forms of an ancient art: a selection of contemporary fanfares for multiple trumpets demonstrating evolutionary processes in the fanfare form</em>, University of North Texas, p.14.</p>
-]]></content:encoded>
-					
-		
-		<enclosure url="./../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Triangle.mp3" length="389141" type="audio/mpeg" />
-<enclosure url="./../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Snare.mp3" length="431982" type="audio/mpeg" />
-<enclosure url="./../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Taiko-2.mp3" length="605435" type="audio/mpeg" />
-<enclosure url="./../../../wp-content/uploads/2021/12/Project-1-Percussion-solos-Tambourine.mp3" length="305549" type="audio/mpeg" />
-
 			</item>
 	</channel>
 </rss>
