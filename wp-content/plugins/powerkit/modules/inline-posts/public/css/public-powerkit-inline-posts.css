@@ -1,0 +1,171 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.pk-inline-posts .pk-inline-posts-title {
+	margin-bottom: 1.5rem;
+}
+
+.pk-inline-posts:not(:last-child) {
+	padding-bottom: 40px;
+	margin-bottom: 3rem;
+	border-bottom: 1px #e9ecef solid;
+}
+
+.pk-inline-posts:not(:first-child) {
+	padding-top: 40px;
+	margin-top: 3rem;
+	border-top: 1px #e9ecef solid;
+}
+
+.pk-inline-posts-container .pk-overlay {
+	position: relative;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	width: 100%;
+}
+
+.pk-inline-posts-container .pk-overlay-background {
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.pk-inline-posts-container .pk-overlay-background figure {
+	width: 100%;
+	height: 100%;
+	margin-bottom: 0;
+}
+
+.pk-inline-posts-container .pk-overlay-background img {
+	width: 100%;
+	height: 100%;
+	-o-object-fit: cover;
+	object-fit: cover;
+	font-family: 'object-fit: cover;';
+}
+
+.pk-inline-posts-container .pk-overlay-ratio:before {
+	content: '';
+	display: table;
+	box-sizing: border-box;
+	width: 0;
+	height: 100%;
+}
+
+.pk-inline-posts-container .pk-ratio-landscape:before {
+	padding-bottom: 75%;
+}
+
+.pk-inline-posts-container .pk-overlay-link {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.pk-inline-posts-container .pk-post-inner:not(:last-child) {
+	margin-bottom: 1.5rem;
+}
+
+.pk-inline-posts-container .pk-post-meta {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.pk-inline-posts-container .pk-post-meta .sep {
+	display: inline-block;
+	padding: 0 0.5rem;
+}
+
+.pk-inline-posts-container article:not(:first-child) {
+	margin-top: 40px;
+}
+
+@media (min-width: 576px) {
+	.pk-inline-posts-template-list .pk-post-outer {
+		display: flex;
+		flex-wrap: wrap;
+		margin-right: -20px;
+		margin-left: -20px;
+	}
+	.pk-inline-posts-template-list .pk-post-inner {
+		position: relative;
+		width: 100%;
+		padding-right: 20px;
+		padding-left: 20px;
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.pk-inline-posts-template-list .pk-post-inner:not(:last-child) {
+		margin-bottom: 0;
+	}
+	.pk-inline-posts-template-list .pk-post-inner:first-child:last-child {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.pk-inline-posts-template-list .pk-post-inner + .pk-post-inner {
+		margin-top: 0;
+		display: flex;
+		flex-direction: column;
+	}
+}
+
+.pk-inline-posts-template-grid .pk-post-inner + .pk-post-inner {
+	margin-top: 1rem;
+}
+
+@media (min-width: 576px) {
+	.pk-inline-posts-template-grid {
+		display: flex;
+		flex-wrap: wrap;
+		margin-right: -20px;
+		margin-left: -20px;
+	}
+	.pk-inline-posts-template-grid article {
+		position: relative;
+		width: 100%;
+		padding-right: 20px;
+		padding-left: 20px;
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.pk-inline-posts-template-grid article:nth-child(-n+2) {
+		margin-top: 0;
+	}
+	.pk-inline-posts-template-grid[data-columns="1"] {
+		flex-direction: column;
+	}
+	.pk-inline-posts-template-grid[data-columns="1"] article {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.pk-inline-posts-template-grid[data-columns="1"] article:not(:first-child) {
+		margin-top: 40px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.pk-inline-posts-template-grid[data-columns="3"] article {
+		flex: 0 0 33.3333333333%;
+		max-width: 33.3333333333%;
+	}
+	.pk-inline-posts-template-grid[data-columns="3"] article:nth-child(-n+3) {
+		margin-top: 0;
+	}
+	.pk-inline-posts-template-grid[data-columns="4"] article {
+		flex: 0 0 25%;
+		max-width: 25%;
+	}
+	.pk-inline-posts-template-grid[data-columns="4"] article:nth-child(-n+4) {
+		margin-top: 0;
+	}
+}

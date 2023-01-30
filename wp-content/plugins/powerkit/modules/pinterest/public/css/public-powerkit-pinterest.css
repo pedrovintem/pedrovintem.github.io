@@ -1,0 +1,90 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.pk-pin-it {
+	--pk-pinterest-pinit-background: rgba(0,0,0,0.25);
+	--pk-pinterest-pinit-background-hover: rgba(0,0,0,0.5);
+	--pk-pinterest-pinit-color: #FFFFFF;
+	--pk-pinterest-pinit-color-hover: #FFFFFF;
+	--pk-pinterest-pinit-font-size: 16px;
+}
+
+/*--------------------------------------------------------------*/
+.pk-pin-it-container {
+	position: relative;
+	max-width: 100%;
+}
+
+@-webkit-keyframes pk_pin_it_show {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes pk_pin_it_show {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+.pk-pin-it {
+	position: absolute;
+	top: 1rem;
+	left: 1rem;
+	color: var(--pk-pinterest-pinit-color) !important;
+	text-decoration: none !important;
+	border: none !important;
+	box-shadow: none !important;
+	background-color: var(--pk-pinterest-pinit-background);
+	width: 2.5rem;
+	height: 2.5rem;
+	line-height: 2.5rem;
+	font-size: var(--pk-pinterest-pinit-font-size);
+	text-align: center;
+	opacity: 1;
+	transition: background-color 0.25s ease;
+	z-index: 2;
+}
+
+.pk-pin-it:hover {
+	background-color: var(--pk-pinterest-pinit-background-hover);
+	color: var(--pk-pinterest-pinit-color-hover);
+}
+
+.pk-pin-it span:first-child {
+	display: none;
+}
+
+.pk-pin-it.pk-pin-it-visible {
+	-webkit-animation: pk_pin_it_show 0.25s ease;
+	animation: pk_pin_it_show 0.25s ease;
+}
+
+.wp-block-gallery .blocks-gallery-image .pk-pin-it,
+.wp-block-gallery .blocks-gallery-item
+.wp-block-gallery.is-cropped .blocks-gallery-image .pk-pin-it,
+.wp-block-gallery.is-cropped .blocks-gallery-item .pk-pin-it {
+	width: 2.5rem;
+	height: 2.5rem;
+	line-height: 2.5rem;
+}
+
+.wp-block-gallery figure.wp-block-image a.pk-pin-it {
+	display: block !important;
+	width: initial !important;
+	height: initial !important;
+	flex: initial !important;
+	min-width: 32px;
+}
