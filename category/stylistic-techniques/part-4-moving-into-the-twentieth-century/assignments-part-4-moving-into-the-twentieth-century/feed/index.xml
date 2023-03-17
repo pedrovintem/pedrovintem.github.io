@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Assignments &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../../index.html</link>
+	<description>Learning Log</description>
+	<lastBuildDate>Fri, 17 Mar 2023 14:38:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Assignment 4</title>
+		<link>./../../../../../assignment-4-2/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Fri, 17 Mar 2023 14:38:05 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[Part 4 Moving into the Twentieth Century]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=1288</guid>
+
+					<description><![CDATA[Programme notes The beauty of twilight time, between sunset and moonrise, has captivated human beings for centuries. The&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Programme notes</strong></p>
+
+
+
+<p>The beauty of twilight time, between sunset and moonrise, has captivated human beings for centuries. The Latins had an expression for this special time of day &#8211; &#8220;lux quae fugit,&#8221; which translates to &#8220;the light that flees.&#8221; This phrase captures the ephemeral and fleeting nature of twilight, which often invokes a mixture of feelings. Some may feel nostalgic for the day that is ending while others may feel peaceful for the night to start. Despite the tumultuous emotions that arise, the eventual arrival of night inevitably brings a sense of calm and tranquillity.</p>
+
+
+
+<p><strong>Composition</strong></p>
+
+
+
+<p>My composition takes inspiration from Impressionist music, particularly Debussy&#8217;s preludes. The piece is structured into three distinct parts: the relaxing day, the tumultuous feelings of twilight, and the peace of the night.</p>
+
+
+
+<p>To achieve an Impressionistic sound, I started by experimenting with various pentatonic scales on the piano, ultimately settling on the arpeggio of the C# minor pentatonic. This scale forms the basis for the first part of the prelude, with modulations to C# Dorian  (bars 5-6) and A Dorian (bars 7-8).</p>
+
+
+
+<p>There&#8217;s a brief transition where I actually don&#8217;t know which C major mode I wrote, but I believe it sounds like a D Dorian until it settles in a C Mixolydian.</p>
+
+
+
+<p>The middle section of the piece is marked by a play between C Mixolydian and a Whole Tone scale, with a brief detour into the Whole Tone scale based on Eb (bars 18-19). This leads into the &#8220;cascading&#8221; section, where the music moves from the C Mixolydian to the G major modes of A Dorian and B Phrygian, ending in E harmonic minor. This section aims to explore the extremes of the piano, creating a mysterious feeling of going up and down simultaneously.</p>
+
+
+
+<p>The final section of the prelude moves from D Major to G Major and ends in C Major, evoking a sense of peace and tranquillity after the tumultuous emotions of twilight.</p>
+
+
+
+<p>Throughout the piece, I utilize a pedal tone to build tension and create a sense of stationary motion.</p>
+
+
+
+<p>Overall, my goal in this composition was to capture the essence of Impressionist music by exploring unique scales and timbres on the piano while conveying the range of emotions experienced during the transition from day to night.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

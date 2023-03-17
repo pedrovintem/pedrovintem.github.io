@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Listening Log &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../../index.html</link>
+	<description>Learning Log</description>
+	<lastBuildDate>Thu, 09 Feb 2023 15:32:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Listening to Igor Stravinsky &#8211; Symphonies of Wind Instruments</title>
+		<link>./../../../../../listening-to-igor-stravinsky-symphonies-of-wind-instruments/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Thu, 09 Feb 2023 15:32:05 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 4 Moving into the Twentieth Century]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=1242</guid>
+
+					<description><![CDATA[During my research on Debussy, I discovered that he and Stravinsky were close friends. Following Debussy&#8217;s death, Stravinsky&#8230;]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="IGOR STRAVINSKY Symphonies of Wind Instruments (1947 version)" width="640" height="360" src="https://www.youtube.com/embed/VyKTujyLie4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>During my research on Debussy, I discovered that he and Stravinsky were close friends. Following Debussy&#8217;s death, Stravinsky paid tribute by composing a serene chorale, which was later incorporated into the &#8220;Symphonies of Wind Instruments&#8221; in 1920. In 1945, Stravinsky revised the work, publishing it in 1947, and made alterations including the removal of the alto flute and alto clarinet, as well as reworking the musical score.</p>
+
+
+
+<p>After listening to it the first time, I absolutely loved this piece. I keep finding Stravinsky&#8217;s work amazing and it&#8217;s one of the composers I most like to listen to, but at the same time is the one I find most difficult to analyze. In the next paragraphs I&#8217;ll try to understand what made me like this piece.</p>
+
+
+
+<p>The first hint comes from the title. The &#8220;Symphonies of Wind Instruments&#8221; is a musical work with a title that alludes to the original definition of symphony (as opposed to the musical form) as a harmonious blending of instruments. That&#8217;s one of the characteristics of this piece that stroke me right away. The interplay between the different wind instruments, particularly in terms of the contrasting chromatic tones between the woodwinds and brass, is particularly striking. Stravinsky&#8217;s manipulation of the instruments, such as in bar 3 where he plays a Bb in the trumpet and a B in the clarinets, creates a unique sonic landscape that highlights the tonal differences between the instruments.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="774" height="900" src="./../../../../../wp-content/uploads/2023/02/Screenshot-2023-02-09-at-13.33.41.png" alt="" class="wp-image-1243" srcset="./../../../../../wp-content/uploads/2023/02/Screenshot-2023-02-09-at-13.33.41.png 774w, ./../../../../../wp-content/uploads/2023/02/Screenshot-2023-02-09-at-13.33.41-258x300.png 258w, ./../../../../../wp-content/uploads/2023/02/Screenshot-2023-02-09-at-13.33.41-768x893.png 768w, ./../../../../../wp-content/uploads/2023/02/Screenshot-2023-02-09-at-13.33.41-300x349.png 300w, ./../../../../../wp-content/uploads/2023/02/Screenshot-2023-02-09-at-13.33.41-640x744.png 640w" sizes="(max-width: 774px) 100vw, 774px" /></figure>
+
+
+
+<p>The formal structure of the piece proves to be elusive and challenging to categorize. It frequently alternates between tempos, including 144, 108, and 72 beats per minute, which are related by a ratio of 2:3:4. The fluctuating time signature only adds to the impression of multiple distinct musical ideas being woven together in the composition.</p>
+
+
+
+<p>From the beginning, Stravinsky introduces contrasting thematic materials, switching between joyful flutes, mournful full chords, and the chorale theme, which symbolizes Debussy&#8217;s death or funeral. Throughout the piece, there is no clear narrative or progression. The musical ideas seem to shift abruptly, giving the impression of a series of disconnected fragments.</p>
+
+
+
+<p>The chorale theme, which recurs throughout the piece, serves as a unifying thread and provides the piece with a sense of direction. It becomes the focus of the conclusion, which is joyful and uplifting, spreading a sense of peace and resolution.</p>
+
+
+
+<p> </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="111" height="1024" src="./../../../../../wp-content/uploads/2023/02/Screenshot-2023-02-09-at-13.59.52-111x1024.png" alt="" class="wp-image-1244"/></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
