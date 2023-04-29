@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Project 4 &#8211; About Structure</title>
 		<link>./../../../../../project-4-about-structure/index.html</link>
@@ -40,7 +40,7 @@
 
 
 
-<h2 id="the-idea">The Idea</h2>
+<h2 id="the-idea" class="wp-block-heading">The Idea</h2>
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-<h2 id="the-structure">The Structure</h2>
+<h2 id="the-structure" class="wp-block-heading">The Structure</h2>
 
 
 
@@ -68,7 +68,7 @@
 
 
 
-<h2 id="the-motifs">The motifs</h2>
+<h2 id="the-motifs" class="wp-block-heading">The motifs</h2>
 
 
 
@@ -96,7 +96,7 @@
 
 
 
-<h2 id="the-instruments">The instruments</h2>
+<h2 id="the-instruments" class="wp-block-heading">The instruments</h2>
 
 
 
@@ -139,7 +139,7 @@
 
 
 
-<h2 id="study-1">Study 1</h2>
+<h2 id="study-1" class="wp-block-heading">Study 1</h2>
 
 
 
@@ -199,7 +199,7 @@
 
 
 
-<h2 id="study-2">Study 2</h2>
+<h2 id="study-2" class="wp-block-heading">Study 2</h2>
 
 
 
@@ -289,7 +289,7 @@
 
 
 
-<h2 id="snare-drum-bass-drum">Snare Drum &amp; Bass Drum</h2>
+<h2 id="snare-drum-bass-drum" class="wp-block-heading">Snare Drum &amp; Bass Drum</h2>
 
 
 
@@ -336,7 +336,7 @@
 
 
 
-<h2 id="shaker-wood-block">Shaker &amp; Wood Block</h2>
+<h2 id="shaker-wood-block" class="wp-block-heading">Shaker &amp; Wood Block</h2>
 
 
 
@@ -385,7 +385,7 @@
 
 
 
-<h2 id="castanets-tambourine">Castanets &amp; Tambourine</h2>
+<h2 id="castanets-tambourine" class="wp-block-heading">Castanets &amp; Tambourine</h2>
 
 
 
@@ -440,7 +440,7 @@
 
 
 
-<h2 id="triangle-cymbal">Triangle &amp; Cymbal</h2>
+<h2 id="triangle-cymbal" class="wp-block-heading">Triangle &amp; Cymbal</h2>
 
 
 
@@ -540,7 +540,7 @@
 
 
 
-<h2 class="has-huge-font-size" id="the-triangle">The Triangle</h2>
+<h2 class="has-huge-font-size wp-block-heading" id="the-triangle">The Triangle</h2>
 
 
 
@@ -593,7 +593,7 @@
 
 
 
-<h2 class="has-huge-font-size" id="the-snare-drum">The Snare Drum</h2>
+<h2 class="has-huge-font-size wp-block-heading" id="the-snare-drum">The Snare Drum</h2>
 
 
 
@@ -646,7 +646,7 @@
 
 
 
-<h2 class="has-huge-font-size" id="the-taiko">The Taiko</h2>
+<h2 class="has-huge-font-size wp-block-heading" id="the-taiko">The Taiko</h2>
 
 
 
@@ -699,7 +699,7 @@
 
 
 
-<h2 class="has-huge-font-size" id="the-tambourine">The Tambourine</h2>
+<h2 class="has-huge-font-size wp-block-heading" id="the-tambourine">The Tambourine</h2>
 
 
 

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Revision of Assignment 5 after tutor feedback</title>
 		<link>./../../../../../revision-of-assignment-5-after-tutor-feedback/index.html</link>
@@ -83,7 +83,7 @@
 
 
 
-<h5 id="about-assignment-5">About Assignment 5</h5>
+<h5 id="about-assignment-5" class="wp-block-heading">About Assignment 5</h5>
 
 
 
@@ -134,7 +134,7 @@
 
 
 
-<h2 id="the-idea-theme">The Idea / Theme</h2>
+<h2 class="wp-block-heading" id="the-idea-theme">The Idea / Theme</h2>
 
 
 
@@ -154,7 +154,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="structure">Structure</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="structure">Structure</span></h2>
 
 
 
@@ -170,7 +170,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="the-motifs">The Motifs</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="the-motifs">The Motifs</span></h2>
 
 
 
@@ -262,7 +262,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="the-rhytms">The Rhytms</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="the-rhytms">The Rhytms</span></h2>
 
 
 
@@ -282,7 +282,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="the-instruments">The Instruments</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="the-instruments">The Instruments</span></h2>
 
 
 
@@ -326,7 +326,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="the-composition">The Composition</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="the-composition">The Composition</span></h2>
 
 
 

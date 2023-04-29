@@ -317,6 +317,12 @@
 	color: #45668e;
 }
 
+.pk-share-buttons-scheme-simple-light .pk-share-buttons-flipboard .pk-share-buttons-link:hover,
+:not([class*="is-style-"]) > .pk-share-buttons-scheme-gutenberg-block .pk-share-buttons-flipboard .pk-share-buttons-link:hover,
+.is-style-pk-share-buttons-simple-light > .pk-share-buttons-scheme-gutenberg-block .pk-share-buttons-flipboard .pk-share-buttons-link:hover {
+	color: #f52928;
+}
+
 .pk-share-buttons-scheme-simple-light .pk-share-buttons-reddit .pk-share-buttons-link:hover,
 :not([class*="is-style-"]) > .pk-share-buttons-scheme-gutenberg-block .pk-share-buttons-reddit .pk-share-buttons-link:hover,
 .is-style-pk-share-buttons-simple-light > .pk-share-buttons-scheme-gutenberg-block .pk-share-buttons-reddit .pk-share-buttons-link:hover {
@@ -435,6 +441,12 @@
 :not([class*="is-style-"]) > .pk-share-buttons-scheme-gutenberg-block .pk-share-buttons-vkontakte .pk-share-buttons-link:hover,
 .is-style-pk-share-buttons-default > .pk-share-buttons-scheme-gutenberg-block .pk-share-buttons-vkontakte .pk-share-buttons-link:hover {
 	background: #45668e;
+}
+
+.pk-share-buttons-scheme-default .pk-share-buttons-flipboard .pk-share-buttons-link:hover,
+:not([class*="is-style-"]) > .pk-share-buttons-scheme-gutenberg-block .pk-share-buttons-flipboard .pk-share-buttons-link:hover,
+.is-style-pk-share-buttons-default > .pk-share-buttons-scheme-gutenberg-block .pk-share-buttons-flipboard .pk-share-buttons-link:hover {
+	background: #f52928;
 }
 
 .pk-share-buttons-scheme-default .pk-share-buttons-reddit .pk-share-buttons-link:hover,
@@ -652,6 +664,16 @@
 .pk-share-buttons-scheme-bold-bg .pk-share-buttons-vkontakte .pk-share-buttons-link:hover,
 .is-style-pk-share-buttons-bold-bg .pk-share-buttons-wrap .pk-share-buttons-vkontakte .pk-share-buttons-link:hover {
 	background: #587fae;
+}
+
+.pk-share-buttons-scheme-bold-bg .pk-share-buttons-flipboard .pk-share-buttons-link,
+.is-style-pk-share-buttons-bold-bg .pk-share-buttons-wrap .pk-share-buttons-flipboard .pk-share-buttons-link {
+	background: #f52928;
+}
+
+.pk-share-buttons-scheme-bold-bg .pk-share-buttons-flipboard .pk-share-buttons-link:hover,
+.is-style-pk-share-buttons-bold-bg .pk-share-buttons-wrap .pk-share-buttons-flipboard .pk-share-buttons-link:hover {
+	background: #f75a59;
 }
 
 .pk-share-buttons-scheme-bold-bg .pk-share-buttons-reddit .pk-share-buttons-link,
@@ -880,6 +902,16 @@
 	color: #344d6c;
 }
 
+.pk-share-buttons-scheme-bold-light .pk-share-buttons-flipboard .pk-share-buttons-link,
+.is-style-pk-share-buttons-bold-light .pk-share-buttons-wrap .pk-share-buttons-flipboard .pk-share-buttons-link {
+	color: #f52928;
+}
+
+.pk-share-buttons-scheme-bold-light .pk-share-buttons-flipboard .pk-share-buttons-link:hover,
+.is-style-pk-share-buttons-bold-light .pk-share-buttons-wrap .pk-share-buttons-flipboard .pk-share-buttons-link:hover {
+	color: #e00b0a;
+}
+
 .pk-share-buttons-scheme-bold-light .pk-share-buttons-reddit .pk-share-buttons-link,
 .is-style-pk-share-buttons-bold-light .pk-share-buttons-wrap .pk-share-buttons-reddit .pk-share-buttons-link {
 	color: #ff4500;
@@ -1085,6 +1117,16 @@
 	color: #344d6c;
 }
 
+.pk-share-buttons-scheme-bold .pk-share-buttons-flipboard .pk-share-buttons-link,
+.is-style-pk-share-buttons-bold .pk-share-buttons-wrap .pk-share-buttons-flipboard .pk-share-buttons-link {
+	color: #f52928;
+}
+
+.pk-share-buttons-scheme-bold .pk-share-buttons-flipboard .pk-share-buttons-link:hover,
+.is-style-pk-share-buttons-bold .pk-share-buttons-wrap .pk-share-buttons-flipboard .pk-share-buttons-link:hover {
+	color: #e00b0a;
+}
+
 .pk-share-buttons-scheme-bold .pk-share-buttons-reddit .pk-share-buttons-link,
 .is-style-pk-share-buttons-bold .pk-share-buttons-wrap .pk-share-buttons-reddit .pk-share-buttons-link {
 	color: #ff4500;
@@ -1254,6 +1296,12 @@
 :not([class*="is-style-"]) > .pk-share-buttons-scheme-gutenberg-block .pk-share-buttons-vkontakte .pk-share-buttons-link:hover,
 .is-style-pk-share-buttons-inverse-light > .pk-share-buttons-scheme-gutenberg-block .pk-share-buttons-vkontakte .pk-share-buttons-link:hover {
 	color: #45668e;
+}
+
+.pk-share-buttons-scheme-inverse-light .pk-share-buttons-flipboard .pk-share-buttons-link:hover,
+:not([class*="is-style-"]) > .pk-share-buttons-scheme-gutenberg-block .pk-share-buttons-flipboard .pk-share-buttons-link:hover,
+.is-style-pk-share-buttons-inverse-light > .pk-share-buttons-scheme-gutenberg-block .pk-share-buttons-flipboard .pk-share-buttons-link:hover {
+	color: #f52928;
 }
 
 .pk-share-buttons-scheme-inverse-light .pk-share-buttons-reddit .pk-share-buttons-link:hover,

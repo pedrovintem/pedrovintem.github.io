@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Assignment 1 &#8211; Part 2</title>
 		<link>./../../../../assignment-1-part-2/index.html</link>
@@ -213,7 +213,7 @@
 
 					<description><![CDATA[First Species Using the tips from the First Species, I created a melodic line that was always consonant&#8230;]]></description>
 										<content:encoded><![CDATA[
-<h4 id="first-species">First Species</h4>
+<h4 id="first-species" class="wp-block-heading">First Species</h4>
 
 
 
@@ -225,7 +225,7 @@
 
 
 
-<h4 id="second-species">Second Species</h4>
+<h4 id="second-species" class="wp-block-heading">Second Species</h4>
 
 
 
@@ -237,7 +237,7 @@
 
 
 
-<h4 id="third-species">Third Species</h4>
+<h4 id="third-species" class="wp-block-heading">Third Species</h4>
 
 
 
@@ -249,7 +249,7 @@
 
 
 
-<h4 id="fourth-species">Fourth Species</h4>
+<h4 id="fourth-species" class="wp-block-heading">Fourth Species</h4>
 
 
 
@@ -261,7 +261,7 @@
 
 
 
-<h4 id="fifth-species">Fifth Species</h4>
+<h4 id="fifth-species" class="wp-block-heading">Fifth Species</h4>
 
 
 
@@ -306,7 +306,7 @@
 
 					<description><![CDATA[Exercise 1.2: First species In this exercise I followed the tip given by the briefing and worked backwards,&#8230;]]></description>
 										<content:encoded><![CDATA[
-<h4 id="exercise-1-2-first-species">Exercise 1.2: First species</h4>
+<h4 id="exercise-1-2-first-species" class="wp-block-heading">Exercise 1.2: First species</h4>
 
 
 
@@ -334,7 +334,7 @@
 
 
 
-<h4 id="exercise-1-3-second-species">Exercise 1.3: Second species</h4>
+<h4 id="exercise-1-3-second-species" class="wp-block-heading">Exercise 1.3: Second species</h4>
 
 
 
@@ -350,7 +350,7 @@
 
 
 
-<h4 id="exercise-1-4-fourth-species">Exercise 1.4: Fourth species</h4>
+<h4 id="exercise-1-4-fourth-species" class="wp-block-heading">Exercise 1.4: Fourth species</h4>
 
 
 
@@ -370,7 +370,7 @@
 
 
 
-<h4 id="exercise-1-5-imitative-counterpoint">Exercise 1.5: Imitative counterpoint</h4>
+<h4 id="exercise-1-5-imitative-counterpoint" class="wp-block-heading">Exercise 1.5: Imitative counterpoint</h4>
 
 
 
@@ -533,7 +533,7 @@
 
 
 
-<h5 id="before-1400">Before 1400</h5>
+<h5 id="before-1400" class="wp-block-heading">Before 1400</h5>
 
 
 
@@ -545,7 +545,7 @@
 
 
 
-<h5 id="renaissance">Renaissance </h5>
+<h5 id="renaissance" class="wp-block-heading">Renaissance </h5>
 
 
 
@@ -553,7 +553,7 @@
 
 
 
-<h5 id="after-1600">After 1600</h5>
+<h5 id="after-1600" class="wp-block-heading">After 1600</h5>
 
 
 
@@ -585,7 +585,7 @@
 
 
 
-<h5 id="write-a-brief-article-of-around-500-words-in-your-listening-log-about-the-connection-of-music-with-religion-mix-in-your-personal-views-with-what-you-have-discovered-through-research"><em>Write a brief article of around 500 words in your listening log about the connection of music with religion. Mix in your personal views with what you have discovered through research.</em></h5>
+<h5 id="write-a-brief-article-of-around-500-words-in-your-listening-log-about-the-connection-of-music-with-religion-mix-in-your-personal-views-with-what-you-have-discovered-through-research" class="wp-block-heading"><em>Write a brief article of around 500 words in your listening log about the connection of music with religion. Mix in your personal views with what you have discovered through research.</em></h5>
 
 
 
@@ -601,7 +601,7 @@
 
 
 
-<h5 id="both-religion-and-music-alter-the-state-of-mind">Both religion and music alter the state of mind</h5>
+<h5 id="both-religion-and-music-alter-the-state-of-mind" class="wp-block-heading">Both religion and music alter the state of mind</h5>
 
 
 
@@ -609,7 +609,7 @@
 
 
 
-<h5 id="both-religion-and-music-are-based-on-routines">Both religion and music are based on routines</h5>
+<h5 id="both-religion-and-music-are-based-on-routines" class="wp-block-heading">Both religion and music are based on routines</h5>
 
 
 
@@ -617,7 +617,7 @@
 
 
 
-<h5 id="both-religion-and-music-connect-people">Both religion and music connect people</h5>
+<h5 id="both-religion-and-music-connect-people" class="wp-block-heading">Both religion and music connect people</h5>
 
 
 
@@ -831,7 +831,7 @@
 
 
 
-<h5 id="the-entry-of-each-vocal-part-is-in-imitation">The entry of each vocal part is in imitation.</h5>
+<h5 id="the-entry-of-each-vocal-part-is-in-imitation" class="wp-block-heading">The entry of each vocal part is in imitation.</h5>
 
 
 
@@ -839,7 +839,7 @@
 
 
 
-<h5 id="the-texture-is-polyphonic-consisting-of-several-independently-moving-though-coordinated-vocal-parts">The texture is polyphonic &#8211; consisting of several independently moving, though coordinated, vocal parts.</h5>
+<h5 id="the-texture-is-polyphonic-consisting-of-several-independently-moving-though-coordinated-vocal-parts" class="wp-block-heading">The texture is polyphonic &#8211; consisting of several independently moving, though coordinated, vocal parts.</h5>
 
 
 
@@ -847,7 +847,7 @@
 
 
 
-<h5 id="the-melody-lines-themselves-move-smoothly-mainly-flowing-by-step-with-occasional-leaps-but-then-often-turning-back-and-returning-to-where-they-came-from-or-nearby">The melody lines themselves move smoothly &#8211; mainly flowing by step with occasional leaps but then often turning back and returning to where they came from, or nearby.</h5>
+<h5 id="the-melody-lines-themselves-move-smoothly-mainly-flowing-by-step-with-occasional-leaps-but-then-often-turning-back-and-returning-to-where-they-came-from-or-nearby" class="wp-block-heading">The melody lines themselves move smoothly &#8211; mainly flowing by step with occasional leaps but then often turning back and returning to where they came from, or nearby.</h5>
 
 
 
@@ -855,7 +855,7 @@
 
 
 
-<h5 id="each-part-rises-and-falls-helping-to-create-a-sense-of-direction-but-with-no-single-part-assuming-dominance-over-the-others">Each part rises and falls, helping to create a sense of direction but with no single part assuming dominance over the others.</h5>
+<h5 id="each-part-rises-and-falls-helping-to-create-a-sense-of-direction-but-with-no-single-part-assuming-dominance-over-the-others" class="wp-block-heading">Each part rises and falls, helping to create a sense of direction but with no single part assuming dominance over the others.</h5>
 
 
 
@@ -863,7 +863,7 @@
 
 
 
-<h5 id="the-ranges-of-the-individual-voice-parts-lie-mainly-within-an-octave-and-there-is-a-general-sense-of-balance-to-the-individual-melodic-lines-they-rise-and-fall-in-about-equal-measure-exploring-the-f">The ranges of the individual voice parts lie mainly within an octave and there is a general sense of balance to the individual melodic lines. They rise and fall in about equal measure, exploring the full range of the voice evenly.</h5>
+<h5 id="the-ranges-of-the-individual-voice-parts-lie-mainly-within-an-octave-and-there-is-a-general-sense-of-balance-to-the-individual-melodic-lines-they-rise-and-fall-in-about-equal-measure-exploring-the-f" class="wp-block-heading">The ranges of the individual voice parts lie mainly within an octave and there is a general sense of balance to the individual melodic lines. They rise and fall in about equal measure, exploring the full range of the voice evenly.</h5>
 
 
 
@@ -875,7 +875,7 @@
 
 
 
-<h5 id="the-words-are-repeated-and-are-clearly-audible-the-words-overlap-each-part-at-times-following-at-times-leading-to-create-the-musical-texture">The words are repeated and are clearly audible. The words overlap, each part at times following, at times leading, to create the musical texture.</h5>
+<h5 id="the-words-are-repeated-and-are-clearly-audible-the-words-overlap-each-part-at-times-following-at-times-leading-to-create-the-musical-texture" class="wp-block-heading">The words are repeated and are clearly audible. The words overlap, each part at times following, at times leading, to create the musical texture.</h5>
 
 
 
@@ -923,7 +923,7 @@
 
 
 
-<h3 id="claudio-monteverdi-1567-1643">Claudio Monteverdi (1567–1643)</h3>
+<h3 id="claudio-monteverdi-1567-1643" class="wp-block-heading">Claudio Monteverdi (1567–1643)</h3>
 
 
 
@@ -939,7 +939,7 @@
 
 
 
-<h3 id="orlando-di-lasso-1532-1594">Orlando di Lasso (1532 &#8211; 1594)</h3>
+<h3 id="orlando-di-lasso-1532-1594" class="wp-block-heading">Orlando di Lasso (1532 &#8211; 1594)</h3>
 
 
 
@@ -955,7 +955,7 @@
 
 
 
-<h3 id="comparison-between-orlando-di-lassos-matona-mia-cara-and-claudio-monteverdis-ah-dolente-partita">Comparison between Orlando di Lasso&#8217;s Matona, mia cara and Claudio Monteverdi&#8217;s Ah, Dolente Partita</h3>
+<h3 id="comparison-between-orlando-di-lassos-matona-mia-cara-and-claudio-monteverdis-ah-dolente-partita" class="wp-block-heading">Comparison between Orlando di Lasso&#8217;s Matona, mia cara and Claudio Monteverdi&#8217;s Ah, Dolente Partita</h3>
 
 
 
@@ -1050,7 +1050,7 @@
 
 
 
-<h5 id="with-reference-to-a-score-identify-the-chords-in-the-first-four-bars-the-answer-is-given-at-the-end-of-the-chapter">With reference to a score, identify the chords in the first four bars. The answer is given at the end of the chapter.</h5>
+<h5 id="with-reference-to-a-score-identify-the-chords-in-the-first-four-bars-the-answer-is-given-at-the-end-of-the-chapter" class="wp-block-heading">With reference to a score, identify the chords in the first four bars. The answer is given at the end of the chapter.</h5>
 
 
 
@@ -1062,7 +1062,7 @@
 
 
 
-<h5 id="does-this-chord-progression-call-to-mind-any-music-you-know-from-later-eras">Does this chord progression call to mind any music you know from later eras?<br></h5>
+<h5 id="does-this-chord-progression-call-to-mind-any-music-you-know-from-later-eras" class="wp-block-heading">Does this chord progression call to mind any music you know from later eras?<br></h5>
 
 
 
@@ -1086,7 +1086,7 @@
 
 
 
-<h5 id="how-would-you-describe-the-music-in-bb-9-20-and-the-texture-at-bb-40-42">How would you describe the music in bb. 9-20 and the texture at bb. 40-42?</h5>
+<h5 id="how-would-you-describe-the-music-in-bb-9-20-and-the-texture-at-bb-40-42" class="wp-block-heading">How would you describe the music in bb. 9-20 and the texture at bb. 40-42?</h5>
 
 
 
@@ -1098,7 +1098,7 @@
 
 
 
-<h5 id="what-does-the-word-dolore-mean-at-b-55">What does the word ‘dolore’ mean at b. 55?</h5>
+<h5 id="what-does-the-word-dolore-mean-at-b-55" class="wp-block-heading">What does the word ‘dolore’ mean at b. 55?</h5>
 
 
 
@@ -1106,7 +1106,7 @@
 
 
 
-<h5 id="in-your-own-words-describe-the-kind-of-harmony-melody-and-texture-that-gesualdo-has-employed-to-carry-its-meaning">In your own words, describe the kind of harmony, melody and texture that Gesualdo has employed to carry its meaning.</h5>
+<h5 id="in-your-own-words-describe-the-kind-of-harmony-melody-and-texture-that-gesualdo-has-employed-to-carry-its-meaning" class="wp-block-heading">In your own words, describe the kind of harmony, melody and texture that Gesualdo has employed to carry its meaning.</h5>
 
 
 

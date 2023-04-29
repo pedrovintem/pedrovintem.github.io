@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Project 12: Two-Part Invention</title>
 		<link>./../../../../../project-12-two-part-invention/index.html</link>
@@ -99,7 +99,7 @@
 
 
 
-<h4 id="exercise-1">Exercise 1</h4>
+<h4 class="wp-block-heading" id="exercise-1">Exercise 1</h4>
 
 
 
@@ -111,7 +111,7 @@
 
 
 
-<h4 id="exercise-2">Exercise 2</h4>
+<h4 class="wp-block-heading" id="exercise-2">Exercise 2</h4>
 
 
 
@@ -123,7 +123,7 @@
 
 
 
-<h4 id="exercise-3">Exercise 3</h4>
+<h4 class="wp-block-heading" id="exercise-3">Exercise 3</h4>
 
 
 
@@ -135,7 +135,7 @@
 
 
 
-<h4 id="exercise-4">Exercise 4</h4>
+<h4 class="wp-block-heading" id="exercise-4">Exercise 4</h4>
 
 
 

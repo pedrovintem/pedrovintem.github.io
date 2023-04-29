@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Listening to Woodinwind solos</title>
 		<link>./../../../../../listening-to-woodinwind-solos/index.html</link>
@@ -36,11 +36,11 @@
 
 
 
-<h2 id="flute">Flute</h2>
+<h2 id="flute" class="wp-block-heading">Flute</h2>
 
 
 
-<h5 id="claude-debussy-syrinx">Claude Debussy &#8211; Syrinx</h5>
+<h5 id="claude-debussy-syrinx" class="wp-block-heading">Claude Debussy &#8211; Syrinx</h5>
 
 
 
@@ -80,11 +80,11 @@
 
 
 
-<h2 id="oboe">Oboe</h2>
+<h2 id="oboe" class="wp-block-heading">Oboe</h2>
 
 
 
-<h5 id="gordon-jacob-seven-bagatelles">Gordon Jacob &#8211; Seven Bagatelles</h5>
+<h5 id="gordon-jacob-seven-bagatelles" class="wp-block-heading">Gordon Jacob &#8211; Seven Bagatelles</h5>
 
 
 
@@ -132,11 +132,11 @@
 
 
 
-<h2 id="saxophone">Saxophone</h2>
+<h2 id="saxophone" class="wp-block-heading">Saxophone</h2>
 
 
 
-<h5 id="paul-creston-sonata-for-alto-saxophone-and-piano-op-19">Paul Creston &#8211; Sonata for Alto Saxophone and Piano, Op. 19</h5>
+<h5 id="paul-creston-sonata-for-alto-saxophone-and-piano-op-19" class="wp-block-heading">Paul Creston &#8211; Sonata for Alto Saxophone and Piano, Op. 19</h5>
 
 
 
@@ -188,11 +188,11 @@
 
 
 
-<h2 id="bassoon">Bassoon</h2>
+<h2 id="bassoon" class="wp-block-heading">Bassoon</h2>
 
 
 
-<h5 id="willson-osborne-rhapsody-for-bassoon">Willson Osborne &#8211; Rhapsody for Bassoon</h5>
+<h5 id="willson-osborne-rhapsody-for-bassoon" class="wp-block-heading">Willson Osborne &#8211; Rhapsody for Bassoon</h5>
 
 
 
@@ -232,7 +232,7 @@
 
 
 
-<h2 id="clarinet"><meta charset="utf-8">Clarinet</h2>
+<h2 id="clarinet" class="wp-block-heading"><meta charset="utf-8">Clarinet</h2>
 
 
 
@@ -582,7 +582,7 @@
 
 
 
-<h5 id="vibrato">Vibrato</h5>
+<h5 id="vibrato" class="wp-block-heading">Vibrato</h5>
 
 
 
@@ -590,7 +590,7 @@
 
 
 
-<h5 id="tonguing-and-phrasing">Tonguing and phrasing</h5>
+<h5 id="tonguing-and-phrasing" class="wp-block-heading">Tonguing and phrasing</h5>
 
 
 
@@ -598,7 +598,7 @@
 
 
 
-<h5 id="staccato">Staccato</h5>
+<h5 id="staccato" class="wp-block-heading">Staccato</h5>
 
 
 
@@ -606,7 +606,7 @@
 
 
 
-<h5 id="soft-tonguing">Soft tonguing</h5>
+<h5 id="soft-tonguing" class="wp-block-heading">Soft tonguing</h5>
 
 
 
@@ -614,7 +614,7 @@
 
 
 
-<h5 id="double-tonguing">Double tonguing</h5>
+<h5 id="double-tonguing" class="wp-block-heading">Double tonguing</h5>
 
 
 
@@ -622,7 +622,7 @@
 
 
 
-<h5 id="dynamic-envelopes">Dynamic envelopes</h5>
+<h5 id="dynamic-envelopes" class="wp-block-heading">Dynamic envelopes</h5>
 
 
 
@@ -630,7 +630,7 @@
 
 
 
-<h5 id="flutter-tongue">Flutter tongue</h5>
+<h5 id="flutter-tongue" class="wp-block-heading">Flutter tongue</h5>
 
 
 
@@ -638,7 +638,7 @@
 
 
 
-<h5 id="other-special-effects">Other special effects</h5>
+<h5 id="other-special-effects" class="wp-block-heading">Other special effects</h5>
 
 
 

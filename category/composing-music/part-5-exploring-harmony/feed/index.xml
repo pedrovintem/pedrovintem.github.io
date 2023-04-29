@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Revision of Assignment 5 after tutor feedback</title>
 		<link>./../../../../revision-of-assignment-5-after-tutor-feedback/index.html</link>
@@ -172,7 +172,7 @@
 
 
 
-<h5 id="about-assignment-5">About Assignment 5</h5>
+<h5 id="about-assignment-5" class="wp-block-heading">About Assignment 5</h5>
 
 
 
@@ -223,7 +223,7 @@
 
 
 
-<h2 id="the-idea-theme">The Idea / Theme</h2>
+<h2 class="wp-block-heading" id="the-idea-theme">The Idea / Theme</h2>
 
 
 
@@ -243,7 +243,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="structure">Structure</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="structure">Structure</span></h2>
 
 
 
@@ -259,7 +259,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="the-motifs">The Motifs</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="the-motifs">The Motifs</span></h2>
 
 
 
@@ -351,7 +351,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="the-rhytms">The Rhytms</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="the-rhytms">The Rhytms</span></h2>
 
 
 
@@ -371,7 +371,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="the-instruments">The Instruments</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="the-instruments">The Instruments</span></h2>
 
 
 
@@ -415,7 +415,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="the-composition">The Composition</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="the-composition">The Composition</span></h2>
 
 
 
@@ -658,7 +658,7 @@
 
 
 
-<h5 id="exercise-1">Exercise 1</h5>
+<h5 id="exercise-1" class="wp-block-heading">Exercise 1</h5>
 
 
 
@@ -670,7 +670,7 @@
 
 
 
-<h5 id="exercise-2">Exercise 2</h5>
+<h5 id="exercise-2" class="wp-block-heading">Exercise 2</h5>
 
 
 
@@ -682,7 +682,7 @@
 
 
 
-<h5 id="exercise-3">Exercise 3</h5>
+<h5 id="exercise-3" class="wp-block-heading">Exercise 3</h5>
 
 
 
@@ -694,7 +694,7 @@
 
 
 
-<h5 id="exercise-4">Exercise 4</h5>
+<h5 id="exercise-4" class="wp-block-heading">Exercise 4</h5>
 
 
 
@@ -1135,7 +1135,7 @@
 
 
 
-<h5 id="wolfgang-amadeus-mozart-piano-concerto-no-20-in-d-minor-k-466-mvt-1-allegro">Wolfgang Amadeus Mozart &#8211; Piano Concerto No. 20 in D minor, K. 466. Mvt. 1: Allegro</h5>
+<h5 id="wolfgang-amadeus-mozart-piano-concerto-no-20-in-d-minor-k-466-mvt-1-allegro" class="wp-block-heading">Wolfgang Amadeus Mozart &#8211; Piano Concerto No. 20 in D minor, K. 466. Mvt. 1: Allegro</h5>
 
 
 
@@ -1153,7 +1153,7 @@
 
 
 
-<h5 id="beethoven-piano-concerto-no-5-in-e-flat-major-op-73">Beethoven &#8211; Piano Concerto No. 5 in E flat major op. 73</h5>
+<h5 id="beethoven-piano-concerto-no-5-in-e-flat-major-op-73" class="wp-block-heading">Beethoven &#8211; Piano Concerto No. 5 in E flat major op. 73</h5>
 
 
 
@@ -1171,7 +1171,7 @@
 
 
 
-<h5 id="brahms-violin-concerto-in-d-major-op-77">Brahms &#8211; Violin Concerto in D major, Op. 77</h5>
+<h5 id="brahms-violin-concerto-in-d-major-op-77" class="wp-block-heading">Brahms &#8211; Violin Concerto in D major, Op. 77</h5>
 
 
 

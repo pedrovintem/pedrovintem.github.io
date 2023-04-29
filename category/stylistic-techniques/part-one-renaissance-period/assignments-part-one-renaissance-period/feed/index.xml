@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Assignment 1 &#8211; Part 2</title>
 		<link>./../../../../../assignment-1-part-2/index.html</link>
@@ -213,7 +213,7 @@
 
 					<description><![CDATA[First Species Using the tips from the First Species, I created a melodic line that was always consonant&#8230;]]></description>
 										<content:encoded><![CDATA[
-<h4 id="first-species">First Species</h4>
+<h4 id="first-species" class="wp-block-heading">First Species</h4>
 
 
 
@@ -225,7 +225,7 @@
 
 
 
-<h4 id="second-species">Second Species</h4>
+<h4 id="second-species" class="wp-block-heading">Second Species</h4>
 
 
 
@@ -237,7 +237,7 @@
 
 
 
-<h4 id="third-species">Third Species</h4>
+<h4 id="third-species" class="wp-block-heading">Third Species</h4>
 
 
 
@@ -249,7 +249,7 @@
 
 
 
-<h4 id="fourth-species">Fourth Species</h4>
+<h4 id="fourth-species" class="wp-block-heading">Fourth Species</h4>
 
 
 
@@ -261,7 +261,7 @@
 
 
 
-<h4 id="fifth-species">Fifth Species</h4>
+<h4 id="fifth-species" class="wp-block-heading">Fifth Species</h4>
 
 
 

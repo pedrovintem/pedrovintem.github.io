@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Project 14 &#8211; Improvisation on a dominant</title>
 		<link>./../../../../../project-14-improvisation-on-a-dominant/index.html</link>
@@ -79,7 +79,7 @@
 
 
 
-<h5 id="exercise-1">Exercise 1</h5>
+<h5 id="exercise-1" class="wp-block-heading">Exercise 1</h5>
 
 
 
@@ -91,7 +91,7 @@
 
 
 
-<h5 id="exercise-2">Exercise 2</h5>
+<h5 id="exercise-2" class="wp-block-heading">Exercise 2</h5>
 
 
 
@@ -103,7 +103,7 @@
 
 
 
-<h5 id="exercise-3">Exercise 3</h5>
+<h5 id="exercise-3" class="wp-block-heading">Exercise 3</h5>
 
 
 
@@ -115,7 +115,7 @@
 
 
 
-<h5 id="exercise-4">Exercise 4</h5>
+<h5 id="exercise-4" class="wp-block-heading">Exercise 4</h5>
 
 
 

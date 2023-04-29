@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Revision of Assignment 3 after tutor feedback</title>
 		<link>./../../../../revision-of-assignment-3-after-tutor-feedback/index.html</link>
@@ -91,7 +91,7 @@
 
 
 
-<h3 id="about-assignment-3">About Assignment 3</h3>
+<h3 id="about-assignment-3" class="wp-block-heading">About Assignment 3</h3>
 
 
 
@@ -438,7 +438,7 @@
 
 
 
-<h4 id="thomas-morley-april-is-in-my-mistress-face">Thomas Morley – April Is In My Mistress’ Face</h4>
+<h4 id="thomas-morley-april-is-in-my-mistress-face" class="wp-block-heading">Thomas Morley – April Is In My Mistress’ Face</h4>
 
 
 
@@ -488,7 +488,7 @@
 
 
 
-<h4 id="thomas-tallis-spem-in-alium">Thomas Tallis &#8211; Spem in Alium</h4>
+<h4 id="thomas-tallis-spem-in-alium" class="wp-block-heading">Thomas Tallis &#8211; Spem in Alium</h4>
 
 
 
@@ -530,7 +530,7 @@
 
 
 
-<h4 id="bach-prelude-and-fugue-no-17-in-ab-major-bwv-862">Bach: Prelude and Fugue No.17 in Ab major, BWV 862</h4>
+<h4 id="bach-prelude-and-fugue-no-17-in-ab-major-bwv-862" class="wp-block-heading">Bach: Prelude and Fugue No.17 in Ab major, BWV 862</h4>
 
 
 
@@ -588,7 +588,7 @@
 
 
 
-<h4 id="polyphony-of-dorze-people">Polyphony of Dorze People</h4>
+<h4 id="polyphony-of-dorze-people" class="wp-block-heading">Polyphony of Dorze People</h4>
 
 
 
@@ -630,7 +630,7 @@
 
 
 
-<h4 id="tautai-taora-ofrai-leeward-islands"><meta charset="utf-8">Tautai Taora Ofrai (Leeward Islands)</h4>
+<h4 id="tautai-taora-ofrai-leeward-islands" class="wp-block-heading"><meta charset="utf-8">Tautai Taora Ofrai (Leeward Islands)</h4>
 
 
 
@@ -940,7 +940,7 @@
 
 
 
-<h4 id="come-all-ye-faithful-arr-david-willcocks">Come, all ye faithful arr. David Willcocks</h4>
+<h4 id="come-all-ye-faithful-arr-david-willcocks" class="wp-block-heading">Come, all ye faithful arr. David Willcocks</h4>
 
 
 
@@ -958,7 +958,7 @@
 
 
 
-<h4 id="hark-the-herald-angels-sing-willcocks-bethel-festival-choir-and-orchestra">Hark! the Herald Angels Sing (Willcocks) &#8211; Bethel Festival Choir and Orchestra</h4>
+<h4 id="hark-the-herald-angels-sing-willcocks-bethel-festival-choir-and-orchestra" class="wp-block-heading">Hark! the Herald Angels Sing (Willcocks) &#8211; Bethel Festival Choir and Orchestra</h4>
 
 
 
@@ -1139,7 +1139,7 @@
 
 
 
-<h2 id="reflections">Reflections</h2>
+<h2 id="reflections" class="wp-block-heading">Reflections</h2>
 
 
 
@@ -1303,7 +1303,7 @@
 
 
 
-<h3 id="the-great-bells-of-oseney">The Great Bells of Oseney</h3>
+<h3 id="the-great-bells-of-oseney" class="wp-block-heading">The Great Bells of Oseney</h3>
 
 
 
@@ -1323,7 +1323,7 @@
 
 
 
-<h3 id="hava-nashira">Hava Nashira</h3>
+<h3 id="hava-nashira" class="wp-block-heading">Hava Nashira</h3>
 
 
 
@@ -1349,7 +1349,7 @@
 
 
 
-<h3 id="hey-ho-nobody-home">Hey, ho, Nobody Home</h3>
+<h3 id="hey-ho-nobody-home" class="wp-block-heading">Hey, ho, Nobody Home</h3>
 
 
 
@@ -1375,7 +1375,7 @@
 
 
 
-<h3 id="dona-nobis-pacem">Dona Nobis Pacem</h3>
+<h3 id="dona-nobis-pacem" class="wp-block-heading">Dona Nobis Pacem</h3>
 
 
 
@@ -1401,7 +1401,7 @@
 
 
 
-<h3 id="go-to-joan-glover">Go to Joan Glover</h3>
+<h3 id="go-to-joan-glover" class="wp-block-heading">Go to Joan Glover</h3>
 
 
 
@@ -1425,7 +1425,7 @@
 
 
 
-<h3 id="bona-nox">Bona Nox</h3>
+<h3 id="bona-nox" class="wp-block-heading">Bona Nox</h3>
 
 
 
@@ -1451,7 +1451,7 @@
 
 
 
-<h3 id="once-twice-thrice-i-julia-tryd">Once, twice, thrice I Julia try&#8217;d</h3>
+<h3 id="once-twice-thrice-i-julia-tryd" class="wp-block-heading">Once, twice, thrice I Julia try&#8217;d</h3>
 
 
 

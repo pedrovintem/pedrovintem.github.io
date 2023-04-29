@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Listening to Bach&#8217;s Fugues</title>
 		<link>./../../../../../listening-to-bachs-fugues/index.html</link>
@@ -32,7 +32,7 @@
 
 					<description><![CDATA[The Well-Tempered Clavier, Book 1: Fugue No. 8 in D-Sharp Minor, BWV 853 I felt this fugue was&#8230;]]></description>
 										<content:encoded><![CDATA[
-<h4 id="the-well-tempered-clavier-book-1-fugue-no-8-in-d-sharp-minor-bwv-853"><meta charset="utf-8">The Well-Tempered Clavier, Book 1: Fugue No. 8 in D-Sharp Minor, BWV 853</h4>
+<h4 id="the-well-tempered-clavier-book-1-fugue-no-8-in-d-sharp-minor-bwv-853" class="wp-block-heading"><meta charset="utf-8">The Well-Tempered Clavier, Book 1: Fugue No. 8 in D-Sharp Minor, BWV 853</h4>
 
 
 
@@ -78,7 +78,7 @@
 
 
 
-<h4 id="the-well-tempered-clavier-book-i-fugue-no-14-in-f-sharp-minor-bwv-859">The Well-Tempered Clavier, Book I: Fugue <meta charset="utf-8">No. 14 in F-sharp minor, BWV 859</h4>
+<h4 id="the-well-tempered-clavier-book-i-fugue-no-14-in-f-sharp-minor-bwv-859" class="wp-block-heading">The Well-Tempered Clavier, Book I: Fugue <meta charset="utf-8">No. 14 in F-sharp minor, BWV 859</h4>
 
 
 
@@ -262,7 +262,7 @@
 
 
 
-<h4 id="joplins-history">Joplin&#8217;s History</h4>
+<h4 id="joplins-history" class="wp-block-heading">Joplin&#8217;s History</h4>
 
 
 
@@ -274,7 +274,7 @@
 
 
 
-<h4 id="the-role-of-joplin-in-rag-music">The role of Joplin in Rag music</h4>
+<h4 id="the-role-of-joplin-in-rag-music" class="wp-block-heading">The role of Joplin in Rag music</h4>
 
 
 
@@ -302,7 +302,7 @@
 
 
 
-<h4 id="my-listening-of-maple-leaf-rag">My listening of Maple Leaf Rag</h4>
+<h4 id="my-listening-of-maple-leaf-rag" class="wp-block-heading">My listening of Maple Leaf Rag</h4>
 
 
 

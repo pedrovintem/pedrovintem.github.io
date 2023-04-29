@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Project 7 &#8211; Exploring different scales</title>
 		<link>./../../../../../project-7-exploring-different-scales/index.html</link>
@@ -36,7 +36,7 @@
 
 
 
-<h5 id="1-whole-tone-scale">1 &#8211; Whole tone scale</h5>
+<h5 id="1-whole-tone-scale" class="wp-block-heading">1 &#8211; Whole tone scale</h5>
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-<h5 id="2-whole-tone-scale">2 &#8211; Whole-tone scale</h5>
+<h5 id="2-whole-tone-scale" class="wp-block-heading">2 &#8211; Whole-tone scale</h5>
 
 
 
@@ -68,7 +68,7 @@
 
 
 
-<h5 id="3-east-european-major-scale">3 &#8211; East European major scale</h5>
+<h5 id="3-east-european-major-scale" class="wp-block-heading">3 &#8211; East European major scale</h5>
 
 
 
@@ -84,7 +84,7 @@
 
 
 
-<h5 id="4-east-european-minor-scale">4 &#8211; <meta charset="utf-8">East European minor scale</h5>
+<h5 id="4-east-european-minor-scale" class="wp-block-heading">4 &#8211; <meta charset="utf-8">East European minor scale</h5>
 
 
 
@@ -100,7 +100,7 @@
 
 
 
-<h5 id="5-middle-eastern-eight-note-scale">5 &#8211; Middle Eastern eight-note scale</h5>
+<h5 id="5-middle-eastern-eight-note-scale" class="wp-block-heading">5 &#8211; Middle Eastern eight-note scale</h5>
 
 
 
@@ -116,7 +116,7 @@
 
 
 
-<h5 id="6-middle-eastern-eight-note-scale">6 &#8211; <meta charset="utf-8">Middle Eastern eight-note scale</h5>
+<h5 id="6-middle-eastern-eight-note-scale" class="wp-block-heading">6 &#8211; <meta charset="utf-8">Middle Eastern eight-note scale</h5>
 
 
 
@@ -132,7 +132,7 @@
 
 
 
-<h5 id="7-nine-note-scale">7 &#8211; Nine-note scale</h5>
+<h5 id="7-nine-note-scale" class="wp-block-heading">7 &#8211; Nine-note scale</h5>
 
 
 
@@ -148,7 +148,7 @@
 
 
 
-<h5 id="8-nine-note-scale">8 &#8211; Nine-note scale</h5>
+<h5 id="8-nine-note-scale" class="wp-block-heading">8 &#8211; Nine-note scale</h5>
 
 
 
@@ -160,7 +160,7 @@
 
 
 
-<h5 id="9-chromatic-scale">9 &#8211; Chromatic scale</h5>
+<h5 id="9-chromatic-scale" class="wp-block-heading">9 &#8211; Chromatic scale</h5>
 
 
 

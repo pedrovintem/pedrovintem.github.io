@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Revision of Assignment 5 after tutor feedback</title>
 		<link>./../../../revision-of-assignment-5-after-tutor-feedback/index.html</link>
@@ -250,7 +250,7 @@
 
 
 
-<h5 id="about-assignment-5">About Assignment 5</h5>
+<h5 id="about-assignment-5" class="wp-block-heading">About Assignment 5</h5>
 
 
 
@@ -301,7 +301,7 @@
 
 
 
-<h2 id="the-idea-theme">The Idea / Theme</h2>
+<h2 class="wp-block-heading" id="the-idea-theme">The Idea / Theme</h2>
 
 
 
@@ -321,7 +321,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="structure">Structure</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="structure">Structure</span></h2>
 
 
 
@@ -337,7 +337,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="the-motifs">The Motifs</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="the-motifs">The Motifs</span></h2>
 
 
 
@@ -429,7 +429,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="the-rhytms">The Rhytms</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="the-rhytms">The Rhytms</span></h2>
 
 
 
@@ -449,7 +449,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="the-instruments">The Instruments</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="the-instruments">The Instruments</span></h2>
 
 
 
@@ -493,7 +493,7 @@
 
 
 
-<h2 id="the-idea-theme"><span id="the-composition">The Composition</span></h2>
+<h2 class="wp-block-heading" id="the-idea-theme"><span id="the-composition">The Composition</span></h2>
 
 
 
@@ -736,7 +736,7 @@
 
 
 
-<h5 id="exercise-1">Exercise 1</h5>
+<h5 id="exercise-1" class="wp-block-heading">Exercise 1</h5>
 
 
 
@@ -748,7 +748,7 @@
 
 
 
-<h5 id="exercise-2">Exercise 2</h5>
+<h5 id="exercise-2" class="wp-block-heading">Exercise 2</h5>
 
 
 
@@ -760,7 +760,7 @@
 
 
 
-<h5 id="exercise-3">Exercise 3</h5>
+<h5 id="exercise-3" class="wp-block-heading">Exercise 3</h5>
 
 
 
@@ -772,7 +772,7 @@
 
 
 
-<h5 id="exercise-4">Exercise 4</h5>
+<h5 id="exercise-4" class="wp-block-heading">Exercise 4</h5>
 
 
 
@@ -1213,7 +1213,7 @@
 
 
 
-<h5 id="wolfgang-amadeus-mozart-piano-concerto-no-20-in-d-minor-k-466-mvt-1-allegro">Wolfgang Amadeus Mozart &#8211; Piano Concerto No. 20 in D minor, K. 466. Mvt. 1: Allegro</h5>
+<h5 id="wolfgang-amadeus-mozart-piano-concerto-no-20-in-d-minor-k-466-mvt-1-allegro" class="wp-block-heading">Wolfgang Amadeus Mozart &#8211; Piano Concerto No. 20 in D minor, K. 466. Mvt. 1: Allegro</h5>
 
 
 
@@ -1231,7 +1231,7 @@
 
 
 
-<h5 id="beethoven-piano-concerto-no-5-in-e-flat-major-op-73">Beethoven &#8211; Piano Concerto No. 5 in E flat major op. 73</h5>
+<h5 id="beethoven-piano-concerto-no-5-in-e-flat-major-op-73" class="wp-block-heading">Beethoven &#8211; Piano Concerto No. 5 in E flat major op. 73</h5>
 
 
 
@@ -1249,7 +1249,7 @@
 
 
 
-<h5 id="brahms-violin-concerto-in-d-major-op-77">Brahms &#8211; Violin Concerto in D major, Op. 77</h5>
+<h5 id="brahms-violin-concerto-in-d-major-op-77" class="wp-block-heading">Brahms &#8211; Violin Concerto in D major, Op. 77</h5>
 
 
 
@@ -1322,7 +1322,7 @@
 
 
 
-<h3 id="about-assignment-4">About Assignment 4</h3>
+<h3 id="about-assignment-4" class="wp-block-heading">About Assignment 4</h3>
 
 
 
@@ -1559,7 +1559,7 @@
 
 					<description><![CDATA[The Well-Tempered Clavier, Book 1: Fugue No. 8 in D-Sharp Minor, BWV 853 I felt this fugue was&#8230;]]></description>
 										<content:encoded><![CDATA[
-<h4 id="the-well-tempered-clavier-book-1-fugue-no-8-in-d-sharp-minor-bwv-853"><meta charset="utf-8">The Well-Tempered Clavier, Book 1: Fugue No. 8 in D-Sharp Minor, BWV 853</h4>
+<h4 id="the-well-tempered-clavier-book-1-fugue-no-8-in-d-sharp-minor-bwv-853" class="wp-block-heading"><meta charset="utf-8">The Well-Tempered Clavier, Book 1: Fugue No. 8 in D-Sharp Minor, BWV 853</h4>
 
 
 
@@ -1605,7 +1605,7 @@
 
 
 
-<h4 id="the-well-tempered-clavier-book-i-fugue-no-14-in-f-sharp-minor-bwv-859">The Well-Tempered Clavier, Book I: Fugue <meta charset="utf-8">No. 14 in F-sharp minor, BWV 859</h4>
+<h4 id="the-well-tempered-clavier-book-i-fugue-no-14-in-f-sharp-minor-bwv-859" class="wp-block-heading">The Well-Tempered Clavier, Book I: Fugue <meta charset="utf-8">No. 14 in F-sharp minor, BWV 859</h4>
 
 
 
@@ -1844,7 +1844,7 @@
 
 
 
-<h4 id="joplins-history">Joplin&#8217;s History</h4>
+<h4 id="joplins-history" class="wp-block-heading">Joplin&#8217;s History</h4>
 
 
 
@@ -1856,7 +1856,7 @@
 
 
 
-<h4 id="the-role-of-joplin-in-rag-music">The role of Joplin in Rag music</h4>
+<h4 id="the-role-of-joplin-in-rag-music" class="wp-block-heading">The role of Joplin in Rag music</h4>
 
 
 
@@ -1884,7 +1884,7 @@
 
 
 
-<h4 id="my-listening-of-maple-leaf-rag">My listening of Maple Leaf Rag</h4>
+<h4 id="my-listening-of-maple-leaf-rag" class="wp-block-heading">My listening of Maple Leaf Rag</h4>
 
 
 
@@ -2211,7 +2211,7 @@
 
 
 
-<h4 id="exercise-1">Exercise 1</h4>
+<h4 class="wp-block-heading" id="exercise-1">Exercise 1</h4>
 
 
 
@@ -2223,7 +2223,7 @@
 
 
 
-<h4 id="exercise-2">Exercise 2</h4>
+<h4 class="wp-block-heading" id="exercise-2">Exercise 2</h4>
 
 
 
@@ -2235,7 +2235,7 @@
 
 
 
-<h4 id="exercise-3">Exercise 3</h4>
+<h4 class="wp-block-heading" id="exercise-3">Exercise 3</h4>
 
 
 
@@ -2247,7 +2247,7 @@
 
 
 
-<h4 id="exercise-4">Exercise 4</h4>
+<h4 class="wp-block-heading" id="exercise-4">Exercise 4</h4>
 
 
 
@@ -2294,7 +2294,7 @@
 
 
 
-<h3 id="about-assignment-3">About Assignment 3</h3>
+<h3 id="about-assignment-3" class="wp-block-heading">About Assignment 3</h3>
 
 
 
@@ -2641,7 +2641,7 @@
 
 
 
-<h4 id="thomas-morley-april-is-in-my-mistress-face">Thomas Morley – April Is In My Mistress’ Face</h4>
+<h4 id="thomas-morley-april-is-in-my-mistress-face" class="wp-block-heading">Thomas Morley – April Is In My Mistress’ Face</h4>
 
 
 
@@ -2691,7 +2691,7 @@
 
 
 
-<h4 id="thomas-tallis-spem-in-alium">Thomas Tallis &#8211; Spem in Alium</h4>
+<h4 id="thomas-tallis-spem-in-alium" class="wp-block-heading">Thomas Tallis &#8211; Spem in Alium</h4>
 
 
 
@@ -2733,7 +2733,7 @@
 
 
 
-<h4 id="bach-prelude-and-fugue-no-17-in-ab-major-bwv-862">Bach: Prelude and Fugue No.17 in Ab major, BWV 862</h4>
+<h4 id="bach-prelude-and-fugue-no-17-in-ab-major-bwv-862" class="wp-block-heading">Bach: Prelude and Fugue No.17 in Ab major, BWV 862</h4>
 
 
 
@@ -2791,7 +2791,7 @@
 
 
 
-<h4 id="polyphony-of-dorze-people">Polyphony of Dorze People</h4>
+<h4 id="polyphony-of-dorze-people" class="wp-block-heading">Polyphony of Dorze People</h4>
 
 
 
@@ -2833,7 +2833,7 @@
 
 
 
-<h4 id="tautai-taora-ofrai-leeward-islands"><meta charset="utf-8">Tautai Taora Ofrai (Leeward Islands)</h4>
+<h4 id="tautai-taora-ofrai-leeward-islands" class="wp-block-heading"><meta charset="utf-8">Tautai Taora Ofrai (Leeward Islands)</h4>
 
 
 
@@ -3143,7 +3143,7 @@
 
 
 
-<h4 id="come-all-ye-faithful-arr-david-willcocks">Come, all ye faithful arr. David Willcocks</h4>
+<h4 id="come-all-ye-faithful-arr-david-willcocks" class="wp-block-heading">Come, all ye faithful arr. David Willcocks</h4>
 
 
 
@@ -3161,7 +3161,7 @@
 
 
 
-<h4 id="hark-the-herald-angels-sing-willcocks-bethel-festival-choir-and-orchestra">Hark! the Herald Angels Sing (Willcocks) &#8211; Bethel Festival Choir and Orchestra</h4>
+<h4 id="hark-the-herald-angels-sing-willcocks-bethel-festival-choir-and-orchestra" class="wp-block-heading">Hark! the Herald Angels Sing (Willcocks) &#8211; Bethel Festival Choir and Orchestra</h4>
 
 
 
@@ -3342,7 +3342,7 @@
 
 
 
-<h2 id="reflections">Reflections</h2>
+<h2 id="reflections" class="wp-block-heading">Reflections</h2>
 
 
 
@@ -3506,7 +3506,7 @@
 
 
 
-<h3 id="the-great-bells-of-oseney">The Great Bells of Oseney</h3>
+<h3 id="the-great-bells-of-oseney" class="wp-block-heading">The Great Bells of Oseney</h3>
 
 
 
@@ -3526,7 +3526,7 @@
 
 
 
-<h3 id="hava-nashira">Hava Nashira</h3>
+<h3 id="hava-nashira" class="wp-block-heading">Hava Nashira</h3>
 
 
 
@@ -3552,7 +3552,7 @@
 
 
 
-<h3 id="hey-ho-nobody-home">Hey, ho, Nobody Home</h3>
+<h3 id="hey-ho-nobody-home" class="wp-block-heading">Hey, ho, Nobody Home</h3>
 
 
 
@@ -3578,7 +3578,7 @@
 
 
 
-<h3 id="dona-nobis-pacem">Dona Nobis Pacem</h3>
+<h3 id="dona-nobis-pacem" class="wp-block-heading">Dona Nobis Pacem</h3>
 
 
 
@@ -3604,7 +3604,7 @@
 
 
 
-<h3 id="go-to-joan-glover">Go to Joan Glover</h3>
+<h3 id="go-to-joan-glover" class="wp-block-heading">Go to Joan Glover</h3>
 
 
 
@@ -3628,7 +3628,7 @@
 
 
 
-<h3 id="bona-nox">Bona Nox</h3>
+<h3 id="bona-nox" class="wp-block-heading">Bona Nox</h3>
 
 
 
@@ -3654,7 +3654,7 @@
 
 
 
-<h3 id="once-twice-thrice-i-julia-tryd">Once, twice, thrice I Julia try&#8217;d</h3>
+<h3 id="once-twice-thrice-i-julia-tryd" class="wp-block-heading">Once, twice, thrice I Julia try&#8217;d</h3>
 
 
 
@@ -3765,7 +3765,7 @@
 
 
 
-<article class="post-239 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-239 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log-part-2-exploring-melody-and-scales category-listening-log category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -3858,7 +3858,7 @@
 			<div class="cs-posts-area__outer">
 				<div class="cs-posts-area__main  cs-posts-area__grid">
 					
-<article class="post-288 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-288 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log-part-2-exploring-melody-and-scales category-listening-log category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -3884,7 +3884,7 @@
 
 
 
-<article class="post-332 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log category-listening-log-part-2-exploring-melody-and-scales category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
+<article class="post-332 post type-post status-publish format-standard has-post-thumbnail category-composing-music category-listening-log-part-2-exploring-melody-and-scales category-listening-log category-part-2-exploring-melody-and-scales cs-entry cs-video-wrap">
 	<div class="cs-entry__outer">
 					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-landscape-3-2">
 				<div class="cs-overlay-background cs-overlay-transparent">
@@ -3917,7 +3917,7 @@
 	
 
 
-<h3 id="about-assignment-2">About Assignment 2</h3>
+<h3 id="about-assignment-2" class="wp-block-heading">About Assignment 2</h3>
 
 
 
@@ -4239,11 +4239,11 @@
 
 
 
-<h2 id="flute">Flute</h2>
+<h2 id="flute" class="wp-block-heading">Flute</h2>
 
 
 
-<h5 id="claude-debussy-syrinx">Claude Debussy &#8211; Syrinx</h5>
+<h5 id="claude-debussy-syrinx" class="wp-block-heading">Claude Debussy &#8211; Syrinx</h5>
 
 
 
@@ -4283,11 +4283,11 @@
 
 
 
-<h2 id="oboe">Oboe</h2>
+<h2 id="oboe" class="wp-block-heading">Oboe</h2>
 
 
 
-<h5 id="gordon-jacob-seven-bagatelles">Gordon Jacob &#8211; Seven Bagatelles</h5>
+<h5 id="gordon-jacob-seven-bagatelles" class="wp-block-heading">Gordon Jacob &#8211; Seven Bagatelles</h5>
 
 
 
@@ -4335,11 +4335,11 @@
 
 
 
-<h2 id="saxophone">Saxophone</h2>
+<h2 id="saxophone" class="wp-block-heading">Saxophone</h2>
 
 
 
-<h5 id="paul-creston-sonata-for-alto-saxophone-and-piano-op-19">Paul Creston &#8211; Sonata for Alto Saxophone and Piano, Op. 19</h5>
+<h5 id="paul-creston-sonata-for-alto-saxophone-and-piano-op-19" class="wp-block-heading">Paul Creston &#8211; Sonata for Alto Saxophone and Piano, Op. 19</h5>
 
 
 
@@ -4391,11 +4391,11 @@
 
 
 
-<h2 id="bassoon">Bassoon</h2>
+<h2 id="bassoon" class="wp-block-heading">Bassoon</h2>
 
 
 
-<h5 id="willson-osborne-rhapsody-for-bassoon">Willson Osborne &#8211; Rhapsody for Bassoon</h5>
+<h5 id="willson-osborne-rhapsody-for-bassoon" class="wp-block-heading">Willson Osborne &#8211; Rhapsody for Bassoon</h5>
 
 
 
@@ -4435,7 +4435,7 @@
 
 
 
-<h2 id="clarinet"><meta charset="utf-8">Clarinet</h2>
+<h2 id="clarinet" class="wp-block-heading"><meta charset="utf-8">Clarinet</h2>
 
 
 
@@ -4737,7 +4737,7 @@
 
 
 
-<h5 id="1-whole-tone-scale">1 &#8211; Whole tone scale</h5>
+<h5 id="1-whole-tone-scale" class="wp-block-heading">1 &#8211; Whole tone scale</h5>
 
 
 
@@ -4753,7 +4753,7 @@
 
 
 
-<h5 id="2-whole-tone-scale">2 &#8211; Whole-tone scale</h5>
+<h5 id="2-whole-tone-scale" class="wp-block-heading">2 &#8211; Whole-tone scale</h5>
 
 
 
@@ -4769,7 +4769,7 @@
 
 
 
-<h5 id="3-east-european-major-scale">3 &#8211; East European major scale</h5>
+<h5 id="3-east-european-major-scale" class="wp-block-heading">3 &#8211; East European major scale</h5>
 
 
 
@@ -4785,7 +4785,7 @@
 
 
 
-<h5 id="4-east-european-minor-scale">4 &#8211; <meta charset="utf-8">East European minor scale</h5>
+<h5 id="4-east-european-minor-scale" class="wp-block-heading">4 &#8211; <meta charset="utf-8">East European minor scale</h5>
 
 
 
@@ -4801,7 +4801,7 @@
 
 
 
-<h5 id="5-middle-eastern-eight-note-scale">5 &#8211; Middle Eastern eight-note scale</h5>
+<h5 id="5-middle-eastern-eight-note-scale" class="wp-block-heading">5 &#8211; Middle Eastern eight-note scale</h5>
 
 
 
@@ -4817,7 +4817,7 @@
 
 
 
-<h5 id="6-middle-eastern-eight-note-scale">6 &#8211; <meta charset="utf-8">Middle Eastern eight-note scale</h5>
+<h5 id="6-middle-eastern-eight-note-scale" class="wp-block-heading">6 &#8211; <meta charset="utf-8">Middle Eastern eight-note scale</h5>
 
 
 
@@ -4833,7 +4833,7 @@
 
 
 
-<h5 id="7-nine-note-scale">7 &#8211; Nine-note scale</h5>
+<h5 id="7-nine-note-scale" class="wp-block-heading">7 &#8211; Nine-note scale</h5>
 
 
 
@@ -4849,7 +4849,7 @@
 
 
 
-<h5 id="8-nine-note-scale">8 &#8211; Nine-note scale</h5>
+<h5 id="8-nine-note-scale" class="wp-block-heading">8 &#8211; Nine-note scale</h5>
 
 
 
@@ -4861,7 +4861,7 @@
 
 
 
-<h5 id="9-chromatic-scale">9 &#8211; Chromatic scale</h5>
+<h5 id="9-chromatic-scale" class="wp-block-heading">9 &#8211; Chromatic scale</h5>
 
 
 
@@ -4964,7 +4964,7 @@
 
 
 
-<h5 id="vibrato">Vibrato</h5>
+<h5 id="vibrato" class="wp-block-heading">Vibrato</h5>
 
 
 
@@ -4972,7 +4972,7 @@
 
 
 
-<h5 id="tonguing-and-phrasing">Tonguing and phrasing</h5>
+<h5 id="tonguing-and-phrasing" class="wp-block-heading">Tonguing and phrasing</h5>
 
 
 
@@ -4980,7 +4980,7 @@
 
 
 
-<h5 id="staccato">Staccato</h5>
+<h5 id="staccato" class="wp-block-heading">Staccato</h5>
 
 
 
@@ -4988,7 +4988,7 @@
 
 
 
-<h5 id="soft-tonguing">Soft tonguing</h5>
+<h5 id="soft-tonguing" class="wp-block-heading">Soft tonguing</h5>
 
 
 
@@ -4996,7 +4996,7 @@
 
 
 
-<h5 id="double-tonguing">Double tonguing</h5>
+<h5 id="double-tonguing" class="wp-block-heading">Double tonguing</h5>
 
 
 
@@ -5004,7 +5004,7 @@
 
 
 
-<h5 id="dynamic-envelopes">Dynamic envelopes</h5>
+<h5 id="dynamic-envelopes" class="wp-block-heading">Dynamic envelopes</h5>
 
 
 
@@ -5012,7 +5012,7 @@
 
 
 
-<h5 id="flutter-tongue">Flutter tongue</h5>
+<h5 id="flutter-tongue" class="wp-block-heading">Flutter tongue</h5>
 
 
 
@@ -5020,7 +5020,7 @@
 
 
 
-<h5 id="other-special-effects">Other special effects</h5>
+<h5 id="other-special-effects" class="wp-block-heading">Other special effects</h5>
 
 
 
@@ -5914,7 +5914,7 @@
 
 
 
-<h2 id="the-idea">The Idea</h2>
+<h2 id="the-idea" class="wp-block-heading">The Idea</h2>
 
 
 
@@ -5926,7 +5926,7 @@
 
 
 
-<h2 id="the-structure">The Structure</h2>
+<h2 id="the-structure" class="wp-block-heading">The Structure</h2>
 
 
 
@@ -5942,7 +5942,7 @@
 
 
 
-<h2 id="the-motifs">The motifs</h2>
+<h2 id="the-motifs" class="wp-block-heading">The motifs</h2>
 
 
 
@@ -5970,7 +5970,7 @@
 
 
 
-<h2 id="the-instruments">The instruments</h2>
+<h2 id="the-instruments" class="wp-block-heading">The instruments</h2>
 
 
 
@@ -6118,7 +6118,7 @@
 
 
 
-<h2 id="study-1">Study 1</h2>
+<h2 id="study-1" class="wp-block-heading">Study 1</h2>
 
 
 
@@ -6178,7 +6178,7 @@
 
 
 
-<h2 id="study-2">Study 2</h2>
+<h2 id="study-2" class="wp-block-heading">Study 2</h2>
 
 
 
@@ -6347,7 +6347,7 @@
 
 
 
-<h2 id="snare-drum-bass-drum">Snare Drum &amp; Bass Drum</h2>
+<h2 id="snare-drum-bass-drum" class="wp-block-heading">Snare Drum &amp; Bass Drum</h2>
 
 
 
@@ -6394,7 +6394,7 @@
 
 
 
-<h2 id="shaker-wood-block">Shaker &amp; Wood Block</h2>
+<h2 id="shaker-wood-block" class="wp-block-heading">Shaker &amp; Wood Block</h2>
 
 
 
@@ -6443,7 +6443,7 @@
 
 
 
-<h2 id="castanets-tambourine">Castanets &amp; Tambourine</h2>
+<h2 id="castanets-tambourine" class="wp-block-heading">Castanets &amp; Tambourine</h2>
 
 
 
@@ -6498,7 +6498,7 @@
 
 
 
-<h2 id="triangle-cymbal">Triangle &amp; Cymbal</h2>
+<h2 id="triangle-cymbal" class="wp-block-heading">Triangle &amp; Cymbal</h2>
 
 
 
@@ -6839,7 +6839,7 @@
 
 
 
-<h2 class="has-huge-font-size" id="the-triangle">The Triangle</h2>
+<h2 class="has-huge-font-size wp-block-heading" id="the-triangle">The Triangle</h2>
 
 
 
@@ -6892,7 +6892,7 @@
 
 
 
-<h2 class="has-huge-font-size" id="the-snare-drum">The Snare Drum</h2>
+<h2 class="has-huge-font-size wp-block-heading" id="the-snare-drum">The Snare Drum</h2>
 
 
 
@@ -6945,7 +6945,7 @@
 
 
 
-<h2 class="has-huge-font-size" id="the-taiko">The Taiko</h2>
+<h2 class="has-huge-font-size wp-block-heading" id="the-taiko">The Taiko</h2>
 
 
 
@@ -6998,7 +6998,7 @@
 
 
 
-<h2 class="has-huge-font-size" id="the-tambourine">The Tambourine</h2>
+<h2 class="has-huge-font-size wp-block-heading" id="the-tambourine">The Tambourine</h2>
 
 
 

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Reflections on Assignment 2</title>
 		<link>./../../../../../reflections-on-assignment-2/index.html</link>
@@ -230,7 +230,7 @@
 	
 
 
-<h3 id="about-assignment-2">About Assignment 2</h3>
+<h3 id="about-assignment-2" class="wp-block-heading">About Assignment 2</h3>
 
 
 

@@ -62,12 +62,15 @@ h2.is-style-cnvs-heading-numbered:before {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	padding-left: 0.15em;
-	padding-right: 0.15em;
+	padding-left: 0.34em;
+	padding-right: 0.34em;
 	height: 1.25em;
 	-webkit-box-flex: 0;
 	-ms-flex: 0 0 1.25em;
 	flex: 0 0 1.25em;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	white-space: nowrap;
 	border-radius: var(--cnvs-heading-numbered-border-radius);
 	background: var(--cnvs-heading-numbered-background);
 	color: var(--cnvs-heading-numbered-color);

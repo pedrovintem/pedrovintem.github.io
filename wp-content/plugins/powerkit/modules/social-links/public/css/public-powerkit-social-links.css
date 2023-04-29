@@ -348,6 +348,14 @@
 	color: #FD8308;
 }
 
+.pk-social-links-googlenews .pk-social-links-link:hover {
+	color: #4b8cf5;
+}
+
+.pk-social-links-flipboard .pk-social-links-link:hover {
+	color: #f52928;
+}
+
 .pk-social-links-strava .pk-social-links-link:hover {
 	color: #FC4C02;
 }
@@ -1471,6 +1479,38 @@
 	color: #fd9c3b !important;
 }
 
+.pk-social-links-scheme-bold .pk-social-links-googlenews .pk-social-links-link {
+	color: #4b8cf5;
+}
+
+.pk-social-links-scheme-bold .pk-social-links-googlenews .pk-social-links-link:hover .pk-social-links-icon {
+	color: #7babf8;
+}
+
+.is-style-pk-social-links-bold.cnvs-block-social-links .pk-social-links-googlenews .pk-social-links-link {
+	color: #4b8cf5 !important;
+}
+
+.is-style-pk-social-links-bold.cnvs-block-social-links .pk-social-links-googlenews .pk-social-links-link:hover .pk-social-links-icon {
+	color: #7babf8 !important;
+}
+
+.pk-social-links-scheme-bold .pk-social-links-flipboard .pk-social-links-link {
+	color: #f52928;
+}
+
+.pk-social-links-scheme-bold .pk-social-links-flipboard .pk-social-links-link:hover .pk-social-links-icon {
+	color: #f75a59;
+}
+
+.is-style-pk-social-links-bold.cnvs-block-social-links .pk-social-links-flipboard .pk-social-links-link {
+	color: #f52928 !important;
+}
+
+.is-style-pk-social-links-bold.cnvs-block-social-links .pk-social-links-flipboard .pk-social-links-link:hover .pk-social-links-icon {
+	color: #f75a59 !important;
+}
+
 .pk-social-links-scheme-bold .pk-social-links-strava .pk-social-links-link {
 	color: #FC4C02;
 }
@@ -1785,6 +1825,14 @@
 
 .is-style-pk-social-links-inverse.cnvs-block-social-links .pk-social-links-microblog .pk-social-links-link:hover .pk-social-links-icon {
 	color: #FD8308 !important;
+}
+
+.is-style-pk-social-links-inverse.cnvs-block-social-links .pk-social-links-googlenews .pk-social-links-link:hover .pk-social-links-icon {
+	color: #4b8cf5 !important;
+}
+
+.is-style-pk-social-links-inverse.cnvs-block-social-links .pk-social-links-flipboard .pk-social-links-link:hover .pk-social-links-icon {
+	color: #f52928 !important;
 }
 
 .is-style-pk-social-links-inverse.cnvs-block-social-links .pk-social-links-strava .pk-social-links-link:hover .pk-social-links-icon {
@@ -2138,6 +2186,16 @@
 .pk-social-links-scheme-light-bg .pk-social-links-microblog .pk-social-links-link:hover,
 .is-style-pk-social-links-light-bg .pk-social-links-microblog .pk-social-links-link:hover {
 	background-color: #FD8308;
+}
+
+.pk-social-links-scheme-light-bg .pk-social-links-googlenews .pk-social-links-link:hover,
+.is-style-pk-social-links-light-bg .pk-social-links-googlenews .pk-social-links-link:hover {
+	background-color: #4b8cf5;
+}
+
+.pk-social-links-scheme-light-bg .pk-social-links-flipboard .pk-social-links-link:hover,
+.is-style-pk-social-links-light-bg .pk-social-links-flipboard .pk-social-links-link:hover {
+	background-color: #f52928;
 }
 
 .pk-social-links-scheme-light-bg .pk-social-links-strava .pk-social-links-link:hover,
@@ -2767,6 +2825,26 @@
 	background-color: #fd9c3b;
 }
 
+.pk-social-links-scheme-bold-bg .pk-social-links-googlenews .pk-social-links-link,
+.is-style-pk-social-links-bold-bg .pk-social-links-googlenews .pk-social-links-link {
+	background-color: #4b8cf5;
+}
+
+.pk-social-links-scheme-bold-bg .pk-social-links-googlenews .pk-social-links-link:hover,
+.is-style-pk-social-links-bold-bg .pk-social-links-googlenews .pk-social-links-link:hover {
+	background-color: #7babf8;
+}
+
+.pk-social-links-scheme-bold-bg .pk-social-links-flipboard .pk-social-links-link,
+.is-style-pk-social-links-bold-bg .pk-social-links-flipboard .pk-social-links-link {
+	background-color: #f52928;
+}
+
+.pk-social-links-scheme-bold-bg .pk-social-links-flipboard .pk-social-links-link:hover,
+.is-style-pk-social-links-bold-bg .pk-social-links-flipboard .pk-social-links-link:hover {
+	background-color: #f75a59;
+}
+
 .pk-social-links-scheme-bold-bg .pk-social-links-strava .pk-social-links-link,
 .is-style-pk-social-links-bold-bg .pk-social-links-strava .pk-social-links-link {
 	background-color: #FC4C02;
@@ -3324,6 +3402,22 @@
 
 .is-style-pk-social-links-light-rounded .pk-social-links-microblog .pk-social-links-link:hover .pk-social-links-icon {
 	color: #fd9c3b !important;
+}
+
+.is-style-pk-social-links-light-rounded .pk-social-links-googlenews .pk-social-links-link {
+	color: #4b8cf5 !important;
+}
+
+.is-style-pk-social-links-light-rounded .pk-social-links-googlenews .pk-social-links-link:hover .pk-social-links-icon {
+	color: #7babf8 !important;
+}
+
+.is-style-pk-social-links-light-rounded .pk-social-links-flipboard .pk-social-links-link {
+	color: #f52928 !important;
+}
+
+.is-style-pk-social-links-light-rounded .pk-social-links-flipboard .pk-social-links-link:hover .pk-social-links-icon {
+	color: #f75a59 !important;
 }
 
 .is-style-pk-social-links-light-rounded .pk-social-links-strava .pk-social-links-link {
@@ -3965,6 +4059,26 @@
 .pk-social-links-scheme-bold-rounded .pk-social-links-microblog .pk-social-links-link:hover .pk-social-links-icon,
 .is-style-pk-social-links-bold-rounded .pk-social-links-microblog .pk-social-links-link:hover .pk-social-links-icon {
 	background-color: #fd9c3b;
+}
+
+.pk-social-links-scheme-bold-rounded .pk-social-links-googlenews .pk-social-links-icon,
+.is-style-pk-social-links-bold-rounded .pk-social-links-googlenews .pk-social-links-icon {
+	background-color: #4b8cf5;
+}
+
+.pk-social-links-scheme-bold-rounded .pk-social-links-googlenews .pk-social-links-link:hover .pk-social-links-icon,
+.is-style-pk-social-links-bold-rounded .pk-social-links-googlenews .pk-social-links-link:hover .pk-social-links-icon {
+	background-color: #7babf8;
+}
+
+.pk-social-links-scheme-bold-rounded .pk-social-links-flipboard .pk-social-links-icon,
+.is-style-pk-social-links-bold-rounded .pk-social-links-flipboard .pk-social-links-icon {
+	background-color: #f52928;
+}
+
+.pk-social-links-scheme-bold-rounded .pk-social-links-flipboard .pk-social-links-link:hover .pk-social-links-icon,
+.is-style-pk-social-links-bold-rounded .pk-social-links-flipboard .pk-social-links-link:hover .pk-social-links-icon {
+	background-color: #f75a59;
 }
 
 .pk-social-links-scheme-bold-rounded .pk-social-links-strava .pk-social-links-icon,

@@ -304,6 +304,14 @@
 	content: "\e905";
 }
 
+.pk-icon-flipboard:before {
+	content: "\e94a";
+}
+
+.pk-icon-googlenews:before {
+	content: "\e94b";
+}
+
 .pk-icon-github:before {
 	content: "\e90f";
 }
