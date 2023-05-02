@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Fri, 31 Mar 2023 15:30:20 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 May 2023 14:01:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,57 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
+		<title>Exercise 5.5</title>
+		<link>./../../../../../exercise-5-5/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Wed, 19 Apr 2023 08:55:45 +0000</pubDate>
+				<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Part 5 The Classical Era]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=1436</guid>
+
+					<description><![CDATA[Beethoven’s String Quartet Op. 18, No. 1 is the first of six quartets that were published together in&#8230;]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="722" height="1024" src="./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0001-722x1024.png" alt="" class="wp-image-1437" srcset="./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0001-722x1024.png 722w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0001-212x300.png 212w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0001-768x1089.png 768w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0001-1083x1536.png 1083w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0001-1444x2048.png 1444w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0001-300x425.png 300w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0001-640x907.png 640w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0001-960x1361.png 960w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0001.png 2223w" sizes="(max-width: 722px) 100vw, 722px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="562" src="./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0002-1024x562.png" alt="" class="wp-image-1438" srcset="./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0002-1024x562.png 1024w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0002-300x165.png 300w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0002-768x421.png 768w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0002-1536x842.png 1536w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0002-2048x1123.png 2048w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0002-640x351.png 640w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0002-960x526.png 960w, ./../../../../../wp-content/uploads/2023/05/Exercise-5.5-Beethoven_0002.png 2223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Beethoven’s String Quartet Op. 18, No. 1 is the first of six quartets that were published together in 1801, known as the Op. 18 quartets. These quartets were written during Beethoven&#8217;s early period, and they represent a transition from the classical style of Haydn and Mozart to Beethoven&#8217;s unique and innovative approach to composition.</p>
+
+
+
+<p>This is a composition that greatly impressed me due to its spirited and multifaceted character, full of energy, pathos, and even elements of humour, with abrupt pauses and deceptive endings. The first movement is marked by a playful and vigorous tone, gravitating around the opening motive and employing diverse variations of it throughout the piece. The second movement, by contrast, evokes a more serious and intense atmosphere, that some scholars suggest was inspired by the burial scene in Romeo and Juliet. The third movement, in turn, features a sprightly Scherzo and Trio. Finally, the Allegro finale provides an entertaining and engaging end to the composition, employing silence strategically to evoke a sense of surprise and delight among the audience.</p>
+
+
+
+<p>The quartet features a balanced distribution of roles among the instruments. The first violin carries the primary melodic lines, while the other instruments have some supportive role, even though they play monophonically sometime. Indeed, a dynamic interplay exists among the instruments, with the primary melody traversing through all parts.</p>
+
+
+
+<p>In my experience, some minor alterations were necessary when arranging a string quartet for solo piano, such as adjusting the harmonies to suit the pianists&#8217; hand limitations. However, the essential character of the quartet can still be captured by a piano, even though it can never catch the dynamic strength of four instruments. I think this is more noticeable in passages with sforzando, like the one in bar 22.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Exercise 5.8</title>
 		<link>./../../../../../exercise-5-8/index.html</link>
 		
@@ -167,7 +218,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="765" height="632" src="./../../../../../wp-content/uploads/2023/03/image-2.png" alt="" class="wp-image-1373" srcset="./../../../../../wp-content/uploads/2023/03/image-2.png 765w, ./../../../../../wp-content/uploads/2023/03/image-2-300x248.png 300w, ./../../../../../wp-content/uploads/2023/03/image-2-640x529.png 640w" sizes="(max-width: 765px) 100vw, 765px" /><figcaption class="wp-element-caption"><em>SOUND PATTERNS: Chapter 31. The 123’s of Schenkerian Analysis</em> (no date). Available at: https://academic.udayton.edu/PhillipMagnuson/soundpatterns/perspec/123graphing.html.</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="765" height="632" src="./../../../../../wp-content/uploads/2023/03/image-2.png" alt="" class="wp-image-1373" srcset="./../../../../../wp-content/uploads/2023/03/image-2.png 765w, ./../../../../../wp-content/uploads/2023/03/image-2-300x248.png 300w, ./../../../../../wp-content/uploads/2023/03/image-2-640x529.png 640w" sizes="(max-width: 765px) 100vw, 765px" /><figcaption class="wp-element-caption"><em>SOUND PATTERNS: Chapter 31. The 123’s of Schenkerian Analysis</em> (no date). Available at: https://academic.udayton.edu/PhillipMagnuson/soundpatterns/perspec/123graphing.html.</figcaption></figure>
 
 
 
