@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Mon, 08 May 2023 11:14:09 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 May 2023 12:06:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -290,6 +290,57 @@
 
 
 <p>Study No. 10 is characterized by a range of idiomatic resources and technical challenges, including the use of open strings as pedal notes and ornamental techniques for accompanying open strings. The first 20 bars of the piece are constructed around a fixed position of the left hand, which ascends chromatically, creating a sense of mounting tension. I believe this section showcases Villa-Lobos&#8217; skilful use of harmonic and melodic devices to create a dynamic and engaging piece of music.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Cecilia Todd &#8211; Acidito</title>
+		<link>./../../../listening-to-cecilia-todd-acidito/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Fri, 21 Apr 2023 11:34:56 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 5 The Classical Era]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1457</guid>
+
+					<description><![CDATA[Upon watching an Instagram Reel by David Asher Brown on Venezuelan merengue and its unique 5/8 rhythm, I&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Upon watching an Instagram Reel by David Asher Brown on Venezuelan merengue and its unique 5/8 rhythm, I decided to explore one of the genre&#8217;s most renowned compositions, Acidito. The song was composed by Adelis Fréitez and has been popularized by several singers and bands. </p>
+
+
+
+<p>Cecilia Todd Vallenilla is a well-known Venezuelan musician, recognized for her performances of traditional Venezuelan folk music. She is especially skilled in playing the cuatro, which she uses to accompany herself in performances both within Venezuela and abroad.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Cecilia Todd - Acidito - Encuentro en el Estudio - Temporada 7" width="640" height="360" src="https://www.youtube.com/embed/o20jefoabvE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Upon close listening, it became clear that the 5/8 rhythm of Venezuelan merengue, as described by David Asher Brown, feels natural without any apparent sense of strain. The natural quality of this rhythmic structure may be attributed to the tempo at which it is played.</p>
+
+
+
+<p>After looking at the bass score, I realized that it consists of a two-quaver and one-crotchet rhythm. This raises the question of where the accent falls, whether it is on the first or the fifth beat. Based on the position of the break and the melodic leap, it appears that the accent may be on the fifth beat, although I may not be entirely right.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="166" src="./../../../wp-content/uploads/2023/05/image-1024x166.png" alt="" class="wp-image-1458" srcset="./../../../wp-content/uploads/2023/05/image-1024x166.png 1024w, ./../../../wp-content/uploads/2023/05/image-300x49.png 300w, ./../../../wp-content/uploads/2023/05/image-768x125.png 768w, ./../../../wp-content/uploads/2023/05/image-1536x250.png 1536w, ./../../../wp-content/uploads/2023/05/image-2048x333.png 2048w, ./../../../wp-content/uploads/2023/05/image-640x104.png 640w, ./../../../wp-content/uploads/2023/05/image-960x156.png 960w, ./../../../wp-content/uploads/2023/05/image.png 2216w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This video from Berklee College of Music presents a straightforward explanation of the rhythm.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Venezuelan Merengue - Alexis Soto and Carlos Capacho (Berklee Artist Notes)" width="640" height="360" src="https://www.youtube.com/embed/ICAviMybq94?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
 ]]></content:encoded>
 					
 		
@@ -8388,319 +8439,6 @@
 		
 		<enclosure url="./../../../wp-content/uploads/2021/10/Assignment-3-V2.mp3" length="2567231" type="audio/mpeg" />
 
-			</item>
-		<item>
-		<title>Listening &#038; Researching Polyphony</title>
-		<link>./../../../listening-researching-polyphony/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Sun, 10 Oct 2021 06:53:00 +0000</pubDate>
-				<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Part 3 Round, descants, polyphony]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=451</guid>
-
-					<description><![CDATA[Polyphonic music is when two or more melodies are played at the same time, each with the same&#8230;]]></description>
-										<content:encoded><![CDATA[
-<h2 id="key-takeaways" class="cnvs-block-section-heading cnvs-block-section-heading-1634272317962 wp-embed-aspect-16-9 wp-has-aspect-ratio halignleft" >
-	<span class="cnvs-section-title">
-		<span><meta charset="utf-8">Key takeaways </span>
-	</span>
-</h2>
-
-
-
-<ul type="video" class="wp-embed-aspect-16-9 wp-has-aspect-ratio is-style-cnvs-list-styled-positive"><li>Polyphonic music is when two or more melodies are played at the same time, each with the same relevance</li><li>It is not just a Western concept; it is found in a variety of cultures, each of which is distinct</li><li><span style="font-size: var(--cnvs-list-styled-font-size); color: var(--cs-color-primary); font-family: var(--cs-font-base-family), sans-serif; font-style: var(--cs-font-base-style); font-weight: var(--cs-font-base-weight); letter-spacing: var(--cs-font-base-letter-spacing);">Polyphonic music is more difficult to listen to than monophonic or homophonic music. Using a recurring theme through the voices is one method to make it easier to listen to</span></li><li><span style="font-size: var(--cnvs-list-styled-font-size); color: var(--cs-color-primary); font-family: var(--cs-font-base-family), sans-serif; font-style: var(--cs-font-base-style); font-weight: var(--cs-font-base-weight); letter-spacing: var(--cs-font-base-letter-spacing);">When there are more than 5 voices and melodies, it&#8217;s nearly impossible to distinguish them, and the experience becomes an aural one</span></li></ul>
-
-
-
-<p>Before I could listen to polyphonic music, I needed to define polyphony. There are three types of music textures: monophonic, homophonic, and polyphonic (Copland, Rich and Slatkin, 2011).</p>
-
-
-
-<p>So far, I&#8217;ve largely studied monophonic music, which is music composed using a single tune. It does not imply that the music is limited to a single instrument or vocal. Monophonic music can feature percussion and many lines, but they all play the same melody at the same time.</p>
-
-
-
-<p>Today&#8217;s contemporary popular music is predominantly homophonic. It means that a principal melody is accompanied by a chordal accompaniment. Generally, it is more pleasant to hear than monophonic music because the harmony is played in a way that elevates the main melody.</p>
-
-
-
-<p>Polyphony is more challenging than the preceding two. It occurs when two or more melodies happen at the same moment but are unrelated to one another. One of the most distinguishing characteristics of polyphony is that it is difficult to discern which melody is the primary one because each has its own prominence.</p>
-
-
-
-<p>I was reminded of a pop tune that contains all three types of musical textures. Come On Eileen by Dexys Midnight Runners makes it simple to understand the three principles. The song begins with a single violin playing in a monophonic texture. The sound then shifts to a homophonic texture, primarily in the chorus. Finally, in the bridge portion, all voices join together in a polyphonic texture with up to three melodies, as far as I can tell.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Come On Eileen" width="640" height="480" src="https://www.youtube.com/embed/GbpnAGajyMc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>dexysofficial, 2019.&nbsp;<em>Come On Eileen</em>.  Available at: &lt;https://www.youtube.com/watch?v=GbpnAGajyMc&gt; [Accessed 1 October 2021].</figcaption></figure>
-
-
-
-<p>Proceeding to my listening of polyphonic music, I decided that it will consist of as many listenings as there are melodies, plus one. To do this, I will try to listen to each melody separately and then all of them together in one final listening.</p>
-
-
-
-<h4 id="thomas-morley-april-is-in-my-mistress-face" class="wp-block-heading">Thomas Morley – April Is In My Mistress’ Face</h4>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="April is in my Mistress&#039; face – Thomas Morley" width="640" height="360" src="https://www.youtube.com/embed/o4vE2lZWZVU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>Frank, D., 2009.&nbsp;<em>April is in my Mistress&#8217; face – Thomas Morley</em>.  Available at: &lt;https://www.youtube.com/watch?v=o4vE2lZWZVU&gt; [Accessed 1 October 2021].</figcaption></figure>
-
-
-
-<p>This is a polyphonic composition of music for four voices (Soprano, Alto, Tenor, Bass), and it is one of the shortest English madrigals, published in 1594.</p>
-
-
-
-<p>After a first listen, this music seems to me like a Christmas carol, despite the fact that there is nothing in the lyrics that leads in that direction except the &#8220;cold December&#8221; section. Speaking of the lyrics, this is not a cheerful love poem, and I believe the music reflects the protagonist&#8217;s disappointment.</p>
-
-
-
-<p>The song starts with gentle rhythms but ascending melodic lines when describing April and June as metaphors for her beauty and the warmth of her eyes.</p>
-
-
-
-<p>But as the song progresses towards the colder months, it becomes a little melancholy and deeper, with the vocals becoming lower in pitch and dynamics. September has lengthier notes and the melodies are more similar.</p>
-
-
-
-<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-1024x905.png" alt="" class="wp-image-456" width="320" height="282" srcset="./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-1024x905.png 1024w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-300x265.png 300w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-768x679.png 768w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-640x566.png 640w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-960x849.png 960w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33.png 1054w" sizes="(max-width: 320px) 100vw, 320px" /></figure>
-
-
-
-<p>The most memorable section of the music occurs in December when the tune of &#8220;But in her heart&#8221; is repeated several times by all voices. This is foreshadowing the protagonist&#8217;s disappointment when he discovers she is as cold as December, and all voices get quieter and slower.</p>
-
-
-
-<p>For me, the most exciting part is when the voices interact, and you can hear one voice starting at one point and another voice following up where the first left. This example below exemplifies how Thomas Morley considered this, employing quavers to interact amongst the voices, crotchets, and minims when the melodies are independent. This results in a lovely soundscape.</p>
-
-
-
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.03.10.png" alt="" class="wp-image-453" width="382" height="252" srcset="./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.03.10.png 992w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.03.10-300x198.png 300w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.03.10-768x508.png 768w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.03.10-640x423.png 640w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.03.10-960x635.png 960w" sizes="(max-width: 382px) 100vw, 382px" /></figure>
-
-
-
-<p>Although it is polyphonic music with individual melodies, there is some round counterpoint, as shown in the examples above and below. This can demonstrate that the composer is not limited to a single style.</p>
-
-
-
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-11.58.09.png" alt="" class="wp-image-452" width="334" height="300" srcset="./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-11.58.09.png 686w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-11.58.09-300x270.png 300w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-11.58.09-640x577.png 640w" sizes="(max-width: 334px) 100vw, 334px" /></figure>
-
-
-
-<h4 id="thomas-tallis-spem-in-alium" class="wp-block-heading">Thomas Tallis &#8211; Spem in Alium</h4>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Tallis - Spem in alium (a 40) - Harry Christophers - Live Concert - HD" width="640" height="360" src="https://www.youtube.com/embed/QmH1nZSGIyY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>AVROTROS Klassiek, 2013.&nbsp;<em>Tallis &#8211; Spem in alium (a 40) &#8211; Harry Christophers &#8211; Live Concert &#8211; HD</em>.  Available at: &lt;https://www.youtube.com/watch?v=QmH1nZSGIyY&gt; [Accessed 1 October 2021].</figcaption></figure>
-
-
-
-<p>Because this is a 40-part motet, I did not follow the guideline of listening to it as many times as there are voices. </p>
-
-
-
-<p>It was written about 1570 by Thomas Tallis for eight choirs of five voices each and is regarded as the greatest piece of English early music by certain commentators.</p>
-
-
-
-<p>Writing polyphonic compositions is a complex job for the composer and a demanding one for the listener who tries to follow each melody alone. This is especially true for music with more than three or four melodies, so one can only imagine how impressive it is to write for 40 voices and over 11 minutes. An example of Tallis&#8217;s incredible work can be seen in the example below.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="691" height="1024" src="./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-11.52.52-691x1024.png" alt="" class="wp-image-459" srcset="./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-11.52.52-691x1024.png 691w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-11.52.52-202x300.png 202w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-11.52.52-768x1138.png 768w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-11.52.52-1037x1536.png 1037w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-11.52.52-300x445.png 300w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-11.52.52-640x948.png 640w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-11.52.52-960x1423.png 960w, ./../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-11.52.52.png 1154w" sizes="(max-width: 691px) 100vw, 691px" /></figure>
-
-
-
-<p>Concentrating on individual melodies proved difficult in this situation, so I just listened to Spem in Alium as a whole choir song. I must add that it greatly surprised me and gave me a hypnotic sense due to the aural movements of the choirs. Though it is widely assumed that Tallis intended his choirs to be placed in a horseshoe form, I can only imagine how magnificent it would be to hear it live, with all eight choirs positioned in a circle around you, creating a 360º experience.</p>
-
-
-
-<p>This piece, in my opinion, can be separated into three parts.</p>
-
-
-
-<ul class="is-style-cnvs-list-styled"><li>The first choir begins with just a few voices being formed together, then the other chorus joins them in turn. It almost sounds like a round.</li><li>Then, after a brief time when all 40 voices are singing together, we see an inverted movement from the opening section, in which the choirs follow each other in reverse order.</li><li>It is in the final section, which is more like a conversation between choirs, where this piece makes full use of its complexity, jumping between voices as it moves from choir to choir until it ends with all choirs singing together.</li></ul>
-
-
-
-<p>Even though I didn&#8217;t find it boring, I thought the music was a bit longer than I would find interesting. Listening to it live would probably transmit the power and the spatial interactivity Tallis intended and keep it interesting for the whole 11 minutes of this piece.</p>
-
-
-
-<h4 id="bach-prelude-and-fugue-no-17-in-ab-major-bwv-862" class="wp-block-heading">Bach: Prelude and Fugue No.17 in Ab major, BWV 862</h4>
-
-
-
-<p>I was interested to listen how the polyphonic music developed from the renaissance era to the baroque. After reading some articles I found that Bach would be a great example of polyphonic baroque music, so I listened to a few of his fugues. The No.17 in Ab major was one the I liked most.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Richter plays Bach: WTC1 No. 17 in A flat major BWV 862" width="640" height="480" src="https://www.youtube.com/embed/gCL5Zvnt0TU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>The polyphony of the late Baroque differed from that of the Renaissance: It was rooted in tonal harmony and characterized by an energetic, metrically conceived, driving rhythm (Hylton, 2005).</p>
-
-
-
-<p>The start of the prelude really interested me because it was such a great way of opening a piece. It reminded me of some rock and heavy metal songs that start with triads in one guitar and a melody in another. </p>
-
-
-
-<p>The theme of the prelude is repeated several times by both voices. Since polyphony can be hard to listen, this repetition of the main theme in one voice makes it sound familiar, while the other voice delivers a new and unexpected sound, making it fresh at the same time.</p>
-
-
-
-<p>Even from the start is easy to find the differences from renaissance polyphony. More rhythm and more complexity. </p>
-
-
-
-<p>Moving to the fugue, the new theme is clearly stated by repetition of the 4 voices, two in Ab major and two in Eb major.</p>
-
-
-
-<p>I really like how the voices keep playing the main theme, specially when they rise for a perfect 4th or 5th as in the example below. It gives a really fresh and climatic tone to the music.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="983" height="1024" src="./../../../wp-content/uploads/2021/10/untitled-2-983x1024.png" alt="" class="wp-image-500" srcset="./../../../wp-content/uploads/2021/10/untitled-2-983x1024.png 983w, ./../../../wp-content/uploads/2021/10/untitled-2-288x300.png 288w, ./../../../wp-content/uploads/2021/10/untitled-2-768x800.png 768w, ./../../../wp-content/uploads/2021/10/untitled-2-1474x1536.png 1474w, ./../../../wp-content/uploads/2021/10/untitled-2-1965x2048.png 1965w, ./../../../wp-content/uploads/2021/10/untitled-2-300x313.png 300w, ./../../../wp-content/uploads/2021/10/untitled-2-640x667.png 640w, ./../../../wp-content/uploads/2021/10/untitled-2-960x1000.png 960w, ./../../../wp-content/uploads/2021/10/untitled-2.png 2165w" sizes="(max-width: 983px) 100vw, 983px" /></figure>
-
-
-
-<p>Also interesting is that in bar 11 starts a new melody that is repeated by three voices, separating by a perfect 5th and a perfect 4th. This adds again a freshness to the music, and Bach makes sure that although this piece is polyphonic and complex, there is always a familiar tune to be listened.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="962" height="1024" src="./../../../wp-content/uploads/2021/10/untitled2_0001-2-962x1024.png" alt="" class="wp-image-498" srcset="./../../../wp-content/uploads/2021/10/untitled2_0001-2-962x1024.png 962w, ./../../../wp-content/uploads/2021/10/untitled2_0001-2-282x300.png 282w, ./../../../wp-content/uploads/2021/10/untitled2_0001-2-768x818.png 768w, ./../../../wp-content/uploads/2021/10/untitled2_0001-2-1443x1536.png 1443w, ./../../../wp-content/uploads/2021/10/untitled2_0001-2-1924x2048.png 1924w, ./../../../wp-content/uploads/2021/10/untitled2_0001-2-300x319.png 300w, ./../../../wp-content/uploads/2021/10/untitled2_0001-2-640x681.png 640w, ./../../../wp-content/uploads/2021/10/untitled2_0001-2-960x1022.png 960w, ./../../../wp-content/uploads/2021/10/untitled2_0001-2.png 2165w" sizes="(max-width: 962px) 100vw, 962px" /></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="470" src="./../../../wp-content/uploads/2021/10/untitled21-1024x470.png" alt="" class="wp-image-497" srcset="./../../../wp-content/uploads/2021/10/untitled21-1024x470.png 1024w, ./../../../wp-content/uploads/2021/10/untitled21-300x138.png 300w, ./../../../wp-content/uploads/2021/10/untitled21-768x353.png 768w, ./../../../wp-content/uploads/2021/10/untitled21-1536x705.png 1536w, ./../../../wp-content/uploads/2021/10/untitled21-2048x940.png 2048w, ./../../../wp-content/uploads/2021/10/untitled21-640x294.png 640w, ./../../../wp-content/uploads/2021/10/untitled21-960x441.png 960w, ./../../../wp-content/uploads/2021/10/untitled21.png 2165w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>I find this type of polyphony more interesting than the previous examples I listened, perhaps because I find that the complexity of notes and rhythms add more colour and interest to the piece.</p>
-
-
-
-<h4 id="polyphony-of-dorze-people" class="wp-block-heading">Polyphony of Dorze People</h4>
-
-
-
-<p>While researching polyphony, I came across this statement in the &#8216;Why do people sing?&#8217; book.</p>
-
-
-
-<figure class="wp-block-pullquote is-style-solid-color"><blockquote><p>SubSaharan Africa is the largest and the most active region of distribution of vocal polyphony in the world.</p><cite>(Jordania, 2011)</cite></blockquote></figure>
-
-
-
-<p>Therefore, I decided to listen to some polyphony singing from the Dorze tribe in Ethiopia to see and understand the main differences between them and western polyphony.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Ethiopia - Polyphony of Dorze People" width="640" height="480" src="https://www.youtube.com/embed/0SJnYos3ksQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>ArsX, 2015.&nbsp;<em>Ethiopia &#8211; Polyphony of Dorze People</em>.  Available at: &lt;https://www.youtube.com/watch?v=0SJnYos3ksQ&gt; [Accessed 1 October 2021].</figcaption></figure>
-
-
-
-<p>There are two songs on this recording that I listened to:</p>
-
-
-
-<ul class="is-style-cnvs-list-styled"><li>Ritual song by young boys</li><li>Spinning song by young girls</li></ul>
-
-
-
-<p>The first one had a drone-like effect in one of the voices while the other voices sang a repeated theme. It&#8217;s a pretty rhythmic tune, but it&#8217;s also incredibly repetitive, with the same theme running throughout.</p>
-
-
-
-<p>The second song appears to be a three-part polyphony, with one high-pitched solo melody, another group melody, and a low-pitched rhythmical melody. This one appears to be more sophisticated than the last one and more enjoyable to listen to.</p>
-
-
-
-<p>The biggest difference between this song and the ones I previously evaluated is that each voice is sung with a specific function in mind, such as a rhythmic voice or a harmonising voice.</p>
-
-
-
-<h4 id="tautai-taora-ofrai-leeward-islands" class="wp-block-heading"><meta charset="utf-8">Tautai Taora Ofrai (Leeward Islands)</h4>
-
-
-
-<p>Little did I know that Polynesia was one of the first places on earth to develop polyphonic music. Europeans discovered Polynesia&#8217;s long tradition of polyphonic music in the 18th century. This discovery was a shocking one for European musicians, who believed that polyphony, as an attribute of a more advanced musical civilization, could have been only a product of the Christian monastery (Jordania, 2011).</p>
-
-
-
-<p>This is one of the examples of recorded Polynesian polyphony.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Music of Polynesia" width="640" height="360" src="https://www.youtube.com/embed/82DpqbRLPAw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>I got the same feeling after listening to Tautai Taora Ofrai as I did after listening to Dorze People&#8217;s polyphony. It&#8217;s a song with a lot of rhythms, but it&#8217;s also very repetitive.</p>
-
-
-
-<p>Apart from that, I found this music to have a structure, with three parts separated by a drone from one of the voices.</p>
-
-
-
-<p>Another difference I noticed between the two listenings is that there are more voices (at least four different melodies) and that they don&#8217;t appear to have a specific role, but rather their own melodies that are distinct from the other voices.</p>
-
-
-
-<p></p>
-
-
-
-<p>Finally, I&#8217;d want to share one anti-polyphony viewpoint that startled me. As in the video below, polyphony was described by Vincenzo Galilei as &#8220;a big mess of incoherent imperfections&#8221;. Despite the fact that I believe these statements to be harsh, I can see why Vicenzo Galilei wrote them. Polyphony is difficult to listen to and, if not properly done, can quickly devolve into a big mess.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Vincenzo Galilei VS Polyphony and Word Painting" width="640" height="360" src="https://www.youtube.com/embed/jSxBXPlDSwE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1634219014963 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Copland, A., Rich, A. and Slatkin, L., 2011. What to listen for in music. New York, N.Y: Signet Classic.</p>
-
-
-
-<p>Jordania, J., 2011. Why do people sing?. Tbilisi [Georgia]: Logos, p.20.</p>
-
-
-
-<p>Hylton, J., 2005. Comprehensive choral music education. Taipei: Pearson Education Taiwan Ltd.</p>
-]]></content:encoded>
-					
-		
-		
 			</item>
 	</channel>
 </rss>
