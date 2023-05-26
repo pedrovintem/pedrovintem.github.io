@@ -12,64 +12,19 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Mon, 08 May 2023 12:06:04 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 May 2023 13:51:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
-		<title>Listening to Heitor Villa-Lobos &#8211; 12 Études for Guitar</title>
-		<link>./../../../../../listening-to-heitor-villa-lobos-12-etudes-for-guitar/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Tue, 25 Apr 2023 11:13:40 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Part 5 The Classical Era]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../../../index.html?p=1453</guid>
-
-					<description><![CDATA[Although not typically drawn to classical guitar compositions, I discovered the Brazilian composer Heitor Villa-Lobos&#8217; (1887-1957) 12 Études&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>Although not typically drawn to classical guitar compositions, I discovered the Brazilian composer Heitor Villa-Lobos&#8217; (1887-1957) 12 Études for Guitar and decided to listen to it.</p>
-
-
-
-<p>Heitor Villa-Lobos is widely regarded as one of the foremost composers of Latin American music in the 20th century. His work is notable for its unique synthesis of Western classical music and traditional Brazilian folk songs and rhythms. Among his many notable works are the Etudes, composed in 1928 and dedicated to the renowned guitarist Andres Segovia. Alongside their didactic function, these pieces are often featured in live performances due to their musical richness and technical demands.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Heitor Villa-lobos - 12 Études for Guitar (Score video)" width="640" height="360" src="https://www.youtube.com/embed/JP8R7JBu_UM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>A few of the études caught my attention.</p>
-
-
-
-<p>Study No. 1, employs the technique of right-hand arpeggio. The formula is fixed, interrupted only in measures 23-24. The Study can be divided into three sections: the first section goes until measure 11, which is characterized by stability in the harmony. The second section runs from measure 12 to measure 22, where the arpeggios move down the scale by step, with a pedal E bass note. The third section covers measures 23 to 33, where the range of the notes is expanded. The study was symmetrically constructed with sections of 11 measures. The beauty of this piece lies in the cyclical repetition of each bar, which effectively generates a sense of tension and release.</p>
-
-
-
-<p>Study No. 4 is centred on the continuous repetition of chords in the right hand while extensively exploring the harmonic capabilities of the guitar. I hear in these chords elements that anticipate the emergence of Brazilian popular music and bossa nova in the years following its composition.</p>
-
-
-
-<p>Study No. 10 is characterized by a range of idiomatic resources and technical challenges, including the use of open strings as pedal notes and ornamental techniques for accompanying open strings. The first 20 bars of the piece are constructed around a fixed position of the left hand, which ascends chromatically, creating a sense of mounting tension. I believe this section showcases Villa-Lobos&#8217; skilful use of harmonic and melodic devices to create a dynamic and engaging piece of music.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Listening to Cecilia Todd &#8211; Acidito</title>
 		<link>./../../../../../listening-to-cecilia-todd-acidito/index.html</link>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Fri, 21 Apr 2023 11:34:56 +0000</pubDate>
+		<pubDate>Sat, 29 Apr 2023 11:34:56 +0000</pubDate>
 				<category><![CDATA[Listening Log]]></category>
 		<category><![CDATA[Part 5 The Classical Era]]></category>
 		<category><![CDATA[Stylistic Techniques]]></category>
@@ -86,7 +41,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Cecilia Todd - Acidito - Encuentro en el Estudio - Temporada 7" width="640" height="360" src="https://www.youtube.com/embed/o20jefoabvE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Cecilia Todd - Acidito - Encuentro en el Estudio - Temporada 7" width="640" height="360" src="https://www.youtube.com/embed/o20jefoabvE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -110,6 +65,51 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe loading="lazy" title="Venezuelan Merengue - Alexis Soto and Carlos Capacho (Berklee Artist Notes)" width="640" height="360" src="https://www.youtube.com/embed/ICAviMybq94?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Heitor Villa-Lobos &#8211; 12 Études for Guitar</title>
+		<link>./../../../../../listening-to-heitor-villa-lobos-12-etudes-for-guitar/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2023 11:13:40 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 5 The Classical Era]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=1453</guid>
+
+					<description><![CDATA[Although not typically drawn to classical guitar compositions, I discovered the Brazilian composer Heitor Villa-Lobos&#8217; (1887-1957) 12 Études&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Although not typically drawn to classical guitar compositions, I discovered the Brazilian composer Heitor Villa-Lobos&#8217; (1887-1957) 12 Études for Guitar and decided to listen to it.</p>
+
+
+
+<p>Heitor Villa-Lobos is widely regarded as one of the foremost composers of Latin American music in the 20th century. His work is notable for its unique synthesis of Western classical music and traditional Brazilian folk songs and rhythms. Among his many notable works are the Etudes, composed in 1928 and dedicated to the renowned guitarist Andres Segovia. Alongside their didactic function, these pieces are often featured in live performances due to their musical richness and technical demands.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Heitor Villa-lobos - 12 Études for Guitar (Score video)" width="640" height="360" src="https://www.youtube.com/embed/JP8R7JBu_UM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>A few of the études caught my attention.</p>
+
+
+
+<p>Study No. 1, employs the technique of right-hand arpeggio. The formula is fixed, interrupted only in measures 23-24. The Study can be divided into three sections: the first section goes until measure 11, which is characterized by stability in the harmony. The second section runs from measure 12 to measure 22, where the arpeggios move down the scale by step, with a pedal E bass note. The third section covers measures 23 to 33, where the range of the notes is expanded. The study was symmetrically constructed with sections of 11 measures. The beauty of this piece lies in the cyclical repetition of each bar, which effectively generates a sense of tension and release.</p>
+
+
+
+<p>Study No. 4 is centred on the continuous repetition of chords in the right hand while extensively exploring the harmonic capabilities of the guitar. I hear in these chords elements that anticipate the emergence of Brazilian popular music and bossa nova in the years following its composition.</p>
+
+
+
+<p>Study No. 10 is characterized by a range of idiomatic resources and technical challenges, including the use of open strings as pedal notes and ornamental techniques for accompanying open strings. The first 20 bars of the piece are constructed around a fixed position of the left hand, which ascends chromatically, creating a sense of mounting tension. I believe this section showcases Villa-Lobos&#8217; skilful use of harmonic and melodic devices to create a dynamic and engaging piece of music.</p>
 ]]></content:encoded>
 					
 		

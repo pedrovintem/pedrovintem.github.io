@@ -12,14 +12,886 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Mon, 08 May 2023 12:06:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 May 2023 14:16:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
+		<title>Assignment 3 &#8211; after tutor&#8217;s feedback</title>
+		<link>./../assignment-3-after-tutors-feedback/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Tue, 16 May 2023 13:53:47 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[Part 3 Baroque Period]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../index.html?p=1480</guid>
+
+					<description><![CDATA[The feedback from my tutor was generally positive, with a focus on cautioning against pushing the harmonic rules&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2 id="revision" class="cnvs-block-section-heading cnvs-block-section-heading-1684234832322 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Revision</span>
+	</span>
+</h2>
+
+
+
+<p>The feedback from my tutor was generally positive, with a focus on cautioning against pushing the harmonic rules too far. The tutor also emphasized the importance of understanding the use of dissonances and suggested exploring the incorporation of mordents to introduce more character into the piece, instead of the abundance of trills.</p>
+
+
+
+<p>Taking these comments into consideration, I proceeded to revise both the score and my own reflections. In terms of the score, I aimed to simplify it, recognizing that certain passages appeared overcrowded and could benefit from enhanced clarity. Specifically, I addressed the conclusion by removing a trill that contained a leap to the final G note. However, I retained an ornament in the last bar, which I believe now presents a more elegant and Bach-inspired style.</p>
+
+
+
+<p>Other alterations:</p>
+
+
+
+<p>In bars 1 and 2, instead of having a descending sequence, I repeated the notes of the Right Hand in each chord to establish better the harmony.</p>
+
+
+
+<p>In bar 6 I changed the G octave to a F octave in the violin to fit the Bb chord beneath.</p>
+
+
+
+<p>In bar 7, I changed the Right Hand to start the arpeggio in an E flat instead of G, to create a descending sequence from the previous bars.</p>
+
+
+
+<p>In bars 10 and 11 I changed the Right Hand line to become more smooth.</p>
+
+
+
+<p>In bars 15-16 and bar 23-24 I replaced the long and unresolved note with a resolution.</p>
+
+
+
+<p>In bar 20 and bar 30 I replaced the trill with a mordent.</p>
+
+
+
+<p></p>
+
+
+
+<h2 id="revised-reflection" class="cnvs-block-section-heading cnvs-block-section-heading-1684234847238 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Revised reflection</span>
+	</span>
+</h2>
+
+
+
+<p>I approached this assignment by first thinking about the piece&#8217;s structure, drawing inspiration from Bach&#8217;s violin sonata. I researched various baroque dances, such as the Allemande, Courante, Sarabande, and Gigue, and decided to use the Allemande as a primary inspiration because of its 4/4 meter and binary form. After going through the chords several times, I decided to make my piece in binary form as well: the first section from bar 1 to bar 16 and the second from bar 17 to bar 33.</p>
+
+
+
+<p>I chose the first section to be 16 bars long, as this is a common length for the first section of dances like Allemande and Bach&#8217;s sonata. Additionally, the perfect cadence from bar 15 (C major) to bar 16 (F major) and the transition from F major to Bb major in bar 17 made it a logical choice. The presence of rehearsal letters also hinted that there would be a break in this section.</p>
+
+
+
+<p>As soon as I determined the structure of my composition, <a href="./../listening-to-bach-sonata-no-4-for-violin-and-harpsichord-in-c-minor-bmv-1017-1-siciliano/index.html" data-type="URL" data-id="./../listening-to-bach-sonata-no-4-for-violin-and-harpsichord-in-c-minor-bmv-1017-1-siciliano/index.html" target="_blank">I reviewed my previous analysis of Bach&#8217;s violin sonata to better understand his techniques</a>. </p>
+
+
+
+<p>My composition plan was to introduce the main theme of the sonata in the first bars and then explore it with repetitions and variations until the end of the A section. The B section would start with a similar theme, but with some slight changes to keep it fresh and then move to the main theme until the end of the piece.</p>
+
+
+
+<p>One of the challenges I faced right at the beginning of the composition was finding the right rhythms and notes. I tried several combinations and ideas but I ended up feeling that they didn&#8217;t match the Baroque style I was aiming for. Either sounded too simple or too uninteresting. My solution was to borrow material from my previous exercise, which was based on Bach&#8217;s Sonata for Viola da Gamba &amp; Harpsichord in G Minor.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="676" height="242" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13.png" alt="" class="wp-image-1165" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13.png 676w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13-300x107.png 300w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13-640x229.png 640w" sizes="(max-width: 676px) 100vw, 676px" /><figcaption class="wp-element-caption">Exercise 3.4 theme</figcaption></figure>
+
+
+
+<p>But even after finding a theme, I wasn&#8217;t satisfied with how it sounded in the first four bars, so I decided to begin it at rehearsal mark A (bar 5) and develop it from there. Overall, I was pleased with how the melody turned out and specifically enjoyed applying the lessons I learned from Bach by allowing the C# in bar 8 to move to bar 9 instead of resolving to D.</p>
+
+
+
+<p>There was a challenge with the first 4 bars since I lacked ideas as to what to do in order to make them interesting. My solution was to write an introduction that hinted at the main theme&#8217;s rhythm, as a preview of what was to come. Despite not being able to find out whether an introduction was common to the Baroque style, I decided to include it since it made sense in this composition.</p>
+
+
+
+<p>My goal in the B section was to make the violin sound freer, but not totally different from the previous section. In order to achieve this, I kept the tied note and the three descending notes from the main theme.</p>
+
+
+
+<p>The next step was ornamenting the violin and the treble harpsichord. I looked into Taylor (1998), Apel (1969) and Bach (1949) for guidance and kept in mind that Bach used ornaments that were perfectly in time. The main difficulty I faced was understanding how to write the first and final notes on the trills regarding the previous and the next note. For example, in bars 2 and 12, the previous note is the same upper note of the trill. Should the player play it two times or make it tied? I couldn&#8217;t find a definitive answer but it made sense to me to be tied.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-8">
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="532" height="184" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18.png" alt="" class="wp-image-1180" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18.png 532w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18-300x104.png 300w" sizes="(max-width: 532px) 100vw, 532px" /><figcaption class="wp-element-caption">Trill in Bar 2</figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="580" height="128" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06.png" alt="" class="wp-image-1181" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06.png 580w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06-300x66.png 300w" sizes="(max-width: 580px) 100vw, 580px" /><figcaption class="wp-element-caption">Trill in bar 8</figcaption></figure>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-11">
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="588" height="154" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21.png" alt="" class="wp-image-1182" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21.png 588w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21-300x79.png 300w" sizes="(max-width: 588px) 100vw, 588px" /><figcaption class="wp-element-caption">Trill in bar 12</figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="450" height="136" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.23.png" alt="" class="wp-image-1170" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.23.png 450w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.23-300x91.png 300w" sizes="(max-width: 450px) 100vw, 450px" /><figcaption class="wp-element-caption">Turn in bar 17</figcaption></figure>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-14">
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="604" height="260" src="./../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.50.20.png" alt="" class="wp-image-1482" srcset="./../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.50.20.png 604w, ./../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.50.20-300x129.png 300w" sizes="(max-width: 604px) 100vw, 604px" /><figcaption class="wp-element-caption">Mordent in bar 20</figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="724" height="222" src="./../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.52.19.png" alt="" class="wp-image-1483" srcset="./../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.52.19.png 724w, ./../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.52.19-300x92.png 300w, ./../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.52.19-640x196.png 640w" sizes="(max-width: 724px) 100vw, 724px" /><figcaption class="wp-element-caption">Mordent in bar 30</figcaption></figure>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-17">
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="682" height="144" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51.png" alt="" class="wp-image-1185" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51.png 682w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51-300x63.png 300w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51-640x135.png 640w" sizes="(max-width: 682px) 100vw, 682px" /><figcaption class="wp-element-caption">Trill in bar 31</figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="636" height="236" src="./../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.53.19.png" alt="" class="wp-image-1485" srcset="./../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.53.19.png 636w, ./../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.53.19-300x111.png 300w" sizes="(max-width: 636px) 100vw, 636px" /><figcaption class="wp-element-caption">Mordent in bar 32</figcaption></figure>
+</div>
+</div>
+
+
+
+<p>In bars 29 and 30, I decided to incorporate a suspiran, which is a technique I learned from an article by Peter Williams (1979).</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1020" height="190" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-11.07.29.png" alt="" class="wp-image-1205" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-11.07.29.png 1020w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-11.07.29-300x56.png 300w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-11.07.29-768x143.png 768w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-11.07.29-640x119.png 640w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-11.07.29-960x179.png 960w" sizes="(max-width: 1020px) 100vw, 1020px" /><figcaption class="wp-element-caption">Suspiran in bars 29 and 30</figcaption></figure>
+
+
+
+<p>Overall, I am pleased with how I was able to incorporate elements from Bach&#8217;s sonata into my composition, but I am aware that it may not sound as authentically Baroque as it could. Sometimes it sounds too contemporary. Possibly the pivotal question is this: How can we write in the style of a specific era if we have been influenced by later ones? This may be a constant challenge that composers face, and it&#8217;s something that I kept in mind throughout the composition process. Despite this, I am happy with the final result and how it captures the essence of the Baroque style while incorporating my own creative choices.</p>
+
+
+
+<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1674728556067 is-style-cnvs-block-section-heading-6 halignleft" >
+	<span class="cnvs-section-title">
+		<span>References</span>
+	</span>
+</h2>
+
+
+
+<p>Taylor, E. (1998) The AB Guide to Music Theory Part 1. Associated Board of the Royal Schools of Music Publishing.</p>
+
+
+
+<p>Apel, W. (1969) Harvard Dictionary of Music, 2nd Revised and Enlarged Edition. Second Revised&amp;enlarged. Belknap Press: An Imprint of Harvard University Press.</p>
+
+
+
+<p>Bach, C. P. E. (1949) Essay on the true art of playing keyboard instruments, Translated and Edited by William J. Mitchell. New York: W.W.Norton.</p>
+
+
+
+<p>Williams, P. (1979) “Figurenlehre from Monteverdi to Wagner. 3: The Suspirans,” <em>The Musical Times</em>, 120(1638), p. 648. Available at: https://doi.org/10.2307/962468.</p>
+
+
+
+<p> </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Assignment 1 &#8211; Part 1 &#8211; after tutor&#8217;s feedback</title>
+		<link>./../assignment-1-part-1-after-tutors-feedback/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Fri, 12 May 2023 14:51:32 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[Part 1 Renaissance period]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../index.html?p=1471</guid>
+
+					<description><![CDATA[After receiving feedback from my tutor, it became evident that the second species exercise required more work. The&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2 id="revision" class="cnvs-block-section-heading cnvs-block-section-heading-1684143625766 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Revision</span>
+	</span>
+</h2>
+
+
+
+<p>After receiving feedback from my tutor, it became evident that the second species exercise required more work. The tutor highlighted that the melody felt like it was split in two and also drew attention to the downward direction following a leap. With these feedbacks in mind, I proceeded to rework the second species exercise.</p>
+
+
+
+<h4 id="first-species" class="wp-block-heading">First Species</h4>
+
+
+
+<p>Using the tips from the First Species, I created a melodic line that was always consonant and moved mostly in contrary motion.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="347" src="./../wp-content/uploads/2022/10/Assignment-1-Part-1-1-1024x347.png" alt="" class="wp-image-898" srcset="./../wp-content/uploads/2022/10/Assignment-1-Part-1-1-1024x347.png 1024w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-1-300x102.png 300w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-1-768x260.png 768w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-1-1536x520.png 1536w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-1-2048x694.png 2048w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-1-640x217.png 640w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-1-960x325.png 960w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-1.png 2220w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 id="second-species" class="wp-block-heading">Second Species</h4>
+
+
+
+<p>This was my second attempt at this exercise. My attention was on bar 3 and 4, where I aimed to establish a connection between the melody and the required D note in bar 4. I chose to make a leap in bar 3, followed by an ascending and descending line, resulting in a melody that fluctuates between C and G.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="347" src="./../wp-content/uploads/2023/05/Assignment-1-Part-1-2-V2-2-1024x347.png" alt="" class="wp-image-1477" srcset="./../wp-content/uploads/2023/05/Assignment-1-Part-1-2-V2-2-1024x347.png 1024w, ./../wp-content/uploads/2023/05/Assignment-1-Part-1-2-V2-2-300x102.png 300w, ./../wp-content/uploads/2023/05/Assignment-1-Part-1-2-V2-2-768x260.png 768w, ./../wp-content/uploads/2023/05/Assignment-1-Part-1-2-V2-2-1536x520.png 1536w, ./../wp-content/uploads/2023/05/Assignment-1-Part-1-2-V2-2-2048x694.png 2048w, ./../wp-content/uploads/2023/05/Assignment-1-Part-1-2-V2-2-640x217.png 640w, ./../wp-content/uploads/2023/05/Assignment-1-Part-1-2-V2-2-960x325.png 960w, ./../wp-content/uploads/2023/05/Assignment-1-Part-1-2-V2-2.png 2220w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 id="third-species" class="wp-block-heading">Third Species</h4>
+
+
+
+<p>Due to the pre-given patterns in bar 4  (nota cambiata pattern) and bar 6 (double neighbour pattern) in the third species, I started this species backwards in bar 6. Even with the given patterns, I tried to maintain a fluid melodic line with no big leaps, and always respected the previous species&#8217; guidelines.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="627" src="./../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-1024x627.png" alt="" class="wp-image-901" srcset="./../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-1024x627.png 1024w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-300x184.png 300w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-768x470.png 768w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-1536x940.png 1536w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-2048x1254.png 2048w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-640x392.png 640w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-960x588.png 960w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1.png 2223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 id="fourth-species" class="wp-block-heading">Fourth Species</h4>
+
+
+
+<p>Since the suspension must be resolved downwards and in consonance with the upbeat, I found this one to be the easiest species.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="347" src="./../wp-content/uploads/2022/10/Assignment-1-Part-1-4-1024x347.png" alt="" class="wp-image-902" srcset="./../wp-content/uploads/2022/10/Assignment-1-Part-1-4-1024x347.png 1024w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-4-300x102.png 300w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-4-768x260.png 768w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-4-1536x520.png 1536w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-4-2048x694.png 2048w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-4-640x217.png 640w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-4-960x325.png 960w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-4.png 2220w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 id="fifth-species" class="wp-block-heading">Fifth Species</h4>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to Compose a Canon || Imitative Counterpoint 1" width="640" height="360" src="https://www.youtube.com/embed/TTtWXsauS7Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>As compared to the previous species, the fifth one took me a lot lI wasn&#8217;t sure how the bass and alto should harmonize with the tenor while imitating each other. Jacob Gran&#8217;s video helped me realize we should make the three-voice counterpoint as harmonically complete as possible. Thus, for example, in bar 3, the bass is supposed to imitate the tenor by going from D to F, but that would be dissonant. The right choice is E since it makes a C major triad.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1012" height="1024" src="./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-1012x1024.png" alt="" class="wp-image-903" srcset="./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-1012x1024.png 1012w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-297x300.png 297w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-768x777.png 768w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-1518x1536.png 1518w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-2024x2048.png 2024w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-80x80.png 80w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-300x304.png 300w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-640x647.png 640w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-960x971.png 960w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001.png 2223w" sizes="(max-width: 1012px) 100vw, 1012px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="459" src="./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-1024x459.png" alt="" class="wp-image-904" srcset="./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-1024x459.png 1024w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-300x134.png 300w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-768x344.png 768w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-1536x688.png 1536w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-2048x917.png 2048w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-640x287.png 640w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-960x430.png 960w, ./../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002.png 2222w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Revision of Assignment 5 after tutor&#8217;s feedback</title>
+		<link>./../revision-of-assignment-5-after-tutors-feedback/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Wed, 10 May 2023 20:46:47 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[Part 5 The Classical Era]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../index.html?p=1466</guid>
+
+					<description><![CDATA[This assignment provided me with significant learning outcomes, enriching my understanding of the piece and expanding my research&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2 id="revision-and-reflection" class="cnvs-block-section-heading cnvs-block-section-heading-1683751774139 is-style-default halignleft" >
+	<span class="cnvs-section-title">
+		<span>Revision and Reflection</span>
+	</span>
+</h2>
+
+
+
+<p>This assignment provided me with significant learning outcomes, enriching my understanding of the piece and expanding my research skills. Given my background in writing, I find it more comfortable and efficient to compose an essay rather than a musical piece. Once again, I found the word limit somewhat restrictive for what I wanted to write, but I recognize that such constraints serve to ensure the essay remains focused on essential aspects.</p>
+
+
+
+<p>Regarding my research method, I began by listening to the Symphony, using my ears to identify themes, sections, key changes, and other musical elements. Then I researched books and articles to gain a historical understanding of the piece. Finally, I applied a method of analysis I used before, identifying the form, themes, and keys, outlining the structure, establishing how the transitions of keys and sections are made and analysing how themes are built and used throughout the piece.</p>
+
+
+
+<p>The feedback from my tutor proved pivotal in transforming what the tutor described as &#8220;a very good start to your analytical writing&#8221; into what I believe to be a well-structured and cohesive essay. Each comment offered new perspectives that hadn&#8217;t occurred to me before, which led to extensive revisions and additions to the essay.</p>
+
+
+
+<p>The most important comment was to structure the essay around a central theme, accompanied by a suitable title and introduction. Although this advice seemed obvious upon reading it, it hadn&#8217;t initially occurred to me. Initially, I attempted to provide a comprehensive overview of the piece, resulting in numerous questions. With the help of my tutor, I selected one of those questions and reoriented my essay around the concept of Tone-painting or the &#8220;expression of a feeling.&#8221;</p>
+
+
+
+<p>Another outcome of the feedback was that it gave me hints on what to focus on when researching. For example, the comment and question raised by my tutor about why the brief key change to a minor key in the development section sounded strange to me, led me to research more about the sonata form, which led me to find the book Elements of Sonata Theory. There I found the answer to this and other questions I had.</p>
+
+
+
+<p>Furthermore, the feedback provided valuable guidance on areas to focus on during my research. For instance, the comment and question raised by my tutor regarding my strangeness when I found the brief key change to a minor key in the development section prompted further investigation into the sonata form, leading me to discover the book &#8220;Elements of Sonata Theory.&#8221; This reference provided answers to that particular question and others I had.</p>
+
+
+
+<p>In conclusion, this assignment stands out as one of the most impactful learning experiences I have encountered thus far.</p>
+
+
+
+<h2 id="tone-painting-or-the-expression-of-a-feeling-beethovens-sixth-symphony-first-movement" class="cnvs-block-section-heading cnvs-block-section-heading-1684317223172 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Tone-painting or the &#8220;expression of a feeling&#8221;? Beethoven&#8217;s Sixth Symphony, First Movement</span>
+	</span>
+</h2>
+
+
+
+<p>This essay explores the historical and musical aspects that help understand the nuanced connection between tone-painting and emotional expression in Beethoven&#8217;s Sixth Symphony, Op. 68 “Pastoral”. Through an analysis of the 1st movement of the Symphony, this essay aims to demonstrate how Beethoven masterfully blends these two concepts to create a musical composition that is both vibrant and sensitively emotive.</p>
+
+
+
+<p>The Pastoral Symphony, composed between 1807 and 1808, falls within the middle of Beethoven&#8217;s second phase, which was influenced by the turbulent sociopolitical events of the Enlightenment era, personal struggles such as the onset of his deafness, and its cultural context as part of the transition from the Classical to Romantic music period.</p>
+
+
+
+<p>Premiered in Vienna on December 22nd 1808, during a concert at which several of other major works by the composer were premiered including his 5th Symphony, the Pastoral Symphony is written for a typical orchestra of that period: piccolo, two flutes, two oboes, two clarinets, two bassoons, two horns, two trumpets, two trombones, timpani and strings (The Editors of Encyclopaedia Britannica, 1998a). </p>
+
+
+
+<p>Since they both premiered at the same concert and were composed at around the same time, the contrast between the 5th Symphony and 6th Symphony is worth noting. The 5th is vigorous and varied, while the 6th is calm and repetitive, with programmatic titles illustrating rural life. Also, unlike the 5th Symphony, Beethoven gave his 6th an epithet: &#8220;Pastoral&#8221;.</p>
+
+
+
+<p>In order to understand why Beethoven decided to use the Pastoral as the theme for this Symphony, one must consider the intersection of his personal history and the historical context in which he was creating. On the personal side, according to Allen (2017), Beethoven had a profound love for nature and often sought refuge from the bustle of urban life by retreating to the countryside. But in a historical context, Will (1994:166) states that the pastoral theme was the most common subject in programmatic symphonies during the Classical Period, and although there were earlier works such as Justin Heinrich Knecht&#8217;s 1784 symphony &#8220;Le portrait musical de la nature,&#8221; which shares a similar programmatic intent with Beethoven&#8217;s 6th Symphony, Beethoven might have found inspiration in Haydn&#8217;s great oratorios The Creation (1799) and The Seasons (1801) (Lockwood, 2015). However, in opposition to other programmatic symphonies, Beethoven intended this work to be “more the Expression of Feeling than Tone-Panting”.</p>
+
+
+
+<p>Distinguishing between tone-painting and expression of feeling is crucial. According to Will (2002:130), expression involves imitating emotions, while painting involves replicating the sounds or movements of physical objects. The debate surrounding tone-painting in music gained significant attention in the late 18th century, leading to criticism from various English and German writers, including arguments such as &#8220;painting violates the true spirit of music, which ought to express the sentiments of feeling, not convey ideas of inanimate objects&#8221; (Sulzer 1792–94, II: 357 cited in Will, 2002:131).</p>
+
+
+
+<ol start="6">
+<li></li>
+</ol>
+
+
+
+<p>Two reviews from 1810, published in Allgemeine musikalische Zeitung (AmZ) and Zeitung für die elegante Welt, shed light on the debate surrounding tone-painting and expression of feeling in Beethoven&#8217;s Pastoral Symphony. While initially denouncing it as &#8220;the utmost in tastelessness,&#8221; the AmZ review later justifies Beethoven&#8217;s use of tone-painting to represent emotions, rather than physical objects.  (Will, 1994:158-160). Similarly, the review published in the Zeitung für die elegante Welt acknowledges that the symphony portrays emotions associated with the pastoral but it goes further to argue that it is more than a generic representation of such emotions. Rather, the scenes depicted are specific episodes from the composer&#8217;s own experiences in the countryside, imbued with his personal emotions. (Will, 1994:161).</p>
+
+
+
+<p>Both reviews share a common acknowledgement of Beethoven&#8217;s utilization of tone-painting in his Pastoral Symphony, evident in instances like the storm in the 4th movement and the depiction of birds in the 2nd movement. However, they both consider Beethoven&#8217;s tone-painting to be of secondary significance, with the primary emphasis placed on its ability to convey emotions associated with the pastoral theme.</p>
+
+
+
+<p>The pastoral style, as discussed by Adolf Sandberger and stated by Frank Eugene Kirby (1970:612-613), incorporates various elements such as &#8220;bird-call themes, hunting-horn themes, shepherds&#8217; pipes&#8230; and shepherds&#8217; calls&#8230;, country dances, &#8230; and&#8230; the bagpipe with its drone bass.&#8221; He also states that &#8220;the lilting dotted rhythm of the siciliano was frequently associated with the representation of the pastoral, as were flutes, oboes, and horns. Melodic motion in parallel thirds was also common&#8221;. </p>
+
+
+
+<p>Robert Hatten (2004:83) highlights the historical precedent for the formal treatment of the pastoral theme through distinctive musical elements such as &#8220;greater consonance, simpler harmonies, pedal points, more-flowing melodic lines&#8221; and also rocking compound accompaniment, harmonic stasis, and melody in parallel thirds.</p>
+
+
+
+<p>While each movement of Beethoven&#8217;s Symphony can be analyzed to understand how Beethoven used the music to convey the pastoral theme and elicit associated emotions, Lockwood (2015) defends that the 1st movement &#8220;exemplifies what Beethoven meant when he wrote “More the expression of feelings than tone-painting.”</p>
+
+
+
+<p>The 1st movement of the Symphony, titled &#8220;Awakening of Cheerful Feelings upon Arrival in the Country,&#8221; serves as a joyful prelude, devoid of explicit programmatic features found in other movements. It features simple melodies and a light rhythm, with homophonic orchestration and primarily major keys, creating an atmosphere that transmits a cheerful pastoral quality. To depict the tranquillity of awakening in nature, Beethoven minimizes unexpected shifts, employs extensive repetitions, and only briefly uses a minor key.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32.png"><img decoding="async" loading="lazy" src="./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32.png" alt="" class="wp-image-1419" width="997" height="418" srcset="./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32.png 1994w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-300x126.png 300w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-1024x429.png 1024w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-768x322.png 768w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-1536x644.png 1536w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-640x268.png 640w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-960x402.png 960w" sizes="(max-width: 997px) 100vw, 997px" /></a><figcaption class="wp-element-caption">Figure 1: Structural analysis of the first movement. Click to amplify.</figcaption></figure>
+
+
+
+<p>The first movement follows the sonata form structure, as illustrated in Figure 1. Set in the key of F major, this choice holds a significant historical association with compositions inspired by nature, as noted by Geck (2017:105).</p>
+
+
+
+<p>The introduction starts with a theme, that can be considered the first theme of the first subject area. This theme may have been inspired by a Serbian folk song called &#8220;Sirvonja&#8221; (Geck, 2017:107). The initial four bars come to a halt by means of the fermata over a sustained C major chord, dominant of F major.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="./../wp-content/uploads/2023/05/Screenshot-2023-05-23-at-10.51.57.png" alt="" class="wp-image-1489" width="424" height="423" srcset="./../wp-content/uploads/2023/05/Screenshot-2023-05-23-at-10.51.57.png 848w, ./../wp-content/uploads/2023/05/Screenshot-2023-05-23-at-10.51.57-300x299.png 300w, ./../wp-content/uploads/2023/05/Screenshot-2023-05-23-at-10.51.57-150x150.png 150w, ./../wp-content/uploads/2023/05/Screenshot-2023-05-23-at-10.51.57-768x766.png 768w, ./../wp-content/uploads/2023/05/Screenshot-2023-05-23-at-10.51.57-80x80.png 80w, ./../wp-content/uploads/2023/05/Screenshot-2023-05-23-at-10.51.57-640x638.png 640w" sizes="(max-width: 424px) 100vw, 424px" /><figcaption class="wp-element-caption">The first theme of the first subject area played by the strings at bars 1-4</figcaption></figure>
+
+
+
+<p>In the first 4 bars, there are several musical elements that convey the pastoral theme: folk-like melody, drone bass, greater consonance, (briefly) melody in thirds and the key of F.</p>
+
+
+
+<p>By bar 5, the second theme belonging to the first subject area is introduced in the violas, accompanied by the violins that employ pre-existing motific material from the first theme. </p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="./../wp-content/uploads/2023/04/Screenshot-2023-04-26-at-21.19.49-e1682682783804.png"><img decoding="async" loading="lazy" src="./../wp-content/uploads/2023/04/Screenshot-2023-04-26-at-21.19.49-e1682682783804.png" alt="" class="wp-image-1400" width="324" height="106" srcset="./../wp-content/uploads/2023/04/Screenshot-2023-04-26-at-21.19.49-e1682682783804.png 648w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-26-at-21.19.49-e1682682783804-300x98.png 300w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-26-at-21.19.49-e1682682783804-640x209.png 640w" sizes="(max-width: 324px) 100vw, 324px" /></a><figcaption class="wp-element-caption">The second theme of the first subject area played by the violas at bars 5-7</figcaption></figure>
+
+
+
+<p>Within the initial 12 bars of the movement, Beethoven introduces the two principal themes that will serve as a significant guide throughout the piece, in addition to some hints of the motif&#8217;s development.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="./../wp-content/uploads/2023/04/Screenshot-2023-04-26-at-21.31.24.png" alt="" class="wp-image-1401" width="487" height="471" srcset="./../wp-content/uploads/2023/04/Screenshot-2023-04-26-at-21.31.24.png 974w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-26-at-21.31.24-300x290.png 300w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-26-at-21.31.24-768x743.png 768w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-26-at-21.31.24-640x619.png 640w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-26-at-21.31.24-960x928.png 960w" sizes="(max-width: 487px) 100vw, 487px" /><figcaption class="wp-element-caption">The first violins play a motific variation and the strings play the second theme of the first subject area at bars 8-12</figcaption></figure>
+
+
+
+<p>At bar 16 comes an unexpected repetition on the strings. The first violins play the same rhythm as the second bar of the first theme, which lasts for 13 bars. The sole variation lies in the dynamics. This provides an indication of Beethoven&#8217;s approach to the symphony, characterized by repetitions and harmonic stasis, which is another feature of the pastoral theme (Hatten, 2004:98).</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="265" src="./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-09.47.33-1024x265.png" alt="" class="wp-image-1402" srcset="./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-09.47.33-1024x265.png 1024w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-09.47.33-300x78.png 300w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-09.47.33-768x199.png 768w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-09.47.33-1536x398.png 1536w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-09.47.33-640x166.png 640w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-09.47.33-960x249.png 960w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-09.47.33.png 1692w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">The repetition on the violins at bars 17-22</figcaption></figure>
+
+
+
+<p>At bar 29, the exposition section starts with a subdued presentation of the first theme initiated by the oboe, with the cellos and horns providing support. This theme is subsequently passed through the orchestra going through the clarinets and bassoons and finally with the strings. Notably, a sense of repetition is evident, as the same rhythm of the third bar of the first theme is repeated in the woodwinds and violins. However, the dynamics make all the difference in not making it seem stale.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" src="./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.06.29-1024x131.png" alt="" class="wp-image-1403" width="768" height="98" srcset="./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.06.29-1024x131.png 1024w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.06.29-300x38.png 300w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.06.29-768x98.png 768w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.06.29-640x82.png 640w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.06.29-960x123.png 960w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.06.29.png 1342w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">Violins playing the same rhythm as the third bar of the first theme at bars 43-48 </figcaption></figure>
+
+
+
+<p>At bar 46, Beethoven employs his first instance of tone-painting in the symphony, with the flutes performing a birdsong. This technique, however, is used sparingly throughout the first movement, with only one other occurrence observed during the recapitulation.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.08.05.png" alt="" class="wp-image-1404" width="555" height="107" srcset="./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.08.05.png 740w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.08.05-300x58.png 300w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.08.05-640x123.png 640w" sizes="(max-width: 555px) 100vw, 555px" /><figcaption class="wp-element-caption">Birdsong on the flutes at bars 46-48</figcaption></figure>
+
+
+
+<p>Suddenly, at bar 53, a change in texture occurs as the clarinets and bassoons, followed by the horns, introduce a triplet theme, played over the rhythm of the first bar of the first theme.   </p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" src="./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.44.53-1024x258.png" alt="" class="wp-image-1405" width="640" height="161" srcset="./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.44.53-1024x258.png 1024w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.44.53-300x76.png 300w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.44.53-768x194.png 768w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.44.53-640x161.png 640w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.44.53-960x242.png 960w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.44.53.png 1364w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="wp-element-caption">The horns play triples while the first violins play a variation of the first theme at bars 55-62</figcaption></figure>
+
+
+
+<p>At bar 67, a traditional sonata change to the dominant key of C marks the beginning of the second subject area. The first theme is introduced by the first violin and subsequently transferred to all string instruments, followed by all woodwinds. This part brings a “rocking accompaniment” in the strings which is one of the pastoral’s general qualities, as stated before.</p>
+
+
+
+<p>In bar 93, Beethoven introduces the second theme of the second subject area, which is characterized by a clear question-and-answer structure between the strings and woodwinds. The dynamics employed in this structure are noteworthy, as the question is played f while the answer is played p.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" src="./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-11.32.58-1024x241.png" alt="" class="wp-image-1407" width="640" height="150" srcset="./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-11.32.58-1024x241.png 1024w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-11.32.58-300x71.png 300w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-11.32.58-768x181.png 768w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-11.32.58-640x151.png 640w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-11.32.58-960x226.png 960w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-11.32.58.png 1375w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="wp-element-caption">The oboe provides an answer to the first violins question at bars 93-99</figcaption></figure>
+
+
+
+<p>Bar 111 marks the return of the triplets, providing a sense of a faster rhythm and subsequently leading to a prolonged repetition over a C pedal tone, another pastoral feature. The first two bars of the first theme of the first subject area are then repeated, which results in a substantial build-up of tension.</p>
+
+
+
+<p>The development section starts at bar 151, marked by the modulation to Bb Major and the reappearance of the triplet rhythm, along with a slightly varied part of the second bar of the first theme of the first subject area. Notably, the development section is an unconventional deviation from the traditional expectation of dramatic and innovative contrast to the exposition. Instead, it features a static and repetitive section transposed into different keys. It actually reminded me of the Prelude in Wagner&#8217;s Das Rheingold, which builds in the intensity of dynamics and instrumentation while maintaining a constant motif.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" src="./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-13.06.17-1024x631.png" alt="" class="wp-image-1409" width="512" height="316" srcset="./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-13.06.17-1024x631.png 1024w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-13.06.17-300x185.png 300w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-13.06.17-768x473.png 768w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-13.06.17-1536x946.png 1536w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-13.06.17-640x394.png 640w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-13.06.17-960x591.png 960w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-27-at-13.06.17.png 1734w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption class="wp-element-caption">The strings repetition at bars 154-159</figcaption></figure>
+
+
+
+<p>Bar 237 marks a key change to A Major where both the first and second themes from the first subject area make an appearance. The second theme is subsequently repeated, leading to a brief modulation to the minor key at bar 255, and finally to C Major at bar 263. While some might contend that the brief modulation to the minor key gives the development section the expected dramatism, it is, in fact, brief and it&#8217;s not repeated again.</p>
+
+
+
+<p>Hepokoski and Darcy (2011:197) state that in major mode sonatas, it is common for the development sections to incorporate shifts towards more &#8220;dramatic&#8221; minor mode regions. However, it can be inferred that Beethoven intentionally avoided such expressive contrasts in the development of this movement, as it would have contradicted the serene and pastoral atmosphere he sought to create.</p>
+
+
+
+<p>At bar 282, the music reaches a moment of pause, with only the violin playing a trill, suggesting the arrival of the recapitulation and the return of the first theme. However, the second theme from the first subject area reappears, leaving the listener uncertain about whether the development section has ended. There&#8217;s a sense of false start, through persistent repetition that builds in dynamics, until the first theme from the first subject is ultimately played by all the instruments of the orchestra featured in the movement at bar 312, thereby indicating the start of the recapitulation.</p>
+
+
+
+<p>The recapitulation goes back, as expected in classical sonata form, to both subject areas but in the tonic key of F Major. Notably, Beethoven chooses to initiate this section with a ff dynamic, rather than following the softer dynamic of the exposition, thereby contradicting the expectations. In the final stages of the recapitulation, the dynamics and texture gradually decrease, leading to a reduced level of tension as the music moves towards the coda.</p>
+
+
+
+<p>The coda starts in bar 418 with a modulation to Bb Major, the subdominant, which was common in Beethoven (Hepokoski and Darcy, 2011:285), before bringing it back to the tonic in measure 440. Beethoven utilizes dynamics that range from pp to ff, which creates a sense of uncertainty regarding the music&#8217;s conclusion, as he plays with the audience&#8217;s expectations. This leaves uncertainty about the end of the music until the orchestra ends playing in a soft and comforting F major chord. </p>
+
+
+
+<p>Engel, in his brilliant insight on the matter, proposes the idea that &#8220;painting is expression.&#8221; (Will, 2002:136). This concept explores the harmonious alignment between our inner emotions and the external world, opening the door to an aesthetic validation of tone painting. This inherent duality implies that Beethoven could not effectively convey pastoral sentiments without employing some form of tone-painting. Particularly in the first movement, he skillfully incorporates musical techniques and occasional imitations of natural sounds, enabling listeners to recognize and appreciate the pastoral feelings within the composition. Ultimately, the true essence of Beethoven&#8217;s Sixth Symphony lies beyond an imitation of nature. Instead, it embodies a deep longing for the inner peace and serenity that nature invokes.</p>
+
+
+
+<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1682538096360 is-style-cnvs-block-section-heading-6 halignleft" >
+	<span class="cnvs-section-title">
+		<span>References</span>
+	</span>
+</h2>
+
+
+
+<p>Allen, A. S. (2017) “Beethoven’s Natures,” in Ecological Thought in German Literature and<br>Culture, edited by Gabriele Dürbeck, Urte Stobbe, Hubert Zapf, and Evi Zemanek (Lexington<br>Books, 2017), pp. 371-386.</p>
+
+
+
+<p>Geck, M. (2017) <em>Beethoven’s Symphonies: Nine Approaches to Art and Ideas</em>. University of Chicago Press.</p>
+
+
+
+<p>Kirby (1970) “BEETHOVEN’S PASTORAL SYMPHONY AS A SINFONIA CARACTERISTICA,” <em>The Musical Quarterly</em>, LVI(4), pp. 605–623. Available at: https://doi.org/10.1093/mq/lvi.4.605.</p>
+
+
+
+<p><em>Leonard Bernstein Discussing Beethoven’s 6th and 7th Symphony</em> (2011) [Online Video] At: https://www.youtube.com/watch?v=OuYY1gV8jhU (Accessed: April 24, 2023).</p>
+
+
+
+<p>Lockwood, L. (2015) <em>Beethoven’s Symphonies: An Artistic Vision</em> [Ebook]. W. W. Norton &amp; Company.</p>
+
+
+
+<p>Hatten, R.S. (2004) <em>Musical Meaning in Beethoven: Markedness, Correlation, and Interpretation</em>. Indiana University Press.</p>
+
+
+
+<p>Hepokoski, J. and Darcy, W. (2011) <em>Elements of Sonata Theory: Norms, Types, and Deformations in the Late-Eighteenth-Century Sonata</em>. Oxford University Press.</p>
+
+
+
+<p>Rogers, J.R. (1919) “THE THREE BEETHOVENS,” <em>The Musical Quarterly</em>, V(4), pp. 505–512. Available at: https://doi.org/10.1093/mq/v.4.505 (Accessed: April 26, 2023).</p>
+
+
+
+<p>The Editors of Encyclopaedia Britannica (1998a) <em>Instrumentation &#8211; The Classical period</em>. Available at: https://www.britannica.com/art/instrumentation-music/The-Classical-period (Accessed: April 28, 2023).</p>
+
+
+
+<p>Will, R.J. (1994) <em>Programmatic symphonies of the Classical Period</em>. [Doctorate Thesis] Cornell University. At: https://www.proquest.com/docview/304104826/fulltextPDF/AF1AED13E40146D7PQ/ (Accessed: April 26, 2023)</p>
+
+
+
+<p>Will, R. J. (2002) <em>The Characteristic Symphony in the Age of Haydn and Beethoven</em>. Cambridge University Press.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Revision of Assignment 1 &#8211; Part 2 after tutor&#8217;s feedback</title>
+		<link>./../revision-of-assignment-1-part-2-after-tutors-feedback/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Wed, 10 May 2023 10:34:06 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[Part 1 Renaissance period]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../index.html?p=1463</guid>
+
+					<description><![CDATA[The more constraints one imposes, the more one frees one’s self… Igor Stravinsky The tutor&#8217;s feedback was generally&#8230;]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-pullquote"><blockquote><p>The more constraints one imposes, the more one frees one’s self…</p><cite>Igor Stravinsky</cite></blockquote></figure>
+
+
+
+<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1665568827549 cnvs-block-collapsibles-2" >
+	
+<div class="cnvs-block-collapsible cnvs-block-collapsible-1665568827584" >
+	<div class="cnvs-block-collapsible-title">
+		<h6 id="click-to-read-the-briefing" class="cnvs-block-collapsible-heading">
+			<a href="#">Click to read the briefing</a>
+		</h6>
+	</div>
+	<div class="cnvs-block-collapsible-content">
+		
+
+<p>The 20th Century composer Igor Stravinsky (1882-1971), who himself was a connoisseur of music from previous periods, gave this quote as part of a series of lectures he gave at Harvard University in 1939. Drawing on your own thoughts and experience, and clearly referring to the four points below as well as developing ideas of your own, write 500 words discussing Stravinsky’s phrase from the point of view of rules in music. Try to explore your ideas as far as you can &#8211; especially the ones that are particularly important to you.</p>
+
+
+
+<ul>
+<li>Did you find strategies to cope with the rules outlined in this chapter?</li>
+
+
+
+<li>What steps could you take to learn writing 16th Century counterpoint?</li>
+
+
+
+<li>What qualities do you think the strictness of 16th Century compositional technique brings to the music?</li>
+
+
+
+<li>Discuss the value of rules in composing and performing music.</li>
+</ul>
+
+	</div>
+</div>
+
+
+<div class="cnvs-block-collapsible cnvs-block-collapsible-1665568827587" >
+	<div class="cnvs-block-collapsible-title">
+		<h6 id="" class="cnvs-block-collapsible-heading">
+			<a href="#"></a>
+		</h6>
+	</div>
+	<div class="cnvs-block-collapsible-content">
+			</div>
+</div>
+
+</div>
+
+
+
+<h2 id="revision" class="cnvs-block-section-heading cnvs-block-section-heading-1665573513657 is-style-cnvs-block-section-heading-6 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Revision</span>
+	</span>
+</h2>
+
+
+
+<p>The tutor&#8217;s feedback was generally positive, describing the reflection as engaging. I made minor revisions primarily focused on grammar and clarity, and also addressed the two points raised by the tutor.</p>
+
+
+
+<p>Regarding the question of whether composers should learn all past techniques before pursuing their own ideas, I posed a further question on how education can strike the right balance between tradition and innovation. Should it even strive for that balance? It&#8217;s an open question that invites further exploration. Unfortunately, due to the word count limit, I couldn&#8217;t delve deeper into it.</p>
+
+
+
+<p>Another valuable comment from the tutor related to the Church&#8217;s concerns about the potential consequences of unchecked musical creativity. I incorporated an answer to that within the paragraph discussing the Church&#8217;s control over music.</p>
+
+
+
+<h2 id="reflection" class="cnvs-block-section-heading cnvs-block-section-heading-1683714973335 is-style-cnvs-block-section-heading-6 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Reflection</span>
+	</span>
+</h2>
+
+
+
+<p>Upon reading Stravinsky&#8217;s quote, I understood it quite intuitively. Due to my advertising background, most of the creative challenges I faced had constraints, so this subject is dear to me. In my experience, it was the &#8220;open challenges,&#8221; those without boundaries or limitations, that were the hardest to overcome.</p>
+
+
+
+<p>Considering I could explore the theme more, the 500-word limit felt a bit short to me. There is a lot to discuss about rules&#8217; effectiveness, human bodies and instruments as extrinsic limitations, rules&#8217; roles in AI music composition, and if there is a right amount of restriction that promotes creativity. Nevertheless, I realized that a 500-word essay about constraints needs a constraint, so I summarized my main points.</p>
+
+
+
+<p>Throughout this essay, the term &#8220;constraint&#8221; can take on many forms, including &#8220;rule,&#8221; &#8220;limit,&#8221; or &#8220;boundary.&#8221; Nonetheless, the underlying significance remains consistent— a set of both extrinsic and intrinsic inhibitions that an artist encounters while employing a creative medium.</p>
+
+
+
+<h2 id="essay" class="cnvs-block-section-heading cnvs-block-section-heading-1665488971808 is-style-cnvs-block-section-heading-6 halignleft" >
+	<span class="cnvs-section-title">
+		<span>Essay</span>
+	</span>
+</h2>
+
+
+
+<p>In this quote, Stravinsky was saying that all creativity revolves around solving problems (<meta charset="utf-8"></meta>Harnad et al., 2008). I believe he was arguing that for creativity to reach its full potential, there must be some tension that calls for resolution. Many artists from different eras and fields, including Mozart (Blanning, 2016), Frank Gehry (Hereld, 2013), and John Stweart (NPR, 2015), have defended the same position: Constraints and problems are essential for artists so that they can find solutions that will produce knowledge.</p>
+
+
+
+<p>What artists develop within these limitations and rules depends on their goals and skills. Beethoven broke them (Page, 2019). Gesualdo bent them (Ross, 2011). John Cage created new ones (Savenko, 2021). However, one thing unites them all. Each of them mastered the rules before creating beyond them. This raises an intriguing question regarding how creative education can or should achieve an optimal balance between honouring tradition and fostering innovation.</p>
+
+
+
+<p>Even when one considers musical genres, it becomes apparent that they too need rules. New musical genres are created when &#8220;socially accepted rules&#8221; are set over the traditional ones (Fabbri, 1980). There is always a cycle: established rules are mastered; then they are questioned; then new rules are developed.</p>
+
+
+
+<p>This was evident when monophonic masses were replaced by polyphonic ones. It was a breaking of the rules of a single melodic line that led to the establishment of new rules by the Church at the Council of Trent (1545-1563) and mastered by Palestrina (Monson, 2002). During the 16th Century, these formal rules led to a strictness in compositional technique, which led to a controlled and accessible sound but also one that was predictable. This doesn&#8217;t mean that the rules were demeaning the music, but they were purely a necessity for the Church to standardize music during the Renaissance (Mock, 2017), which was a time of profound creative and cultural shifts. The Church feared heresy and deviation from established doctrine, social disorder and spiritual manipulation. To mitigate these risks, the Church imposed rules such as counterpoint to maintain authority and conformity.</p>
+
+
+
+<p>To assist composers in learning these contrapuntal compositional techniques of the 16th Century, Johann-Joseph Fux authored in 1725 the Gradus ad Parnassum, during a time when composers refused &#8220;to be bound by any rules or principles&#8221; (Fux et al., 1971). They are known as species counterpoint and have been a part of the learning of Mozart, Beethoven and Haydn (Norman, nd) and my own learning as well.</p>
+
+
+
+<p>To learn and implement these rules, I found it most helpful to understand the &#8220;why&#8221; behind them. For example, understanding why consecutive fifths and octaves, and unison passages can render the music too dull and boring makes it easier to remember than simply stating &#8220;do not use successive fifths and octaves, or unison passages&#8221;. As well as this, I relied on the progressive learning method, where one learns by doing (Kennedy, 2019). This made learning easier by increasing the difficulty one step at a time and letting my mind become accustomed to the rules as I progressed.</p>
+
+
+
+<p>Ultimately, the rules and constraints proved to be beneficial to me, as they helped me learn different harmonization and melodic concepts, and proved effective since I was able to compose much faster than I would without them. They also proved useful in helping me become more creative as I learned to solve some musical problems and maybe even come up with new ones in the future.</p>
+
+
+
+<p></p>
+
+
+
+<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1665575105374 is-style-cnvs-block-section-heading-6 halignleft" >
+	<span class="cnvs-section-title">
+		<span>References</span>
+	</span>
+</h2>
+
+
+
+<p>Harnad, S. (2008) “Chapter 9: Creativity: Method or Magic?,” in H. Cohen and B. Stemmer (eds) <em>Consciousness and Cognition: Fragments of mind and brain</em>. Amsterdam: Elsevier Academic Press, pp. 135–136.</p>
+
+
+
+<p>Blanning, L. (2016) <em>Playing by the rules: Creativity through constraints</em>, <em>Ableton</em>. Available at: https://www.ableton.com/en/blog/creativity-through-constraints/#:~:text=Historically%2C%20self%2Dimposed,from%20the%20music.</p>
+
+
+
+<p>Hereld , D.C. (2013) <em>Creativity in constraint: Exploiting the boundaries&nbsp; &#8211; MTT</em>, <em>Music Think Tank</em>. Available at: https://www.musicthinktank.com/blog/creativity-in-constraint-exploiting-the-boundaries.html .</p>
+
+
+
+<p>NPR (2015) Jon Stewart on his &#8216;Daily show&#8217; run: &#8216;it so far exceeded my expectations&#8217;, NPR. NPR. Available at: https://www.npr.org/2015/08/06/429851718/jon-stewart-on-his-daily-show-run-it-so-far-exceeded-my-expectations .</p>
+
+
+
+<p>Page, T. (2019) <em>Review | Beethoven: The genius who broke all the rules</em>, <em>The Washington Post</em>. WP Company. Available at: https://www.washingtonpost.com/outlook/beethoven-the-genius-who-broke-all-the-rules/2019/08/16/399b54b2-a71e-11e9-9214-246e594de5d5_story.html.</p>
+
+
+
+<p>Ross, A. (2011) <em>Prince of darkness</em>, <em>The New Yorker</em>. Available at: https://www.newyorker.com/magazine/2011/12/19/prince-of-darkness .</p>
+
+
+
+<p>Savenko, S. (2021) <em>How John Cage rewrote the rules of musical composition</em>, <em>TheCollector</em>. Available at: https://www.thecollector.com/how-john-cage-4-33-rewrote-music-composition/.</p>
+
+
+
+<p>Fabbri, F. (1980) <em>A theory of musical genres &#8211; two applications (1980)</em>, <em>Franco Fabbri | A Theory of Musical Genres &#8211; Two Applications (1980)</em>. Available at: https://www.tagg.org/others/ffabbri81a.html .</p>
+
+
+
+<p>Monson, C.A., 2002. The Council of Trent Revisited.&nbsp;<em>Journal of the American Musicological Society</em>, 55(1), pp.1–37.</p>
+
+
+
+<p>Mock, G. (2017) <em>The Creative Power of musical borrowing and the efforts to control it</em>, <em>Duke Today</em>. Available at: https://today.duke.edu/2017/04/creative-power-musical-borrowing-and-efforts-control-it .</p>
+
+
+
+<p>Fux, J.J. and Mann, A. (1971) in <em>The study of counterpoint: From Johann Joseph Fux&#8217;s Gradus ad parnassum</em>. New York: Norton, p. 17.</p>
+
+
+
+<p>Norman, J. (no date) <em>Johann Joseph Fux describes baroque counterpoint</em>, <em>Johann Joseph Fux Describes Baroque Counterpoint : History of Information</em>. Available at: https://www.historyofinformation.com/detail.php?id=2640 .</p>
+
+
+
+<p>Kennedy, R. (2019) <em>Progressive education: How children learn</em>, <em>ThoughtCo</em>. ThoughtCo. Available at: https://www.thoughtco.com/progressive-education-how-children-learn-today-2774713 .</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Cecilia Todd &#8211; Acidito</title>
+		<link>./../listening-to-cecilia-todd-acidito/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Sat, 29 Apr 2023 11:34:56 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 5 The Classical Era]]></category>
+		<category><![CDATA[Stylistic Techniques]]></category>
+		<guid isPermaLink="false">./../index.html?p=1457</guid>
+
+					<description><![CDATA[Upon watching an Instagram Reel by David Asher Brown on Venezuelan merengue and its unique 5/8 rhythm, I&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Upon watching an Instagram Reel by David Asher Brown on Venezuelan merengue and its unique 5/8 rhythm, I decided to explore one of the genre&#8217;s most renowned compositions, Acidito. The song was composed by Adelis Fréitez and has been popularized by several singers and bands. </p>
+
+
+
+<p>Cecilia Todd Vallenilla is a well-known Venezuelan musician, recognized for her performances of traditional Venezuelan folk music. She is especially skilled in playing the cuatro, which she uses to accompany herself in performances both within Venezuela and abroad.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Cecilia Todd - Acidito - Encuentro en el Estudio - Temporada 7" width="640" height="360" src="https://www.youtube.com/embed/o20jefoabvE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Upon close listening, it became clear that the 5/8 rhythm of Venezuelan merengue, as described by David Asher Brown, feels natural without any apparent sense of strain. The natural quality of this rhythmic structure may be attributed to the tempo at which it is played.</p>
+
+
+
+<p>After looking at the bass score, I realized that it consists of a two-quaver and one-crotchet rhythm. This raises the question of where the accent falls, whether it is on the first or the fifth beat. Based on the position of the break and the melodic leap, it appears that the accent may be on the fifth beat, although I may not be entirely right.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="166" src="./../wp-content/uploads/2023/05/image-1024x166.png" alt="" class="wp-image-1458" srcset="./../wp-content/uploads/2023/05/image-1024x166.png 1024w, ./../wp-content/uploads/2023/05/image-300x49.png 300w, ./../wp-content/uploads/2023/05/image-768x125.png 768w, ./../wp-content/uploads/2023/05/image-1536x250.png 1536w, ./../wp-content/uploads/2023/05/image-2048x333.png 2048w, ./../wp-content/uploads/2023/05/image-640x104.png 640w, ./../wp-content/uploads/2023/05/image-960x156.png 960w, ./../wp-content/uploads/2023/05/image.png 2216w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This video from Berklee College of Music presents a straightforward explanation of the rhythm.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Venezuelan Merengue - Alexis Soto and Carlos Capacho (Berklee Artist Notes)" width="640" height="360" src="https://www.youtube.com/embed/ICAviMybq94?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Assignment 5</title>
 		<link>./../assignment-5/index.html</link>
 		
@@ -100,7 +972,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32.png"><img decoding="async" width="1024" height="429" src="./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-1024x429.png" alt="" class="wp-image-1419" srcset="./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-1024x429.png 1024w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-300x126.png 300w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-768x322.png 768w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-1536x644.png 1536w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-640x268.png 640w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-960x402.png 960w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32.png 1994w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Figure 1: Structural analysis of the first movement. Click to amplify.</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32.png"><img decoding="async" loading="lazy" width="1024" height="429" src="./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-1024x429.png" alt="" class="wp-image-1419" srcset="./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-1024x429.png 1024w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-300x126.png 300w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-768x322.png 768w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-1536x644.png 1536w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-640x268.png 640w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32-960x402.png 960w, ./../wp-content/uploads/2023/04/Screenshot-2023-04-28-at-12.41.32.png 1994w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Figure 1: Structural analysis of the first movement. Click to amplify.</figcaption></figure>
 
 
 
@@ -290,57 +1162,6 @@
 
 
 <p>Study No. 10 is characterized by a range of idiomatic resources and technical challenges, including the use of open strings as pedal notes and ornamental techniques for accompanying open strings. The first 20 bars of the piece are constructed around a fixed position of the left hand, which ascends chromatically, creating a sense of mounting tension. I believe this section showcases Villa-Lobos&#8217; skilful use of harmonic and melodic devices to create a dynamic and engaging piece of music.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Listening to Cecilia Todd &#8211; Acidito</title>
-		<link>./../listening-to-cecilia-todd-acidito/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Fri, 21 Apr 2023 11:34:56 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Part 5 The Classical Era]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../index.html?p=1457</guid>
-
-					<description><![CDATA[Upon watching an Instagram Reel by David Asher Brown on Venezuelan merengue and its unique 5/8 rhythm, I&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>Upon watching an Instagram Reel by David Asher Brown on Venezuelan merengue and its unique 5/8 rhythm, I decided to explore one of the genre&#8217;s most renowned compositions, Acidito. The song was composed by Adelis Fréitez and has been popularized by several singers and bands. </p>
-
-
-
-<p>Cecilia Todd Vallenilla is a well-known Venezuelan musician, recognized for her performances of traditional Venezuelan folk music. She is especially skilled in playing the cuatro, which she uses to accompany herself in performances both within Venezuela and abroad.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Cecilia Todd - Acidito - Encuentro en el Estudio - Temporada 7" width="640" height="360" src="https://www.youtube.com/embed/o20jefoabvE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>Upon close listening, it became clear that the 5/8 rhythm of Venezuelan merengue, as described by David Asher Brown, feels natural without any apparent sense of strain. The natural quality of this rhythmic structure may be attributed to the tempo at which it is played.</p>
-
-
-
-<p>After looking at the bass score, I realized that it consists of a two-quaver and one-crotchet rhythm. This raises the question of where the accent falls, whether it is on the first or the fifth beat. Based on the position of the break and the melodic leap, it appears that the accent may be on the fifth beat, although I may not be entirely right.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="166" src="./../wp-content/uploads/2023/05/image-1024x166.png" alt="" class="wp-image-1458" srcset="./../wp-content/uploads/2023/05/image-1024x166.png 1024w, ./../wp-content/uploads/2023/05/image-300x49.png 300w, ./../wp-content/uploads/2023/05/image-768x125.png 768w, ./../wp-content/uploads/2023/05/image-1536x250.png 1536w, ./../wp-content/uploads/2023/05/image-2048x333.png 2048w, ./../wp-content/uploads/2023/05/image-640x104.png 640w, ./../wp-content/uploads/2023/05/image-960x156.png 960w, ./../wp-content/uploads/2023/05/image.png 2216w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>This video from Berklee College of Music presents a straightforward explanation of the rhythm.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Venezuelan Merengue - Alexis Soto and Carlos Capacho (Berklee Artist Notes)" width="640" height="360" src="https://www.youtube.com/embed/ICAviMybq94?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div></figure>
 ]]></content:encoded>
 					
 		
@@ -2101,7 +2922,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-8">
+<div class="wp-block-columns is-layout-flex wp-container-20">
 <div class="wp-block-column is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="532" height="184" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18.png" alt="" class="wp-image-1180" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18.png 532w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18-300x104.png 300w" sizes="(max-width: 532px) 100vw, 532px" /><figcaption class="wp-element-caption">Trill in Bar 2</figcaption></figure>
 </div>
@@ -2115,7 +2936,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-11">
+<div class="wp-block-columns is-layout-flex wp-container-23">
 <div class="wp-block-column is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="588" height="154" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21.png" alt="" class="wp-image-1182" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21.png 588w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21-300x79.png 300w" sizes="(max-width: 588px) 100vw, 588px" /><figcaption class="wp-element-caption">Trill in bar 12</figcaption></figure>
 </div>
@@ -2129,7 +2950,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-14">
+<div class="wp-block-columns is-layout-flex wp-container-26">
 <div class="wp-block-column is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="382" height="168" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.39.png" alt="" class="wp-image-1171" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.39.png 382w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.39-300x132.png 300w" sizes="(max-width: 382px) 100vw, 382px" /><figcaption class="wp-element-caption">Mordant in bar 19</figcaption></figure>
 </div>
@@ -2143,7 +2964,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-17">
+<div class="wp-block-columns is-layout-flex wp-container-29">
 <div class="wp-block-column is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="646" height="208" src="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.35.png" alt="" class="wp-image-1184" srcset="./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.35.png 646w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.35-300x97.png 300w, ./../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.35-640x206.png 640w" sizes="(max-width: 646px) 100vw, 646px" /><figcaption class="wp-element-caption">Trill in bar 30</figcaption></figure>
 </div>
@@ -4442,6 +5263,7 @@
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 11:56:54 +0000</pubDate>
 				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[Part 1 Renaissance period]]></category>
 		<category><![CDATA[Stylistic Techniques]]></category>
 		<guid isPermaLink="false">./../index.html?p=918</guid>
 
@@ -4466,7 +5288,21 @@
 
 
 
-<ul><li>Did you find strategies to cope with the rules outlined in this chapter?</li><li>What steps could you take to learn writing 16th Century counterpoint?</li><li>What qualities do you think the strictness of 16th Century compositional technique brings to the music?</li><li>Discuss the value of rules in composing and performing music.</li></ul>
+<ul>
+<li>Did you find strategies to cope with the rules outlined in this chapter?</li>
+
+
+
+<li>What steps could you take to learn writing 16th Century counterpoint?</li>
+
+
+
+<li>What qualities do you think the strictness of 16th Century compositional technique brings to the music?</li>
+
+
+
+<li>Discuss the value of rules in composing and performing music.</li>
+</ul>
 
 	</div>
 </div>
@@ -7932,513 +8768,6 @@
 					
 		
 		
-			</item>
-		<item>
-		<title>Listening to Beach Boys &#8211; God Only Knows</title>
-		<link>./../listening-to-beach-boys-god-only-knows/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Fri, 22 Oct 2021 08:07:35 +0000</pubDate>
-				<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Part 4 Exploring counterpoint]]></category>
-		<guid isPermaLink="false">./../index.html?p=531</guid>
-
-					<description><![CDATA[Despite not being a huge fan of the Beach Boys, I&#8217;ve always enjoyed this song, mostly because it&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>Despite not being a huge fan of the Beach Boys, I&#8217;ve always enjoyed this song, mostly because it doesn&#8217;t seem like a typical love song. But I&#8217;ve never given any thought to how this song&#8217;s melody and harmony were created.</p>
-
-
-
-<figure class="wp-block-pullquote has-background has-white-background-color is-style-solid-color"><blockquote class="has-text-color has-black-color"><p>“I love God Only Knows and its bow to the baroque that goes all the way back to 1740 and J. S. Bach. It represents the whole tradition of liturgical music that I feel is a spiritual part of Brian’s music.&#8221; &#8211; Jimmy Webb<br></p><cite>Sullivan, 2013</cite></blockquote></figure>
-
-
-
-<p>I chose to explore this piece after reading this quote when researching Bach&#8217;s fugues.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="The Beach Boys: God Only Knows (Live At Unicef Concert - 1967)" width="640" height="480" src="https://www.youtube.com/embed/YTpzKDhdjms?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>God Only Knows is regarded as one of The Beach Boys&#8217; best songs and is adored by many musicians, including Paul McCartney who admitted this is one of his favourite songs. (Paul McCartney Comments, n.d.) Brian Wilson and Tony Asher wrote it for the Pet Sounds album with the goal of moving The Beach Boys away from a mainstream boyband sound and musically challenging the Beatles (Whatley, 2021). Paul McCartney later admitted that God Only Knows and the Pet Sounds inspired Sgt. Pepper&#8217;s Lonely Hearts Club Band. So this creative battle was won by all of us.</p>
-
-
-
-<p>I believe the song&#8217;s theme is about the end of a relationship and the doubts that follow it. The hesitation in the opening lyrics &#8220;I may not always love you&#8221; distinguishes this song from other love songs. Throughout the lyrics and music, there is a sense of ambiguity, with a really weak tonal centre (Scott, 2019). As David Bennett&#8217;s video shows, the music modulates multiple times, and there are many reversed chords, so the sound never feels stable.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="4 Inventive Key Changes in Pop Music" width="640" height="360" src="https://www.youtube.com/embed/oQ81Sz38Acw?start=552&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption>David Bennett Piano, 2018.&nbsp;<em>4 Inventive Key Changes in Pop Music</em>.  Available at: &lt;https://www.youtube.com/watch?v=oQ81Sz38Acw&amp;t=552s&gt; [Accessed 22 October 2021].</figcaption></figure>
-
-
-
-<p>I read various analyses of this song, and while I think the music harmony is beautifully composed, I&#8217;m going to concentrate on melody and counterpoint because these concepts are covered in this section of the course.</p>
-
-
-
-<p>The opposing motion between the vocal melody and the bass is the first fascinating melodic design I recognized. As I explained below, there&#8217;s a lively conversation going on between the two voices, with one going down and the other going up, and vice &#8211; versa. Even when they appear to be heading in the same direction, as in bar 3 of this example, they quickly diverge in bar 4. I believe this was written with the goal of drawing attention to the ambiguity and leaving the listener in the dark about what to expect.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="837" src="./../wp-content/uploads/2021/10/untitled5-1-1024x837.png" alt="" class="wp-image-535" srcset="./../wp-content/uploads/2021/10/untitled5-1-1024x837.png 1024w, ./../wp-content/uploads/2021/10/untitled5-1-300x245.png 300w, ./../wp-content/uploads/2021/10/untitled5-1-768x628.png 768w, ./../wp-content/uploads/2021/10/untitled5-1-1536x1256.png 1536w, ./../wp-content/uploads/2021/10/untitled5-1-2048x1675.png 2048w, ./../wp-content/uploads/2021/10/untitled5-1-640x523.png 640w, ./../wp-content/uploads/2021/10/untitled5-1-960x785.png 960w, ./../wp-content/uploads/2021/10/untitled5-1.png 2229w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Another section that sparked my curiosity was the bridge or brake, in which the keyboards and flute play a short instrumental passage that repeats the preceding opposite motion, but in a much more pronounced manner.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="175" src="./../wp-content/uploads/2021/10/untitled3-1024x175.png" alt="" class="wp-image-533" srcset="./../wp-content/uploads/2021/10/untitled3-1024x175.png 1024w, ./../wp-content/uploads/2021/10/untitled3-300x51.png 300w, ./../wp-content/uploads/2021/10/untitled3-768x131.png 768w, ./../wp-content/uploads/2021/10/untitled3-1536x262.png 1536w, ./../wp-content/uploads/2021/10/untitled3-2048x350.png 2048w, ./../wp-content/uploads/2021/10/untitled3-640x109.png 640w, ./../wp-content/uploads/2021/10/untitled3-960x164.png 960w, ./../wp-content/uploads/2021/10/untitled3.png 2190w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>This bridge introduces a three-voice counterpoint that I&#8217;ve always found fascinating. I did my best to transcribe as accurately as I could, so it&#8217;s not perfect, but it allowed me to understand how the three voices work together to form triads, and how they mostly move in thirds and sixth intervals.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="684" src="./../wp-content/uploads/2021/10/untitled4-1024x684.png" alt="" class="wp-image-536" srcset="./../wp-content/uploads/2021/10/untitled4-1024x684.png 1024w, ./../wp-content/uploads/2021/10/untitled4-300x201.png 300w, ./../wp-content/uploads/2021/10/untitled4-768x513.png 768w, ./../wp-content/uploads/2021/10/untitled4-1536x1027.png 1536w, ./../wp-content/uploads/2021/10/untitled4-2048x1369.png 2048w, ./../wp-content/uploads/2021/10/untitled4-640x428.png 640w, ./../wp-content/uploads/2021/10/untitled4-960x642.png 960w, ./../wp-content/uploads/2021/10/untitled4.png 2078w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>The music comes to a close with a round that I discussed in a previous entry.</p>
-
-
-
-<p>Overall, I believe I enjoy this song more now that I am fully aware of the incredible labour that went into the melody and the blending of all voices. I see some parallels with Bach&#8217;s work, but I think I need to learn more about Bach&#8217;s music to really see how they might be related.</p>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1634889216649 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Sullivan, Steve. Encyclopedia of Great Popular Song Recordings, Scarecrow Press, 2013. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/ucreative-ebooks/detail.action?docID=1466981.</p>
-
-
-
-<p>albumlinernotes. n.d. Paul McCartney Comments. [online] Available at: <a href="http://albumlinernotes.com/Paul_McCartney_Comments.html">http://albumlinernotes.com/Paul_McCartney_Comments.html</a> [Accessed 22 October 2021].</p>
-
-
-
-<p>Whatley, J., 2021.&nbsp;<em>The Story Behind The Song: ‘God Only Knows’ by The Beach Boys, Brian Wilson’s ultimate love song</em>. [online] Far Out Magazine. Available at: https://faroutmagazine.co.uk/beach-boys-brian-wilson-god-only-knows-the-story-behind-the-song/ [Accessed 22 October 2021].</p>
-
-
-
-<p>Scott, S., 2019.&nbsp;<em>The luxuriant mysteries of “God Only Knows” (Year of the Month) | The-Solute</em>. [online] The-solute.com. Available at: https://www.the-solute.com/the-luxuriant-mysteries-of-god-only-knows-year-of-the-month/ [Accessed 22 October 2021].</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Project 11 &#8211; Inventing free counterpoint</title>
-		<link>./../project-11-inventing-free-counterpoint/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Thu, 21 Oct 2021 10:27:57 +0000</pubDate>
-				<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Coursework]]></category>
-		<category><![CDATA[Part 4 Exploring counterpoint]]></category>
-		<guid isPermaLink="false">./../index.html?p=519</guid>
-
-					<description><![CDATA[During this project, I had to practice composing counterpoints for two instruments. There were two parts to the&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>During this project, I had to practice composing counterpoints for two instruments. There were two parts to the brief. With exercises 1 and 2, one of the instruments is already provided in the briefing, and the challenge is to compose a counterpoint for it. The task in exercises 3 and 4 is to compose two tunes with contrasting characters.</p>
-
-
-
-<p>The workbook states that any tuning percussion instrument and woodwind instrument may be used. In order to get more familiar with tuned percussion, I decided to use them in all exercises.</p>
-
-
-
-<p>You can download all Sibelius files <a href="https://drive.google.com/drive/folders/1RwWNerEX1QPvJzQT24C15wWg5U_f1dK6?usp=sharing" data-type="URL" data-id="https://drive.google.com/drive/folders/1RwWNerEX1QPvJzQT24C15wWg5U_f1dK6?usp=sharing" target="_blank">here</a>.</p>
-
-
-
-<h4 class="wp-block-heading" id="exercise-1">Exercise 1</h4>
-
-
-
-<p>With this exercise, the top melody was provided and I was asked to compose the bottom melody. As I looked at the written melody for the first time, I noticed that it had long notes, mirims, and crochets, so I decided to use mostly quavers and semiquavers to have a nice rhythmic contrast. I also took advantage of the opportunity to contrast the dynamics, sometimes having the vibraphone play higher than the flute.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="329" src="./../wp-content/uploads/2021/10/Project-11-1-1024x329.png" alt="" class="wp-image-521" srcset="./../wp-content/uploads/2021/10/Project-11-1-1024x329.png 1024w, ./../wp-content/uploads/2021/10/Project-11-1-300x96.png 300w, ./../wp-content/uploads/2021/10/Project-11-1-768x246.png 768w, ./../wp-content/uploads/2021/10/Project-11-1-1536x493.png 1536w, ./../wp-content/uploads/2021/10/Project-11-1-2048x657.png 2048w, ./../wp-content/uploads/2021/10/Project-11-1-640x205.png 640w, ./../wp-content/uploads/2021/10/Project-11-1-960x308.png 960w, ./../wp-content/uploads/2021/10/Project-11-1.png 2163w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h4 class="wp-block-heading" id="exercise-2">Exercise 2</h4>
-
-
-
-<p>Here, the bottom part was given, and I composed the top melody. With the first three bars of my melody, I worked with the staccato from the flute by adding semiquavers, resulting in an interaction between the two instruments. In the next three bars, I made the marimba melody follow the descending flute melody, but with fast notes to emphasize the different melodies. The marimba contrasts with the flute in the last three bars by going up while the flute continues to go down.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="577" src="./../wp-content/uploads/2021/10/Project-11-2-1024x577.png" alt="" class="wp-image-522" srcset="./../wp-content/uploads/2021/10/Project-11-2-1024x577.png 1024w, ./../wp-content/uploads/2021/10/Project-11-2-300x169.png 300w, ./../wp-content/uploads/2021/10/Project-11-2-768x433.png 768w, ./../wp-content/uploads/2021/10/Project-11-2-1536x866.png 1536w, ./../wp-content/uploads/2021/10/Project-11-2-2048x1154.png 2048w, ./../wp-content/uploads/2021/10/Project-11-2-640x361.png 640w, ./../wp-content/uploads/2021/10/Project-11-2-960x541.png 960w, ./../wp-content/uploads/2021/10/Project-11-2.png 2166w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h4 class="wp-block-heading" id="exercise-3">Exercise 3</h4>
-
-
-
-<p>In the third exercise, I followed the workbook&#8217;s suggestion and started one melody later than the other, so the listener could more easily pick out the different voices. I developed a little theme that begins with the flute, then the tubular bells accompany it. Following this repetition, however, both melodies drift away. With a wave-shaped melody, the flute is more unstable, with a descending melody in bar 3 and an ascending melody until bar 5. In the meantime, the tubular bells are more stable, using almost always the same rhythm except for bar 7 when they take the opportunity of the calmer flute to express themselves.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="662" src="./../wp-content/uploads/2021/10/Project-11-3-1024x662.png" alt="" class="wp-image-523" srcset="./../wp-content/uploads/2021/10/Project-11-3-1024x662.png 1024w, ./../wp-content/uploads/2021/10/Project-11-3-300x194.png 300w, ./../wp-content/uploads/2021/10/Project-11-3-768x497.png 768w, ./../wp-content/uploads/2021/10/Project-11-3-1536x994.png 1536w, ./../wp-content/uploads/2021/10/Project-11-3-2048x1325.png 2048w, ./../wp-content/uploads/2021/10/Project-11-3-640x414.png 640w, ./../wp-content/uploads/2021/10/Project-11-3-960x621.png 960w, ./../wp-content/uploads/2021/10/Project-11-3.png 2223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h4 class="wp-block-heading" id="exercise-4">Exercise 4</h4>
-
-
-
-<p>Similarly to the previous exercise, I tried to start one melody after another, while the instruments followed a similar theme. I could see how this theme could be used in different ways if it were a longer composition. Thus, for example, the xylophone plays two notes on the first part of the theme while the bassoon plays staccato over the same notes. However, after this repetition, the melodies go the opposite way. Generally, they move oppositely, except in the last bar when both move down and up to the final F.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="681" src="./../wp-content/uploads/2021/10/Project-11-4-1024x681.png" alt="" class="wp-image-524" srcset="./../wp-content/uploads/2021/10/Project-11-4-1024x681.png 1024w, ./../wp-content/uploads/2021/10/Project-11-4-300x199.png 300w, ./../wp-content/uploads/2021/10/Project-11-4-768x511.png 768w, ./../wp-content/uploads/2021/10/Project-11-4-1536x1021.png 1536w, ./../wp-content/uploads/2021/10/Project-11-4-2048x1361.png 2048w, ./../wp-content/uploads/2021/10/Project-11-4-640x425.png 640w, ./../wp-content/uploads/2021/10/Project-11-4-960x638.png 960w, ./../wp-content/uploads/2021/10/Project-11-4.png 2222w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p></p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Reflections on Assignment 3</title>
-		<link>./../reflections-on-assignment-3/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Fri, 15 Oct 2021 12:50:04 +0000</pubDate>
-				<category><![CDATA[Assignments]]></category>
-		<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Part 3 Round, descants, polyphony]]></category>
-		<guid isPermaLink="false">./../index.html?p=510</guid>
-
-					<description><![CDATA[Moving from monophonic to polyphonic music, in my opinion, was a significant step forward in terms of both&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>Moving from monophonic to polyphonic music, in my opinion, was a significant step forward in terms of both complexity and creativity.</p>
-
-
-
-<p>I had the opportunity to write for three instruments in this assignment, which proved to be more difficult than I anticipated, especially considering I had to write separate melodies for each of them. I can now better appreciate how great composers like Bach were able to compose in masterful harmony when they used 4 or more voices.</p>
-
-
-
-<p>My hearing and analysis of rounds, descants, and, especially, polyphony, I believe, aided me in better understanding how voices might be written in harmony but with differing melodies.</p>
-
-
-
-<h3 id="about-assignment-3" class="wp-block-heading">About Assignment 3</h3>
-
-
-
-<p>As I previously stated, I found this task to be far more challenging than the prior two. Considering three instruments, each with their distinct melodies and &#8220;personalities,&#8221; brought a level of difficulty I hadn&#8217;t anticipated. However, I believe that this additional complexity will be advantageous in the long run as assignment tasks become longer and include more instruments.</p>
-
-
-
-<p>In terms of notation, I made an effort to avoid some of the faults I made in earlier assignments, such as rhythmic spelling, correct beaming, and phrasing.</p>
-
-
-
-<p>My ability to construct a two-minute composition and transpose the concepts I had in my head to a score surprised me. I wanted to compose a piece that put polyphony to work for the music rather than the other way around. The repeated theme and various small melodies throughout the music, I believe, made this polyphonic composition both familiar and fresh at the same time.</p>
-
-
-
-<p>Being self-critical, I think this piece contains too many elements. As a result, I feel that I could turn this into a 4-minute musical piece that develops some of the ideas I wanted to include.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Assignment 3</title>
-		<link>./../assignment-3/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Fri, 15 Oct 2021 00:21:00 +0000</pubDate>
-				<category><![CDATA[Assignments]]></category>
-		<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Part 3 Round, descants, polyphony]]></category>
-		<guid isPermaLink="false">./../index.html?p=467</guid>
-
-					<description><![CDATA[My third task was to compose a work for three woodwind instruments in a mostly polyphonic approach. This&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>My third task was to compose a work for three woodwind instruments in a mostly polyphonic approach. This composition should last about two minutes and follow a predetermined structure (seen below), in which one begins with a triad, moves to another, and concludes with another.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="358" src="./../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-1024x358.png" alt="" class="wp-image-473" srcset="./../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-1024x358.png 1024w, ./../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-300x105.png 300w, ./../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-768x268.png 768w, ./../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-640x224.png 640w, ./../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47-960x336.png 960w, ./../wp-content/uploads/2021/10/Screenshot-2021-10-04-at-14.36.47.png 1190w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>You can find the final score <a href="./../wp-content/uploads/2021/10/Assignment-3-V2-Full-Score.pdf" data-type="URL" data-id="./../wp-content/uploads/2021/10/Assignment-3-V2-Full-Score.pdf" target="_blank">here</a> and listen to it below:</p>
-
-
-
-<figure class="wp-block-audio"><audio controls src="./../wp-content/uploads/2021/10/Assignment-3-V2.mp3"></audio></figure>
-
-
-
-<p><meta charset="utf-8">I had few questions after seeing example 45. Should the first triad last several bars? (If that&#8217;s the case, I&#8217;ll have to use different chords in the meanwhile, or it&#8217;ll sound stuck). Or is the example intended to be regarded as a chord progression that should be used throughout the piece?</p>
-
-
-
-<p>My tutor assisted me with these questions by directing me to consider these triads as harmonic centres for the music.</p>
-
-
-
-<p>With this in mind, I decided to use three triads, each representing a different essence of the music, resulting in a piece of music with three parts.</p>
-
-
-
-<h2 id="the-idea-theme" class="cnvs-block-section-heading cnvs-block-section-heading-1634108541003 halignleft" >
-	<span class="cnvs-section-title">
-		<span>The Idea / Theme</span>
-	</span>
-</h2>
-
-
-
-<p>After reflecting on my polyphonic studies, I came up with the idea for this composition. I listened to polyphonic music in three different styles: Renaissance, Baroque, and African/Polynesian polyphony. Because the assignment&#8217;s predetermined structure required three triads, I challenged myself to write a piece of music in three parts, each inspired by a different style of polyphonic music.</p>
-
-
-
-<p>About the theme, this piece will be about a love triangle involving three instruments. After meeting and dancing in an African<meta charset="utf-8">/Polynesian section, they progressed to the baroque section, where they fell in love, then finalized the dance with a passionate and harmonious section (Renaissance), showcasing their love for one another.</p>
-
-
-
-<h2 id="the-structure" class="cnvs-block-section-heading cnvs-block-section-heading-1634108659753 halignleft" >
-	<span class="cnvs-section-title">
-		<span>The Structure</span>
-	</span>
-</h2>
-
-
-
-<p>The structure was mostly determined upon the development of the idea. This would be a straightforward story in which A leads to B, which leads to C. I wanted the music to begin rhythmically as if the instruments were dancing together and each had its own individuality. Then, in a more melodic section, the instruments repeat the motif as though they discover something in common and fall in love. Ending in harmony and love, each instrument repeats the same motif but then each plays its own melodic line while respecting the harmony of the others.</p>
-
-
-
-<p>I decided to produce a piece in the key of C# major after studying pentatonic scales. The other triads and keys were chosen based on the least amount of note change between them.</p>
-
-
-
-<figure class="wp-block-table is-style-regular cnvs-block-core-table-1628498574118"><table><thead><tr><th>Theme</th><th>Section &amp; Triad</th><th>Duration / Tempo</th></tr></thead><tbody><tr><td>The instruments meet and dance together, each with its own personality</td><td>A &#8211; B major</td><td><meta charset="utf-8">~30 seconds at 110 bpm </td></tr><tr><td>They fall in love, repeating the same motif</td><td>B &#8211; C# major</td><td><meta charset="utf-8">~30 seconds at 70 bpm </td></tr><tr><td>They live happily ever after, each with their own motif but harmonically</td><td>C &#8211; Ab major</td><td>~60 seconds at 70 bpm</td></tr></tbody></table></figure>
-
-
-
-<h2 id="the-motifs" class="cnvs-block-section-heading cnvs-block-section-heading-1634108877461 halignleft" >
-	<span class="cnvs-section-title">
-		<span>The Motifs</span>
-	</span>
-</h2>
-
-
-
-<p>As I had done with prior projects and assignments, I began playing around with the piano, hoping to find a theme that sounded good to me and would serve as a catapult for this composition. After a time, I came upon a motif that I really loved and decided to go a little deeper into it.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="75" src="./../wp-content/uploads/2021/10/Assignment-3-V22-5-1024x75.png" alt="" class="wp-image-480" srcset="./../wp-content/uploads/2021/10/Assignment-3-V22-5-1024x75.png 1024w, ./../wp-content/uploads/2021/10/Assignment-3-V22-5-300x22.png 300w, ./../wp-content/uploads/2021/10/Assignment-3-V22-5-768x57.png 768w, ./../wp-content/uploads/2021/10/Assignment-3-V22-5-1536x113.png 1536w, ./../wp-content/uploads/2021/10/Assignment-3-V22-5-2048x151.png 2048w, ./../wp-content/uploads/2021/10/Assignment-3-V22-5-640x47.png 640w, ./../wp-content/uploads/2021/10/Assignment-3-V22-5-960x71.png 960w, ./../wp-content/uploads/2021/10/Assignment-3-V22-5.png 2171w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Because the song is divided into three distinct sections, I thought it would be fascinating if the same motif appeared in each section, but was played differently and by different instruments. This way, something would connect all three pieces.</p>
-
-
-
-<p>This motif is performed subtly in semiquavers in the A section by the oboe.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="238" src="./../wp-content/uploads/2021/10/Assignment-3-V22-1-1024x238.png" alt="" class="wp-image-476" srcset="./../wp-content/uploads/2021/10/Assignment-3-V22-1-1024x238.png 1024w, ./../wp-content/uploads/2021/10/Assignment-3-V22-1-300x70.png 300w, ./../wp-content/uploads/2021/10/Assignment-3-V22-1-768x178.png 768w, ./../wp-content/uploads/2021/10/Assignment-3-V22-1-1536x356.png 1536w, ./../wp-content/uploads/2021/10/Assignment-3-V22-1-2048x475.png 2048w, ./../wp-content/uploads/2021/10/Assignment-3-V22-1-640x149.png 640w, ./../wp-content/uploads/2021/10/Assignment-3-V22-1-960x223.png 960w, ./../wp-content/uploads/2021/10/Assignment-3-V22-1.png 2172w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>The B section is played more explicitly and with quavers by the flute.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="100" src="./../wp-content/uploads/2021/10/Assignment-3-V22-3-1024x100.png" alt="" class="wp-image-478" srcset="./../wp-content/uploads/2021/10/Assignment-3-V22-3-1024x100.png 1024w, ./../wp-content/uploads/2021/10/Assignment-3-V22-3-300x29.png 300w, ./../wp-content/uploads/2021/10/Assignment-3-V22-3-768x75.png 768w, ./../wp-content/uploads/2021/10/Assignment-3-V22-3-1536x151.png 1536w, ./../wp-content/uploads/2021/10/Assignment-3-V22-3-2048x201.png 2048w, ./../wp-content/uploads/2021/10/Assignment-3-V22-3-640x63.png 640w, ./../wp-content/uploads/2021/10/Assignment-3-V22-3-960x94.png 960w, ./../wp-content/uploads/2021/10/Assignment-3-V22-3.png 2171w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>The motif is performed by the bassoon nearly in the background with crochets in the C section.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="64" src="./../wp-content/uploads/2021/10/Assignment-3-V22-4-1024x64.png" alt="" class="wp-image-479" srcset="./../wp-content/uploads/2021/10/Assignment-3-V22-4-1024x64.png 1024w, ./../wp-content/uploads/2021/10/Assignment-3-V22-4-300x19.png 300w, ./../wp-content/uploads/2021/10/Assignment-3-V22-4-768x48.png 768w, ./../wp-content/uploads/2021/10/Assignment-3-V22-4-1536x96.png 1536w, ./../wp-content/uploads/2021/10/Assignment-3-V22-4-2048x127.png 2048w, ./../wp-content/uploads/2021/10/Assignment-3-V22-4-640x40.png 640w, ./../wp-content/uploads/2021/10/Assignment-3-V22-4-960x60.png 960w, ./../wp-content/uploads/2021/10/Assignment-3-V22-4.png 2171w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>This division was quite helpful in enabling me to start writing each section quicker.</p>
-
-
-
-<h2 id="the-instruments" class="cnvs-block-section-heading cnvs-block-section-heading-1634110169912 halignleft" >
-	<span class="cnvs-section-title">
-		<span>The Instruments</span>
-	</span>
-</h2>
-
-
-
-<p>Flute, oboe, and bassoon were my natural choices for a woodwind trio. I chose these three instruments because I believe they complement each other in terms of timbre while remaining distinct enough for the listener to hear each one&#8217;s melody.</p>
-
-
-
-<p>I listened to three pieces to gain a sense of how a trio of woodwinds works together and how other composers used these instruments.</p>
-
-
-
-<p>One of the first instances I found of the three I selected to work with was Antonio Vivaldi&#8217;s Concerto for Flute, Oboe, and Bassoon in G Minor, RV 103. This composition didn&#8217;t particularly appeal to me, but it did teach me how much prominence the flute can have at times, as well as how the oboe and flute can sound good together without clashing, with the flute in a high register and the oboe in a middle and low register.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Antonio Vivaldi - Concerto for Flute, Oboe, and Bassoon in G Minor, RV 103" width="640" height="360" src="https://www.youtube.com/embed/cMptoH6bo-I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>The Trio for Flute, Oboe, and Bassoon, Op. 86 by Röntgen was an excellent illustration of what I was attempting. Each instrument&#8217;s identity is respected alongside the melody, yet they also repeat each other. This adds a lot of depth to the music.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Röntgen - Trio for Flute, Oboe and Bassoon, Op. 86" width="640" height="360" src="https://www.youtube.com/embed/9ke2oCFJatM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>Pastorale for Wind Trio, Op. 147 by Darius Milhaud omits the flute but includes the clarinet. I was especially inspired by how wonderfully polyphony worked beginning in bar 24.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Darius Milhaud - Pastorale for Wind Trio, Op. 147 (1935) [Score-Video]" width="640" height="360" src="https://www.youtube.com/embed/TMctPXaihD8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<h2 id="the-composition" class="cnvs-block-section-heading cnvs-block-section-heading-1634110414281 halignleft" >
-	<span class="cnvs-section-title">
-		<span>The composition</span>
-	</span>
-</h2>
-
-
-
-<p><meta charset="utf-8"><strong>Section A</strong> Bars 1-9</p>
-
-
-
-<p>I intended to portray more rhythmic and fast-paced music in this section. As a result, I employed semiquavers in all three instruments and staccato most of the time.</p>
-
-
-
-<p>This section is in the key of B major, although it begins with a D#m triad. The B major triad is present in the second beat of the first bar to create the home triad.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="376" src="./../wp-content/uploads/2021/10/Assignment-3-V23-1024x376.png" alt="" class="wp-image-481" srcset="./../wp-content/uploads/2021/10/Assignment-3-V23-1024x376.png 1024w, ./../wp-content/uploads/2021/10/Assignment-3-V23-300x110.png 300w, ./../wp-content/uploads/2021/10/Assignment-3-V23-768x282.png 768w, ./../wp-content/uploads/2021/10/Assignment-3-V23-1536x564.png 1536w, ./../wp-content/uploads/2021/10/Assignment-3-V23-2048x752.png 2048w, ./../wp-content/uploads/2021/10/Assignment-3-V23-640x235.png 640w, ./../wp-content/uploads/2021/10/Assignment-3-V23-960x352.png 960w, ./../wp-content/uploads/2021/10/Assignment-3-V23.png 2218w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>The oboe and flute begin by playing nearly the identical melody with a 3rd, 5th, or 6th interval, but at bar 4 the flute begins to move from a quick staccato to a slower legato. Meanwhile, the bassoon plays a more danceable melody.</p>
-
-
-
-<p>This section has the most triad changes, with the majority being B major, D# minor, F# major and G# minor.</p>
-
-
-
-<p>This section ends with a VI &#8211; I, reintroducing the home triad and leading to the next triad.</p>
-
-
-
-<p><strong>Section B</strong> Bars 10-20</p>
-
-
-
-<p>The music here shifts to a more elaborate yet slower paced approach. The speed is reduced to 70 quaver beats per minute, and the notes are predominantly quavers. In bar 11, the flute plainly states that the key signature has changed to C# major.</p>
-
-
-
-<p>The home triad, like the first section, is played right at the start to express the feeling of the new home triad. This time, I stuck with the home triad for a little longer than in&nbsp;the first section, with inversions of the triad lasting two bars and the primary motif repeated by the three instruments.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="360" src="./../wp-content/uploads/2021/10/Assignment-3-V22-6-1024x360.png" alt="" class="wp-image-483" srcset="./../wp-content/uploads/2021/10/Assignment-3-V22-6-1024x360.png 1024w, ./../wp-content/uploads/2021/10/Assignment-3-V22-6-300x106.png 300w, ./../wp-content/uploads/2021/10/Assignment-3-V22-6-768x270.png 768w, ./../wp-content/uploads/2021/10/Assignment-3-V22-6-1536x540.png 1536w, ./../wp-content/uploads/2021/10/Assignment-3-V22-6-2048x720.png 2048w, ./../wp-content/uploads/2021/10/Assignment-3-V22-6-640x225.png 640w, ./../wp-content/uploads/2021/10/Assignment-3-V22-6-960x338.png 960w, ./../wp-content/uploads/2021/10/Assignment-3-V22-6.png 2218w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>In contrast to the preceding section, this one contains a clearly defined chord progression: I &#8211; IV &#8211; iii &#8211; V.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="771" src="./../wp-content/uploads/2021/10/Assignment-3-V22-7-1024x771.png" alt="" class="wp-image-484" srcset="./../wp-content/uploads/2021/10/Assignment-3-V22-7-1024x771.png 1024w, ./../wp-content/uploads/2021/10/Assignment-3-V22-7-300x226.png 300w, ./../wp-content/uploads/2021/10/Assignment-3-V22-7-768x578.png 768w, ./../wp-content/uploads/2021/10/Assignment-3-V22-7-1536x1156.png 1536w, ./../wp-content/uploads/2021/10/Assignment-3-V22-7-2048x1541.png 2048w, ./../wp-content/uploads/2021/10/Assignment-3-V22-7-640x482.png 640w, ./../wp-content/uploads/2021/10/Assignment-3-V22-7-960x722.png 960w, ./../wp-content/uploads/2021/10/Assignment-3-V22-7.png 2222w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>It ends with an I &#8211; IV, which leads to the next triad, that is expected to be the V: G# major.</p>
-
-
-
-<p><strong>Section C</strong> Bars 21-40</p>
-
-
-
-<p>Despite the fact that the tempo remains constant, I wanted the music to feel slower and more harmonized. As a result, I utilized a lot of crochets, minims, and semibreves.</p>
-
-
-
-<p>This section is in the key of Ab major. I wanted it to be in G# major scale, but I learned that G# major isn&#8217;t commonly used because it&#8217;s too complex for practical use, and that Ab major is a better option.</p>
-
-
-
-<p>In contrast to the other sections, I do not explicitly tell the listener of the key change. Though I begin with the Ab major triad, it isn&#8217;t until the third beat of the second bar of this section (bar 22) that I reach an Ab major triad.</p>
-
-
-
-<p>In the final part of this section I wanted to express pure polyphony, with each instrument adding their own melody one at a time, culminating with all three instruments playing distinct melodies until they rise to end in Ab major triad.</p>
-
-
-
-<p></p>
-
-
-
-<p></p>
-
-
-
-<p> </p>
-]]></content:encoded>
-					
-		
-		<enclosure url="./../wp-content/uploads/2021/10/Assignment-3-V2.mp3" length="2567231" type="audio/mpeg" />
-
 			</item>
 	</channel>
 </rss>
