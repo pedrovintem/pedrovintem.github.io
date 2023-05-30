@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Fri, 14 Oct 2022 15:04:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 May 2023 10:47:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 					<description><![CDATA[Max Bruch (1838-1920) is a well-known prolific German composer. During his long career, he taught, conducted, and composed.&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Max Bruch - Concerto for Clarinet &amp; Viola, Op. 88 (1911)" width="640" height="360" src="https://www.youtube.com/embed/m0wYD4MzwUw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Max Bruch - Concerto for Clarinet &amp; Viola, Op. 88 (1911)" width="640" height="360" src="https://www.youtube.com/embed/m0wYD4MzwUw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -305,9 +305,9 @@
 		<category><![CDATA[Stylistic Techniques]]></category>
 		<guid isPermaLink="false">./../../../../../index.html?p=824</guid>
 
-					<description><![CDATA[I must admit that I didn&#8217;t know who Gesualdo was until today, so I had to make some&#8230;]]></description>
+					<description><![CDATA[I must admit that I didn&#8217;t know who Gesualdo was until today, so I had to do some&#8230;]]></description>
 										<content:encoded><![CDATA[
-<p>I must admit that I didn&#8217;t know who Gesualdo was until today, so I had to make some research about the composer.</p>
+<p>I must admit that I didn&#8217;t know who Gesualdo was until today, so I had to do some research about the composer.</p>
 
 
 
@@ -347,7 +347,9 @@
 
 
 
-<blockquote class="wp-block-quote"><p>&#8220;As conservative as it was possible to be in this time. Monteverdi was the radical, the new. There is a very curious letter from the poet Guarini, in which he says he prefers Gesualdo to the modern style because he is ‘so far from the hardness of Monteverdi.’ For Guarini, Gesualdo is so nice, so easy! Exactly the opposite of what we now think.”</p><cite>(Ross, 2011)</cite></blockquote>
+<blockquote class="wp-block-quote">
+<p>&#8220;As conservative as it was possible to be in this time. Monteverdi was the radical, the new. There is a very curious letter from the poet Guarini, in which he says he prefers Gesualdo to the modern style because he is ‘so far from the hardness of Monteverdi.’ For Guarini, Gesualdo is so nice, so easy! Exactly the opposite of what we now think.”</p>
+<cite>(Ross, 2011)</cite></blockquote>
 
 
 

@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Mon, 15 May 2023 10:13:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 May 2023 10:47:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -765,7 +765,7 @@
 					<description><![CDATA[Max Bruch (1838-1920) is a well-known prolific German composer. During his long career, he taught, conducted, and composed.&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Max Bruch - Concerto for Clarinet &amp; Viola, Op. 88 (1911)" width="640" height="360" src="https://www.youtube.com/embed/m0wYD4MzwUw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Max Bruch - Concerto for Clarinet &amp; Viola, Op. 88 (1911)" width="640" height="360" src="https://www.youtube.com/embed/m0wYD4MzwUw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -961,19 +961,15 @@
 
 
 
-<p>People turn to religion and music during hard times. There is a search for hope, connection, and optimism among people. Because of its certainty, religious thought is particularly conducive to optimism. In addition, Michael Hogg  asserts that feeling closely connected with others leads to feelings of more security, confidence, and certainty about what to expect in the social world as a result (Hogg, 2003). The same happens with music. There is no doubt that music helps us feel hopeful and secure in times of&nbsp;uncertainty, such as&nbsp;with shows like Live Aid, The Concert For New York City or Concert For Bangladesh.</p>
+<p>People turn to religion and music during hard times. There is a search for hope, connection, and optimism among people. Because of its certainty, religious thought is particularly conducive to optimism. In addition, Michael Hogg asserts that feeling closely connected with others leads to feelings of more security, confidence, and certainty about what to expect in the social world as a result (Hogg, 2003). The same happens with music. There is no doubt that music helps us feel hopeful and secure in times of uncertainty, such as with shows like Live Aid, The Concert For New York City or Concert For Bangladesh.</p>
 
 
 
-<p>When I attended Kendirck Lamar&#8217;s concert last time, I wasn&#8217;t sure if I was watching a music concert or a worship service. As I looked at other people at the concert, they all seemed mentally altered, either in a trance or ecstatic state. They were making the same moves and singing the same lyrics. Most importantly, they all seemed connected and hopeful.</p>
+<p>When I attended Kendrick Lamar&#8217;s concert last time, I wasn&#8217;t sure if I was watching a music concert or a worship service. As I looked at other people at the concert, they all seemed mentally altered, either in a trance or ecstatic state. They were making the same moves and singing the same lyrics. Most importantly, they all seemed connected and hopeful.</p>
 
 
 
 <p>Was this music or religion?</p>
-
-
-
-<p></p>
 
 
 
@@ -1487,9 +1483,9 @@
 		<category><![CDATA[Stylistic Techniques]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=824</guid>
 
-					<description><![CDATA[I must admit that I didn&#8217;t know who Gesualdo was until today, so I had to make some&#8230;]]></description>
+					<description><![CDATA[I must admit that I didn&#8217;t know who Gesualdo was until today, so I had to do some&#8230;]]></description>
 										<content:encoded><![CDATA[
-<p>I must admit that I didn&#8217;t know who Gesualdo was until today, so I had to make some research about the composer.</p>
+<p>I must admit that I didn&#8217;t know who Gesualdo was until today, so I had to do some research about the composer.</p>
 
 
 
@@ -1529,7 +1525,9 @@
 
 
 
-<blockquote class="wp-block-quote"><p>&#8220;As conservative as it was possible to be in this time. Monteverdi was the radical, the new. There is a very curious letter from the poet Guarini, in which he says he prefers Gesualdo to the modern style because he is ‘so far from the hardness of Monteverdi.’ For Guarini, Gesualdo is so nice, so easy! Exactly the opposite of what we now think.”</p><cite>(Ross, 2011)</cite></blockquote>
+<blockquote class="wp-block-quote">
+<p>&#8220;As conservative as it was possible to be in this time. Monteverdi was the radical, the new. There is a very curious letter from the poet Guarini, in which he says he prefers Gesualdo to the modern style because he is ‘so far from the hardness of Monteverdi.’ For Guarini, Gesualdo is so nice, so easy! Exactly the opposite of what we now think.”</p>
+<cite>(Ross, 2011)</cite></blockquote>
 
 
 
