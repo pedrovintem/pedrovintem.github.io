@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Sun, 16 Jul 2023 22:38:54 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Jul 2023 21:40:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,41 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
+		<title>Listening to Public Service Broadcasting &#8211; Broadcasting House</title>
+		<link>./../../../listening-to-public-service-broadcasting-broadcasting-house/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2023 21:40:20 +0000</pubDate>
+				<category><![CDATA[From Present to Past]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 1 Music Today]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1630</guid>
+
+					<description><![CDATA[I recently discovered Public Service Broadcasting when I heard their music performed by the 88-piece BBC Symphony Orchestra,&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>I recently discovered Public Service Broadcasting when I heard their music performed by the 88-piece BBC Symphony Orchestra, conducted by Jules Buckley. I liked it from the start and have been listening to it repeatedly.</p>
+
+
+
+<p>I enjoyed how the music remains mostly the same but gradually adds different instruments and textures in a big build-up. </p>
+
+
+
+<p>The most surprising aspect for me was the blend of drums and orchestra. I think exploring drums in an orchestral context adds a modern rhythmic element. I also liked the mix of pre-recorded sounds, electronic, and acoustic instruments. They fit together seamlessly, making it hard to distinguish between them.</p>
+
+
+
+<p>Overall, it&#8217;s a perfect fusion of pop and classical music, with experimental elements that I appreciated.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Assignment 1 &#8211; Reflective account</title>
 		<link>./../../../1624-2/index.html</link>
 		
@@ -8274,45 +8309,6 @@
 
 
 <p>Ross, A., 2006.&nbsp;<em>Birth</em>. [online] The New Yorker. Available at: &lt;https://www.newyorker.com/magazine/2006/04/24/birth&gt; [Accessed 10 December 2021].</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Project 14 &#8211; Improvisation on a dominant</title>
-		<link>./../../../project-14-improvisation-on-a-dominant/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Wed, 08 Dec 2021 16:49:00 +0000</pubDate>
-				<category><![CDATA[Composing Music]]></category>
-		<category><![CDATA[Coursework]]></category>
-		<category><![CDATA[Part 5 Exploring harmony]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=735</guid>
-
-					<description><![CDATA[In this project, we were asked to improvise on a dominant, as long as it stayed interesting, until&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>In this project, we were asked to improvise on a dominant, as long as it stayed interesting, until ending in a perfect cadence.</p>
-
-
-
-<p>I aimed to make a longer composition, but I struggled to keep it interesting, so I chose to shorten it in order to not bore the listener.</p>
-
-
-
-<p>This exercise is in the key of A major, making the dominant chord the E major. The left hand is always playing the E major chord, which turns into E major 7 on bar 5, and returns to E major on bar 7. Then, on bar 9, it plays an arpeggio of the E major and its inversions, until it reaches the final cadence, from E to A.</p>
-
-
-
-<p>The right hand is more fluid and plays a melody that is much more interesting than the left hand repetition. I believe that this contrast makes interesting anticipation for the release of the tension on bar 15.</p>
-
-
-
-<p>You can download the Sibelius file <a href="https://drive.google.com/file/d/1NJLbVvH7kuKinjAeP-IRQbIt1oYqy6bP/view?usp=sharing" data-type="URL" data-id="https://drive.google.com/file/d/1NJLbVvH7kuKinjAeP-IRQbIt1oYqy6bP/view?usp=sharing" target="_blank">here</a>.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="934" src="./../../../wp-content/uploads/2022/01/Project-14-1024x934.png" alt="" class="wp-image-736" srcset="./../../../wp-content/uploads/2022/01/Project-14-1024x934.png 1024w, ./../../../wp-content/uploads/2022/01/Project-14-300x274.png 300w, ./../../../wp-content/uploads/2022/01/Project-14-768x701.png 768w, ./../../../wp-content/uploads/2022/01/Project-14-1536x1401.png 1536w, ./../../../wp-content/uploads/2022/01/Project-14-2048x1868.png 2048w, ./../../../wp-content/uploads/2022/01/Project-14-640x584.png 640w, ./../../../wp-content/uploads/2022/01/Project-14-960x876.png 960w, ./../../../wp-content/uploads/2022/01/Project-14.png 2223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 ]]></content:encoded>
 					
 		
