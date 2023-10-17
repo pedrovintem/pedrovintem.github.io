@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+#slider-container {
+    margin-bottom: 20px;
+}
+
+#selected-number {
+    margin-top: 10px;
+}
