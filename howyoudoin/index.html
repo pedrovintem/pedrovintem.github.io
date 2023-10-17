@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Slider Website</title>
     <link rel="stylesheet" href="styles.css">
@@ -51,7 +51,7 @@
 <script>
     var rangeSlider = document.getElementById('rangeSlider');
 
-    var emojis = ['1.png'];
+    var emojis = ['1.png', '2.png', '3.png'];
 
     var currentEmoji = document.querySelector('.emoji');
 
@@ -60,7 +60,7 @@
 
         if(value<=33){
             currentEmoji.src=emojis[0];
-            document.body.style.background=" background:rgb(230,11,60)";
+            document.body.style.background="rgb(230,11,60)";
         }
         else if(value<=67 && value>33){
             currentEmoji.src=emojis[1];
