@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>Project 10 &#8211; A contrapuntal trial</title>
 		<link>./../../../../../project-10-a-contrapuntal-trial/index.html</link>
@@ -52,7 +52,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="914" src="./../../../../../wp-content/uploads/2022/01/Project-10-1024x914.png" alt="" class="wp-image-808" srcset="./../../../../../wp-content/uploads/2022/01/Project-10-1024x914.png 1024w, ./../../../../../wp-content/uploads/2022/01/Project-10-300x268.png 300w, ./../../../../../wp-content/uploads/2022/01/Project-10-768x686.png 768w, ./../../../../../wp-content/uploads/2022/01/Project-10-1536x1371.png 1536w, ./../../../../../wp-content/uploads/2022/01/Project-10-2048x1829.png 2048w, ./../../../../../wp-content/uploads/2022/01/Project-10-640x571.png 640w, ./../../../../../wp-content/uploads/2022/01/Project-10-960x857.png 960w, ./../../../../../wp-content/uploads/2022/01/Project-10.png 2222w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="914" src="./../../../../../wp-content/uploads/2022/01/Project-10-1024x914.png" alt="" class="wp-image-808" srcset="./../../../../../wp-content/uploads/2022/01/Project-10-1024x914.png 1024w, ./../../../../../wp-content/uploads/2022/01/Project-10-300x268.png 300w, ./../../../../../wp-content/uploads/2022/01/Project-10-768x686.png 768w, ./../../../../../wp-content/uploads/2022/01/Project-10-1536x1371.png 1536w, ./../../../../../wp-content/uploads/2022/01/Project-10-2048x1829.png 2048w, ./../../../../../wp-content/uploads/2022/01/Project-10-640x571.png 640w, ./../../../../../wp-content/uploads/2022/01/Project-10-960x857.png 960w, ./../../../../../wp-content/uploads/2022/01/Project-10.png 2222w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -95,7 +95,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="663" src="./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-1024x663.png" alt="" class="wp-image-800" srcset="./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-1024x663.png 1024w, ./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-300x194.png 300w, ./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-768x497.png 768w, ./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-1536x994.png 1536w, ./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-2048x1326.png 2048w, ./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-640x414.png 640w, ./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-960x622.png 960w, ./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1.png 2221w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="663" src="./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-1024x663.png" alt="" class="wp-image-800" srcset="./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-1024x663.png 1024w, ./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-300x194.png 300w, ./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-768x497.png 768w, ./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-1536x994.png 1536w, ./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-2048x1326.png 2048w, ./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-640x414.png 640w, ./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1-960x622.png 960w, ./../../../../../wp-content/uploads/2022/01/Project-9-Exercise-1-1.png 2221w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -115,7 +115,7 @@
 		
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Debussy in Vienna - Bassoon and Harp" width="640" height="360" src="https://www.youtube.com/embed/9Ts9pdxGvJU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Debussy in Vienna - Bassoon and Harp" width="640" height="360" src="https://www.youtube.com/embed/9Ts9pdxGvJU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 	</div>

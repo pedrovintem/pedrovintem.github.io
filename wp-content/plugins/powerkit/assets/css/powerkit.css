@@ -28,6 +28,10 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.pk-icon-twitter:before {
+	content: "\e94c";
+}
+
 .pk-icon-alert-circle:before {
 	content: "\e946";
 }
@@ -252,7 +256,7 @@
 	content: "\f173";
 }
 
-.pk-icon-twitter:before {
+.pk-icon-old-twitter:before {
 	content: "\f099";
 }
 

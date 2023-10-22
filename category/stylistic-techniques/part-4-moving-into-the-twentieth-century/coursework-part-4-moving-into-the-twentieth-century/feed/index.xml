@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>Research point 4.6</title>
 		<link>./../../../../../research-point-4-6/index.html</link>
@@ -44,7 +44,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="600" height="238" src="./../../../../../wp-content/uploads/2023/03/bergs_tone_row_600px.jpeg" alt="" class="wp-image-1286" srcset="./../../../../../wp-content/uploads/2023/03/bergs_tone_row_600px.jpeg 600w, ./../../../../../wp-content/uploads/2023/03/bergs_tone_row_600px-300x119.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" fetchpriority="high" width="600" height="238" src="./../../../../../wp-content/uploads/2023/03/bergs_tone_row_600px.jpeg" alt="" class="wp-image-1286" srcset="./../../../../../wp-content/uploads/2023/03/bergs_tone_row_600px.jpeg 600w, ./../../../../../wp-content/uploads/2023/03/bergs_tone_row_600px-300x119.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 
@@ -72,7 +72,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="721" src="./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-1024x721.png" alt="" class="wp-image-1289" srcset="./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-1024x721.png 1024w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-300x211.png 300w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-768x541.png 768w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-1536x1081.png 1536w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-2048x1442.png 2048w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-640x451.png 640w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-960x676.png 960w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13.png 2338w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Mario Yesyes (2022) <em>Webern symphony op. 21: 4-part double canon with colours and tone-rows analysed</em>. Available at: https://www.youtube.com/watch?v=8PDcD3PoYA4.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="721" src="./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-1024x721.png" alt="" class="wp-image-1289" srcset="./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-1024x721.png 1024w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-300x211.png 300w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-768x541.png 768w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-1536x1081.png 1536w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-2048x1442.png 2048w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-640x451.png 640w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13-960x676.png 960w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-10.52.13.png 2338w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Mario Yesyes (2022) <em>Webern symphony op. 21: 4-part double canon with colours and tone-rows analysed</em>. Available at: https://www.youtube.com/watch?v=8PDcD3PoYA4.</figcaption></figure>
 
 
 
@@ -80,7 +80,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="155" src="./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-12.00.59-1024x155.png" alt="" class="wp-image-1290" srcset="./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-12.00.59-1024x155.png 1024w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-12.00.59-300x45.png 300w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-12.00.59-768x116.png 768w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-12.00.59-640x97.png 640w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-12.00.59-960x145.png 960w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-12.00.59.png 1320w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="155" src="./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-12.00.59-1024x155.png" alt="" class="wp-image-1290" srcset="./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-12.00.59-1024x155.png 1024w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-12.00.59-300x45.png 300w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-12.00.59-768x116.png 768w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-12.00.59-640x97.png 640w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-12.00.59-960x145.png 960w, ./../../../../../wp-content/uploads/2023/03/Screenshot-2023-03-10-at-12.00.59.png 1320w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

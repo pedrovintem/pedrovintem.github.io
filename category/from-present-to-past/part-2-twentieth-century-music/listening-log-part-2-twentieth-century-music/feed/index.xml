@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Listening Log &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../../index.html</link>
+	<description>Learning Log</description>
+	<lastBuildDate>Sun, 03 Sep 2023 21:18:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Creating my own performance of John Cage’s 4’33”</title>
+		<link>./../../../../../creating-my-own-performance-of-john-cages-433/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Sun, 03 Sep 2023 21:18:38 +0000</pubDate>
+				<category><![CDATA[From Present to Past]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Twentieth-century Music]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=1675</guid>
+
+					<description><![CDATA[I decided to perform John Cage&#8217;s 4&#8217;33&#8221; alone in my living room. I set a timer to keep&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>I decided to perform John Cage&#8217;s 4&#8217;33&#8221; alone in my living room. I set a timer to keep up track of the time. At first, there was complete silence as I sat motionless on a chair. After about a minute, I started to hear subtle sounds &#8211; the gentle creaking of the wooden floor, distant traffic noises outside, and the occasional sound of myself shifting in their chair. These ambient sounds almost took on a musical quality as I focused intently on listening.</p>
+
+
+
+<p>The effect was surprisingly mesmerizing. In the absence of deliberate music, the mundane sounds, often unnoticed, took centre stage, and I immediately understood what Cage intended with this piece.</p>
+
+
+
+<p>Around the two-minute mark, the silence was broken by my stomach rumbling loudly. I had to stifle a laugh at this unexpected bodily interjection. A few moments later, a siren wailed in the distance. The juxtaposition of these random noises with the intended silence of the piece was amusing to me.</p>
+
+
+
+<p>When the 4 minutes and 33 seconds were up, I felt a sense of accomplishment. Although an audience may have enhanced the experience, performing 4&#8217;33&#8221; alone made me appreciate the musical potential of everyday sounds. I found beauty in the silence between the noises. This piece definitely expanded my perspective on what can be considered music.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

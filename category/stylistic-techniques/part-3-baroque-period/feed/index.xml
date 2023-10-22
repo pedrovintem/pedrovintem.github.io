@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>Assignment 3 &#8211; after tutor&#8217;s feedback</title>
 		<link>./../../../../assignment-3-after-tutors-feedback/index.html</link>
@@ -108,7 +108,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="676" height="242" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13.png" alt="" class="wp-image-1165" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13.png 676w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13-300x107.png 300w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13-640x229.png 640w" sizes="(max-width: 676px) 100vw, 676px" /><figcaption class="wp-element-caption">Exercise 3.4 theme</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" fetchpriority="high" width="676" height="242" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13.png" alt="" class="wp-image-1165" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13.png 676w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13-300x107.png 300w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-24-at-16.02.13-640x229.png 640w" sizes="(max-width: 676px) 100vw, 676px" /><figcaption class="wp-element-caption">Exercise 3.4 theme</figcaption></figure>
 
 
 
@@ -128,56 +128,56 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-8">
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="532" height="184" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18.png" alt="" class="wp-image-1180" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18.png 532w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18-300x104.png 300w" sizes="(max-width: 532px) 100vw, 532px" /><figcaption class="wp-element-caption">Trill in Bar 2</figcaption></figure>
+<div class="wp-block-columns is-layout-flex wp-container-8 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" width="532" height="184" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18.png" alt="" class="wp-image-1180" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18.png 532w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18-300x104.png 300w" sizes="(max-width: 532px) 100vw, 532px" /><figcaption class="wp-element-caption">Trill in Bar 2</figcaption></figure>
 </div>
 
 
 
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="580" height="128" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06.png" alt="" class="wp-image-1181" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06.png 580w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06-300x66.png 300w" sizes="(max-width: 580px) 100vw, 580px" /><figcaption class="wp-element-caption">Trill in bar 8</figcaption></figure>
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<figure class="wp-block-image size-full"><img decoding="async" width="580" height="128" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06.png" alt="" class="wp-image-1181" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06.png 580w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06-300x66.png 300w" sizes="(max-width: 580px) 100vw, 580px" /><figcaption class="wp-element-caption">Trill in bar 8</figcaption></figure>
 </div>
 </div>
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-11">
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<div class="wp-block-columns is-layout-flex wp-container-11 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="588" height="154" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21.png" alt="" class="wp-image-1182" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21.png 588w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21-300x79.png 300w" sizes="(max-width: 588px) 100vw, 588px" /><figcaption class="wp-element-caption">Trill in bar 12</figcaption></figure>
 </div>
 
 
 
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="450" height="136" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.23.png" alt="" class="wp-image-1170" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.23.png 450w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.23-300x91.png 300w" sizes="(max-width: 450px) 100vw, 450px" /><figcaption class="wp-element-caption">Turn in bar 17</figcaption></figure>
 </div>
 </div>
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-14">
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<div class="wp-block-columns is-layout-flex wp-container-14 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="604" height="260" src="./../../../../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.50.20.png" alt="" class="wp-image-1482" srcset="./../../../../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.50.20.png 604w, ./../../../../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.50.20-300x129.png 300w" sizes="(max-width: 604px) 100vw, 604px" /><figcaption class="wp-element-caption">Mordent in bar 20</figcaption></figure>
 </div>
 
 
 
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="724" height="222" src="./../../../../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.52.19.png" alt="" class="wp-image-1483" srcset="./../../../../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.52.19.png 724w, ./../../../../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.52.19-300x92.png 300w, ./../../../../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.52.19-640x196.png 640w" sizes="(max-width: 724px) 100vw, 724px" /><figcaption class="wp-element-caption">Mordent in bar 30</figcaption></figure>
 </div>
 </div>
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-17">
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<div class="wp-block-columns is-layout-flex wp-container-17 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="682" height="144" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51.png" alt="" class="wp-image-1185" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51.png 682w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51-300x63.png 300w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51-640x135.png 640w" sizes="(max-width: 682px) 100vw, 682px" /><figcaption class="wp-element-caption">Trill in bar 31</figcaption></figure>
 </div>
 
 
 
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="636" height="236" src="./../../../../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.53.19.png" alt="" class="wp-image-1485" srcset="./../../../../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.53.19.png 636w, ./../../../../wp-content/uploads/2023/05/Screenshot-2023-05-16-at-14.53.19-300x111.png 300w" sizes="(max-width: 636px) 100vw, 636px" /><figcaption class="wp-element-caption">Mordent in bar 32</figcaption></figure>
 </div>
 </div>
@@ -279,56 +279,56 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-20">
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<div class="wp-block-columns is-layout-flex wp-container-20 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="532" height="184" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18.png" alt="" class="wp-image-1180" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18.png 532w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.52.18-300x104.png 300w" sizes="(max-width: 532px) 100vw, 532px" /><figcaption class="wp-element-caption">Trill in Bar 2</figcaption></figure>
 </div>
 
 
 
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="580" height="128" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06.png" alt="" class="wp-image-1181" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06.png 580w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.59.06-300x66.png 300w" sizes="(max-width: 580px) 100vw, 580px" /><figcaption class="wp-element-caption">Trill in bar 8</figcaption></figure>
 </div>
 </div>
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-23">
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<div class="wp-block-columns is-layout-flex wp-container-23 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="588" height="154" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21.png" alt="" class="wp-image-1182" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21.png 588w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.00.21-300x79.png 300w" sizes="(max-width: 588px) 100vw, 588px" /><figcaption class="wp-element-caption">Trill in bar 12</figcaption></figure>
 </div>
 
 
 
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="450" height="136" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.23.png" alt="" class="wp-image-1170" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.23.png 450w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.23-300x91.png 300w" sizes="(max-width: 450px) 100vw, 450px" /><figcaption class="wp-element-caption">Turn in bar 17</figcaption></figure>
 </div>
 </div>
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-26">
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<div class="wp-block-columns is-layout-flex wp-container-26 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="382" height="168" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.39.png" alt="" class="wp-image-1171" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.39.png 382w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-15.16.39-300x132.png 300w" sizes="(max-width: 382px) 100vw, 382px" /><figcaption class="wp-element-caption">Mordant in bar 19</figcaption></figure>
 </div>
 
 
 
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="462" height="156" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.01.27.png" alt="" class="wp-image-1183" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.01.27.png 462w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.01.27-300x101.png 300w" sizes="(max-width: 462px) 100vw, 462px" /><figcaption class="wp-element-caption">Trill in bar 20</figcaption></figure>
 </div>
 </div>
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-29">
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<div class="wp-block-columns is-layout-flex wp-container-29 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="646" height="208" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.35.png" alt="" class="wp-image-1184" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.35.png 646w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.35-300x97.png 300w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.35-640x206.png 640w" sizes="(max-width: 646px) 100vw, 646px" /><figcaption class="wp-element-caption">Trill in bar 30</figcaption></figure>
 </div>
 
 
 
-<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="682" height="144" src="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51.png" alt="" class="wp-image-1185" srcset="./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51.png 682w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51-300x63.png 300w, ./../../../../wp-content/uploads/2023/01/Screenshot-2023-01-25-at-16.03.51-640x135.png 640w" sizes="(max-width: 682px) 100vw, 682px" /><figcaption class="wp-element-caption">Trill in bar 31</figcaption></figure>
 </div>
 </div>

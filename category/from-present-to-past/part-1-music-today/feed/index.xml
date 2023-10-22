@@ -12,13 +12,13 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Tue, 18 Jul 2023 21:40:21 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 02 Sep 2023 20:54:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>Listening to Public Service Broadcasting &#8211; Broadcasting House</title>
 		<link>./../../../../listening-to-public-service-broadcasting-broadcasting-house/index.html</link>
@@ -44,7 +44,7 @@
 
 
 
-<p>Overall, it&#8217;s a perfect fusion of pop and classical music, with experimental elements that I appreciated.</p>
+<p>Overall, it&#8217;s a perfect fusion of pop and classical music, with experimental elements that I appreciate.</p>
 
 
 
@@ -640,7 +640,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="194" src="./../../../../wp-content/uploads/2023/06/Screenshot-2023-06-23-at-20.57.49-1024x194.png" alt="" class="wp-image-1596" srcset="./../../../../wp-content/uploads/2023/06/Screenshot-2023-06-23-at-20.57.49-1024x194.png 1024w, ./../../../../wp-content/uploads/2023/06/Screenshot-2023-06-23-at-20.57.49-300x57.png 300w, ./../../../../wp-content/uploads/2023/06/Screenshot-2023-06-23-at-20.57.49-768x146.png 768w, ./../../../../wp-content/uploads/2023/06/Screenshot-2023-06-23-at-20.57.49-640x121.png 640w, ./../../../../wp-content/uploads/2023/06/Screenshot-2023-06-23-at-20.57.49-960x182.png 960w, ./../../../../wp-content/uploads/2023/06/Screenshot-2023-06-23-at-20.57.49.png 1298w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="194" src="./../../../../wp-content/uploads/2023/06/Screenshot-2023-06-23-at-20.57.49-1024x194.png" alt="" class="wp-image-1596" srcset="./../../../../wp-content/uploads/2023/06/Screenshot-2023-06-23-at-20.57.49-1024x194.png 1024w, ./../../../../wp-content/uploads/2023/06/Screenshot-2023-06-23-at-20.57.49-300x57.png 300w, ./../../../../wp-content/uploads/2023/06/Screenshot-2023-06-23-at-20.57.49-768x146.png 768w, ./../../../../wp-content/uploads/2023/06/Screenshot-2023-06-23-at-20.57.49-640x121.png 640w, ./../../../../wp-content/uploads/2023/06/Screenshot-2023-06-23-at-20.57.49-960x182.png 960w, ./../../../../wp-content/uploads/2023/06/Screenshot-2023-06-23-at-20.57.49.png 1298w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -704,7 +704,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="&quot;Onoe no Matsu&quot;  「尾上の松」:Tokumaru Jumei" width="640" height="360" src="https://www.youtube.com/embed/nwCuI3Xn7_E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="&quot;Onoe no Matsu&quot;  「尾上の松」:Tokumaru Jumei" width="640" height="360" src="https://www.youtube.com/embed/nwCuI3Xn7_E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -714,7 +714,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Soloists Of The Ensemble Nipponia ‎– Japan (Traditional Vocal &amp; Instrumental Music) [Full Album]" width="640" height="480" src="https://www.youtube.com/embed/4emogJU_pdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Soloists Of The Ensemble Nipponia ‎– Japan (Traditional Vocal &amp; Instrumental Music) [Full Album]" width="640" height="480" src="https://www.youtube.com/embed/4emogJU_pdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -947,23 +947,19 @@
 
 
 
-<p>In order to exist, music must have three participants: the composer, the performer, and the listener. They can be the same the person. Think of someone improvising in a piano. But the composer and the performer don&#8217;t need to be human. Think of a bird singing. However, the listener in this triad has to be human. A bird cannot say that it is listening to music. Only an human listener has the rational capability to identify the emotional impact of those sounds composed and performed by someone or something. Therefore, I believe that the definition of music has much more to do with the listener than the sound.</p>
-
-
-
 <p>In order for music to exist, it requires three essential participants: the composer, the performer, and the listener. Interestingly, these roles can sometimes be fulfilled by the same person. Think of a pianist improvising alone in a room. However, it&#8217;s important to note that the composer and performer don&#8217;t need to be exclusively human. Take the example of a bird joyfully singing its song. Yet, when it comes to the listener in this trio, it must be a human being. A bird cannot claim to be truly listening to music, as it lacks the rational capacity to understand the emotional impact behind the composition and performance. Only a human listener has the rational ability to identify and appreciate the emotional effect that those sounds, can have. Thus, I maintain that the definition of music is largely shaped by the listener rather than just by the sounds.</p>
 
 
 
-<p>Of course, it is fair to say that this definition could be challenged, considering that people who are deaf cannot physically hear music. However, they possess the remarkable ability to perceive and discern the presence of music through alternative means, such as vibrations. That is precisely why I intentionally used the term &#8220;listen&#8221; instead of &#8220;hear.&#8221; A deaf person can listen music by other meanings other than using their ears. </p>
+<p>Of course, it is fair to say that this definition could be challenged, considering that people who are deaf cannot physically hear music. However, they possess the remarkable ability to perceive and discern the presence of music through alternative means, such as vibrations. That is precisely why I intentionally used the term &#8220;listen&#8221; instead of &#8220;hear.&#8221; A deaf person can listen to music by other meanings other than using their ears. </p>
 
 
 
-<p>If I were to draft an analytical and impartial definition of music, it would state that music is a compilation of sounds crafted by a composer and executed by a performer, which holds emotional significance for a human listener.</p>
+<p>If I were to draft an analytical and impartial definition of music, it would say that music is a compilation of sounds crafted by a composer and executed by a performer, which holds emotional significance for a human listener.</p>
 
 
 
-<p>However, personally, I find myself drawn to a definition that carries a touch more spirit. Ultimately, I gravitate towards the perspective offered by Frank Zappa. I would say that music is anything that the listener decides it is music.</p>
+<p>However, personally, I find myself drawn to a definition that carries a touch more spirit. Ultimately, I gravitate towards the perspective offered by Frank Zappa. I would say that music is anything that the listener decides is music.</p>
 ]]></content:encoded>
 					
 		

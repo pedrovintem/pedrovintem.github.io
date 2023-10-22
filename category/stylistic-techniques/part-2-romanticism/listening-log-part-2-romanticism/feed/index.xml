@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>Listening to Franz Liszt &#8211; Les Préludes</title>
 		<link>./../../../../../listening-to-franz-liszt-les-preludes/index.html</link>
@@ -123,7 +123,7 @@
 					<description><![CDATA[Sonata in D Major, TWV 44:1 is a piece of Baroque music composed by the German composer Georg&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Georg Philipp Telemann - Trumpet Sonata in D major, TWV 44:1. Trumpet: Maurice André." width="640" height="360" src="https://www.youtube.com/embed/iUhXRvEPuC4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Georg Philipp Telemann - Trumpet Sonata in D major, TWV 44:1. Trumpet: Maurice André." width="640" height="360" src="https://www.youtube.com/embed/iUhXRvEPuC4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -273,7 +273,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Widmann: Viola Concerto ∙ hr-Sinfonieorchester ∙ Antoine Tamestit ∙ Andrés Orozco-Estrada" width="640" height="360" src="https://www.youtube.com/embed/_5WraTt_l_U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Widmann: Viola Concerto ∙ hr-Sinfonieorchester ∙ Antoine Tamestit ∙ Andrés Orozco-Estrada" width="640" height="360" src="https://www.youtube.com/embed/_5WraTt_l_U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 

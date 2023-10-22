@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>Research Point 3.2</title>
 		<link>./../../../../../research-point-3-2/index.html</link>
@@ -102,7 +102,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="547" src="./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-1024x547.png" alt="" class="wp-image-1209" srcset="./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-1024x547.png 1024w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-300x160.png 300w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-768x410.png 768w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-640x342.png 640w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-960x513.png 960w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29.png 1292w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Ritornello Theme</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="547" src="./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-1024x547.png" alt="" class="wp-image-1209" srcset="./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-1024x547.png 1024w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-300x160.png 300w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-768x410.png 768w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-640x342.png 640w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29-960x513.png 960w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.05.29.png 1292w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Ritornello Theme</figcaption></figure>
 
 
 
@@ -122,7 +122,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.20.07.png" alt="" class="wp-image-1210" width="445" height="304" srcset="./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.20.07.png 738w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.20.07-300x205.png 300w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.20.07-640x437.png 640w" sizes="(max-width: 445px) 100vw, 445px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.20.07.png" alt="" class="wp-image-1210" width="445" height="304" srcset="./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.20.07.png 738w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.20.07-300x205.png 300w, ./../../../../../wp-content/uploads/2023/01/Screenshot-2023-01-27-at-14.20.07-640x437.png 640w" sizes="(max-width: 445px) 100vw, 445px" /></figure>
 
 
 
@@ -146,7 +146,7 @@
 					<description><![CDATA[This sonata looks like a good example of Baroque music, characterized by its long melodic lines and ornamental&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Glenn Gould &amp; Yehudi Menuhin - Bach, Sonata No. 4 in C minor (OFFICIAL)" width="640" height="360" src="https://www.youtube.com/embed/Boii0EA6hWo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Glenn Gould &amp; Yehudi Menuhin - Bach, Sonata No. 4 in C minor (OFFICIAL)" width="640" height="360" src="https://www.youtube.com/embed/Boii0EA6hWo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
 
 

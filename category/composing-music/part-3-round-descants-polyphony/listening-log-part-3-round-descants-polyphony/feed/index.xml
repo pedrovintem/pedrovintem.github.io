@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>Listening &#038; Researching Polyphony</title>
 		<link>./../../../../../listening-researching-polyphony/index.html</link>
@@ -79,7 +79,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="April is in my Mistress&#039; face – Thomas Morley" width="640" height="360" src="https://www.youtube.com/embed/o4vE2lZWZVU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="April is in my Mistress&#039; face – Thomas Morley" width="640" height="360" src="https://www.youtube.com/embed/o4vE2lZWZVU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div><figcaption>Frank, D., 2009.&nbsp;<em>April is in my Mistress&#8217; face – Thomas Morley</em>.  Available at: &lt;https://www.youtube.com/watch?v=o4vE2lZWZVU&gt; [Accessed 1 October 2021].</figcaption></figure>
 
 
@@ -100,7 +100,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" src="./../../../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-1024x905.png" alt="" class="wp-image-456" width="320" height="282" srcset="./../../../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-1024x905.png 1024w, ./../../../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-300x265.png 300w, ./../../../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-768x679.png 768w, ./../../../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-640x566.png 640w, ./../../../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-960x849.png 960w, ./../../../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33.png 1054w" sizes="(max-width: 320px) 100vw, 320px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" fetchpriority="high" src="./../../../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-1024x905.png" alt="" class="wp-image-456" width="320" height="282" srcset="./../../../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-1024x905.png 1024w, ./../../../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-300x265.png 300w, ./../../../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-768x679.png 768w, ./../../../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-640x566.png 640w, ./../../../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33-960x849.png 960w, ./../../../../../wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.22.33.png 1054w" sizes="(max-width: 320px) 100vw, 320px" /></figure>
 
 
 
