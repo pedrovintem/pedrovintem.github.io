@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Sun, 22 Oct 2023 21:07:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Sep 2023 21:11:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,115 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
-		<title>Assignment 2</title>
-		<link>./../../../assignment-2-3/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Sun, 22 Oct 2023 21:07:31 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=1717</guid>
-
-					<description><![CDATA[Microtonal music doesn&#8217;t have a universally accepted definition. For example, The New Grove Dictionary of Music and Musicians&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>Microtonal music doesn&#8217;t have a universally accepted definition. For example, The New Grove Dictionary of Music and Musicians discusses microtones but not microtonal music (Ader, 2020). But it generally refers to using musical notes between the standard intervals.</p>
-
-
-
-<p>The lack of consensus may be because microtonality has wide applications &#8211; from subtle timbre changes to entirely new sounds challenging traditional concepts of harmony and melody. But what is true about it is that microtonal music has the potential to broaden music&#8217;s expressive range. Dividing tones into fractions under a semitone allows composers to create new harmonies, melodies, and textures, evoking more emotions and ideas, and accurately simulating non-Western music.</p>
-
-
-
-<p>It&#8217;s important to note that discussing microtonal music risks being too Western-centric. Equal temperament is the main tuning in Western popular music (Carlos, 1987). However, most world music, past and present, uses larger or smaller intervals than a semitone. Microtonality is integral to music cultures like Arab maqamat, African traditional, Indian classical shruti, Indonesian gamelan, Chinese, and more &#8211; each with unique tuning systems (Geer, 2014).</p>
-
-
-
-<p>The microtonality found in many traditional musical traditions is often intuitive, based on the natural harmonics of instruments and the human voice. In contrast, the development of microtonality in Western music in the early twentieth century was more theoretical and experimental.</p>
-
-
-
-<p>Ader defends that the fragmentation that occurred in the world of art during the early twentieth century was a major catalyst for the development of microtonality in music (2020). This was due to the breaking down of traditional forms in poetry and visual arts, which drove artists to explore the essence of their art forms, challenge conventions, and find new modes of expression. Poets began to focus on phonemes and sound, while visual artists dismantled traditional structures. This spirit of experimentation and focus on the most elemental components of an art form also inspired composers to explore microtonality.</p>
-
-
-
-<p>Several composers explored microtonality, including Ivan Wyschnegradsky, Ferruccio Busoni, Charles Ives, and Ben Johnston. Alois Hába, Harry Partch, and Julián Carrillo represent slightly different perspectives and are worth discussing further.</p>
-
-
-
-<p>Alois Hába (1893-1973), a Czech composer, teacher, and theorist, was a microtonal music pioneer. He grew up in Moravia, where he was influenced by local folk music and subsequently developed an interest in microtones (Forkert, 2020:79). Further encouraged by composers like Ferruccio Busoni and Hermann Scherchen, Hába created his own quarter-tone system, aiming to enhance tonality rather than replace it. As a teacher and theorist at the Prague Conservatoire, he educated many in microtonal composition and advocated for tonality preservation while using microtones. His compositions, including quartets, operas, and chamber music, blended tonal and microtonal elements in a distinct sound. His immense contribution to microtonal music influenced many composers, marking important milestones in 20th-century music.</p>
-
-
-
-<p>Harry Partch (1901-1974) was an American just intonation pioneer. Dissatisfied with the 12-tone equal temperament of Western classical music, he created his own 43-tone just intonation scale, which he believed better represented the full range of human emotions and experiences. He built unique instruments to perform his microtonal compositions. Partch composed various instrumental and vocal works, as well as large-scale music dramas that integrated music, movement, costumes, and theatrical elements. He invented his own notation system to represent the microtones in his music (The Editors of Encyclopaedia Britannica, no date). Although under-recognized in his time, Partch&#8217;s pioneering work in microtonality and instrument building has greatly influenced contemporary music.</p>
-
-
-
-<p>The Mexican composer Julián Carrillo (1875-1965) claimed to have discovered microtones in 1895 by dividing violin strings into sixteenths. However, he did not compose microtonal music until 1922 when he became aware of the European microtone scene. Carrillo then developed an elaborate microtonal system called Sonido 13 that divided the octave into quarter tones and smaller intervals. He promoted Sonido 13 as a revolutionary break from the 12-tone octave that would destroy existing music, in contrast to European composers who saw microtones as an extension of tradition. Carrillo also theorized his system extensively in books and articles, conducting tuning experiments on harps and making conclusions about harmonics and acoustics. Though often aggressive in tone, Carrillo&#8217;s writings laid out a systematic microtonal theory unmatched by his European contemporaries. With Sonido 13, Carrillo sought to assert Mexico&#8217;s claim over microtones against European musical dominance.</p>
-
-
-
-<p>The influence of pioneering composers in microtonality resonates through the years, extending into contemporary music. A notable instance is Paul Simon&#8217;s album &#8220;Stranger To Stranger,&#8221; which incorporated Harry Partch&#8217;s custom-made microtonal instrument collection.</p>
-
-
-
-<p>Contemporary composers, such as Horaţiu Rădulescu, Krzysztof Penderecki, and Ryo Noda, have significantly contributed to the assimilation of notated microtonality into the contemporary musical canon.</p>
-
-
-
-<p>Modern Western music has not forgotten microtonality, although it has long been used as an ornamental embellishment to add tension. The most familiar example is the bending of notes, where pitches often end up between the semitone intervals, creating microtones. A more recent example is Hans Zimmer&#8217;s use of microtonal string glissandos in the Joker&#8217;s theme for The Dark Knight soundtrack. The strings rise through several microtones between chromatic pitches, creating an extremely unsettling sound. A similar microtonal string effect occurs at the end of Radiohead&#8217;s &#8220;How to Disappear Completely.&#8221;</p>
-
-
-
-<p>Although temperament and expanded tunings were not historically adopted by pop and rock musicians, often avoiding them in favour of heavy pitch correction with auto-tune, there has been a recent surge in interest from modern artists. Dua Lipa, Sza, Jacob Collier, King Gizzard and the Lizard Wizard, and They Might Be Giants have incorporated microtones into their music, pushing the boundaries of pop, rock, and electronica.</p>
-
-
-
-<p>Technology has played a pivotal role in pushing microtonality into the forefront of music. Software like Ableton Live has made it easier to integrate microtonal tunings (Hart, 2016). This has led many microtonal EDM musicians to craft their own tunings, seeking new intervals and sonorities beyond conventional tuning systems.</p>
-
-
-
-<p>Ultimately, microtonal music has the potential to enlarge the expressive potential of music by adding finer nuances and more complex language. By dividing the usual Western twelve-tone scale into smaller intervals it is possible to arrive at new harmonies and melodies unavailable within the common system. This creates more varied emotional expressions and new sound textures and colours. Microtonality can have a parallel with the unquantized percussion that revolutionized the 90&#8217;s hip-hop. It is a way to go against the listeners&#8217; expectations and can create a sense of tension and release that is different from what is possible within the traditional Western system.</p>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1697838934993 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Ader, L. (2020) &#8216;Introduction to Microtonal Music,&#8217; <em>Microtonal Music in Central and Eastern Europe: Historical Outlines and Current Practices</em>, p. 13. https://doi.org/10.4312/9789610603122.</p>
-
-
-
-<p>Carlos, W. (1987) &#8216;Tuning: At the crossroads,&#8217; <em>Computer Music Journal</em>, 11(1), pp. 29–43. https://doi.org/10.2307/1513182.<br></p>
-
-
-
-<p>Geer, G.P. (2014) &#8216;Microtonal music and its relationship to historical practice&#8217;<br>Retrieved from http://www.academia.edu/6811911/Microtonal_Music_and_<br>its_ Relationship_to_ Historical_Practice</p>
-
-
-
-<p>Forkert, A. (2020) &#8216;Microtonal Restraint,&#8217; <em>Journal of the Royal Musical Association</em>, Cambridge University Press, 145(1), pp. 75–118.</p>
-
-
-
-<p>The Editors of Encyclopaedia Britannica (no date) &#8216;Harry Partch | microtonal music, experimental instruments, avant-garde composer,&#8217; <em>Encyclopedia Britannica</em>. https://www.britannica.com/biography/Harry-Partch (Accessed: October 22, 2023).</p>
-
-
-
-<p>Hart, A.C. (2016) &#8216;Microtonal Tunings in Electronic Dance Music: A Survey of Precedent and Potential,&#8217; <em>Contemporary Music Review</em>, 35(2), pp. 242–262. https://doi.org/10.1080/07494467.2016.1221635.</p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Exercise Considering chance and serial music</title>
 		<link>./../../../exercise-considering-chance-and-serial-music/index.html</link>
 		

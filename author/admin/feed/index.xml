@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Sun, 22 Oct 2023 21:07:31 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Oct 2023 22:46:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,12 +20,69 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
+		<title>Reflection</title>
+		<link>./../../../reflection/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Mon, 23 Oct 2023 21:13:58 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[From Present to Past]]></category>
+		<category><![CDATA[Part 2 Twentieth-century Music]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1759</guid>
+
+					<description><![CDATA[This part of the course was challenging, but the end result made it all worth it. I never&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>This part of the course was challenging, but the end result made it all worth it. I never expected to spend so much time on it, especially since I have a full-time job and two young children. However, I can’t say that I regret the time spent because it was well worth it.</p>
+
+
+
+<p>One of the most interesting aspects of this part was studying how composers in the 20th century started breaking the established conventions of tonality and harmony. It’s also interesting to see how this connects to major events like the World Wars.</p>
+
+
+
+<p>Most of my time was spent diving deep into research for this assignment. I followed the advice of choosing a style that I was not familiar with, so I decided to focus on microtonal music. Surprisingly enough, I enjoyed learning about this style even though it challenged every notion and expectation that I had about its music.</p>
+
+
+
+<p>For my research, I had one big question in mind for this assignment. How does microtonality improve the expressiveness of music? And the answer is clear: microtonality gives composers a wider range of pitches and harmonies to use. The effect is a more nuanced feel that’ll create diverse musical effects. It’s almost as if you gave a painter an even bigger palette of colours. Essentially, it allows music to have stronger emotions and meanings.</p>
+
+
+
+<p>In my assignment, I think I was able to present my findings in an easy way to understand. However, I think there’s definitely still more to learn about this topic that wasn’t covered here. One thing is for sure, microtonalist composers liked to use this as a way to explore new ways of expression. And we can definitely see that in their work ranging from Carrillo to Collier.</p>
+
+
+
+<p>For me, the biggest discovery was the connection between microtonality and the human voice. As Partch demonstrated in his opera King Oedipus, microtonality can capture the natural inflexions and variations of the voice that aren&#8217;t limited to 12 tones. This makes it a powerful tool for expressing human emotion and experience.</p>
+
+
+
+<p>One question that still lingers in my mind is: is microtonal music a style or technique? On one hand, there are complete musical pieces composed entirely with microtonal intervals which suggests that microtonality is a distinctive style. Then, on the other hand, I learned that it can be used in any genre or style as an expressive tool. Maybe it’s both depending on how it’s applied and perceived.</p>
+
+
+
+<p>In conclusion, I think this research was valuable because I was able to appreciate and understand microtonal music better. Plus, it inspired me to try composing my own music using microtonal intervals. Which should be easier with today&#8217;s technology.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Assignment 2</title>
 		<link>./../../../assignment-2-3/index.html</link>
 		
 		<dc:creator><![CDATA[Pedro]]></dc:creator>
 		<pubDate>Sun, 22 Oct 2023 21:07:31 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[From Present to Past]]></category>
+		<category><![CDATA[Part 2 Twentieth-century Music]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=1717</guid>
 
 					<description><![CDATA[Microtonal music doesn&#8217;t have a universally accepted definition. For example, The New Grove Dictionary of Music and Musicians&#8230;]]></description>
@@ -58,7 +115,7 @@
 
 
 
-<p>Harry Partch (1901-1974) was an American just intonation pioneer. Dissatisfied with the 12-tone equal temperament of Western classical music, he created his own 43-tone just intonation scale, which he believed better represented the full range of human emotions and experiences. He built unique instruments to perform his microtonal compositions. Partch composed various instrumental and vocal works, as well as large-scale music dramas that integrated music, movement, costumes, and theatrical elements. He invented his own notation system to represent the microtones in his music (The Editors of Encyclopaedia Britannica, no date). Although under-recognized in his time, Partch&#8217;s pioneering work in microtonality and instrument building has greatly influenced contemporary music.</p>
+<p>Harry Partch (1901-1974) was an American just intonation pioneer. He was inspired by a German physicist’s book, leading him to create over 30 custom instruments for a 43-note octave scale, compared to the conventional 12-note. His pursuit led him to create over 30 custom musical instruments capable of producing a scale with an impressive 43 notes per octave, a significant departure from the conventional 12-note octave found on the piano. He invented his own notation system to represent the microtones in his music (The Editors of Encyclopaedia Britannica, no date). Partch’s motivation was to emulate the fluidity and expressive range of the human voice, which he believed was inadequately represented by traditional scales. Throughout his life, Partch remained dedicated to pushing the boundaries of music, challenging established norms, and exploring the untapped potential of sound. His enduring legacy is preserved at institutions like the Harry Partch Institute at the University of Washington, where musicians and enthusiasts continue to study, perform, and even recreate his innovative instruments.</p>
 
 
 
@@ -86,7 +143,7 @@
 
 
 
-<p>Ultimately, microtonal music has the potential to enlarge the expressive potential of music by adding finer nuances and more complex language. By dividing the usual Western twelve-tone scale into smaller intervals it is possible to arrive at new harmonies and melodies unavailable within the common system. This creates more varied emotional expressions and new sound textures and colours. Microtonality can have a parallel with the unquantized percussion that revolutionized the 90&#8217;s hip-hop. It is a way to go against the listeners&#8217; expectations and can create a sense of tension and release that is different from what is possible within the traditional Western system.</p>
+<p>Ultimately, microtonal music has the potential to enlarge the expressive potential of music by adding finer nuances and more complex language. By dividing the usual Western twelve-tone scale into smaller intervals it is possible to arrive at new harmonies and melodies unavailable within the common system. This creates more varied emotional expressions and new sound textures and colours. Comparable to how unquantized percussion revolutionised hip-hop in the 1990s, microtonality can contradict listeners&#8217; assumptions, creating tension and release different from what is possible within the established Western system.</p>
 
 
 
@@ -110,7 +167,7 @@
 
 
 
-<p>Forkert, A. (2020) &#8216;Microtonal Restraint,&#8217; <em>Journal of the Royal Musical Association</em>, Cambridge University Press, 145(1), pp. 75–118.</p>
+<p>Forkert, A. (2020) &#8216;Microtonal Restraint,&#8217;&nbsp;<em>Journal of the Royal Musical Association</em>, Cambridge University Press, 145(1), pp. 75–118.</p>
 
 
 
@@ -123,6 +180,243 @@
 
 
 <p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Harry Partch &#8211; Sonata Dementia</title>
+		<link>./../../../listening-to-harry-partch-sonata-dementia/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2023 20:01:33 +0000</pubDate>
+				<category><![CDATA[From Present to Past]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Twentieth-century Music]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1728</guid>
+
+					<description><![CDATA[I must admit, prior to this, I was unfamiliar with Partch so this is my initial experience listening&#8230;]]></description>
+										<content:encoded><![CDATA[
+<ul></ul>
+
+
+
+<p>I must admit, prior to this, I was unfamiliar with Partch so this is my initial experience listening to any of his compositions. Partch was indeed a uniquely creative artist, as he was known for not only inventing his own musical instruments but also scoring his compositions for a 43-tone scale unique to these instruments.</p>
+
+
+
+<p>Despite being created over 70 years ago (1950), this piece remains surprisingly fresh and innovative. The composition is marked by its distinct sound, thanks to the use of Partch&#8217;s own instruments like the Bass Marimba and the Hypobass.</p>
+
+
+
+<p>Although the microtonal melodies and harmonies of the piece often sounded to me as dissonant and jarring, it&#8217;s the unsettling sound contrasted with the comical visual of the instruments that makes it so unique. The sonata is a satirical work going into themes of madness, delusion, and paranoia.</p>
+
+
+
+<p>This composition thoroughly blends humour and lightness with hints of darker territories. The lyrics of the piece might seem nonsensical on the surface, but they carry potential interpretations concerning the human condition.</p>
+
+
+
+<p>Listening to &#8216;Sonata Dementia&#8217; is a challenging experience. The microtonality might initially seem daunting, but it may not be as intricate as expected. The initial dissonance from the 43-tone scale, which might seem hard to accept at first, gradually becomes more harmonic and natural as the pieces develop.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Harry Partch: SONATA DEMENTIA (1950)" width="640" height="360" src="https://www.youtube.com/embed/qZybJAEPu18?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Harry Partch &#8211; King Oedipus</title>
+		<link>./../../../listening-to-harry-partch-king-oedipus/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2023 21:36:30 +0000</pubDate>
+				<category><![CDATA[From Present to Past]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Twentieth-century Music]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1731</guid>
+
+					<description><![CDATA[I recently listened to some parts of King Oedipus, an opera composed by Harry Partch. I was drawn&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>I recently listened to some parts of King Oedipus, an opera composed by Harry Partch. I was drawn to listen to it because of the information about how Partch started to dive into microtonality, as it more closely resembles the natural human voice. This actually makes total sense for opera. People don&#8217;t speak in 12 semitones, but actually in hundreds of microtones and opera relies heavily on the expression of the voice. As I listened to King Oedipus, I noticed how the voices sounded more like speech than singing.&nbsp;</p>
+
+
+
+<p>Partch&#8217;s music for King Oedipus is a unique blend of microtonality, percussion, and spoken word. The voices sound more natural, not sung, but spoken. The instruments follow the vocals and strangely don&#8217;t sound as strange as they do in other microtonal pieces by Partch. The microtonality allows the voices to more closely match natural speech patterns, rather than conforming to the 12 notes of standard Western music. I enjoyed listening to King Oedipus, even though I did not hear the whole opera. It was a refreshing and stimulating experience that opened my ears to new possibilities of musical expression.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="HARRY PARTCH - King Oedipus 1952 (Audio)" width="640" height="480" src="https://www.youtube.com/embed/V2jHtfk2ljM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Julian Carrillo &#8211; Seis casi-sonatas en cuartos de tono para violoncello solo</title>
+		<link>./../../../listening-to-julian-carrillo-seis-casi-sonatas-en-cuartos-de-tono-para-violoncello-solo/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Mon, 16 Oct 2023 21:13:03 +0000</pubDate>
+				<category><![CDATA[From Present to Past]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Twentieth-century Music]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1754</guid>
+
+					<description><![CDATA[Julian Carrillo&#8217;s Seis casi-sonatas en cuartos de tono para violoncello solo, performed by Gerardo Gimenez Cacho, offers a&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Julian Carrillo&#8217;s Seis casi-sonatas en cuartos de tono para violoncello solo, performed by Gerardo Gimenez Cacho, offers a fascinating glimpse into the expressive potential of microtonal music. As someone accustomed to the familiar 12-tone equal temperament of Western classical music, I found these quarter-tone sonatas surprisingly easy to listen to and appreciate. The solo cello format helps make the microtones feel intimate rather than jarring.</p>
+
+
+
+<p>With these sonatas, I could understand how dividing the octave into smaller intervals can open up new sonic palettes and colours. Microtonality provides the performer access to the &#8220;cracks between the keys&#8221; &#8211; those poignant notes that float between our conventional Western pitches. The cello seems to emote in ways that would be impossible with merely 12 notes.</p>
+
+
+
+<p>I cannot imagine how difficult these pieces must be to perform well, given the challenge of precisely nailing pitches outside of the equal temperament celloists spend years mastering. The skill demonstrated in this recording is hugely impressive.</p>
+
+
+
+<p>Occasionally the quarter tones sound somewhat unsettling, but more often I found they enhanced the cello&#8217;s innate expressiveness. For example, the aching melody in the third movement of Sonata No. 4 attains an extra sadness from its microtonal sounds. The result is something simultaneously familiar and novel.</p>
+
+
+
+<p>The quarter tones may initially sound like &#8220;out of tune&#8221; notes, but one&#8217;s ear quickly adjusts, and their emotional resonance becomes apparent. Julian Carrillo has created a compelling showcase for the cello as an instrument of uncommon subtlety. Even for listeners new to microtonality, these Casi-sonatas offer an accessible and rewarding introduction.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Jacob Collier &#8211; In The Bleak Midwinter</title>
+		<link>./../../../listening-to-jacob-collier-in-the-bleak-midwinter/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Sat, 14 Oct 2023 20:37:04 +0000</pubDate>
+				<category><![CDATA[From Present to Past]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Twentieth-century Music]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1748</guid>
+
+					<description><![CDATA[Listening to Jacob Collier&#8217;s &#8220;In The Bleak Midwinter&#8221; was an enlightening experience for me as I researched microtonality&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Listening to Jacob Collier&#8217;s &#8220;In The Bleak Midwinter&#8221; was an enlightening experience for me as I researched microtonality in modern music. As one of the most talented young musicians today, Collier&#8217;s ingenious use of microtones immediately drew me in. The track begins deceivingly simple but slowly builds in complexity. At one point, Collier modulates to what sounds like a G#. However, with microtonal inflexions, he has actually modulated to the key of G half-sharp major &#8211; something I did not detect on the first listen! The modulation is brilliantly executed, such that the music flows seamlessly.  I had to understand how he modulated and David Bruce helped me on that.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How to Modulate to G 1/2 Sharp (Jacob Collier-style)" width="640" height="360" src="https://www.youtube.com/embed/Xd54l8gfi7M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>As I re-listened and focused on the microtonal shift, I better appreciated Collier&#8217;s technical mastery and innovative musicality. &#8220;In The Bleak Midwinter&#8221; proves he is not just one of the best musicians of our time, but one boldly expanding the boundaries of Western music.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="In The Bleak Midwinter - Jacob Collier" width="640" height="360" src="https://www.youtube.com/embed/mPZn4x3uOac?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Radiohead &#8211; How to Disappear Completely</title>
+		<link>./../../../listening-to-radiohead-how-to-disappear-completely/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Thu, 12 Oct 2023 20:17:59 +0000</pubDate>
+				<category><![CDATA[From Present to Past]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Twentieth-century Music]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1745</guid>
+
+					<description><![CDATA[Radiohead is not a band that I particularly enjoy listening to, but I decided to listen to How&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Radiohead is not a band that I particularly enjoy listening to, but I decided to listen to How to Disappear Completely to hear its use of microtonality. </p>
+
+
+
+<p>The song starts off with a simple guitar and Thom Yorke&#8217;s falsetto vocals, nothing too unusual for a Radiohead track. The lyrics are vague and ambiguous, but they convey a sense of detachment and dissociation from reality. The song gradually builds up with layers of orchestral strings, guitar effects, and electronic sounds, creating a rich and complex sonic landscape. About two-thirds of the way through, the strings come in playing microtonal intervals that clash with the conventional instrumentation. These non-standard pitches on the strings create an unsettling, tense atmosphere contrasting with the dreamy opening section. The microtonal strings sound almost like they&#8217;re playing a separate song altogether, weaving an anxious counter-melody against the main chords. </p>
+
+
+
+<p>This incoherent effect highlights Yorke&#8217;s lyrics about feeling disconnected from reality. While Radiohead isn&#8217;t my go-to band, I found &#8220;How to Disappear Completely&#8221; an interesting song with the use of microtonality to convey emotional dissociation in music.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Charles Ives &#8211;  Three Quarter Tone Pieces for Two Pianos</title>
+		<link>./../../../listening-to-charles-ives-three-quarter-tone-pieces-for-two-pianos/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Wed, 11 Oct 2023 20:56:55 +0000</pubDate>
+				<category><![CDATA[From Present to Past]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Twentieth-century Music]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1740</guid>
+
+					<description><![CDATA[I enjoyed Ives&#8217; Three Quarter Tone Pieces for Two Pianos more than Hába&#8217;s quarter-tone sonata. The interplay between&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>I enjoyed Ives&#8217; Three Quarter Tone Pieces for Two Pianos more than Hába&#8217;s quarter-tone sonata. The interplay between the two pianos tuned a quarter tone apart, creates an intriguing sense of conversation. One piano is tuned to standard western 12-tone equal temperament, while the other uses quarter tones. At first, they both sound out of tune, which has a quirky, childlike quality. But at moments they harmonize in an unconventional way that sounds oddly &#8220;in tune.&#8221;</p>
+
+
+
+<p>As I kept listening, I began to familiarize myself with the microtonal language. The quarter tones initially sound discordantly unfamiliar, but gradually become interesting as my ears adapt. Although the microtonal effect hasn&#8217;t become conventionally pleasing to my ears accustomed to the 12-note scale, I can recognize the inventive nature and derive pleasure from the music on its own merits.</p>
+
+
+
+<p>Overall, the quarter-tone pieces demonstrate that microtonality is an acquired taste that requires time to appreciate. The outcome is a captivating sound that I can find enjoyable, even though it hasn&#8217;t fully convinced me.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="IVES Three Quarter Tone Pieces for Two Pianos w/ TMC Fellows" width="640" height="360" src="https://www.youtube.com/embed/wwj8mTiZi8o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Alois Hába &#8211;  Sonata for quarter-tone piano, op.62</title>
+		<link>./../../../listening-to-alois-haba-sonata-for-quarter-tone-piano-op-62/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Tue, 10 Oct 2023 20:14:41 +0000</pubDate>
+				<category><![CDATA[From Present to Past]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Twentieth-century Music]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1736</guid>
+
+					<description><![CDATA[Strange is the first word that comes to my mind when listening to Hába&#8217;s Sonata for Quarter-Tone Piano,&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Strange is the first word that comes to my mind when listening to Hába&#8217;s Sonata for Quarter-Tone Piano, Op. 62. After researching microtonality, I&#8217;ve come to enjoy the concept and composers&#8217; reasons for exploring it. But the truth is my ears are so accustomed to the 12-semitone scale that I initially find microtonal music weird. Recent examples in rock and jazz, like King Gizzard and Jacob Collier, are growing on me. Yet even in the slower, more lyrical second movement of Hába&#8217;s sonata, I struggle to fully appreciate the quarter tones. </p>
+
+
+
+<p>Making an effort to keep an open mind, I can sense the pioneering spirit of discovery in Hába’s quarter-tone innovations. They impart an otherworldly, dreamlike quality as my ear gradually adjusts. But my long familiarity with 12-tone equal temperament means microtones continue to sound strange at first, even as I recognize their creative possibilities. However, after listening to it more carefully, I started to notice there&#8217;s some beauty and subtlety of the quarter tones. The sonata has a lot of variation and contrast that I can see me appreciating it the more I listen to it.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Alois Hába: Sonata for quarter tone piano, op.62 (1946/1947)" width="640" height="480" src="https://www.youtube.com/embed/FDs7ve1uGbg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><a href="https://bard.google.com/" target="_blank"></a></p>
 ]]></content:encoded>
 					
 		
@@ -149,7 +443,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="795" height="1024" src="./../../../wp-content/uploads/2023/10/image-1-795x1024.png" alt="" class="wp-image-1707" srcset="./../../../wp-content/uploads/2023/10/image-1-795x1024.png 795w, ./../../../wp-content/uploads/2023/10/image-1-233x300.png 233w, ./../../../wp-content/uploads/2023/10/image-1-768x990.png 768w, ./../../../wp-content/uploads/2023/10/image-1-300x387.png 300w, ./../../../wp-content/uploads/2023/10/image-1-640x825.png 640w, ./../../../wp-content/uploads/2023/10/image-1.png 838w" sizes="(max-width: 795px) 100vw, 795px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="795" height="1024" src="./../../../wp-content/uploads/2023/10/image-1-795x1024.png" alt="" class="wp-image-1707" srcset="./../../../wp-content/uploads/2023/10/image-1-795x1024.png 795w, ./../../../wp-content/uploads/2023/10/image-1-233x300.png 233w, ./../../../wp-content/uploads/2023/10/image-1-768x990.png 768w, ./../../../wp-content/uploads/2023/10/image-1-300x387.png 300w, ./../../../wp-content/uploads/2023/10/image-1-640x825.png 640w, ./../../../wp-content/uploads/2023/10/image-1.png 838w" sizes="(max-width: 795px) 100vw, 795px" /></figure>
 
 
 
@@ -157,7 +451,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="850" height="253" src="./../../../wp-content/uploads/2023/10/image-2.png" alt="" class="wp-image-1709" srcset="./../../../wp-content/uploads/2023/10/image-2.png 850w, ./../../../wp-content/uploads/2023/10/image-2-300x89.png 300w, ./../../../wp-content/uploads/2023/10/image-2-768x229.png 768w, ./../../../wp-content/uploads/2023/10/image-2-640x190.png 640w" sizes="(max-width: 850px) 100vw, 850px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="850" height="253" src="./../../../wp-content/uploads/2023/10/image-2.png" alt="" class="wp-image-1709" srcset="./../../../wp-content/uploads/2023/10/image-2.png 850w, ./../../../wp-content/uploads/2023/10/image-2-300x89.png 300w, ./../../../wp-content/uploads/2023/10/image-2-768x229.png 768w, ./../../../wp-content/uploads/2023/10/image-2-640x190.png 640w" sizes="(max-width: 850px) 100vw, 850px" /></figure>
 
 
 
@@ -165,7 +459,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="639" src="./../../../wp-content/uploads/2023/10/image-4-1024x639.png" alt="" class="wp-image-1711" srcset="./../../../wp-content/uploads/2023/10/image-4-1024x639.png 1024w, ./../../../wp-content/uploads/2023/10/image-4-300x187.png 300w, ./../../../wp-content/uploads/2023/10/image-4-768x479.png 768w, ./../../../wp-content/uploads/2023/10/image-4-1536x958.png 1536w, ./../../../wp-content/uploads/2023/10/image-4-2048x1278.png 2048w, ./../../../wp-content/uploads/2023/10/image-4-640x399.png 640w, ./../../../wp-content/uploads/2023/10/image-4-960x599.png 960w, ./../../../wp-content/uploads/2023/10/image-4.png 2436w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="639" src="./../../../wp-content/uploads/2023/10/image-4-1024x639.png" alt="" class="wp-image-1711" srcset="./../../../wp-content/uploads/2023/10/image-4-1024x639.png 1024w, ./../../../wp-content/uploads/2023/10/image-4-300x187.png 300w, ./../../../wp-content/uploads/2023/10/image-4-768x479.png 768w, ./../../../wp-content/uploads/2023/10/image-4-1536x958.png 1536w, ./../../../wp-content/uploads/2023/10/image-4-2048x1278.png 2048w, ./../../../wp-content/uploads/2023/10/image-4-640x399.png 640w, ./../../../wp-content/uploads/2023/10/image-4-960x599.png 960w, ./../../../wp-content/uploads/2023/10/image-4.png 2436w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -202,6 +496,37 @@
 
 
 <p>Hall, S. (2022) <em>Graphic Scores explained &#8211; Saffron Hall</em>. https://www.saffronhall.com/articles/graphic-scores-explained (Accessed: October 7, 2023).</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Greta Van Fleet &#8211; Light My Love</title>
+		<link>./../../../listening-to-greta-van-fleet-light-my-love/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Fri, 29 Sep 2023 20:20:34 +0000</pubDate>
+				<category><![CDATA[From Present to Past]]></category>
+		<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Part 2 Twentieth-century Music]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1751</guid>
+
+					<description><![CDATA[As a Led Zeppelin fan, I was eager to check out the band Greta Van Fleet after a&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>As a Led Zeppelin fan, I was eager to check out the band Greta Van Fleet after a friend&#8217;s recommendation. While I enjoyed several of their retro-rock tracks that pay homage to Zeppelin&#8217;s classic sound, the song &#8220;Light My Love&#8221; stood out as my favourite.</p>
+
+
+
+<p>The piano melody at the start sets up an interesting intro, but after a few bars, the song explodes into a full-on rock explosion. The lead singer, Josh Kiszka, has a voice that sounds remarkably similar to the legendary Robert Plant &#8211; soaring and crystalline one moment, then shifting into joyful wails that drive the energy ever higher.</p>
+
+
+
+<p>Though the chorus repeats in typical pop fashion, the anthemic sound of guitars and drums keeps it from being repetitive. Kiszka unleashes some spectacular high screams that electrify the lyrics. Overall, while Greta Van Fleet wears their influences proudly, &#8220;Light My Love&#8221; shows they can also craft an exhilarating retro-rock song that stands on its own. For a Led Zeppelin fan like me, it left me eager to hear more from this talented young band.</p>
 
 
 
@@ -6948,926 +7273,6 @@
 
 
 <figure class="wp-block-table"><table><tbody><tr><td><strong>English</strong></td><td><strong>Italian</strong></td><td><strong>German</strong></td><td><strong>French</strong></td></tr><tr><td>Piccolo</td><td>Flauto piccolo or Ottavino</td><td>Kleine Flote</td><td>Petite Flute</td></tr><tr><td>Flute</td><td>Flauto</td><td>Flote or Grosse Flote</td><td>Flute or Grande Flute</td></tr><tr><td>Oboe</td><td>Oboe</td><td>Hoboe</td><td>Hautbois</td></tr><tr><td>English Horn</td><td>Corno Inglese</td><td>Englischhorn</td><td>Cor Anglais</td></tr><tr><td>Clarinet</td><td>Clarinetto</td><td>Klarinette</td><td>Clarinette</td></tr><tr><td>Bass Clarinet</td><td>Clarinetto basso</td><td>Bassklarinette</td><td>Clarinette basse</td></tr><tr><td>Bassoon</td><td>Fagotto</td><td>Fagott</td><td>Basson</td></tr><tr><td>Contrabassoon</td><td>Contrafagotto</td><td>Kontrafagott</td><td>Contrebasson</td></tr><tr><td>Horn or French Horn</td><td>Corno</td><td>Horn/Horner</td><td>Cor</td></tr><tr><td>Trumpet</td><td>Tromba</td><td>Trompete</td><td>Trompette</td></tr><tr><td>Trombone</td><td>Trombone</td><td>Posaune</td><td>Trombone</td></tr><tr><td>Tuba</td><td>Tuba</td><td>Tuba</td><td>Tuba</td></tr><tr><td>Kettle drums</td><td>Timpani</td><td>Pauken</td><td>Timbales</td></tr><tr><td>Triangle</td><td>Triangolo</td><td>Triangel</td><td>Triangle</td></tr><tr><td>Cymbals</td><td>Piatti/Cinelli</td><td>Becken</td><td>Cymbales</td></tr><tr><td>Glockenspiel</td><td>Campanelli</td><td>Glockenspiel</td><td>Jeu de timbres or Carillon</td></tr><tr><td>Harp</td><td>Arpa</td><td>Harfe</td><td>Harpe</td></tr><tr><td>Violin</td><td>Violino</td><td>Violine</td><td>Violon</td></tr><tr><td>Viola</td><td>Viola</td><td>Bratsche</td><td>Alto</td></tr><tr><td>Cello</td><td>Violoncello</td><td>Violoncello</td><td>Violoncelle</td></tr><tr><td>Contrabass</td><td>Contrabasso or Basso</td><td>Kontrabass</td><td>Contrebasse</td></tr></tbody></table></figure>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Assignment 1 &#8211; Part 2</title>
-		<link>./../../../assignment-1-part-2/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 11:56:54 +0000</pubDate>
-				<category><![CDATA[Assignments]]></category>
-		<category><![CDATA[Part 1 Renaissance period]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=918</guid>
-
-					<description><![CDATA[The more constraints one imposes, the more one frees one’s self… Igor Stravinsky Upon reading Stravinsky&#8217;s quote, I&#8230;]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-pullquote"><blockquote><p>The more constraints one imposes, the more one frees one’s self…</p><cite>Igor Stravinsky</cite></blockquote></figure>
-
-
-
-<div class="cnvs-block-collapsibles cnvs-block-collapsibles-1665568827549 cnvs-block-collapsibles-2" >
-	
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1665568827584" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="click-to-read-the-briefing" class="cnvs-block-collapsible-heading">
-			<a href="#">Click to read the briefing</a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-		
-
-<p>The 20th Century composer Igor Stravinsky (1882-1971), who himself was a connoisseur of music from previous periods, gave this quote as part of a series of lectures he gave at Harvard University in 1939. Drawing on your own thoughts and experience, and clearly referring to the four points below as well as developing ideas of your own, write 500 words discussing Stravinsky’s phrase from the point of view of rules in music. Try to explore your ideas as far as you can &#8211; especially the ones that are particularly important to you.</p>
-
-
-
-<ul>
-<li>Did you find strategies to cope with the rules outlined in this chapter?</li>
-
-
-
-<li>What steps could you take to learn writing 16th Century counterpoint?</li>
-
-
-
-<li>What qualities do you think the strictness of 16th Century compositional technique brings to the music?</li>
-
-
-
-<li>Discuss the value of rules in composing and performing music.</li>
-</ul>
-
-	</div>
-</div>
-
-
-<div class="cnvs-block-collapsible cnvs-block-collapsible-1665568827587" >
-	<div class="cnvs-block-collapsible-title">
-		<h6 id="" class="cnvs-block-collapsible-heading">
-			<a href="#"></a>
-		</h6>
-	</div>
-	<div class="cnvs-block-collapsible-content">
-			</div>
-</div>
-
-</div>
-
-
-
-<h2 id="reflection" class="cnvs-block-section-heading cnvs-block-section-heading-1665573513657 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>Reflection</span>
-	</span>
-</h2>
-
-
-
-<p>Upon reading Stravinsky&#8217;s quote, I understood it quite intuitively. Due to my advertising background, most of the creative challenges I faced had constraints, so this subject is dear to me. In my experience, it was the &#8220;open challenges,&#8221; those without boundaries or limitations, that were the hardest to overcome.</p>
-
-
-
-<p>Considering I could explore the theme more, the 500-word limit felt a bit short to me. There is a lot to discuss about rules&#8217; effectiveness, human bodies and instruments as extrinsic limitations, rules&#8217; roles in AI music composition, and if there is a right amount of restriction that promotes creativity. Nevertheless, I realized that a 500-word essay about constraints needs a constraint, so I summarized my main points.</p>
-
-
-
-<p>Throughout this essay, the word &#8220;constraint&#8221; can take on many forms, such as &#8220;rule&#8221;, &#8220;limit&#8221;, or &#8220;boundary&#8221;. In most cases, however, the meaning remains the same. A set of extrinsic and intrinsic restraints that an artist is confronted with when using a creative medium.</p>
-
-
-
-<h2 id="essay" class="cnvs-block-section-heading cnvs-block-section-heading-1665488971808 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>Essay</span>
-	</span>
-</h2>
-
-
-
-<p>In this quote, apart from playing with paradoxical word use, Stravinsky was saying that all creativity revolves around solving problems (<meta charset="utf-8">Harnad et al., 2008). I believe he was arguing that for creativity to reach its full potential, there must be some tension that calls for resolution. Many artists, including Mozart (Blanning, 2016), Frank Gehry (Hereld, 2013), and John Stweart (NPR, 2015), have defended the same position. Constraints and problems are essential for artists so that they can find solutions that will produce knowledge.</p>
-
-
-
-<p>What artists develop within these limitations and rules depends on their goals and skills. Beethoven broke them (Page, 2019). Gesualdo bent them (Ross, 2011). John Cage created new ones (Savenko, 2021). However, one thing unites them all. Each of them mastered the rules before creating beyond them.</p>
-
-
-
-<p>Even when one considers musical genres in addition to musicians, it becomes apparent that they too need rules. New musical genres are created when &#8220;socially accepted rules&#8221; are set over the traditional ones (Fabbri, 1980). There is always a cycle: established rules are mastered; then they are questioned; then new rules are developed.</p>
-
-
-
-<p>This was evident when monophonic masses were replaced by polyphonic ones. It was a breaking of the rules of a single melodic line that led to the establishment of new rules by the church at the Trent Council and mastered by Palestrina (Monson, 2002). During the 16th Century, these formal rules led to a strictness in compositional technique, which ultimately led to not only a controlled, contemplative, and accessible sound, but also one that was predictable and standardized. By no means am I arguing that the rules were demeaning the music, but they were purely a necessity for the Church to standardize music during the Renaissance (Mock, 2017), which was a time of profound creative and cultural shifts.</p>
-
-
-
-<p>To assist composers in learning these contrapuntal compositional techniques of the 16th Century, Johann-Joseph Fux authored in 1725 the Gradus ad Parnassum, during a time when composers refused &#8220;to be bound by any rules or principles&#8221; (Fux et al., 1971). They are known as species counterpoint and have been a part of the learning of Mozart, Beethoven and Haydn (Norman, nd) and my own learning as well.</p>
-
-
-
-<p>To learn and implement these rules, I found it most helpful to understand the &#8220;why&#8221; behind them. For example, understanding why consecutive fifths and octaves, and unison passages can render the music too dull and boring makes it easier to remember than simply telling me &#8220;do not use successive fifths and octaves, or unison passages&#8221;. As well as this, I relied on the progressive learning method, where one learns by doing (Kennedy, 2019). This made learning easier by increasing the difficulty one step at a time and letting my mind become accustomed to the rules as I progressed.</p>
-
-
-
-<p>Ultimately, the rules and constraints proved to be beneficial to me, as they helped me learn different harmonization and melodic concepts, and proved effective since I was able to compose much faster than I would without them. They also proved useful in helping me become more creative as I learned to solve some musical problems and maybe even come up with new ones in the future.</p>
-
-
-
-<p></p>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1665575105374 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Harnad, S. (2008) “Chapter 9: Creativity: Method or Magic?,” in H. Cohen and B. Stemmer (eds) <em>Consciousness and Cognition: Fragments of mind and brain</em>. Amsterdam: Elsevier Academic Press, pp. 135–136.</p>
-
-
-
-<p>Blanning, L. (2016) <em>Playing by the rules: Creativity through constraints</em>, <em>Ableton</em>. Available at: https://www.ableton.com/en/blog/creativity-through-constraints/#:~:text=Historically%2C%20self%2Dimposed,from%20the%20music.</p>
-
-
-
-<p>Hereld , D.C. (2013) <em>Creativity in constraint: Exploiting the boundaries&nbsp; &#8211; MTT</em>, <em>Music Think Tank</em>. Available at: https://www.musicthinktank.com/blog/creativity-in-constraint-exploiting-the-boundaries.html .</p>
-
-
-
-<p>NPR (2015) Jon Stewart on his &#8216;Daily show&#8217; run: &#8216;it so far exceeded my expectations&#8217;, NPR. NPR. Available at: https://www.npr.org/2015/08/06/429851718/jon-stewart-on-his-daily-show-run-it-so-far-exceeded-my-expectations .</p>
-
-
-
-<p>Page, T. (2019) <em>Review | Beethoven: The genius who broke all the rules</em>, <em>The Washington Post</em>. WP Company. Available at: https://www.washingtonpost.com/outlook/beethoven-the-genius-who-broke-all-the-rules/2019/08/16/399b54b2-a71e-11e9-9214-246e594de5d5_story.html.</p>
-
-
-
-<p>Ross, A. (2011) <em>Prince of darkness</em>, <em>The New Yorker</em>. Available at: https://www.newyorker.com/magazine/2011/12/19/prince-of-darkness .</p>
-
-
-
-<p>Savenko, S. (2021) <em>How John Cage rewrote the rules of musical composition</em>, <em>TheCollector</em>. Available at: https://www.thecollector.com/how-john-cage-4-33-rewrote-music-composition/.</p>
-
-
-
-<p>Fabbri, F. (1980) <em>A theory of musical genres &#8211; two applications (1980)</em>, <em>Franco Fabbri | A Theory of Musical Genres &#8211; Two Applications (1980)</em>. Available at: https://www.tagg.org/others/ffabbri81a.html .</p>
-
-
-
-<p>Monson, C.A., 2002. The Council of Trent Revisited.&nbsp;<em>Journal of the American Musicological Society</em>, 55(1), pp.1–37.</p>
-
-
-
-<p>Mock, G. (2017) <em>The Creative Power of musical borrowing and the efforts to control it</em>, <em>Duke Today</em>. Available at: https://today.duke.edu/2017/04/creative-power-musical-borrowing-and-efforts-control-it .</p>
-
-
-
-<p>Fux, J.J. and Mann, A. (1971) in <em>The study of counterpoint: From Johann Joseph Fux&#8217;s Gradus ad parnassum</em>. New York: Norton, p. 17.</p>
-
-
-
-<p>Norman, J. (no date) <em>Johann Joseph Fux describes baroque counterpoint</em>, <em>Johann Joseph Fux Describes Baroque Counterpoint : History of Information</em>. Available at: https://www.historyofinformation.com/detail.php?id=2640 .</p>
-
-
-
-<p>Kennedy, R. (2019) <em>Progressive education: How children learn</em>, <em>ThoughtCo</em>. ThoughtCo. Available at: https://www.thoughtco.com/progressive-education-how-children-learn-today-2774713 .</p>
-
-
-
-<p></p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Listening to Omar Thomas &#8211; Come Sunday II. Shout!</title>
-		<link>./../../../listening-to-omar-thomas-come-sunday-ii-shout/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Fri, 07 Oct 2022 10:36:56 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=909</guid>
-
-					<description><![CDATA[On the Academic Music Discord server, someone posted a video about Omar Thomas, a composer I had never&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>On the Academic Music Discord server, someone posted a video about Omar Thomas, a composer I had never heard of before.</p>
-
-
-
-<p>A composer, arranger and educator, Omar Thomas was born in Brooklyn, N.Y., in 1984. His parents are Guyanese, and he moved to Boston in 2006 to pursue a Master of Music degree at New England Conservatory.</p>
-
-
-
-<p>A piece written for a wind ensemble, Piano and Drum Set, Come Sunday celebrates the Hammond organ&#8217;s central role in black worship. The second movement, Shout!, is an energetic celebration of gospel, jazz and blues, which shows influences from Duke Wellington and Charles Mingus as well as traditional church singing.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Thomas: Come Sunday | Baylor University Wind Ensemble | TMEA 2020" width="640" height="360" src="https://www.youtube.com/embed/PSr5XurNQF8?start=407&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>In listening to Shout!, I was surprised at how energetic it was after the slow and melodic first movement. There was an instant connection for me to the rhythm of this piece, marked by brass, bass, and drums, with the repetitive woodwinds in a high register adding the necessary tension.</p>
-
-
-
-<p>As I listened to this piece, I was reminded of 70s funk horns and woodwinds. That&#8217;s what makes this piece so beautiful. Mixing genres and decades, creating a fresh and joyful time for the listener and for the players.</p>
-
-
-
-<p>Since I am unfamiliar with much of the new classical music, I am enjoying this opportunity to listen to contemporary composers. At the same time that I study traditional techniques, I believe this will facilitate me in understanding the paths new composers are taking.&nbsp;</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Assignment 1 &#8211; Part 1</title>
-		<link>./../../../assignment-1-part-1/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Thu, 06 Oct 2022 14:48:27 +0000</pubDate>
-				<category><![CDATA[Assignments]]></category>
-		<category><![CDATA[Part 1 Renaissance period]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=897</guid>
-
-					<description><![CDATA[First Species Using the tips from the First Species, I created a melodic line that was always consonant&#8230;]]></description>
-										<content:encoded><![CDATA[
-<h4 id="first-species" class="wp-block-heading">First Species</h4>
-
-
-
-<p>Using the tips from the First Species, I created a melodic line that was always consonant and moved mostly in contrary motion.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="347" src="./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-1-1024x347.png" alt="" class="wp-image-898" srcset="./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-1-1024x347.png 1024w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-1-300x102.png 300w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-1-768x260.png 768w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-1-1536x520.png 1536w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-1-2048x694.png 2048w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-1-640x217.png 640w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-1-960x325.png 960w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-1.png 2220w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h4 id="second-species" class="wp-block-heading">Second Species</h4>
-
-
-
-<p>My greatest struggle came in bars 3 and 4, where I was trying to connect the melody with the given D in bar 4. Keeping with the instructions to make leaps inside the bar, I decided to leap from B to E in bar 3.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="347" src="./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-2-1024x347.png" alt="" class="wp-image-899" srcset="./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-2-1024x347.png 1024w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-2-300x102.png 300w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-2-768x260.png 768w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-2-1536x520.png 1536w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-2-2048x694.png 2048w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-2-640x217.png 640w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-2-960x325.png 960w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-2.png 2220w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h4 id="third-species" class="wp-block-heading">Third Species</h4>
-
-
-
-<p>Due to the pre-given patterns in bar 4  (nota cambiata pattern) and bar 6 (double neighbour pattern) in the third species, I started this species backwards in bar 6. Even with the given patterns, I tried to maintain a fluid melodic line with no big leaps, and always respected the previous species&#8217; guidelines.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="627" src="./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-1024x627.png" alt="" class="wp-image-901" srcset="./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-1024x627.png 1024w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-300x184.png 300w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-768x470.png 768w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-1536x940.png 1536w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-2048x1254.png 2048w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-640x392.png 640w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1-960x588.png 960w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-3-1.png 2223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h4 id="fourth-species" class="wp-block-heading">Fourth Species</h4>
-
-
-
-<p>Since the suspension must be resolved downwards and in consonance with the upbeat, I found this one to be the easiest species. </p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="347" src="./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-4-1024x347.png" alt="" class="wp-image-902" srcset="./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-4-1024x347.png 1024w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-4-300x102.png 300w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-4-768x260.png 768w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-4-1536x520.png 1536w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-4-2048x694.png 2048w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-4-640x217.png 640w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-4-960x325.png 960w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-4.png 2220w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h4 id="fifth-species" class="wp-block-heading">Fifth Species</h4>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="How to Compose a Canon || Imitative Counterpoint 1" width="640" height="360" src="https://www.youtube.com/embed/TTtWXsauS7Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>As compared to the previous species, the fifth one took me a lot lI wasn&#8217;t sure how the bass and alto should harmonize with the tenor while imitating each other. Jacob Gran&#8217;s video helped me realize we should make the three-voice counterpoint as harmonically complete as possible. Thus, for example, in bar 3, the bass is supposed to imitate the tenor by going from D to F, but that would be dissonant. The right choice is E since it makes a C major triad.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1012" height="1024" src="./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-1012x1024.png" alt="" class="wp-image-903" srcset="./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-1012x1024.png 1012w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-297x300.png 297w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-768x777.png 768w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-1518x1536.png 1518w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-2024x2048.png 2024w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-80x80.png 80w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-300x304.png 300w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-640x647.png 640w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001-960x971.png 960w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0001.png 2223w" sizes="(max-width: 1012px) 100vw, 1012px" /></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="459" src="./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-1024x459.png" alt="" class="wp-image-904" srcset="./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-1024x459.png 1024w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-300x134.png 300w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-768x344.png 768w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-1536x688.png 1536w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-2048x917.png 2048w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-640x287.png 640w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002-960x430.png 960w, ./../../../wp-content/uploads/2022/10/Assignment-1-Part-1-5_0002.png 2222w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p></p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Listening to Tan Dun, Eldbjørg Hemsing &#8211; Violin Concerto &#8220;Rhapsody &#038; Fantasia&#8221;: Ia. Rock the Violin in Rhapsody. Hip-Hop</title>
-		<link>./../../../listening-to-tan-dun-eldbjorg-hemsing-violin-concerto-rhapsody-fantasia-ia-rock-the-violin-in-rhapsody-hip-hop/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Mon, 03 Oct 2022 11:59:21 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=889</guid>
-
-					<description><![CDATA[In another Spotify discovery, I listened to a piece that I had never heard before. My attention was&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p><a href="https://www.youtube.com/channel/UC54eHWKRFlG-NZaNI0EBxGQ"></a></p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Spotify Embed: Violin Concerto &quot;Rhapsody &amp; Fantasia&quot;: Ia. Rock the Violin in Rhapsody. Hip-Hop" style="border-radius: 12px" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/track/2Q1w1bAK18GxLVMGJjbH9S?si=46fe411f0dac41ad&#038;utm_source=oembed"></iframe>
-</div></figure>
-
-
-
-<p>In another Spotify discovery, I listened to a piece that I had never heard before. My attention was immediately captured when a traditional drum kit entered playing a classic hip-hop pattern in the first 16 seconds.</p>
-
-
-
-<p>Rock the Violin in Rhapsody. Hip-Hop is the first movement of the Violin Concerto &#8220;Rhapsody &amp; Fantasy&#8221; by Eldbjørg Hemsing and Tan Dun. Hemsing is one of the best violinists in Norway, while Tan Dun is one of the most renowned conductors and composers that lives in New York but was born in China.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-issuu wp-block-embed-issuu"><div class="wp-block-embed__wrapper">
-<div data-url="https://issuu.com/scoresondemand/docs/violin_concerto_rhapsody_fantasia_5/4" style="width: 640px; height: 453px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
-</div></figure>
-
-
-
-<p>Having found a score for this concerto, I discovered that it includes a strong percussion section with five players, in addition to woodwinds, brass, and strings. It&#8217;s easy to hear the rhythm throughout this piece since it&#8217;s very heavy on it.</p>
-
-
-
-<p>My favourite aspect of the piece was the constant play between rhythmic, hip-hop ambient and the almost wild solo violin. The play kept the piece alive and prevented it from becoming monotonous, which could happen with a simple hip-hop beat.</p>
-
-
-
-<p>As described by Xenia Hanusiak <a href="https://classicalvoiceamerica.org/2018/09/26/dun-links-ancient-modern-worlds-in-new-violin-work/" target="_blank">in her article</a>, the composer calls this Rhapsody and Fantasia &#8220;the perfect result&#8221; of his thirty-five years of living in New York. It is one of the most interesting pieces I have heard in a while due to its combination of street sound rhythm, classical Chinese instruments, and a harsh nordic violin.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Species Counterpoint</title>
-		<link>./../../../species-counterpoint/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Fri, 30 Sep 2022 14:29:19 +0000</pubDate>
-				<category><![CDATA[Coursework]]></category>
-		<category><![CDATA[Part 1 Renaissance period]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=870</guid>
-
-					<description><![CDATA[Exercise 1.2: First species In this exercise I followed the tip given by the briefing and worked backwards,&#8230;]]></description>
-										<content:encoded><![CDATA[
-<h4 id="exercise-1-2-first-species" class="wp-block-heading">Exercise 1.2: First species</h4>
-
-
-
-<p>In this exercise I followed the tip given by the briefing and worked backwards, starting from the last bar. I followed the tip of if the cantus rises from the leading note to the tonic, then the free part falls from the second degree to the octave. From there, I went to the first bar and add an octave. Between bars 2 and 6 I mostly worked stepwise, with a 6th, 3rd, 3rd, 6th, and 6th. I then noticed a leap to get from bar 6 to 7, which didn&#8217;t sound perfect but it didn&#8217;t sound bad either.</p>
-
-
-
-<p>In the end, when I listened to it, I found it very dull. Probably because of the mostly stepwise motion and some parallel motion, it sounded predictable. So, I decided to give it another try and start with a 5th.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="201" src="./../../../wp-content/uploads/2022/09/Exercise-1.2-1-1-1024x201.png" alt="" class="wp-image-873" srcset="./../../../wp-content/uploads/2022/09/Exercise-1.2-1-1-1024x201.png 1024w, ./../../../wp-content/uploads/2022/09/Exercise-1.2-1-1-300x59.png 300w, ./../../../wp-content/uploads/2022/09/Exercise-1.2-1-1-768x151.png 768w, ./../../../wp-content/uploads/2022/09/Exercise-1.2-1-1-1536x302.png 1536w, ./../../../wp-content/uploads/2022/09/Exercise-1.2-1-1-640x126.png 640w, ./../../../wp-content/uploads/2022/09/Exercise-1.2-1-1-960x189.png 960w, ./../../../wp-content/uploads/2022/09/Exercise-1.2-1-1.png 2047w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Exercise 1.2 first try</figcaption></figure>
-
-
-
-<p>I left the last two bars, erased all the rest and started with a C. From there I tried to add some contrary motion with a 3rd, 6th, 6th, 3rd and 6th. From bar 6 to 7 there&#8217;s the same leap as the previous try, but this time it sounded better. Probably because from bar 5 to 6 there is a contrary motion, or because it comes from a 3rd to 6th instead of a 6th to 6th. I&#8217;m not really sure.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="201" src="./../../../wp-content/uploads/2022/09/Exercise-1.2-2-1-1024x201.png" alt="" class="wp-image-874" srcset="./../../../wp-content/uploads/2022/09/Exercise-1.2-2-1-1024x201.png 1024w, ./../../../wp-content/uploads/2022/09/Exercise-1.2-2-1-300x59.png 300w, ./../../../wp-content/uploads/2022/09/Exercise-1.2-2-1-768x151.png 768w, ./../../../wp-content/uploads/2022/09/Exercise-1.2-2-1-1536x302.png 1536w, ./../../../wp-content/uploads/2022/09/Exercise-1.2-2-1-640x126.png 640w, ./../../../wp-content/uploads/2022/09/Exercise-1.2-2-1-960x189.png 960w, ./../../../wp-content/uploads/2022/09/Exercise-1.2-2-1.png 2047w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Exercise 1.2 second try</figcaption></figure>
-
-
-
-<p>When I checked the sample solution I was surprised to see that my second try is exactly the same as the solution. I believe this must be because there&#8217;s a much more finite option with just 3rds and 6ths, but I was pleased to know that my effort to make a second try got me closer to what is expected from this exercise.</p>
-
-
-
-<h4 id="exercise-1-3-second-species" class="wp-block-heading">Exercise 1.3: Second species</h4>
-
-
-
-<p>I started this exercise as the previous one, writing the last two bars first and then moving from the first bar until the cadence.</p>
-
-
-
-<p>In this case, I followed the tip of leaving the first downbeat with a rest to establish a pulse and started the counterpoint with an octave. From there I wrote all downbeats with consonants and the upbeats I used as passing notes, except in bar 5 because I felt that the top melody needed a higher note to get to the climax.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="187" src="./../../../wp-content/uploads/2022/09/Exercise-1.3-1024x187.png" alt="" class="wp-image-876" srcset="./../../../wp-content/uploads/2022/09/Exercise-1.3-1024x187.png 1024w, ./../../../wp-content/uploads/2022/09/Exercise-1.3-300x55.png 300w, ./../../../wp-content/uploads/2022/09/Exercise-1.3-768x140.png 768w, ./../../../wp-content/uploads/2022/09/Exercise-1.3-1536x280.png 1536w, ./../../../wp-content/uploads/2022/09/Exercise-1.3-2048x374.png 2048w, ./../../../wp-content/uploads/2022/09/Exercise-1.3-640x117.png 640w, ./../../../wp-content/uploads/2022/09/Exercise-1.3-960x175.png 960w, ./../../../wp-content/uploads/2022/09/Exercise-1.3.png 2202w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Exercise 1.3</figcaption></figure>
-
-
-
-<h4 id="exercise-1-4-fourth-species" class="wp-block-heading">Exercise 1.4: Fourth species</h4>
-
-
-
-<p>This exercise was different because some of the notes of the species melody were given. In this case it starts with a 5th that turns into a dissonance with a 4th wich I resolved down one step into a consonant 3rd. The next note was also given and I raised the melody to a 6th that suspends into a dissonant 7th and is resolved to a 6th that leads to raise one step to the final octave.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="214" src="./../../../wp-content/uploads/2022/09/Exercise-1.4-1-2-1024x214.png" alt="" class="wp-image-881" srcset="./../../../wp-content/uploads/2022/09/Exercise-1.4-1-2-1024x214.png 1024w, ./../../../wp-content/uploads/2022/09/Exercise-1.4-1-2-300x63.png 300w, ./../../../wp-content/uploads/2022/09/Exercise-1.4-1-2-768x160.png 768w, ./../../../wp-content/uploads/2022/09/Exercise-1.4-1-2-1536x320.png 1536w, ./../../../wp-content/uploads/2022/09/Exercise-1.4-1-2-2048x427.png 2048w, ./../../../wp-content/uploads/2022/09/Exercise-1.4-1-2-640x133.png 640w, ./../../../wp-content/uploads/2022/09/Exercise-1.4-1-2-960x200.png 960w, ./../../../wp-content/uploads/2022/09/Exercise-1.4-1-2.png 2220w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>This exercise was similar to the previous one, but this time with several consecutive suspensions. With the notes given, I developed the species melody following the tips of the Fourth Species and previous ones. For example, started in an octave, kept the range within the octave above, one climax only, the dissonance is resolved on step down on the weak beat and the cadence with contrary motion by step. In the end, one thing I noticed is that the species melody is very predictable between bars 5 and 8, because the P-D-R is always 4th to 3rd. I tried to change this but, with the given notes, it was impossible. I later checked the sample solution and it was the same, so I suppose it&#8217;s the only way to complete this exercise.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="499" src="./../../../wp-content/uploads/2022/09/Exercise-1.4-2-1-1024x499.png" alt="" class="wp-image-882" srcset="./../../../wp-content/uploads/2022/09/Exercise-1.4-2-1-1024x499.png 1024w, ./../../../wp-content/uploads/2022/09/Exercise-1.4-2-1-300x146.png 300w, ./../../../wp-content/uploads/2022/09/Exercise-1.4-2-1-768x374.png 768w, ./../../../wp-content/uploads/2022/09/Exercise-1.4-2-1-1536x748.png 1536w, ./../../../wp-content/uploads/2022/09/Exercise-1.4-2-1-2048x997.png 2048w, ./../../../wp-content/uploads/2022/09/Exercise-1.4-2-1-640x312.png 640w, ./../../../wp-content/uploads/2022/09/Exercise-1.4-2-1-960x467.png 960w, ./../../../wp-content/uploads/2022/09/Exercise-1.4-2-1.png 2261w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h4 id="exercise-1-5-imitative-counterpoint" class="wp-block-heading">Exercise 1.5: Imitative counterpoint</h4>
-
-
-
-<p>Initially, I had difficulty understanding the exercise. It didn&#8217;t make sense to me how the motive could fit in the blank spaces. Once you understood how it worked, it became an intuitive exercise. The only thing I couldn&#8217;t figure out was how to add the dash in the lyrics in Sibelius so it appears only in the beat, rather than randomly in the bar, as it appears below. </p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="565" src="./../../../wp-content/uploads/2022/09/Excercise-1.5.1-1024x565.png" alt="" class="wp-image-883" srcset="./../../../wp-content/uploads/2022/09/Excercise-1.5.1-1024x565.png 1024w, ./../../../wp-content/uploads/2022/09/Excercise-1.5.1-300x166.png 300w, ./../../../wp-content/uploads/2022/09/Excercise-1.5.1-768x424.png 768w, ./../../../wp-content/uploads/2022/09/Excercise-1.5.1-1536x848.png 1536w, ./../../../wp-content/uploads/2022/09/Excercise-1.5.1-2048x1130.png 2048w, ./../../../wp-content/uploads/2022/09/Excercise-1.5.1-640x353.png 640w, ./../../../wp-content/uploads/2022/09/Excercise-1.5.1-960x530.png 960w, ./../../../wp-content/uploads/2022/09/Excercise-1.5.1.png 2223w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Exercise 1.5 first exercise</figcaption></figure>
-
-
-
-<p>It was the first time a third voice was added to the exercises. There was no change in the challenge: imitative counterpoint. I found this one easier than the previous one, despite the new voice&#8217;s increased challenge. The gaps only allowed space for imitation of the motive, so I was able to write the motive easily and then check for any counterpoint errors.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="872" src="./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0001-1024x872.png" alt="" class="wp-image-884" srcset="./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0001-1024x872.png 1024w, ./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0001-300x255.png 300w, ./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0001-768x654.png 768w, ./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0001-1536x1307.png 1536w, ./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0001-2048x1743.png 2048w, ./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0001-640x545.png 640w, ./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0001-960x817.png 960w, ./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0001.png 2223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="472" src="./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0002-1024x472.png" alt="" class="wp-image-885" srcset="./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0002-1024x472.png 1024w, ./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0002-300x138.png 300w, ./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0002-768x354.png 768w, ./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0002-1536x709.png 1536w, ./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0002-2048x945.png 2048w, ./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0002-640x295.png 640w, ./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0002-960x443.png 960w, ./../../../wp-content/uploads/2022/09/Exercise-1.5.2_0002.png 2222w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Exercise 1.5 second exercise</figcaption></figure>
-
-
-
-<p></p>
-
-
-
-<p></p>
-
-
-
-<p></p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Listening to Max Bruch &#8211; Concerto for Clarinet &#038; Viola, Op. 88: I. Andante Con Moto</title>
-		<link>./../../../listening-to-max-bruch-concerto-for-clarinet-viola-op-88-i-andante-con-moto/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Thu, 29 Sep 2022 11:32:00 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=938</guid>
-
-					<description><![CDATA[Max Bruch (1838-1920) is a well-known prolific German composer. During his long career, he taught, conducted, and composed.&#8230;]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Max Bruch - Concerto for Clarinet &amp; Viola, Op. 88 (1911)" width="640" height="360" src="https://www.youtube.com/embed/m0wYD4MzwUw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>Max Bruch (1838-1920) is a well-known prolific German composer. During his long career, he taught, conducted, and composed. In 1911, Bruch composed the Double Concerto in E minor, Op.88. This piece was composed for his son Max Felix Bruch, who was a first-class clarinettist.</p>
-
-
-
-<p>A review of Bruch&#8217;s Double Concerto Op.88 premiere, published in Allgemeine Musikzeitung Zeitung No. 40 (1913), called it &#8220;harmless,&#8221; &#8220;weak,&#8221; and &#8220;uninteresting&#8221; (Fifield, 1988).</p>
-
-
-
-<p>Initially, I was intrigued by the strange combination of clarinet and viola in this Double Concerto. My impression after listening to this piece is that both instruments can very well mimic human timbres. As a result, the solo instruments have a lyrical and melodic sound. As the two solo instruments weave melodies around each other, the orchestra provides a stable backdrop.</p>
-
-
-
-<p>The first movement of this work presents Bruch&#8217;s two solo instruments in a rather dramatic manner. In the beginning, the solo viola is boldly introduced, followed by the clarinet. Throughout the entire movement, it feels as if both instruments are having an intimate conversation.</p>
-
-
-
-<p>Upon hearing this movement, I felt as if there was nothing shocking and nothing wrong, at least to my ears. In addition to being a conservative, Bruch was opposed to &#8216;modern madness&#8217; and &#8216;modernists&#8217; like Strauss, Reger, and Debussy (the latter he termed an &#8216;unqualified scribbler&#8217;). As a whole, I enjoyed this piece, especially the interplay between the two solo instruments.</p>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1665658948758 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Fifield, C. (1988) <em>Max Bruch his life and works</em>. London: Gollancz.</p>
-
-
-
-<p><em>Viola and clarinet concerto and other viola compositions by Bruch</em> (no date) <em>Viola in Music.com</em>. Available at: http://www.viola-in-music.com/viola-and-clarinet-concerto.html .</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Research point 1.1: The Mass</title>
-		<link>./../../../research-point-1-1-the-mass/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Tue, 27 Sep 2022 14:41:01 +0000</pubDate>
-				<category><![CDATA[Coursework]]></category>
-		<category><![CDATA[Part 1 Renaissance period]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=857</guid>
-
-					<description><![CDATA[As important as the madrigal and chanson, the polyphonic setting of the Catholic Mass was the most significant&#160;genre&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>As important as the madrigal and chanson, the polyphonic setting of the Catholic Mass was the most significant&nbsp;genre during the Renaissance. Many of the greatest compositions of music have been influenced by musical settings of the Mass.</p>
-
-
-
-<h2 id="what-makes-a-mass" class="cnvs-block-section-heading cnvs-block-section-heading-1664189473548 is-style-cnvs-block-section-heading-4 halignleft" >
-	<span class="cnvs-section-title">
-		<span>What makes a Mass?</span>
-	</span>
-</h2>
-
-
-
-<p>Besides being a religious ceremony, a mass is also a genre of music. The mass, as a ceremony, is a rite of the Roman Catholic church. It is divided into three parts: introductory rites, the liturgy of the word, and the eucharistic liturgy. During this ceremony, the congregation receives bread and wine reenacting the last supper (Keep It Classical, 2021).</p>
-
-
-
-<p>Several parts of the liturgy are either spoken, intoned or sung. Some of them, called Proper, vary according to where we are in the liturgical calendar, while others, called Ordinary, remain the same.</p>
-
-
-
-<p>Mass as a musical genre is made up of five movements: Kyrie, Gloria, Credo, Sanctus, and Anus Dei sung by the choir during the Ordinary.&nbsp;</p>
-
-
-
-<p>Creating musical continuity among all these different sections was the greatest formal challenge. Several solutions were developed, including repeating the same plainchant (cantus firmus) throughout. This was done well by talented Mass composers. Throughout every section, the cantus firmus is not repeated note-for-note but rather fragmented into long, sustained notes sung by the tenor.</p>
-
-
-
-<p>Masses in the Renaissance were generally divided into two categories: those composed based on previously composed materials and those without.</p>
-
-
-
-<figure class="wp-block-table is-style-regular"><table><thead><tr><th>Previously composed materials</th><th>Without previously composed materials</th></tr></thead><tbody><tr><td>Cantus Firmus</td><td>Cyclic</td></tr><tr><td>Paraphrase</td><td>Soggetto Cavato</td></tr><tr><td>Parody</td><td>Freely Composed</td></tr></tbody></table></figure>
-
-
-
-<p></p>
-
-
-
-<h2 id="the-evolution-of-the-masses" class="cnvs-block-section-heading cnvs-block-section-heading-1664189497322 is-style-cnvs-block-section-heading-4 halignleft" >
-	<span class="cnvs-section-title">
-		<span>The evolution of the Masses</span>
-	</span>
-</h2>
-
-
-
-<p>In my research, I have found that most literature focuses on the Mass during the Renaissance period, leaving only minimal attention to the Middle Ages and even less for the following centuries. It may be due to a more uniform unity in style during the Renaissance, pushed by the church. A prominent example is Pope Gregorious&#8217; role in bringing together diverse chants into an orderly and uniform whole for the western region of the Church to use.&nbsp;Similarly, the Council of Trent called for clearer texts, simpler polyphony, and fewer melismas later on (Monson, 2002).</p>
-
-
-
-<h5 id="before-1400" class="wp-block-heading">Before 1400</h5>
-
-
-
-<p>The Roman Catholic Church was the only institution that could educate the populace to become literate and enforce standards of faith and morality. This was due to the barbaric invasion and collapse of the Roman Empire. This institution stood against the grit and dereliction of the Dark Ages. Throughout Western Europe, the Church played a critical role in preserving and transmitting Christian culture, which led to music composition and performance practices. Medieval music had the function of enhancing the liturgy and creating a mood of peace, which could be achieved by singing monophonic plainchant.&nbsp;</p>
-
-
-
-<p>Middle Ages Gregorian masses were sung monophonically in unison, with a focus on the Proper. A famous example of the first complete setting of the Ordinary of the Mass dates from the 14th century, Guillaume de Machaut&#8217;s La Messe de Nostre Dame.</p>
-
-
-
-<h5 id="renaissance" class="wp-block-heading">Renaissance </h5>
-
-
-
-<p>Between 1400 and 1600 was the main period of Mass composition, when the Mass took on its present meaning of a polyphonic setting of the entire Mass Ordinary.&nbsp; Renaissance composers regarded the Ordinary Mass as the equivalent of 18th-century composers&#8217; symphonies, or 19th-century composers&#8217; operas: the ultimate test of their talents and creativity. In this period, composers within the area of sacred music focused primarily on the forms of mass, with their multiple-movement format offering large-scale structure opportunities (Apel, 2000).</p>
-
-
-
-<h5 id="after-1600" class="wp-block-heading">After 1600</h5>
-
-
-
-<p>The importance of Mass composition declined after 1600. In spite of this, there were developments such as huge choirs of 32 and 48 parts (Orazio Benevoli, 1605-72) and the use of orchestras, leading to Bach&#8217;s B-minor Mass (1733-38) (Apel, 2000).</p>
-
-
-
-<p>The mass evolved towards secularization in the 18th and 19th centuries with works by Haydn, Mozart, Beethoven, Schubert, Liszt and Bruckner.</p>
-
-
-
-<p>The 20th and 21st centuries saw composers write masses in a variety of styles, forms, and functions that were even more diverse than before (e.g. Vaughan Williams, Stravinsky, Duruflé, Britten, Rutter, Sato).</p>
-
-
-
-<p></p>
-
-
-
-<p></p>
-
-
-
-<h2 id="reflection-about-the-connection-of-music-with-religion" class="cnvs-block-section-heading cnvs-block-section-heading-1664190351421 is-style-cnvs-block-section-heading-4 halignleft" >
-	<span class="cnvs-section-title">
-		<span>Reflection about the connection of music with religion</span>
-	</span>
-</h2>
-
-
-
-<h5 id="write-a-brief-article-of-around-500-words-in-your-listening-log-about-the-connection-of-music-with-religion-mix-in-your-personal-views-with-what-you-have-discovered-through-research" class="wp-block-heading"><em>Write a brief article of around 500 words in your listening log about the connection of music with religion. Mix in your personal views with what you have discovered through research.</em></h5>
-
-
-
-<figure class="wp-block-pullquote is-style-default"><blockquote><p>At the end of the road, music is a religion.</p><cite>(Spitzer, 2021)</cite></blockquote></figure>
-
-
-
-<p>As a result of my research, it&#8217;s quite clear that music and religion have always been closely intertwined, and their impact on who we are today is massive. As a matter of fact, some advocates argue that in place of agriculture and farming, music and religion would be the main drivers of sedentary behavior for humans (Spitzer, 2021).</p>
-
-
-
-<p>But which came first? Music or religion? I could not find anyone who could answer this question. This leaves me believing that since humans first beat sticks repeatedly against rocks, there has been a sense of spirituality as well as divinity. This, along with the quote I used to begin this text, sum up what I believe and is supported by my research: religion and music are so closely related that it&#8217;s difficult not to believe they are one and the same. 500 words are too few for me to express my view, but I&#8217;ll try to summarize it into three points.</p>
-
-
-
-<h5 id="both-religion-and-music-alter-the-state-of-mind" class="wp-block-heading">Both religion and music alter the state of mind</h5>
-
-
-
-<p>According to Gilbert Rouget, music can induce two types of altered state of consciousness (ASC) across all cultures, &#8216;trance&#8217; (solitude, silence, immobility, sensory) and &#8216;ecstasy&#8217; (movement, noise, sociable) (Rouget, 1985). The same applies to religion. When dancing for a long period of time, the body suffers from fatigue, hyperventilation, hypoglycaemia, and hypoglycaemia, leading to hallucinations. Overheating at raves releases endogenous opiates. When you fast and sleep less before a rave, the driving rhythms are amplified. There has been evidence of all these effects in religious traditions, from Pentecostal churches in the American Deep South to Sufi dervishes (Spitzer, 2021).</p>
-
-
-
-<h5 id="both-religion-and-music-are-based-on-routines" class="wp-block-heading">Both religion and music are based on routines</h5>
-
-
-
-<p>Religion is embedded in everyday life, and it shouldn&#8217;t come as a surprise. One of the best examples is when John Cage asked someone about their religion while in Japan.&nbsp;The answer was dance. Japanese practice Buddhist and Shinto rituals, but they don&#8217;t go to church or temple on a regular basis. It is so integrated into the culture that it appears in daily gestures and routines, undisturbed by ordinary life (Byrne, 2017). The same with music. A social organization is marked by song at nearly every point in the lives of communities, according to ethnomusicologist Alan P. Merriam—birth songs, lullabies, naming songs, toilet-training songs, puberty songs, greetings, love songs, marriage songs, clan songs, and funeral songs.</p>
-
-
-
-<h5 id="both-religion-and-music-connect-people" class="wp-block-heading">Both religion and music connect people</h5>
-
-
-
-<p>People turn to religion and music during hard times. There is a search for hope, connection, and optimism among people. Because of its certainty, religious thought is particularly conducive to optimism. In addition, Michael Hogg asserts that feeling closely connected with others leads to feelings of more security, confidence, and certainty about what to expect in the social world as a result (Hogg, 2003). The same happens with music. There is no doubt that music helps us feel hopeful and secure in times of uncertainty, such as with shows like Live Aid, The Concert For New York City or Concert For Bangladesh.</p>
-
-
-
-<p>When I attended Kendrick Lamar&#8217;s concert last time, I wasn&#8217;t sure if I was watching a music concert or a worship service. As I looked at other people at the concert, they all seemed mentally altered, either in a trance or ecstatic state. They were making the same moves and singing the same lyrics. Most importantly, they all seemed connected and hopeful.</p>
-
-
-
-<p>Was this music or religion?</p>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1664288607613 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Keep It Classical, 2021. <em>Different Types of Renaissance Masses &#8211; How to Tell Each Mass Type Apart</em>, YouTube. Available at: https://www.youtube.com/watch?v=yNn344lbWPM [Accessed September 27, 2022].</p>
-
-
-
-<p>Monson, C.A., 2002. The Council of Trent Revisited. <em>Journal of the American Musicological Society</em>, 55(1), pp.1–37.</p>
-
-
-
-<p>Apel, W., 2000. Mass. In <em>Harvard Dictionary of Music</em>. Cambridge, Mass: Harvard University.</p>
-
-
-
-<p>Spitzer, M., 2021. <em>The musical human: A history of life on Earth</em>, New York, NY, USA: Bloomsbury Publishing.</p>
-
-
-
-<p>Rouget, G., 1985. <em>Music and trance: A theory of the relations between music and possession</em>, Chicago: University of Chicago Press.</p>
-
-
-
-<p>Byrne, D., 2017. <em>How music works</em>, New York: Three Rivers Press.</p>
-
-
-
-<p>Hogg, M.A., Leary, M.R. and Tangney, J.P., 2003. Handbook of self and identity: The Guilford Press New York</p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Listening to Masses</title>
-		<link>./../../../947-2/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Mon, 26 Sep 2022 14:25:00 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Part 1 Renaissance period]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=947</guid>
-
-					<description><![CDATA[During my research, I listened to masses from different periods of history, but my focus was exclusively on&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>During my research, I listened to masses from different periods of history, but my focus was exclusively on the Kyrie.</p>
-
-
-
-<p><strong>Machaut: Messe de Nostra Dame: Kyrie (1365)</strong><br>(Guillaume &amp; Royllart, 2016)</p>
-
-
-
-<p>This Ordinary of the Mass composed before 1365 is considered the earliest complete setting attributable to any single composer. The Kyrie is written in polyphony for four voices and features lots of melismas. This piece is divided into three sections, each with the same structure: polyphony &#8211; plainchant &#8211; polyphony. As far as the sound quality is concerned, I found it to be very diverse, with each voice having its own distinct characteristics, but working together to create a pleasing whole.</p>
-
-
-
-<p><strong>Victoria: Missa O magnum mysterium: Kyrie (1592) <br></strong>(Smith &amp; de, 1997)</p>
-
-
-
-<p>O magnum mysterium (published in 1572) became the basis for Victoria&#8217;s 1592 Mass for a four-part choir. Since this short Kyrie is in imitation polyphonic texture, the voices do not appear to have any real distinctive characteristic, but rather blend together to achieve a more common sound.</p>
-
-
-
-<p><strong>Bach: Mass in B minor: Kyrie I (1749)<br></strong>(Herreweghe, 2011)</p>
-
-
-
-<p>Compared to my previous two masses, this is a big difference. This work is for five voices with instrumental accompaniment, which makes a completely different sound from choral masses without accompaniment. It is evident that Bach is stepping up the masses from church music to concert music, making them suitable for a concert hall. In this polyphonic Kyrie, what I found most interesting is the way, from bar 30, the sound never settles until the last bar. The tension and expectation lasts for about 5 minutes.</p>
-
-
-
-<p><strong>Mozart: Great Mass in C  minor K.427: Kyrie (1783)<br></strong>(Bernstein et al., 1991)</p>
-
-
-
-<p>After listening to it, I understand why it is considered one of Mozart&#8217;s greatest works. It is a magnificent composition for two soprano soloists, a tenor and a bass, a double chorus and a large orchestra. Similarly to Bach&#8217;s mass, Mozart wanted to make the experience more performance and entertainment-based, instead of contemplative and solemn. For me, the most appealing part of this Kyrie is the soprano solo, particularly when it reaches a low Ab and jumps two octaves higher in the following measure.</p>
-
-
-
-<p><strong>Beethoven: Mass in C Major, Op.86:I. Kyrie (1807)<br></strong>(Kampen, K.V. <em>et al.</em>, 2005)</p>
-
-
-
-<p>Compared to the previous masses I had listened to, the texture of this Kyrie surprised me. In my opinion, Beethoven decided to compose a homophonic-based mass that heavily relied on the choir. Throughout, there is an intriguing play of dynamics, swaying up and down and conveying different emotions in a short space of time, with some parts with breathtaking soaring voices. A note about Gloria in excelsis Deo, which is one of my favourite versions I&#8217;ve heard.</p>
-
-
-
-<p><strong>Bruckner: Mass in E minor: Kyrie (1866)<br></strong>(Parkman, 2019)</p>
-
-
-
-<p>It&#8217;s a mass that feels like a travel back in time, stripped of all instrumental accompaniment and focusing primarily on choral. The combination of choir and brass in this Kyrie really caught my attention. This created a very dramatic and mournful sound. But I was most impressed by the use of silences and the absence of sound in some parts, which gave this piece a huge hollowness.</p>
-
-
-
-<h2 id="references" class="cnvs-block-section-heading cnvs-block-section-heading-1665744187030 is-style-cnvs-block-section-heading-6 halignleft" >
-	<span class="cnvs-section-title">
-		<span>References</span>
-	</span>
-</h2>
-
-
-
-<p>Guillaume and Royllart, P. (2016) <em>Machaut, G. de: Messe de nostre dame (diabolus in Musica, guerber)</em>, <em>Youtube</em>. Available at: https://www.youtube.com/watch?v=lOVsY1rxJB8.</p>
-
-
-
-<p>Smith, S. and de, V.T.L. (1997) <em>Victoria, T.L. de: Vocal music (tenebrae responsories) (ensemble Corund, S. Smith)</em>, <em>Youtube</em>. Naxos Digital Services US Inc. Available at: https://www.youtube.com/watch?v=NGyWrtWgHjA.</p>
-
-
-
-<p>Herreweghe, P. (2011) <em>Mass in B minor BWV 232 ; Collegium Vocale Gent ; Philippe Herreweghe</em>, <em>Youtube</em>. Harmonia mundi. Available at: https://www.youtube.com/watch?v=zS2biN257sQ.</p>
-
-
-
-<p>Bernstein, L. <em>et al.</em> (1991) <em>Große Messe C-Moll K 427 (417a): Version: Franz Beyer = great mass in C minor = Grande Messe en ut mineur</em>, <em>Youtube</em>. Available at: https://www.youtube.com/watch?v=GUtLXacCT5M.</p>
-
-
-
-<p>Kampen, K.V. <em>et al.</em> (2005) <em>Messe C-Dur = Mass in C major = Messe en UT majeur: Op. 86</em>, <em>Spotify</em>. Hänssler Classic. Available at: https://open.spotify.com/track/2k7AQGyLChW5JlcWhvBwLc?si=39803a01a70f4435.</p>
-
-
-
-<p>Parkman, S. (2019) <em>Anton Bruckner: Mass in E minor | WDR Rundfunkchor | WDR Sinfonieorchester</em>, <em>Youtube</em>. Available at: https://www.youtube.com/watch?v=YqlcXpPdaBc.</p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Listening to José Almarcha &#8211; Casa del Gallego</title>
-		<link>./../../../listening-to-jose-almarcha-casa-del-gallego/index.html</link>
-		
-		<dc:creator><![CDATA[Pedro]]></dc:creator>
-		<pubDate>Wed, 21 Sep 2022 10:47:09 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Stylistic Techniques]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=858</guid>
-
-					<description><![CDATA[As usual, my Spotify is on shuffle and today I heard some flamenco, which I am not particularly&#8230;]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Spotify Embed: Casa del Gallego (Farruca)" style="border-radius: 12px" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/track/3uXLYVPHGSgEFm5h4hedJB?si=06a81e07e4894526&#038;utm_source=oembed"></iframe>
-</div></figure>
-
-
-
-<p>As usual, my Spotify is on shuffle and today I heard some flamenco, which I am not particularly familiar with, but enjoy listening to occasionally. This song caught my attention, so I listened carefully.</p>
-
-
-
-<p>Originally from Ciudad Real, José Almarcha is an outstanding guitarist and composer. As a student of flamenco at the Córdoba Conservatory of Music, José studied with flamenco masters including Paco Serrano and Niño de Pura. A number of dancers have been accompanied by him, including Olga Pericet, Marco Flores, and Antonio Canales. His albums have received excellent reviews and he has been hailed as one of Spain&#8217;s most promising flamenco guitarists.</p>
-
-
-
-<p>The singer recently released Casa del Gallego, which is a farruca, a dance-centric style of flamenco characterized by sombre virtuosity, aggressive footwork, and dramatic tempo changes.&nbsp;</p>
-
-
-
-<p>In this song, the melody is introduced by a flamenco guitar riff, but a few seconds into the song, there&#8217;s a surprise: a trombone with a delay effect. Not a typical flamenco sound and a hint to the listener that this probably isn&#8217;t a traditional flamenco but yes, a modern view of the style.</p>
-
-
-
-<p>Enters the piano a few seconds later. With the trombone on the bottom, the piano on top with high notes, and the flamenco guitar in the middle, the three instruments make a beautiful sonic sandwich.</p>
-
-
-
-<p>A mellow melody is gradually introduced by the trio, along with occasional cymbal sounds.&nbsp;Still, the strumming and tapping of guitars always have a slight tension to them. Suddenly, the tension is released as the full band enters, with a Latin rhythm recognizable as flamenco, accompanied by a shoe-tapping sound, along with another surprise: an electric guitar. There is a clash between traditional and modern sounds in the music now, and I find it very appealing.</p>
-
-
-
-<p>As the song continues, tension is built and released with more and more shoe tapping and stomping until the apotheosis.</p>
-
-
-
-<p>It was very interesting to see how flamenco is approached in a new way. It was entertaining to watch the piece&#8217;s sudden changes in sound dynamics that are intended to be interpreted by a dancer and add drama to the performance.&nbsp;</p>
 ]]></content:encoded>
 					
 		
