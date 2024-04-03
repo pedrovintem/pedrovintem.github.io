@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 	<item>
 		<title>Species Counterpoint</title>
 		<link>./../../../../../species-counterpoint/index.html</link>
@@ -523,13 +523,13 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Lassus | Matona, mia cara [á 4; The Mirandola Ensemble]" width="640" height="360" src="https://www.youtube.com/embed/wl51iST98hA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Lassus | Matona, mia cara [á 4; The Mirandola Ensemble]" width="640" height="360" src="https://www.youtube.com/embed/wl51iST98hA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Ah! Dolente partita   Monteverdi" width="640" height="360" src="https://www.youtube.com/embed/-97t3lw2sJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Ah! Dolente partita   Monteverdi" width="640" height="360" src="https://www.youtube.com/embed/-97t3lw2sJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -634,7 +634,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Gesualdo: Chromatic Harmony and Microtonal Systems in Early Music" width="640" height="360" src="https://www.youtube.com/embed/JRF1vZiYB70?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Gesualdo: Chromatic Harmony and Microtonal Systems in Early Music" width="640" height="360" src="https://www.youtube.com/embed/JRF1vZiYB70?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><figcaption>Shepherd, 2013. <em>Gesualdo: Chromatic Harmony and Microtonal Systems in Early Music</em>, YouTube. Available at: https://www.youtube.com/watch?v=JRF1vZiYB70 [Accessed September 14, 2022].</figcaption></figure>
 
 
@@ -644,7 +644,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Wagner Leitmotives - 61 - Magic Sleep or Oblivion" width="640" height="360" src="https://www.youtube.com/embed/nY51ofn0vck?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Wagner Leitmotives - 61 - Magic Sleep or Oblivion" width="640" height="360" src="https://www.youtube.com/embed/nY51ofn0vck?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><figcaption>Pano, 2012. <em>Wagner Leitmotives &#8211; 61 &#8211; Magic Sleep or Oblivion</em>, YouTube. Available at: https://www.youtube.com/watch?v=nY51ofn0vck [Accessed September 14, 2022].<br></figcaption></figure>
 
 
@@ -677,7 +677,7 @@
 
 
 
-<blockquote class="wp-block-quote is-style-default"><p>&#8220;but a soul without a heart can feel no sorrow.&#8221;</p></blockquote>
+<blockquote class="wp-block-quote is-style-default is-layout-flow wp-block-quote-is-layout-flow"><p>&#8220;but a soul without a heart can feel no sorrow.&#8221;</p></blockquote>
 
 
 

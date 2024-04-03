@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 	<item>
 		<title>Assignment 1 &#8211; Part 1 &#8211; after tutor&#8217;s feedback</title>
 		<link>./../../../../../assignment-1-part-1-after-tutors-feedback/index.html</link>
@@ -101,7 +101,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="How to Compose a Canon || Imitative Counterpoint 1" width="640" height="360" src="https://www.youtube.com/embed/TTtWXsauS7Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="How to Compose a Canon || Imitative Counterpoint 1" width="640" height="360" src="https://www.youtube.com/embed/TTtWXsauS7Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -606,7 +606,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="How to Compose a Canon || Imitative Counterpoint 1" width="640" height="360" src="https://www.youtube.com/embed/TTtWXsauS7Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="How to Compose a Canon || Imitative Counterpoint 1" width="640" height="360" src="https://www.youtube.com/embed/TTtWXsauS7Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

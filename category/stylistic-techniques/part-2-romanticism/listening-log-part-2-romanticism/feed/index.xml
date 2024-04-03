@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 	<item>
 		<title>Listening to Franz Liszt &#8211; Les Préludes</title>
 		<link>./../../../../../listening-to-franz-liszt-les-preludes/index.html</link>
@@ -33,7 +33,7 @@
 					<description><![CDATA[Les Préludes is a symphonic poem composed by Franz Liszt and premiered in 1854. His symphonic poem is&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Les Préludes (Franz Liszt)  Daniel Barenboim mit Berlin Philharmoniker - Staatsoper Berlin (1998)" width="640" height="480" src="https://www.youtube.com/embed/jb2bkVQwtBs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Les Préludes (Franz Liszt)  Daniel Barenboim mit Berlin Philharmoniker - Staatsoper Berlin (1998)" width="640" height="480" src="https://www.youtube.com/embed/jb2bkVQwtBs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -123,7 +123,7 @@
 					<description><![CDATA[Sonata in D Major, TWV 44:1 is a piece of Baroque music composed by the German composer Georg&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Georg Philipp Telemann - Trumpet Sonata in D major, TWV 44:1. Trumpet: Maurice André." width="640" height="360" src="https://www.youtube.com/embed/iUhXRvEPuC4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Georg Philipp Telemann - Trumpet Sonata in D major, TWV 44:1. Trumpet: Maurice André." width="640" height="360" src="https://www.youtube.com/embed/iUhXRvEPuC4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -203,7 +203,7 @@
 					<description><![CDATA[“Letter from Home” is a composition by American composer Aaron Copland, written in 1944 and commissioned as a&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Spotify Embed: Letter from Home" style="border-radius: 12px" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/track/4BmuwW29smvsvayXpXD0uo?si=338fb8e5c25f456f&#038;utm_source=oembed"></iframe>
+<iframe title="Spotify Embed: Letter from Home (1962 Version for Reduced Orchestra)" style="border-radius: 12px" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/track/4BmuwW29smvsvayXpXD0uo?si=338fb8e5c25f456f&#038;utm_source=oembed"></iframe>
 </div></figure>
 
 
@@ -273,7 +273,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Widmann: Viola Concerto ∙ hr-Sinfonieorchester ∙ Antoine Tamestit ∙ Andrés Orozco-Estrada" width="640" height="360" src="https://www.youtube.com/embed/_5WraTt_l_U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Widmann: Viola Concerto ∙ hr-Sinfonieorchester ∙ Antoine Tamestit ∙ Andrés Orozco-Estrada" width="640" height="360" src="https://www.youtube.com/embed/_5WraTt_l_U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

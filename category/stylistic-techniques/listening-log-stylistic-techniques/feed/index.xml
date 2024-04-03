@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 	<item>
 		<title>Listening to Cecilia Todd &#8211; Acidito</title>
 		<link>./../../../../listening-to-cecilia-todd-acidito/index.html</link>
@@ -41,7 +41,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Cecilia Todd - Acidito - Encuentro en el Estudio - Temporada 7" width="640" height="360" src="https://www.youtube.com/embed/o20jefoabvE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Cecilia Todd - Acidito - Encuentro en el Estudio - Temporada 7" width="640" height="360" src="https://www.youtube.com/embed/o20jefoabvE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -63,7 +63,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Venezuelan Merengue - Alexis Soto and Carlos Capacho (Berklee Artist Notes)" width="640" height="360" src="https://www.youtube.com/embed/ICAviMybq94?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Venezuelan Merengue - Alexis Soto and Carlos Capacho (Berklee Artist Notes)" width="640" height="360" src="https://www.youtube.com/embed/ICAviMybq94?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 ]]></content:encoded>
 					
@@ -92,7 +92,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Heitor Villa-lobos - 12 Études for Guitar (Score video)" width="640" height="360" src="https://www.youtube.com/embed/JP8R7JBu_UM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Heitor Villa-lobos - 12 Études for Guitar (Score video)" width="640" height="360" src="https://www.youtube.com/embed/JP8R7JBu_UM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -347,7 +347,7 @@
 					<description><![CDATA[I decided to listen to Devonté Hynes&#8217; music after reading a review in the Guardian of his concert&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Devonté Hynes: The Long Ride II; Inheritance with Adam Tendler" width="640" height="360" src="https://www.youtube.com/embed/_PcxLhJrkGI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Devonté Hynes: The Long Ride II; Inheritance with Adam Tendler" width="640" height="360" src="https://www.youtube.com/embed/_PcxLhJrkGI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -396,19 +396,19 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Sound Tracker - Gamelan (Indonesia)" width="640" height="360" src="https://www.youtube.com/embed/UEWCCSuHsuQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Sound Tracker - Gamelan (Indonesia)" width="640" height="360" src="https://www.youtube.com/embed/UEWCCSuHsuQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Balinese Gamelan - Sekar Jupun" width="640" height="480" src="https://www.youtube.com/embed/0RKM2xj0qKc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Balinese Gamelan - Sekar Jupun" width="640" height="480" src="https://www.youtube.com/embed/0RKM2xj0qKc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Angklung Pupuan" width="640" height="360" src="https://www.youtube.com/embed/Dwc9voKOgyw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Angklung Pupuan" width="640" height="360" src="https://www.youtube.com/embed/Dwc9voKOgyw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -516,7 +516,7 @@
 					<description><![CDATA[During my research on Debussy, I discovered that he and Stravinsky were close friends. Following Debussy&#8217;s death, Stravinsky&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="IGOR STRAVINSKY Symphonies of Wind Instruments (1947 version)" width="640" height="360" src="https://www.youtube.com/embed/VyKTujyLie4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="IGOR STRAVINSKY Symphonies of Wind Instruments (1947 version)" width="640" height="360" src="https://www.youtube.com/embed/VyKTujyLie4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -628,7 +628,7 @@
 					<description><![CDATA[This sonata looks like a good example of Baroque music, characterized by its long melodic lines and ornamental&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Glenn Gould &amp; Yehudi Menuhin - Bach, Sonata No. 4 in C minor (OFFICIAL)" width="640" height="360" src="https://www.youtube.com/embed/Boii0EA6hWo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Glenn Gould &amp; Yehudi Menuhin - Bach, Sonata No. 4 in C minor (OFFICIAL)" width="640" height="360" src="https://www.youtube.com/embed/Boii0EA6hWo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -767,7 +767,7 @@
 					<description><![CDATA[I recently became a fan of Caroline Shaw after listening to her Partita for 8 Singer. I have&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Caroline Shaw &amp; Sō Percussion - To the Sky (Live)" width="640" height="360" src="https://www.youtube.com/embed/B22fQIHUyvY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Caroline Shaw &amp; Sō Percussion - To the Sky (Live)" width="640" height="360" src="https://www.youtube.com/embed/B22fQIHUyvY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -812,7 +812,7 @@
 					<description><![CDATA[Because of Project 3.0, I started listening to Händel&#8217;s Dixit Dominus&#8217; first movement and ended up listening to&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Spotify Embed: Handel: Ode for the Birthday of Queen Anne &amp; Dixit Dominus" style="border-radius: 12px" width="100%" height="380" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/album/2T2GyKe3BFyCa9QgLpMEgx?si=IGbcK_haT-eNXccI9VMzPA&#038;utm_source=oembed"></iframe>
+<iframe title="Spotify Embed: Handel: Ode for the Birthday of Queen Anne &amp; Dixit Dominus" style="border-radius: 12px" width="100%" height="352" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/album/2T2GyKe3BFyCa9QgLpMEgx?si=IGbcK_haT-eNXccI9VMzPA&#038;utm_source=oembed"></iframe>
 </div></figure>
 
 
@@ -846,7 +846,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Partita for 8 Singers: No. 1. Allemande" width="640" height="480" src="https://www.youtube.com/embed/E98OCHWIv3s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Partita for 8 Singers: No. 1. Allemande" width="640" height="480" src="https://www.youtube.com/embed/E98OCHWIv3s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -879,7 +879,7 @@
 					<description><![CDATA[Les Préludes is a symphonic poem composed by Franz Liszt and premiered in 1854. His symphonic poem is&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Les Préludes (Franz Liszt)  Daniel Barenboim mit Berlin Philharmoniker - Staatsoper Berlin (1998)" width="640" height="480" src="https://www.youtube.com/embed/jb2bkVQwtBs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Les Préludes (Franz Liszt)  Daniel Barenboim mit Berlin Philharmoniker - Staatsoper Berlin (1998)" width="640" height="480" src="https://www.youtube.com/embed/jb2bkVQwtBs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -969,7 +969,7 @@
 					<description><![CDATA[Sonata in D Major, TWV 44:1 is a piece of Baroque music composed by the German composer Georg&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Georg Philipp Telemann - Trumpet Sonata in D major, TWV 44:1. Trumpet: Maurice André." width="640" height="360" src="https://www.youtube.com/embed/iUhXRvEPuC4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Georg Philipp Telemann - Trumpet Sonata in D major, TWV 44:1. Trumpet: Maurice André." width="640" height="360" src="https://www.youtube.com/embed/iUhXRvEPuC4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -1049,7 +1049,7 @@
 					<description><![CDATA[“Letter from Home” is a composition by American composer Aaron Copland, written in 1944 and commissioned as a&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Spotify Embed: Letter from Home" style="border-radius: 12px" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/track/4BmuwW29smvsvayXpXD0uo?si=338fb8e5c25f456f&#038;utm_source=oembed"></iframe>
+<iframe title="Spotify Embed: Letter from Home (1962 Version for Reduced Orchestra)" style="border-radius: 12px" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/track/4BmuwW29smvsvayXpXD0uo?si=338fb8e5c25f456f&#038;utm_source=oembed"></iframe>
 </div></figure>
 
 
@@ -1119,7 +1119,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Widmann: Viola Concerto ∙ hr-Sinfonieorchester ∙ Antoine Tamestit ∙ Andrés Orozco-Estrada" width="640" height="360" src="https://www.youtube.com/embed/_5WraTt_l_U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Widmann: Viola Concerto ∙ hr-Sinfonieorchester ∙ Antoine Tamestit ∙ Andrés Orozco-Estrada" width="640" height="360" src="https://www.youtube.com/embed/_5WraTt_l_U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -1183,7 +1183,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Thomas: Come Sunday | Baylor University Wind Ensemble | TMEA 2020" width="640" height="360" src="https://www.youtube.com/embed/PSr5XurNQF8?start=407&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/PSr5XurNQF8?t=407
 </div></figure>
 
 
@@ -1265,7 +1265,7 @@
 					<description><![CDATA[Max Bruch (1838-1920) is a well-known prolific German composer. During his long career, he taught, conducted, and composed.&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Max Bruch - Concerto for Clarinet &amp; Viola, Op. 88 (1911)" width="640" height="360" src="https://www.youtube.com/embed/m0wYD4MzwUw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Max Bruch - Concerto for Clarinet &amp; Viola, Op. 88 (1911)" width="640" height="360" src="https://www.youtube.com/embed/m0wYD4MzwUw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -1518,13 +1518,13 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Lassus | Matona, mia cara [á 4; The Mirandola Ensemble]" width="640" height="360" src="https://www.youtube.com/embed/wl51iST98hA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Lassus | Matona, mia cara [á 4; The Mirandola Ensemble]" width="640" height="360" src="https://www.youtube.com/embed/wl51iST98hA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Ah! Dolente partita   Monteverdi" width="640" height="360" src="https://www.youtube.com/embed/-97t3lw2sJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Ah! Dolente partita   Monteverdi" width="640" height="360" src="https://www.youtube.com/embed/-97t3lw2sJA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -1600,7 +1600,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Oscar Peterson - Hymn To Freedom" width="640" height="360" src="https://www.youtube.com/embed/tCrrZ1NnCuM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Oscar Peterson - Hymn To Freedom" width="640" height="360" src="https://www.youtube.com/embed/tCrrZ1NnCuM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><figcaption>dgbailey777, 2010.&nbsp;<em>Oscar Peterson &#8211; Hymn To Freedom</em>.  Available at: &lt;https://www.youtube.com/watch?v=tCrrZ1NnCuM&gt; [Accessed 15 September 2022].</figcaption></figure>
 
 
@@ -1720,7 +1720,7 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>&#8220;As conservative as it was possible to be in this time. Monteverdi was the radical, the new. There is a very curious letter from the poet Guarini, in which he says he prefers Gesualdo to the modern style because he is ‘so far from the hardness of Monteverdi.’ For Guarini, Gesualdo is so nice, so easy! Exactly the opposite of what we now think.”</p>
 <cite>(Ross, 2011)</cite></blockquote>
 

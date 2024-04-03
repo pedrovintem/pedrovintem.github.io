@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 	<item>
 		<title>Assignment 2</title>
 		<link>./../../../../assignment-2-2/index.html</link>
@@ -271,7 +271,7 @@
 					<description><![CDATA[Les Préludes is a symphonic poem composed by Franz Liszt and premiered in 1854. His symphonic poem is&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Les Préludes (Franz Liszt)  Daniel Barenboim mit Berlin Philharmoniker - Staatsoper Berlin (1998)" width="640" height="480" src="https://www.youtube.com/embed/jb2bkVQwtBs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Les Préludes (Franz Liszt)  Daniel Barenboim mit Berlin Philharmoniker - Staatsoper Berlin (1998)" width="640" height="480" src="https://www.youtube.com/embed/jb2bkVQwtBs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -411,7 +411,7 @@
 					<description><![CDATA[Maria João Pires&#8217; performance was the first I heard. The dynamic range is quite wide and there is&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Chopin: Nocturne No. 3 in B Major, Op. 9, No. 3" width="640" height="480" src="https://www.youtube.com/embed/0NCRKFajfFE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Chopin: Nocturne No. 3 in B Major, Op. 9, No. 3" width="640" height="480" src="https://www.youtube.com/embed/0NCRKFajfFE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -421,7 +421,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Chopin Nocturne Op. 9 No. 3 in B Major (Arthur Rubinstein)" width="640" height="480" src="https://www.youtube.com/embed/O3Apq41rrFc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Chopin Nocturne Op. 9 No. 3 in B Major (Arthur Rubinstein)" width="640" height="480" src="https://www.youtube.com/embed/O3Apq41rrFc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -431,7 +431,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Chopin Nocturne Op.9, No.3 ♪ Hiroko Nakamura (2010) ♪" width="640" height="360" src="https://www.youtube.com/embed/RPgywDE8DA8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Chopin Nocturne Op.9, No.3 ♪ Hiroko Nakamura (2010) ♪" width="640" height="360" src="https://www.youtube.com/embed/RPgywDE8DA8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -455,7 +455,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Anna Fedorova – Nocturne in B major, Op. 9 No. 3 (first stage, 2010)" width="640" height="360" src="https://www.youtube.com/embed/QrdK47U_VKA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Anna Fedorova – Nocturne in B major, Op. 9 No. 3 (first stage, 2010)" width="640" height="360" src="https://www.youtube.com/embed/QrdK47U_VKA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -559,7 +559,7 @@
 					<description><![CDATA[Sonata in D Major, TWV 44:1 is a piece of Baroque music composed by the German composer Georg&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Georg Philipp Telemann - Trumpet Sonata in D major, TWV 44:1. Trumpet: Maurice André." width="640" height="360" src="https://www.youtube.com/embed/iUhXRvEPuC4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Georg Philipp Telemann - Trumpet Sonata in D major, TWV 44:1. Trumpet: Maurice André." width="640" height="360" src="https://www.youtube.com/embed/iUhXRvEPuC4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -841,7 +841,7 @@
 					<description><![CDATA[“Letter from Home” is a composition by American composer Aaron Copland, written in 1944 and commissioned as a&#8230;]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Spotify Embed: Letter from Home" style="border-radius: 12px" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/track/4BmuwW29smvsvayXpXD0uo?si=338fb8e5c25f456f&#038;utm_source=oembed"></iframe>
+<iframe title="Spotify Embed: Letter from Home (1962 Version for Reduced Orchestra)" style="border-radius: 12px" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/track/4BmuwW29smvsvayXpXD0uo?si=338fb8e5c25f456f&#038;utm_source=oembed"></iframe>
 </div></figure>
 
 
@@ -938,7 +938,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Hector Berlioz- Harold en Italie [With score]" width="640" height="360" src="https://www.youtube.com/embed/SGkzjX6A1-s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Hector Berlioz- Harold en Italie [With score]" width="640" height="360" src="https://www.youtube.com/embed/SGkzjX6A1-s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -971,7 +971,7 @@
 
 
 
-<blockquote class="wp-block-quote"><p>Beethoven dead there was no one but Berlioz who could bring him back to life; and I who have experienced your divine compositions worthy of a genius such as yours, believe it is my duty to beg you to be willing to accept as a sign of my homage 20,000 francs.</p><cite>Letter from Paganini to Berlioz</cite></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Beethoven dead there was no one but Berlioz who could bring him back to life; and I who have experienced your divine compositions worthy of a genius such as yours, believe it is my duty to beg you to be willing to accept as a sign of my homage 20,000 francs.</p><cite>Letter from Paganini to Berlioz</cite></blockquote>
 
 
 
@@ -1027,7 +1027,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Widmann: Viola Concerto ∙ hr-Sinfonieorchester ∙ Antoine Tamestit ∙ Andrés Orozco-Estrada" width="640" height="360" src="https://www.youtube.com/embed/_5WraTt_l_U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Widmann: Viola Concerto ∙ hr-Sinfonieorchester ∙ Antoine Tamestit ∙ Andrés Orozco-Estrada" width="640" height="360" src="https://www.youtube.com/embed/_5WraTt_l_U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -1084,7 +1084,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Transposing instruments made easy" width="640" height="360" src="https://www.youtube.com/embed/I2WzVRj9k1A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Transposing instruments made easy" width="640" height="360" src="https://www.youtube.com/embed/I2WzVRj9k1A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

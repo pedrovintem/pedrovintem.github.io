@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 	<item>
 		<title>Reflection</title>
 		<link>./../../../../reflection/index.html</link>
@@ -219,7 +219,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Harry Partch: SONATA DEMENTIA (1950)" width="640" height="360" src="https://www.youtube.com/embed/qZybJAEPu18?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Harry Partch: SONATA DEMENTIA (1950)" width="640" height="360" src="https://www.youtube.com/embed/qZybJAEPu18?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 ]]></content:encoded>
 					
@@ -248,7 +248,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="HARRY PARTCH - King Oedipus 1952 (Audio)" width="640" height="480" src="https://www.youtube.com/embed/V2jHtfk2ljM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="HARRY PARTCH - King Oedipus 1952 (Audio)" width="640" height="480" src="https://www.youtube.com/embed/V2jHtfk2ljM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 ]]></content:encoded>
 					
@@ -308,7 +308,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="How to Modulate to G 1/2 Sharp (Jacob Collier-style)" width="640" height="360" src="https://www.youtube.com/embed/Xd54l8gfi7M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="How to Modulate to G 1/2 Sharp (Jacob Collier-style)" width="640" height="360" src="https://www.youtube.com/embed/Xd54l8gfi7M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -318,7 +318,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="In The Bleak Midwinter - Jacob Collier" width="640" height="360" src="https://www.youtube.com/embed/mPZn4x3uOac?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="In The Bleak Midwinter - Jacob Collier" width="640" height="360" src="https://www.youtube.com/embed/mPZn4x3uOac?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 ]]></content:encoded>
 					
@@ -378,7 +378,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="IVES Three Quarter Tone Pieces for Two Pianos w/ TMC Fellows" width="640" height="360" src="https://www.youtube.com/embed/wwj8mTiZi8o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="IVES Three Quarter Tone Pieces for Two Pianos w/ TMC Fellows" width="640" height="360" src="https://www.youtube.com/embed/wwj8mTiZi8o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 ]]></content:encoded>
 					
@@ -407,7 +407,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Alois Hába: Sonata for quarter tone piano, op.62 (1946/1947)" width="640" height="480" src="https://www.youtube.com/embed/FDs7ve1uGbg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Alois Hába: Sonata for quarter tone piano, op.62 (1946/1947)" width="640" height="480" src="https://www.youtube.com/embed/FDs7ve1uGbg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -566,7 +566,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Steve Reich &amp; Wolfram Winkel - Clapping Music" width="640" height="360" src="https://www.youtube.com/embed/hH1j06bMHDQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Steve Reich &amp; Wolfram Winkel - Clapping Music" width="640" height="360" src="https://www.youtube.com/embed/hH1j06bMHDQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -992,7 +992,7 @@
 
 					<description><![CDATA[&#8220;A remarkable step forward on the way towards the ideal of symphonic unity (…) With his fifth symphony&#8230;]]></description>
 										<content:encoded><![CDATA[
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>&#8220;A remarkable step forward on the way towards the ideal of symphonic unity (…) With his fifth symphony Sibelius raises the genre of the symphony to an entirely new cyclic level.&#8221;</p>
 <cite><em>Veijo Murtomäki, musicologist, 1990</em></cite></blockquote>
 

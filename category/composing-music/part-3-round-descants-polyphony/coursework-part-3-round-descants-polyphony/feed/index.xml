@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 	<item>
 		<title>Project 10 &#8211; A contrapuntal trial</title>
 		<link>./../../../../../project-10-a-contrapuntal-trial/index.html</link>
@@ -115,7 +115,7 @@
 		
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Debussy in Vienna - Bassoon and Harp" width="640" height="360" src="https://www.youtube.com/embed/9Ts9pdxGvJU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Debussy in Vienna - Bassoon and Harp" width="640" height="360" src="https://www.youtube.com/embed/9Ts9pdxGvJU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 	</div>

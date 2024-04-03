@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 	<item>
 		<title>Listening to contemporary music styles</title>
 		<link>./../../../../../listening-to-contemporary-music-styles/index.html</link>
@@ -533,7 +533,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="&quot;Onoe no Matsu&quot;  「尾上の松」:Tokumaru Jumei" width="640" height="360" src="https://www.youtube.com/embed/nwCuI3Xn7_E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="&quot;Onoe no Matsu&quot;  「尾上の松」:Tokumaru Jumei" width="640" height="360" src="https://www.youtube.com/embed/nwCuI3Xn7_E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -543,7 +543,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Soloists Of The Ensemble Nipponia ‎– Japan (Traditional Vocal &amp; Instrumental Music) [Full Album]" width="640" height="480" src="https://www.youtube.com/embed/4emogJU_pdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Soloists Of The Ensemble Nipponia ‎– Japan (Traditional Vocal &amp; Instrumental Music) [Full Album]" width="640" height="480" src="https://www.youtube.com/embed/4emogJU_pdA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

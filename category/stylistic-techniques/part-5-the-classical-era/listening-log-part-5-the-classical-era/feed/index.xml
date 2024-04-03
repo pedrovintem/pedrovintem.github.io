@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 	<item>
 		<title>Listening to Cecilia Todd &#8211; Acidito</title>
 		<link>./../../../../../listening-to-cecilia-todd-acidito/index.html</link>
@@ -41,7 +41,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Cecilia Todd - Acidito - Encuentro en el Estudio - Temporada 7" width="640" height="360" src="https://www.youtube.com/embed/o20jefoabvE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Cecilia Todd - Acidito - Encuentro en el Estudio - Temporada 7" width="640" height="360" src="https://www.youtube.com/embed/o20jefoabvE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -63,7 +63,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Venezuelan Merengue - Alexis Soto and Carlos Capacho (Berklee Artist Notes)" width="640" height="360" src="https://www.youtube.com/embed/ICAviMybq94?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Venezuelan Merengue - Alexis Soto and Carlos Capacho (Berklee Artist Notes)" width="640" height="360" src="https://www.youtube.com/embed/ICAviMybq94?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 ]]></content:encoded>
 					
@@ -92,7 +92,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Heitor Villa-lobos - 12 Études for Guitar (Score video)" width="640" height="360" src="https://www.youtube.com/embed/JP8R7JBu_UM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Heitor Villa-lobos - 12 Études for Guitar (Score video)" width="640" height="360" src="https://www.youtube.com/embed/JP8R7JBu_UM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
