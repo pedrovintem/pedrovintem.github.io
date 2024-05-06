@@ -12,14 +12,35 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Learning Log</description>
-	<lastBuildDate>Wed, 06 Sep 2023 21:11:51 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 May 2024 14:26:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5</generator>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
+		<title>Microtonal Music Diagram</title>
+		<link>./../../../microtonal-music-diagram/index.html</link>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 14:26:33 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=2037</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="./../../../wp-content/uploads/2024/05/Screenshot-2024-05-05-at-15.25.30.png"><img fetchpriority="high" decoding="async" width="2294" height="944" src="./../../../wp-content/uploads/2024/05/Screenshot-2024-05-05-at-15.25.30.png" alt="" class="wp-image-2039" srcset="./../../../wp-content/uploads/2024/05/Screenshot-2024-05-05-at-15.25.30.png 2294w, ./../../../wp-content/uploads/2024/05/Screenshot-2024-05-05-at-15.25.30-300x123.png 300w, ./../../../wp-content/uploads/2024/05/Screenshot-2024-05-05-at-15.25.30-1024x421.png 1024w, ./../../../wp-content/uploads/2024/05/Screenshot-2024-05-05-at-15.25.30-768x316.png 768w, ./../../../wp-content/uploads/2024/05/Screenshot-2024-05-05-at-15.25.30-1536x632.png 1536w, ./../../../wp-content/uploads/2024/05/Screenshot-2024-05-05-at-15.25.30-2048x843.png 2048w, ./../../../wp-content/uploads/2024/05/Screenshot-2024-05-05-at-15.25.30-640x263.png 640w, ./../../../wp-content/uploads/2024/05/Screenshot-2024-05-05-at-15.25.30-960x395.png 960w" sizes="(max-width: 2294px) 100vw, 2294px" /></a></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Exercise Considering chance and serial music</title>
 		<link>./../../../exercise-considering-chance-and-serial-music/index.html</link>
 		
