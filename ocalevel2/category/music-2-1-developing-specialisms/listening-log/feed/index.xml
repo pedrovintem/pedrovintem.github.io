@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Listening Log &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 28 Jun 2024 17:13:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Listening to Jon Batiste &#8211; What a Wonderful World</title>
+		<link>./../../../../listening-to-jon-batiste-what-a-wonderful-world/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Sat, 22 Jun 2024 16:57:18 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Music 2.1: Developing Specialisms]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=167</guid>
+
+					<description><![CDATA[Jon Batiste&#8217;s cover of &#8220;What a Wonderful World&#8221; is a reinterpretation of the classic song, offering a contemplative and sombre take that contrasts with Louis Armstrong&#8217;s iconic original version. The instrumentation is minimal, featuring only...]]></description>
+										<content:encoded><![CDATA[
+<p>Jon Batiste&#8217;s cover of &#8220;What a Wonderful World&#8221; is a reinterpretation of the classic song, offering a contemplative and sombre take that contrasts with Louis Armstrong&#8217;s iconic original version.</p>
+
+
+
+<p>The instrumentation is minimal, featuring only Batiste&#8217;s piano and voice. This sparse arrangement allows for a deep focus on the emotional delivery of the lyrics and the smoothness of the piano. The use of higher notes and a pentatonic scale on the piano adds an interesting texture to the piece, creating a sense of levitation and hope.</p>
+
+
+
+<p>The tempo is slower than the original, at around 90 bpm compared to Armstrong&#8217;s 110 bpm. This slower pace contributes to a more reflective mood, allowing for a long and thoughtful articulation of the lyrics. The overall atmosphere feels melancholic and introspective, which contrasts with the uplifting tone of Armstrong&#8217;s interpretation.</p>
+
+
+
+<p>One of the most surprising elements is the intense repetition of the E note, which contributes to the feeling of sadness and sorrow that marks the song. This repetitiveness creates a sense of tension and emotional depth that sets it apart from the original.</p>
+
+
+
+<p>Batiste&#8217;s version differs significantly from Armstrong&#8217;s in several key aspects. In terms of duration, Batiste&#8217;s interpretation is nearly twice as long at 4 minutes, compared to Armstrong&#8217;s 2 minutes. The emotional tone also diverges considerably; while Armstrong&#8217;s delivery feels warm and optimistic, Batiste&#8217;s interpretation is more introspective and melancholic. The arrangement varies greatly as well, with the original featuring a full orchestra creating a light, moving harmony, whereas Batiste&#8217;s piano-only arrangement feels more static and profound. Rhythmically, Armstrong&#8217;s version has a danceable quality, while Batiste&#8217;s is more atmospheric and free-flowing. Lastly, the vocal presence differs; Armstrong&#8217;s voice is prominent throughout the song, while Batiste allows more space for instrumental passages, creating a different balance between voice and accompaniment.</p>
+
+
+
+<p>Batiste&#8217;s reinterpretation of &#8220;What a Wonderful World&#8221; demonstrates artistic courage. Taking one of the most beloved and well-known songs of the 20th century and reimagining it in a more introspective and sombre style, shows that music is not a static artefact, but a dynamic, living entity that can evolve and adapt, continually revealing new facets of meaning and emotion.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
