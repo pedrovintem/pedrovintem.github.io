@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Assignment &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 05 Aug 2024 20:46:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>CMP Assignment 2: Piano Composition &#8211; Reflection</title>
+		<link>./../../../../../../cmp-assignment-2-piano-composition-reflection/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Mon, 05 Aug 2024 20:46:30 +0000</pubDate>
+				<category><![CDATA[Assignment]]></category>
+		<category><![CDATA[Composition Pathway]]></category>
+		<category><![CDATA[Music 2.1: Developing Specialisms]]></category>
+		<category><![CDATA[Project 2: Timbre and Texture]]></category>
+		<guid isPermaLink="false">./../../../../../../index.html?p=209</guid>
+
+					<description><![CDATA[For this assignment, I composed a piano piece titled &#8220;Putting Bernardo to Sleep,&#8221; inspired by a short theme I played while putting my son to sleep. The goal was to create a soothing and simple...]]></description>
+										<content:encoded><![CDATA[
+<p>For this assignment, I composed a piano piece titled &#8220;Putting Bernardo to Sleep,&#8221; inspired by a short theme I played while putting my son to sleep. The goal was to create a soothing and simple lullaby, with a soft and gentle melody.</p>
+
+
+
+<p>The composition begins with a thin, but as the piece progresses, I experimented with thicker textures to add variety and depth. I also played with the range of the piano, starting with closely spaced notes and gradually expanding into the upper register. This choice was intentional, aiming to maintain a light and innocent feel, which I associate with the sound of higher pitches.</p>
+
+
+
+<p>I incorporated octaves to enrich the sound and give the piece a fuller presence without overwhelming the intended softness. In the fourth section, I felt a modulation was needed to keep it interesting. To achieve this, I decided to descend chromatically by fifths.</p>
+
+
+
+<p>While I am satisfied with the gentle, calming atmosphere the piece evokes, I can&#8217;t help but feel that it turned out somewhat predictable and similar to a simple pop piano music. While there&#8217;s nothing inherently wrong with this style, I had hoped to achieve a deeper, more classical sound. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

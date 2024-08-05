@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Project 1: Tutorial</title>
 		<link>./../../../../project-1-tutorial/index.html</link>
@@ -156,7 +156,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Canon refers to a body of musical works and composers regarded as highly valuable and exemplary.</li>
 
 
@@ -194,7 +194,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Historical musicology was formalised by Guido Adler in 1885, focusing on Western concert music&#8217;s history, notation, performance practice, and instrument history.</li>
 
 
@@ -212,7 +212,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Historiography is the discipline of writing history, including music history.</li>
 
 
@@ -238,7 +238,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Historicism views historical subjects as products of their social, political, and cultural contexts, valuing past and present equally.</li>
 
 
@@ -256,7 +256,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Periodization is the division of music history into distinct periods (e.g., Baroque, Classical, Romantic) for analytical purposes.</li>
 
 
@@ -416,9 +416,9 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li><strong>Music vs. Musicology</strong>:
-<ul>
+<ul class="wp-block-list">
 <li>Music is a practical activity with a long history.</li>
 
 
@@ -434,15 +434,15 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Definition of Musicology</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Broadly defined as the thinking about and study of music</li>
 
 
 
 <li>Stands outside the creative process to provide perspective on:
-<ul>
+<ul class="wp-block-list">
 <li>The creative process itself</li>
 
 
@@ -464,9 +464,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Historical Development of Musicology</strong>:
-<ul>
+<ul class="wp-block-list">
 <li>Early figures like Forkel and Fétis proposed early forms of musicology.</li>
 
 
@@ -490,9 +490,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Expansion of Scope</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Traditional focus on Western classical music</li>
 
 
@@ -512,9 +512,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Historical Narrative of Musicology</strong>:
-<ul>
+<ul class="wp-block-list">
 <li>Traces origins back to ancient Greece (Plato and Aristotle) and through medieval, Renaissance, and Enlightenment periods.</li>
 
 
@@ -534,9 +534,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Contemporary Musicology</strong>:
-<ul>
+<ul class="wp-block-list">
 <li>Joseph Kerman&#8217;s work in the 1980s marked a significant shift.</li>
 
 
@@ -556,9 +556,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Current State of Musicology</strong>:
-<ul>
+<ul class="wp-block-list">
 <li>Embraces a broad range of music and critical models.</li>
 
 
@@ -588,7 +588,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li><strong>Audio recording of a piece of baroque music</strong>: Since the first audio recording of music was in the 19th century, any recording of baroque music would be a secondary source.</li>
 
 
@@ -644,7 +644,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li>Books (including textbooks, monographs, and edited volumes)</li>
 
 

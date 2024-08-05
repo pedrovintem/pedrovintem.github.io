@@ -12,30 +12,57 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Sat, 22 Jun 2024 13:16:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Jul 2024 20:29:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
-		<title>Hello world!</title>
-		<link>./../../../hello-world/index.html</link>
-					<comments>./../../../hello-world/index.html#comments</comments>
+		<title>Exercise 3 Melodic Doubling</title>
+		<link>./../../../exercise-3-melodic-doubling/index.html</link>
 		
 		<dc:creator><![CDATA[pedro]]></dc:creator>
-		<pubDate>Sat, 22 Jun 2024 13:16:11 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=1</guid>
+		<pubDate>Fri, 19 Jul 2024 20:29:12 +0000</pubDate>
+				<category><![CDATA[Composition Pathway]]></category>
+		<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Music 2.1: Developing Specialisms]]></category>
+		<category><![CDATA[Project 2: Timbre and Texture]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=190</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[The main difference I noticed is that the octave-doubled version of the melody maintains the original harmonic purity while expanding its vertical range. This seems to create a fuller, more expansive sound without changing the...]]></description>
 										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<figure class="wp-block-gallery has-nested-images columns-1 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="2222" height="1915" data-id="192" src="./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling.png" alt="" class="wp-image-192" srcset="./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling.png 2222w, ./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling-300x259.png 300w, ./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling-1024x883.png 1024w, ./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling-768x662.png 768w, ./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling-1536x1324.png 1536w, ./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling-2048x1765.png 2048w, ./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling-700x603.png 700w" sizes="(max-width: 2222px) 100vw, 2222px" /></figure>
+</figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="892" src="./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling-2-1-1024x892.png" alt="" class="wp-image-193" srcset="./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling-2-1-1024x892.png 1024w, ./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling-2-1-300x261.png 300w, ./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling-2-1-768x669.png 768w, ./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling-2-1-1536x1338.png 1536w, ./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling-2-1-2048x1784.png 2048w, ./../../../wp-content/uploads/2024/07/Composition-Excercise-3-Melodic-Doubling-2-1-700x610.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>The main difference I noticed is that the octave-doubled version of the melody maintains the original harmonic purity while expanding its vertical range. This seems to create a fuller, more expansive sound without changing the piece&#8217;s character. </p>
+
+
+
+<p>In contrast, the fifth-doubled version introduces new harmonic colours, resulting in a richer, more complex texture that significantly changes the melody&#8217;s emotional impact. </p>
+
+
+
+<p>This experiment was helpful for me to understand how octave doubling can be a technique that enhances a melody&#8217;s presence without altering its identity, whereas the fifths doubling can transform the melodic character.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../hello-world/feed/index.html</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
