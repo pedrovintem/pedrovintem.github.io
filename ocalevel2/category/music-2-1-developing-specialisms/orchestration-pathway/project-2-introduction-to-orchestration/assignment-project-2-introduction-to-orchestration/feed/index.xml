@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Assignment &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 10 Dec 2024 22:44:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>ORC Assignment 2: Arranging Chords</title>
+		<link>./../../../../../../orc-assignment-2-arranging-chords/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2024 22:44:31 +0000</pubDate>
+				<category><![CDATA[Assignment]]></category>
+		<category><![CDATA[Music 2.1: Developing Specialisms]]></category>
+		<category><![CDATA[Orchestration Pathway]]></category>
+		<category><![CDATA[Project 2: Introduction to Orchestration]]></category>
+		<guid isPermaLink="false">./../../../../../../index.html?p=408</guid>
+
+					<description><![CDATA[In the traditional version, I prioritised close voice leading with minimal motion in individual lines to achieve smooth harmonic transitions. This approach ensured clarity and cohesion throughout, with each chord naturally leading to the next...]]></description>
+										<content:encoded><![CDATA[
+<p>In the traditional version, I prioritised close voice leading with minimal motion in individual lines to achieve smooth harmonic transitions. This approach ensured clarity and cohesion throughout, with each chord naturally leading to the next in a way that felt balanced.</p>
+
+
+
+<p>For the experimental version, I intentionally broke the rules to create dramatic shifts and moments of contrast. For example, in the second version of progression #1, I introduced unexpected leaps, such as the leap in Violin 1 to emphasise the B chord, which was followed by a leap in Violin 2 and Viola on the next chord. Additionally, in the second version of progression #2, I opened the chord spacing, spreading the harmonies more widely to. These changes added a sense of unpredictability and heightened emotional intensity.</p>
+
+
+
+<p>Comparing the two versions, the traditional version stands out for its clarity and cohesion. In contrast, the experimental version offers dramatic shifts. Pushing for drama in the experimental version was both challenging and rewarding. Challenging because it step away from my natural inclination toward smooth voice leading and embracing the freedom to break the rules. Rewarding because I feel the second version is more interesting and exciting than the first.</p>
+
+
+
+<h2 class="wp-block-heading">Progression #1</h2>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="614" src="./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-1-1024x614.png" alt="" class="wp-image-409" srcset="./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-1-1024x614.png 1024w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-1-300x180.png 300w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-1-768x461.png 768w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-1-1536x921.png 1536w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-1-2048x1228.png 2048w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-1-700x420.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="614" src="./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-1-2-1024x614.png" alt="" class="wp-image-410" srcset="./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-1-2-1024x614.png 1024w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-1-2-300x180.png 300w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-1-2-768x461.png 768w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-1-2-1536x921.png 1536w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-1-2-2048x1228.png 2048w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-1-2-700x420.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Progression #2</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="617" src="./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-2-1024x617.png" alt="" class="wp-image-411" srcset="./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-2-1024x617.png 1024w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-2-300x181.png 300w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-2-768x463.png 768w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-2-1536x925.png 1536w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-2-2048x1234.png 2048w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-2-700x422.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="619" src="./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-2-2-1024x619.png" alt="" class="wp-image-412" srcset="./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-2-2-1024x619.png 1024w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-2-2-300x181.png 300w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-2-2-768x464.png 768w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-2-2-1536x928.png 1536w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-2-2-2048x1238.png 2048w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-2-2-700x423.png 700w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Progression #3</h2>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="624" src="./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-3-1024x624.png" alt="" class="wp-image-413" srcset="./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-3-1024x624.png 1024w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-3-300x183.png 300w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-3-768x468.png 768w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-3-1536x936.png 1536w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-3-2048x1247.png 2048w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-3-700x426.png 700w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="624" src="./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-3-2-1024x624.png" alt="" class="wp-image-414" srcset="./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-3-2-1024x624.png 1024w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-3-2-300x183.png 300w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-3-2-768x468.png 768w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-3-2-1536x936.png 1536w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-3-2-2048x1247.png 2048w, ./../../../../../../wp-content/uploads/2024/12/ORC-Assignment-2-3-2-700x426.png 700w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
