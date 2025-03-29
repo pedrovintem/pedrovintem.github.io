@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Assignment &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 22 Mar 2025 22:35:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>ORC Assignment 5: Arranging for Nonet</title>
+		<link>./../../../../../../495-2/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 21:57:22 +0000</pubDate>
+				<category><![CDATA[Assignment]]></category>
+		<category><![CDATA[Music 2.1: Developing Specialisms]]></category>
+		<category><![CDATA[Orchestration Pathway]]></category>
+		<category><![CDATA[Project 5: Developing Orchestration Skills]]></category>
+		<guid isPermaLink="false">./../../../../../../index.html?p=495</guid>
+
+					<description><![CDATA[Orchestration Structure for Bruyères Section Measures Instrumentation &#38; Texture Details/Character A Section (Calme) mm. 1–12 Clarinet (melody), string accompaniment woodwind interplay – The clarinet introduces the main theme, supported by a warm string texture. Codetta...]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading"><strong>Orchestration Structure for <em>Bruyères</em></strong></h3>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th><strong>Section</strong></th><th><strong>Measures</strong></th><th><strong>Instrumentation &amp; Texture</strong></th><th><strong>Details/Character</strong></th></tr></thead><tbody><tr><td><strong>A Section (Calme)</strong></td><td>mm. 1–12</td><td><strong>Clarinet (melody), string accompaniment  woodwind interplay</strong></td><td>– The clarinet introduces the main theme, supported by a warm string texture.</td></tr><tr><td><strong>Codetta</strong></td><td>mm. 13–18</td><td><strong>Pentatonic flourishes in winds, light strings</strong></td><td>– Flute, oboe and clarinet highlight pentatonic fragments.</td></tr><tr><td><strong>B Section (Doux et léger, Increased Energy)</strong></td><td>mm. 19–22</td><td><strong>Flute (melody), tremolo strings, no bass</strong></td><td>– A fragile, floating passage.</td></tr><tr><td><strong>B Section (Un peu animé, Joyeux Theme)</strong></td><td>mm. 23–28</td><td><strong>Flute and first violin (melody), fuller wind harmonization</strong></td><td>– The joyful B-flat major theme emerges.</td></tr><tr><td><strong>Interruption &amp; Harmonic Shift</strong></td><td>mm. 29–32</td><td><strong>Woodwinds in interplay, shifting harmonies, subtle strings</strong></td><td>– A sudden change in character.</td></tr><tr><td><strong>Return of Joyeux Theme</strong></td><td>mm. 33–37</td><td><strong>Clarinet, and first violin (melody), richer orchestration</strong></td><td>– The joyful theme returns.</td></tr><tr><td><strong>A&#8217; Section</strong></td><td>mm. 38–44</td><td><strong>Winds and first violin (melody), fuller strings</strong></td><td>– A smooth transition back to A-flat major.</td></tr><tr><td><strong>Coda (En retenant)</strong></td><td>mm. 45–end</td><td><strong>Flute and oboe (melody), sustained strings for warmth</strong></td><td>– A gentle conclusion with light, floating textures.</td></tr></tbody></table></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Reflective Commentary</h2>
+
+
+
+<p>My primary objective was to preserve the light, flowing nature of the piece while showcasing the unique timbral qualities of each instrument.</p>
+
+
+
+<p>In the opening section (bars 1–13), I assigned the clarinet the lead melody, introducing the theme with warmth and fluidity. However, rather than maintaining a single lead voice, I opted to distribute the melodic material among the other winds, allowing for a gentle interplay that mirrors Debussy’s coloristic approach. The first violin serves as an accompanying voice, grounding the harmony while maintaining a sense of lightness.</p>
+
+
+
+<p>Bars 14–18 introduce a delicate woodwind exchange, making the texture more transparent. I chose this approach to prevent the orchestration from becoming too dense, maintaining the prelude’s airy quality. The section from bars 19–22 is particularly fragile, with tremolo strings and soft flute lines contributing to an ethereal soundscape. Here, I stripped away the bass voices to enhance the sense of weightlessness, emphasizing Debussy’s harmonic ambiguity.</p>
+
+
+
+<p>At bar 23, the violin takes over the melody, accompanied by the flute, to introduce a brighter, more lyrical quality. This decision was made to highlight the shift in character while maintaining a delicate balance between strings and winds. The sudden contrast in bar 29 sees the woodwinds take control again, engaging in a dynamic interplay.</p>
+
+
+
+<p>Returning to the earlier theme in bar 33, I combined the clarinet and violin to create a rich, expressive timbre. This section builds toward the final passage, where flute, oboe, and violin enhance the drama before the coda’s serene resolution. To conclude, I used flute and oboe in the final bars to impart a sense of weightlessness and tranquility.</p>
+
+
+
+<p>The greatest challenge was balancing the independence of each instrument while ensuring cohesion. I did not make any dramatic changes to the piece’s harmony and melody but rather chose to play with timbres. By distributing the melodic and harmonic roles, I aimed to maintain the impressionistic essence of <em>Bruyères</em>, capturing its fluidity while exploring the distinct colors of the nonet.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
