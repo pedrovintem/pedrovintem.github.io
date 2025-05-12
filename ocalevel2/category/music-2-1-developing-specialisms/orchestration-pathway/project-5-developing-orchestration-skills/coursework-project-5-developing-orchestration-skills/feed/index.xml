@@ -12,13 +12,13 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Wed, 26 Mar 2025 22:24:42 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 11 May 2025 20:15:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8</generator>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
 	<item>
 		<title>Exercise 2: Bartók Orchestration</title>
 		<link>./../../../../../../exercise-2-bartok-orchestration/index.html</link>
@@ -36,7 +36,7 @@
 
 
 
-<p><strong>Instrumentas:</strong></p>
+<p><strong>Instruments:</strong></p>
 
 
 
@@ -135,10 +135,6 @@
 
 
 <p>My goal was to highlight the melody while keeping each instrument distinct. Brass naturally blends, but I avoided that by giving each a clear role. Occasional staccato added sharpness, contrasting with the smooth phrasing. A challenge was ensuring the melody stood out without making the accompaniment too dense. Careful register distribution helped maintain balance.</p>
-
-
-
-<p><strong>Takeaway for Clarke:</strong> I’ll focus more on how spacing affects perception, ensuring silence feels intentional rather than empty.</p>
 
 
 
