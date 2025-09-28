@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Listening Log &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 28 Sep 2025 21:14:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<item>
+		<title>Listening to The Kills &#8211; The Last Goodbye</title>
+		<link>./../../../../listening-to-the-kills-the-last-goodbye/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2025 13:16:35 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 1: Introduction to Collaboration]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=608</guid>
+
+					<description><![CDATA[I have been interested in piano music recently, focusing on how a single instrument can carry such depth. Though The Last Goodbye has a simple arrangement, the power of it immediately impressed me. The piece...]]></description>
+										<content:encoded><![CDATA[
+<p>I have been interested in piano music recently, focusing on how a single instrument can carry such depth. Though <em>The Last Goodbye</em> has a simple arrangement, the power of it immediately impressed me. The piece opens directly with the piano accompaniment, setting a 3/4 tempo that establishes the ballad character.</p>
+
+
+
+<p>The instrumentation here is simple: piano and voice. What stood out to me most was the timbre of the singe&#8217;s voice. It has this slightly rough, lower register quality, almost a whisper at times, which keeps the music from becoming too lyrical. When the vocal enters, it is conversational, resting above the piano. The overall texture is thin, giving the song an intimate sound. </p>
+
+
+
+<p>While the musical setting, the slow, waltz-like rhythm, creates melancholy, her voice introduces a paradoxical sense of peace. It is not a crying-out sadness; rather, it is a calm, reflective resignation. I felt like I was listening to someone quietly accept an inevitable loss. This contrast, where the sadness of the music is met with a relaxed tone, makes the piece memorable. This simplicity makes the emotion feel real.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Joy Crookes &#8211; Skin</title>
+		<link>./../../../../listening-to-joy-crookes-skin/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Sat, 20 Sep 2025 13:09:02 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 1: Introduction to Collaboration]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=606</guid>
+
+					<description><![CDATA[When I first hear &#8220;Skin,&#8221; I am struck by its immediate, almost cinematic quality, which is rooted in its instrumental texture. The introduction is marked by a deliberate and stately piano line, establishing a gentle...]]></description>
+										<content:encoded><![CDATA[
+<p>When I first hear &#8220;Skin,&#8221; I am struck by its immediate, almost cinematic quality, which is rooted in its instrumental texture. The introduction is marked by a deliberate and stately piano line, establishing a gentle but firm rhythmic pulse in a ballad tempo. This immediately gives the piece a meditative, perhaps melancholic, quality.</p>
+
+
+
+<p>The instrumentation and texture are what really make this piece captivating for me. It is a soul-jazz ballad, but it is elevated by the use of orchestral elements. As the first verse begins, Crookes&#8217; voice, with a smoky, rich timbre, is front and center. Underneath the vocal melody, the texture is sparse, dominated by a simple piano. However, it is the entrance of the string section that acts as the primary structural marker. The strings bring a warm lush, rising counter-melody, adding a grandiosity that contrasts beautifully with the intimacy of the piano.</p>
+
+
+
+<p>The overall emotional interpretation I take from the piece is one of tender, yet strong, reassurance. The music speaks of resilience and self-acceptance. It is not a song of dramatic conflict, but rather a reflective thought. It makes me wonder about the specific person Crookes was thinking of, and how much a simple, beautiful melody can carry the weight of life&#8217;s biggest struggles.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
