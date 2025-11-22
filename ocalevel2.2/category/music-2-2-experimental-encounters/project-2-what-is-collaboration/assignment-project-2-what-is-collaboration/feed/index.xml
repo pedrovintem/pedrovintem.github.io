@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Assignment &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 22 Nov 2025 17:30:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<item>
+		<title>Assignment 2</title>
+		<link>./../../../../../assignment-2/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Sat, 22 Nov 2025 16:46:26 +0000</pubDate>
+				<category><![CDATA[Assignment]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 2: What is Collaboration?]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=612</guid>
+
+					<description><![CDATA[When this unit began, I knew I wanted to pursue a collaboration that aligned with my growing interest in music education for young people. Having spent my career as a copywriter, I&#8217;ve recently discovered through...]]></description>
+										<content:encoded><![CDATA[
+<p>When this unit began, I knew I wanted to pursue a collaboration that aligned with my growing interest in music education for young people. Having spent my career as a copywriter, I&#8217;ve recently discovered through this degree that I genuinely enjoy orchestration and composition, but I&#8217;ve never had a piece performed live. The possibility of working with John (Choral Director) and Elena (String Program Director) at an international school in Portugal offered both: a chance to explore collaborative creation with experienced music educators and the prospect of hearing my first composition come to life in performance.</p>
+
+
+
+<p>The project centred on creating a new musical setting for the beloved Portuguese poem, &#8220;Eu tive um sonho, sonhei a paz,&#8221;. This poem had only ever been associated with the melody of ABBA&#8217;s &#8220;I Have a Dream,&#8221; and I wanted to liberate this beautiful text by giving it the original music it deserved.</p>
+
+
+
+<p>The initial scoping phase was a genuinely exciting introduction to two new creative minds. My role was quickly defined by the partners&#8217; context: composing, orchestrating, and documenting. Their roles were to function as consultants, applying the pragmatic lens of the school environment (student ability, instrument availability, and time constraints) to my creative vision. </p>
+
+
+
+<p>The whole process required us to be very flexible. I started by drafting a piano/vocal score in C Major, but a key feedback session immediately led to several detailed revisions. The first one was the need to transpose the piece to A Major for both comfortable vocal range and easier string dexterity. For the conductor&#8217;s score, the choral parts were condensed into two staves (Soprano/Alto and Tenor/Bass) to make it cleaner and easier to read. The String Director also marked the violin solo clearly with the standard &#8220;solo&#8221; and &#8220;tutti&#8221; markings and designated the beginner-level Orchestra 1 parts (obbligato viola, cello, and bass) to alternate between pizzicato and arco on the simplest harmonic notes.</p>
+
+
+
+<p>While I valued the practical refinement that came from this expertise, a key area for reflection emerged here. At times, the process felt more like a commission, where my work was immediately accepted, and the directors focused on refining the delivery methods rather than challenging or pushing the creative core of the composition itself. I found myself wishing for a more reciprocal, creatively challenging partnership, where the directors might offer alternative melodic or rhythmic ideas. Moving forward, I need to learn how to explicitly solicit this deeper level of joint creative input, moving the partnership closer to a truly equal collaboration.</p>
+
+
+
+<p>The final stage involved incorporating all the technical feedback into the finished score and parts. This included all the detailed adjustments: John&#8217;s structural suggestions, and the inclusion of the vocal line in the piano accompaniment for singer support. The final deliverables were then handed over to the music department for rehearsal.</p>
+
+
+
+<p>The total duration of focused collaboration remained around four hours, yet the density of the feedback proved productive, integrating my orchestration knowledge with the practical realities of a high school ensemble. This stage also marked the end of the direct creative partnership for this test project. While the piece now rests in their hands and I await the premiere with great anticipation, the academic focus on the collaboration is now complete.</p>
+
+
+
+<p>This test project was a valuable experience. It integrated my passion for music education and composition with my professional background, producing a work that will soon achieve its first performance. The most critical learning point is the need to navigate the balance between a successful consultative partnership, where technical delivery is streamlined and effective, and a truly reciprocal collaboration, which demands greater creative inputs and shared risk-taking from all parties.</p>
+
+
+
+<p>The success of the technical handover gives me great confidence in moving forward with the larger, longer-term &#8220;Portuguese Explorers&#8221; project. I now understand the necessity of formalising the initial stages with a Pre-Score Constraints Checklist and establishing a Co-written Brief to track the shared creative journey and ensure both accountability and deeper collective input in the future.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
