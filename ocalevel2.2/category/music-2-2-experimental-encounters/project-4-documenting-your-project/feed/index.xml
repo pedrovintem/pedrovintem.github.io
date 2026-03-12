@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Project 4: Documenting Your Project &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 12 Mar 2026 21:52:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
+	<item>
+		<title>Assignment 4: Case Studies</title>
+		<link>./../../../../assignment-4-case-studies/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2026 21:32:25 +0000</pubDate>
+				<category><![CDATA[Assignment]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 4: Documenting Your Project]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=650</guid>
+
+					<description><![CDATA[Reading this case study felt personal. Many of the questions the Nautilus team faced were questions I was asking myself at the same time I creating my collaborative project: Who is really the author here? What...]]></description>
+										<content:encoded><![CDATA[
+<p>Reading this case study felt personal. Many of the questions the <em>Nautilus</em> team faced were questions I was asking myself at the same time I creating my collaborative project: Who is really the author here? What happens when a composer gives up some control? And how do you make something collaborative without losing the artistic vision?</p>
+
+
+
+<p>I will also be honest: I felt a degree of envy reading it. Technology is something I love, and the idea of mixing music with a game engine, machine learning, and generative AI is exactly the kind of experiment I would want to do. <em>Nautilus</em> exists at the intersection of things I find compelling, and reading it made me think about how I might bring that kind of approach into my own work in the future.</p>
+
+
+
+<p>On the surface, <em>Nautilus</em> looks like a piece for solo bass flute. But the article quickly shows that this description is too simple. This is not the usual model where a composer writes everything and a performer simply plays it. In <em>Nautilus</em>, every person and the technology, were making creative decisions throughout the process.</p>
+
+
+
+<p>This connects to what Sawyer and DeZutter (2009) call distributed creativity: a phenomenon where a creative product emerges collectively from a group&#8217;s collaboration, rather than being determined by the intentions or mind of any single participant. <em>Nautilus</em> is an example of this. Vear himself admits that his role felt less like a traditional composer and more like a &#8220;creative director&#8221;, as someone guiding a shared vision rather than controlling every detail. </p>
+
+
+
+<p>I also connected with this personally. Before studying music, I worked as a Creative Director, and that role is exactly about orientation: shaping a vision, making decisions about direction, and trusting others to bring it to life. Vear&#8217;s description of his role in <em>Nautilus</em> felt familiar. It also made me think about where composition is heading more broadly. With generative AI now capable of producing music, the role of the composer may increasingly become a directive one. It may go into the direction of less about writing every note and more about setting intention, curating decisions, and giving creative shape to what tools and collaborators produce. </p>
+
+
+
+<p>One of the biggest challenges in <em>Nautilus</em> was combining very different artistic and technical worlds: classical music, visual game design, artificial intelligence, and generative sound. The authors describe this honestly, warning against what they call a &#8220;Frankenstein score&#8221;.  To avoid this, the team used what is called a transdisciplinary approach. This means going beyond simply using ideas from different fields and instead finding new principles that only emerge when those fields truly work together. </p>
+
+
+
+<p>This challenge feels real to me. My own project brings together music, Portuguese history, drama, and the physical limitations of ten and eleven-year-old beginners who have only learned a few notes on their instruments. If I am not careful, the result could be a piece that is historically interesting but musically weak, or technically manageable but emotionally empty. <em>Nautilus</em> taught me that transdisciplinary work requires continuous conversation between all the people involved.</p>
+
+
+
+<p>A central idea in the article is Christopher Small&#8217;s concept of musicking. This was new to me, and I found it one of the most interesting ideas in the article. Small argues that music is not a thing but an activity. Musicking means taking part in music in any way: playing, listening, composing, even helping to set up the chairs in a concert hall. The meaning of music, Small says, lives in the relationships between all the people involved, not only in the notes on a page.</p>
+
+
+
+<p>The&nbsp;<em>Nautilus</em>&nbsp;team uses this idea to argue that the score is not just the notation on screen. It includes the Unity visual environment, the AI-generated sound, the physical presence of the performer, and everything these elements create together in the moment of performance. The score is alive.</p>
+
+
+
+<p>This made me think about my fifth-grade students. During one of our first planning conversations, my collaborator John suggested that the students could influence the composition, for example, telling me when something is too difficult to play or sing, or when a melody feels wrong. At the time I thought of this as practical feedback. After reading <em>Nautilus</em>, I see it differently. When a child suggests that a note should go up instead of down, they are musicking. They are participating in the meaning-making. The challenge for me is to design the project so that this participation is real and valued, not just a gesture.</p>
+
+
+
+<p>The article is honest about the project&#8217;s limitations. The neural network was trained using jazz music transcriptions, which did not match Carla&#8217;s personal musical style or the natural sound of the bass flute. As a result, she sometimes felt what researchers call &#8220;stylistic entrapment&#8221;. This is an important lesson: technology is not neutral. Every tool carries assumptions and preferences, and if those do not fit the people using them, the collaboration suffers.</p>
+
+
+
+<p>I also noticed that the article says very little about the audience&#8217;s experience of the final performance. The reflections at the end focus almost entirely on the composer, the programmer and the performer. But if we take Small&#8217;s concept of musicking seriously, the audience is musicking too. They are participants in the relationships that give the work its meaning. For my project, the audience (the entire elementary school community) is not a secondary detail. They are part of the piece. Understanding how they receive the work can be just as important as understanding how the team created it. This is something I want to be more deliberate about in my own process.</p>
+
+
+
+<p>I am still at the beginning of my own version of this process. I do not yet know what will surprise me, or what my collaborators will bring that I cannot yet see. But reading&nbsp;<em>Nautilus</em>, I feel more ready for that uncertainty. I am less focused on controlling the outcome and more curious about what we will discover together. For me, that is the shift this case study has produced.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Sawyer, R.K. and DeZutter, S. (2009) &#8216;Distributed Creativity: How Collective Creations Emerge from Collaboration&#8217;,&nbsp;<em>Psychology of Aesthetics, Creativity, and the Arts</em>, 3(2), pp. 81–92.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Claude Debussy – Nocturne (L. 82)</title>
+		<link>./../../../../listening-to-claude-debussy-nocturne-l-82/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Fri, 06 Mar 2026 22:41:20 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 4: Documenting Your Project]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=658</guid>
+
+					<description><![CDATA[I was researching early Debussy, trying to understand how he got from where he started to where he ended up, and this piece appeared. The opening is slow and loose, almost like the pianist is...]]></description>
+										<content:encoded><![CDATA[
+<p>I was researching early Debussy, trying to understand how he got from where he started to where he ended up, and this piece appeared. </p>
+
+
+
+<p>The opening is slow and loose, almost like the pianist is still deciding what to play. There&#8217;s no dramatic entry. It just begins, gently, and I found myself relaxing without noticing. The melody drifts more than it moves forward, and somehow that&#8217;s enough to hold my attention.</p>
+
+
+
+<p>What I wasn&#8217;t prepared for was the middle section. Something shifts. The texture thickens, the dynamic rises, and the piece feels urgent. It surprised me. And then it passes. The calm returns, the melody comes back, and the piece closes as gently as it opened.</p>
+
+
+
+<p>By the end I felt like I&#8217;d been let in on something private. Not a grand statement. Just a mood, carefully held.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Mykola Leontovych – Dudaryk</title>
+		<link>./../../../../listening-to-mykola-leontovych-dudaryk/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Tue, 03 Mar 2026 22:36:48 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 4: Documenting Your Project]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=656</guid>
+
+					<description><![CDATA[Analysing this piece provides a good contrast to the contemporary works I&#8217;ve examined. Performed by the O. Koshetz Choir, this a cappella choral piece demonstrates how the human voice alone can create a complex narrative structure...]]></description>
+										<content:encoded><![CDATA[
+<p>Analysing this piece provides a good contrast to the contemporary works I&#8217;ve examined. Performed by the O. Koshetz Choir, this a cappella choral piece demonstrates how the human voice alone can create a complex narrative structure and emotional arc.</p>
+
+
+
+<p>The piece starts with a simple, rhythmic motive that mimics the sound of a piper&#8217;s pipe. This motive acts as a leitmotif, recurring throughout to maintain the connection to the titular character. The build-up is achieved through increasing rhythmic complexity and a broadening of the choral harmony, moving from a transparent, light texture to a much denser, more resonant one.</p>
+
+
+
+<p>The piece feels like a celebration of folk life, yet it&#8217;s also grounded in intensity. The timbre of the choir shifts from playful and light in the initial verses to a powerful resonance in the climactic sections. The way the different vocal lines intertwine feels like a &#8220;reflective mosaic&#8221; of people coming together, each adding their own color to the collective whole.</p>
+
+
+
+<p>It reminds me that even without external instruments or a dedicated narrator, the human voice can convey a powerful sense of story and emotion. This has given me much to think about in terms of how I might use choral elements or even just layered vocal textures in my own project.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Exercise 2: Documentation Plan</title>
+		<link>./../../../../exercise-2-documentation-plan/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Sun, 01 Mar 2026 22:25:21 +0000</pubDate>
+				<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 4: Documenting Your Project]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=654</guid>
+
+					<description><![CDATA[The following plan was drawn up in discussion between Pedro, Elena and John. It sets out the methods we will use, who is responsible, and how material will be shared across the team. What Method...]]></description>
+										<content:encoded><![CDATA[
+<p>The following plan was drawn up in discussion between Pedro, Elena and John. It sets out the methods we will use, who is responsible, and how material will be shared across the team.</p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>What</th><th>Method</th><th>Responsible</th></tr></thead><tbody><tr><td>Meeting notes</td><td>Written summary after each meeting</td><td>Pedro</td></tr><tr><td>Pedro&#8217;s process journal</td><td>Regular written entries in OCA Learning Log</td><td>Pedro</td></tr><tr><td>Student feedback from class visits</td><td>Short written notes; occasional voice memo</td><td>Pedro (with input from Elena/John)</td></tr><tr><td>Historical and cultural research</td><td>Written notes and links</td><td>Pedro + History/Portuguese teachers</td></tr><tr><td>Audio references</td><td>Playlist or shared folder of recordings</td><td>Pedro</td></tr><tr><td>Draft scores</td><td>PDF or Sibelius/MuseScore files, dated</td><td>Pedro</td></tr><tr><td>Rehearsal observations</td><td>Short written notes</td><td>Elena and John (separately)</td></tr><tr><td>Final performance</td><td>Video recording</td><td>TBC — school AV support or designated person</td></tr><tr><td>Post-project reflections</td><td>Short written text from each collaborator</td><td>Pedro, Elena, John</td></tr></tbody></table></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Exercise 1: Documentation Phases</title>
+		<link>./../../../../exercise-1-documentation-phases/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Thu, 26 Feb 2026 22:20:34 +0000</pubDate>
+				<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 4: Documenting Your Project]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=652</guid>
+
+					<description><![CDATA[Phase 1 This phase covers everything from the first planning meeting through to the final rehearsals. The core question is: how do we capture a process that is spread across three people, multiple school departments,...]]></description>
+										<content:encoded><![CDATA[
+<h5 class="wp-block-heading"><strong>Phase 1</strong></h5>
+
+
+
+<p>This phase covers everything from the first planning meeting through to the final rehearsals. The core question is: how do we capture a process that is spread across three people, multiple school departments, and a group of 60 ten-year-old students?</p>
+
+
+
+<p><strong>Pedro&#8217;s learning journal</strong>&nbsp;will be the primary record. After each collaborative meeting, class visit, or composition session, I will write a short entry reflecting on what happened, what decisions were made, and what questions remain open. This is also what the OCA requires, so the journal serves both the course and the project.</p>
+
+
+
+<p><strong>Meeting notes</strong> will be written up after each formal meeting between Pedro, Elena and John. These do not need to be long. A few bullet points covering what was discussed, what was agreed, and what each person will do next.</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Phase 2 </strong></h5>
+
+
+
+<p>This phase covers material we need to gather in order to make the work. Research, resources, and raw material that will inform or appear in the composition.</p>
+
+
+
+<p><strong>Historical research notes</strong> on Portuguese history from the 1950s to the present, gathered in collaboration with Portuguese language and history teachers at CAISL. </p>
+
+
+
+<p><strong>Audio references</strong>&nbsp;— recordings of Portuguese music from different decades (fado, José Afonso, Madredeus, contemporary artists) that will help Pedro understand the musical landscape he is composing within and give John and Elena reference points for the stylistic direction of each section.</p>
+
+
+
+<p><strong>Draft scores and sketches</strong> — each version of the score, however incomplete, will be saved and shared. This creates a record of how the composition evolved and shows where collaborator or student feedback caused a revision.</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Phase 3</strong></h5>
+
+
+
+<p>This phase covers the final work and its presentation in June.</p>
+
+
+
+<p><strong>A video recording</strong> of the performance will be made. This is the primary record of the finished piece and the students&#8217; realisation of it. </p>
+
+
+
+<p><strong>A final annotated score</strong>&nbsp;will be produced after the performance, incorporating any changes made during rehearsals. This is the document that could be used if the piece were ever performed again.</p>
+
+
+
+<p><strong>A short written reflection</strong> on how the process unfolded and what they would do differently. These will be written independently and then shared, forming the basis of the project evaluation.</p>
+
+
+
+<p><strong>A selection of student responses</strong>, gathered informally after the performance, capturing how the students experienced the work.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

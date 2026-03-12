@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Assignment &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 11 Mar 2026 22:18:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
+	<item>
+		<title>Assignment 4: Case Studies</title>
+		<link>./../../../../../assignment-4-case-studies/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2026 21:32:25 +0000</pubDate>
+				<category><![CDATA[Assignment]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 4: Documenting Your Project]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=650</guid>
+
+					<description><![CDATA[Reading this case study felt personal. Many of the questions the Nautilus team faced were questions I was asking myself at the same time I creating my collaborative project: Who is really the author here? What...]]></description>
+										<content:encoded><![CDATA[
+<p>Reading this case study felt personal. Many of the questions the <em>Nautilus</em> team faced were questions I was asking myself at the same time I creating my collaborative project: Who is really the author here? What happens when a composer gives up some control? And how do you make something collaborative without losing the artistic vision?</p>
+
+
+
+<p>I will also be honest: I felt a degree of envy reading it. Technology is something I love, and the idea of mixing music with a game engine, machine learning, and generative AI is exactly the kind of experiment I would want to do. <em>Nautilus</em> exists at the intersection of things I find compelling, and reading it made me think about how I might bring that kind of approach into my own work in the future.</p>
+
+
+
+<p>On the surface, <em>Nautilus</em> looks like a piece for solo bass flute. But the article quickly shows that this description is too simple. This is not the usual model where a composer writes everything and a performer simply plays it. In <em>Nautilus</em>, every person and the technology, were making creative decisions throughout the process.</p>
+
+
+
+<p>This connects to what Sawyer and DeZutter (2009) call distributed creativity: a phenomenon where a creative product emerges collectively from a group&#8217;s collaboration, rather than being determined by the intentions or mind of any single participant. <em>Nautilus</em> is an example of this. Vear himself admits that his role felt less like a traditional composer and more like a &#8220;creative director&#8221;, as someone guiding a shared vision rather than controlling every detail. </p>
+
+
+
+<p>I also connected with this personally. Before studying music, I worked as a Creative Director, and that role is exactly about orientation: shaping a vision, making decisions about direction, and trusting others to bring it to life. Vear&#8217;s description of his role in <em>Nautilus</em> felt familiar. It also made me think about where composition is heading more broadly. With generative AI now capable of producing music, the role of the composer may increasingly become a directive one. It may go into the direction of less about writing every note and more about setting intention, curating decisions, and giving creative shape to what tools and collaborators produce. </p>
+
+
+
+<p>One of the biggest challenges in <em>Nautilus</em> was combining very different artistic and technical worlds: classical music, visual game design, artificial intelligence, and generative sound. The authors describe this honestly, warning against what they call a &#8220;Frankenstein score&#8221;.  To avoid this, the team used what is called a transdisciplinary approach. This means going beyond simply using ideas from different fields and instead finding new principles that only emerge when those fields truly work together. </p>
+
+
+
+<p>This challenge feels real to me. My own project brings together music, Portuguese history, drama, and the physical limitations of ten and eleven-year-old beginners who have only learned a few notes on their instruments. If I am not careful, the result could be a piece that is historically interesting but musically weak, or technically manageable but emotionally empty. <em>Nautilus</em> taught me that transdisciplinary work requires continuous conversation between all the people involved.</p>
+
+
+
+<p>A central idea in the article is Christopher Small&#8217;s concept of musicking. This was new to me, and I found it one of the most interesting ideas in the article. Small argues that music is not a thing but an activity. Musicking means taking part in music in any way: playing, listening, composing, even helping to set up the chairs in a concert hall. The meaning of music, Small says, lives in the relationships between all the people involved, not only in the notes on a page.</p>
+
+
+
+<p>The&nbsp;<em>Nautilus</em>&nbsp;team uses this idea to argue that the score is not just the notation on screen. It includes the Unity visual environment, the AI-generated sound, the physical presence of the performer, and everything these elements create together in the moment of performance. The score is alive.</p>
+
+
+
+<p>This made me think about my fifth-grade students. During one of our first planning conversations, my collaborator John suggested that the students could influence the composition, for example, telling me when something is too difficult to play or sing, or when a melody feels wrong. At the time I thought of this as practical feedback. After reading <em>Nautilus</em>, I see it differently. When a child suggests that a note should go up instead of down, they are musicking. They are participating in the meaning-making. The challenge for me is to design the project so that this participation is real and valued, not just a gesture.</p>
+
+
+
+<p>The article is honest about the project&#8217;s limitations. The neural network was trained using jazz music transcriptions, which did not match Carla&#8217;s personal musical style or the natural sound of the bass flute. As a result, she sometimes felt what researchers call &#8220;stylistic entrapment&#8221;. This is an important lesson: technology is not neutral. Every tool carries assumptions and preferences, and if those do not fit the people using them, the collaboration suffers.</p>
+
+
+
+<p>I also noticed that the article says very little about the audience&#8217;s experience of the final performance. The reflections at the end focus almost entirely on the composer, the programmer and the performer. But if we take Small&#8217;s concept of musicking seriously, the audience is musicking too. They are participants in the relationships that give the work its meaning. For my project, the audience (the entire elementary school community) is not a secondary detail. They are part of the piece. Understanding how they receive the work can be just as important as understanding how the team created it. This is something I want to be more deliberate about in my own process.</p>
+
+
+
+<p>I am still at the beginning of my own version of this process. I do not yet know what will surprise me, or what my collaborators will bring that I cannot yet see. But reading&nbsp;<em>Nautilus</em>, I feel more ready for that uncertainty. I am less focused on controlling the outcome and more curious about what we will discover together. For me, that is the shift this case study has produced.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Sawyer, R.K. and DeZutter, S. (2009) &#8216;Distributed Creativity: How Collective Creations Emerge from Collaboration&#8217;,&nbsp;<em>Psychology of Aesthetics, Creativity, and the Arts</em>, 3(2), pp. 81–92.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
