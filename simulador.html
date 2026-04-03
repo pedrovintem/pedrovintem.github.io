@@ -388,17 +388,19 @@
         </div>
       </div>
 
-      <!-- Compensação Extra -->
+      <!-- Acordo Negocial -->
       <div class="card">
-        <div class="card-header"><h2>Simulador de Compensação Extra</h2></div>
+        <div class="card-header"><h2>Simulador de Acordo Negocial</h2></div>
         <div class="card-body">
           <div class="field">
-            <label>Base fixa — multiplicador (× salários)</label>
-            <input type="number" id="multBase" value="0" min="0" step="0.1" />
+            <label>Compensação por ano (× salário)</label>
+            <input type="number" id="multAntig" value="1.3" min="0" step="0.1" />
+            <span class="hint">Ex: 1.3 = 1,3 salários por ano de serviço. Mínimo legal equivale a ≈ 0,47×/ano (14 dias ÷ 30).</span>
           </div>
           <div class="field">
-            <label>Antiguidade / ano — multiplicador (× salários)</label>
-            <input type="number" id="multAntig" value="1.3" min="0" step="0.1" />
+            <label>Bónus fixo (× salário)</label>
+            <input type="number" id="multBonus" value="0" min="0" step="0.5" />
+            <span class="hint">Ex: 2 = dois salários brutos de bónus fixo ("cláusula de paz social")</span>
           </div>
         </div>
       </div>
@@ -459,29 +461,52 @@
         </div>
       </div>
 
-      <!-- Compensação Extra -->
+      <!-- Acordo Negocial -->
       <div class="result-section">
-        <div class="section-label">Compensação Extra (simulação negocial)</div>
+        <div class="section-label">Acordo Negocial — substitui o mínimo legal</div>
         <div class="card">
           <table class="row-table">
             <tbody>
+              <tr class="sub-header"><td colspan="2">Compensação por Antiguidade (acordo)</td></tr>
               <tr>
-                <td>Base fixa</td>
-                <td id="r-extra-base"></td>
+                <td>Multiplicador acordado</td>
+                <td id="r-mult-antig"></td>
               </tr>
               <tr>
-                <td>Antiguidade — anos completos</td>
-                <td id="r-extra-anos"></td>
+                <td>Comp. antiguidade — anos completos</td>
+                <td id="r-acord-anos"></td>
               </tr>
               <tr>
-                <td>Antiguidade — fração de ano</td>
-                <td id="r-extra-frac"></td>
+                <td>Comp. antiguidade — fração de ano</td>
+                <td id="r-acord-frac"></td>
+              </tr>
+              <tr>
+                <td>Teto máximo (12 × ref. salarial)</td>
+                <td id="r-acord-teto"></td>
+              </tr>
+              <tr class="subtotal">
+                <td>Subtotal antiguidade (acordo, com teto)</td>
+                <td id="r-acord-subtotal"></td>
+              </tr>
+              <tr class="sub-header"><td colspan="2">Bónus Fixo Adicional</td></tr>
+              <tr>
+                <td>Bónus fixo (multiplicador × salário)</td>
+                <td id="r-bonus-fixo"></td>
+              </tr>
+              <tr class="sub-header"><td colspan="2">Comparação com Mínimo Legal</td></tr>
+              <tr>
+                <td>Mínimo legal (14 dias/ano ≈ 0,47×/ano)</td>
+                <td id="r-minimo-legal"></td>
+              </tr>
+              <tr>
+                <td>Valor aplicável (o mais favorável)</td>
+                <td id="r-valor-aplicavel" style="font-weight:600;color:var(--blue)"></td>
               </tr>
             </tbody>
           </table>
           <div style="padding:.75rem 1.25rem 1.25rem;">
             <div class="total-bar">
-              <span class="label">Total — Compensação Extra</span>
+              <span class="label">Total — Acordo Negocial (comp. + bónus)</span>
               <span class="amount" id="r-total-extra"></span>
             </div>
           </div>
@@ -561,13 +586,13 @@
         <div class="section-label">Montante Global</div>
         <div class="grand-total-card">
           <div class="scenario">
-            <div class="scenario-label">Cenário Base</div>
-            <div class="scenario-title">Desp. coletivo (14 dias/ano) + acerto de férias</div>
+            <div class="scenario-label">Cenário Base — Mínimo Legal</div>
+            <div class="scenario-title">14 dias/ano (art.º 366.º CT) + acerto de férias e subsídios</div>
             <div class="scenario-amount" id="r-grand-sem"></div>
           </div>
           <div class="scenario highlight">
-            <div class="scenario-label">Cenário com Extra</div>
-            <div class="scenario-title">Compensação + extra negocial + acerto de férias</div>
+            <div class="scenario-label">Cenário Acordo Negocial</div>
+            <div class="scenario-title">Comp. negociada (substitui 14 dias) + bónus fixo + acerto de férias</div>
             <div class="scenario-amount" id="r-grand-com"></div>
           </div>
         </div>
@@ -576,9 +601,10 @@
       <!-- Disclaimer -->
       <div class="disclaimer">
         <strong>ℹ Simulação indicativa</strong> — Baseada no simulador ACT e no art.º 366.º CT.
+        Em despedimento coletivo com acordo negocial, a compensação acordada <strong>substitui</strong> o mínimo de 14 dias/ano (não se soma).
+        O acordo não pode resultar em valor inferior ao mínimo legal; o simulador aplica sempre o mais favorável.
         Não contempla período experimental, suspensões de contrato, impostos ou contribuições.
-        O acerto de contas aplica-se a qualquer cessação, independentemente da causa.
-        Teto salarial: retribuição limitada a 20 × SMN (€&nbsp;20 400 em 2025).
+        Teto de antiguidade: 12 × ref. salarial (salvo acordo mais favorável); teto salarial: 20 × SMN (€&nbsp;20&nbsp;400 em 2025).
         Para casos específicos, consulta a <strong>ACT</strong> (act.gov.pt) ou advogado laboral.
       </div>
 
@@ -628,8 +654,8 @@
       const diut             = parseFloat(document.getElementById('diut').value)             || 0;
       const feriasGozadas    = parseFloat(document.getElementById('feriasGozadas').value)    || 0;
       const subsFeriasReceb  = parseFloat(document.getElementById('subsFeriasRecebido').value)|| 0;
-      const multBase         = parseFloat(document.getElementById('multBase').value)         || 0;
       const multAntig        = parseFloat(document.getElementById('multAntig').value)        || 0;
+      const multBonus        = parseFloat(document.getElementById('multBonus').value)        || 0;
 
       const startVal = document.getElementById('startDate').value;
       const endVal   = document.getElementById('endDate').value;
@@ -644,22 +670,27 @@
       const refSal    = Math.min(total, 20 * SMN);
       const valorDia  = refSal / 30;
 
-      // ── Despedimento Coletivo (art. 366º) ────────────
+      // ── Antiguidade ───────────────────────────────────
       const totalDays    = daysBetween(startDate, endDate);
       const anosCompletos = Math.floor(totalDays / 365.25);
       const diasRestantes = totalDays - anosCompletos * 365.25;
+      const teto = 12 * refSal;
 
+      // ── Despedimento Coletivo — mínimo legal (14 dias/ano) ──
       const compAnos = anosCompletos * 14 * valorDia;
       const compFrac = (diasRestantes / 365.25) * 14 * valorDia;
       const subtotalDC = compAnos + compFrac;
-      const teto = 12 * refSal;
       const totalDC = Math.min(subtotalDC, teto);
 
-      // ── Compensação Extra ─────────────────────────────
-      const extraBase      = multBase * total;
-      const extraAntigAnos = multAntig * total * anosCompletos;
-      const extraAntigFrac = multAntig * total * (diasRestantes / 365.25);
-      const totalExtra     = extraBase + extraAntigAnos + extraAntigFrac;
+      // ── Acordo Negocial ───────────────────────────────
+      // O acordo expressa-se em × salário/ano (substitui o mínimo de 14 dias/ano = ≈0.467×/ano)
+      const totalAnos      = anosCompletos + diasRestantes / 365.25;
+      const acordAnos      = anosCompletos * multAntig * total;
+      const acordFrac      = (diasRestantes / 365.25) * multAntig * total;
+      const subtotalAcord  = acordAnos + acordFrac;
+      const compNegocial   = Math.min(subtotalAcord, teto);
+      const bonusValor     = multBonus * total;
+      const totalNegocial  = Math.max(compNegocial, totalDC) + bonusValor; // nunca abaixo do mínimo legal
 
       // ── Acerto de Contas ──────────────────────────────
       // Bloco A — férias vencidas a 1 Jan
@@ -680,9 +711,11 @@
 
       const totalAcerto = subtotalA + subtotalB - subsFeriasReceb;
 
-      // ── Totais ────────────────────────────────────────
+      // ── Totais globais ────────────────────────────────
+      // Cenário base: mínimo legal + acerto
       const grandSem = totalDC + totalAcerto;
-      const grandCom = totalDC + totalExtra + totalAcerto;
+      // Cenário acordo: comp. negociada (substitui, não soma) + bónus fixo + acerto
+      const grandCom = totalNegocial + totalAcerto;
 
       // ── Render ────────────────────────────────────────
       set('r-smn',   SMN);
@@ -693,13 +726,17 @@
       set('r-comp-anos', compAnos);
       set('r-comp-frac', compFrac);
       set('r-teto',  teto);
+      set('r-total-dc', totalDC);
 
-      set('r-total-dc',    totalDC);
-
-      set('r-extra-base',  extraBase);
-      set('r-extra-anos',  extraAntigAnos);
-      set('r-extra-frac',  extraAntigFrac);
-      set('r-total-extra', totalExtra);
+      set('r-mult-antig',    multAntig.toFixed(2) + '× / ano', false);
+      set('r-acord-anos',    acordAnos);
+      set('r-acord-frac',    acordFrac);
+      set('r-acord-teto',    teto);
+      set('r-acord-subtotal', compNegocial);
+      set('r-bonus-fixo',    bonusValor);
+      set('r-minimo-legal',  totalDC);
+      set('r-valor-aplicavel', Math.max(compNegocial, totalDC));
+      set('r-total-extra',   totalNegocial);
 
       set('r-a-dias',  diasNaoGozados.toFixed(1) + ' dias', false);
       set('r-a-ferias', valorFeriasNaoGoz);
