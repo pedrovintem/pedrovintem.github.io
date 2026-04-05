@@ -696,7 +696,10 @@
       // Bloco A — férias vencidas a 1 Jan
       const diasNaoGozados = Math.max(0, FERIAS_ANUAIS - feriasGozadas);
       const valorFeriasNaoGoz = diasNaoGozados * (total / FERIAS_ANUAIS);
-      const subsFeriasCorr    = diasNaoGozados * (total / FERIAS_ANUAIS);
+      // O subsídio de férias é sempre devido sobre os 22 dias vencidos a 1 Jan,
+      // independentemente dos dias já gozados (art.º 264.º CT).
+      // O que já foi pago deduz-se no campo "Subsídio de férias já recebido".
+      const subsFeriasCorr    = total;
       const subtotalA = valorFeriasNaoGoz + subsFeriasCorr;
 
       // Bloco B — proporcionais do ano de cessação
