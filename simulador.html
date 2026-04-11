@@ -624,8 +624,8 @@
         <div class="card-body">
           <div class="field">
             <label>Média remuneração regular (últimos 12 meses)</label>
-            <input type="number" id="media12m" placeholder="Por defeito: salário atual" min="0" step="1" />
-            <span class="hint">O seu <strong>salário bruto mensal fixo</strong> habitual — base + diuturnidades, se aplicável. Exclui bónus, horas extra ou outros valores irregulares. Se tiver 12 ou mais meses na empresa, some os 12 últimos recibos de vencimento nessa componente fixa e divida por 12. Se tiver menos de 12 meses, use a média do tempo que esteve. Encontra estes valores na coluna "Remuneração base" dos seus recibos. Deixe em branco para usar o salário atual introduzido acima.</span>
+            <input type="number" id="media12m" placeholder="Por defeito: salário × 14 ÷ 12" min="0" step="1" />
+            <span class="hint">A média mensal do que recebeu nos últimos 12 meses, incluindo subsídio de férias e subsídio de Natal. Como em Portugal são pagos 14 meses por ano, o valor típico é <strong>salário × 14 ÷ 12</strong>. Se o seu salário variou nos últimos 12 meses, some tudo o que recebeu nesses 12 meses e divida por 12. Deixe em branco para o simulador calcular automaticamente (salário atual × 14 ÷ 12).</span>
           </div>
           <div class="field">
             <label>Taxa de retenção na fonte IRS (%)</label>
@@ -832,7 +832,7 @@
               <!-- IRS — limiar e regime -->
               <tr class="sub-header"><td colspan="2">IRS — art.º 2.º, n.º 4 CIRS · Compensação por cessação</td></tr>
               <tr>
-                <td>Média remuneração regular × antiguidade (anos + fração)</td>
+                <td>Média mensal (sal. × 14 ÷ 12) × antiguidade (anos + fração)</td>
                 <td id="r-irs-limiar"></td>
               </tr>
               <tr>
@@ -1152,7 +1152,7 @@
 
       // ── Fiscalidade — IRS ─────────────────────────────
       const media12mRaw   = parseFloat(document.getElementById('media12m').value);
-      const media12m      = media12mRaw > 0 ? media12mRaw : total;
+      const media12m      = media12mRaw > 0 ? media12mRaw : (total * 14 / 12);
       const taxaIRS       = parseFloat(document.getElementById('taxaIRS').value) || 0;
       const vinculo24m      = document.getElementById('vinculo24m').checked;
       const isencao5anos    = document.getElementById('isencao5anos').checked;
