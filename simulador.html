@@ -20,6 +20,9 @@
       --blue-light: #E8EFF7;
       --red:        #B83232;
       --gold:       #C49A2B;
+      --green:      #1F6B3E;
+      --green-light:#E8F4EE;
+      --red-light:  #FCEEEE;
       --border:     #DDD8CF;
       --shadow:     0 2px 16px rgba(28,28,46,.08);
       --radius:     10px;
@@ -137,7 +140,8 @@
       color: var(--ink-muted);
       letter-spacing: .03em;
     }
-    .field input {
+    .field input[type="number"],
+    .field input[type="date"] {
       font-family: 'IBM Plex Mono', monospace;
       font-size: .95rem;
       color: var(--ink);
@@ -148,7 +152,8 @@
       transition: border-color .15s, box-shadow .15s;
       width: 100%;
     }
-    .field input:focus {
+    .field input[type="number"]:focus,
+    .field input[type="date"]:focus {
       outline: none;
       border-color: var(--blue);
       box-shadow: 0 0 0 3px rgba(26,75,122,.1);
@@ -163,6 +168,34 @@
       border: none;
       border-top: 1px solid var(--border);
       margin: .25rem 0;
+    }
+
+    /* ── CHECKBOX FIELDS ── */
+    .check-group { display: flex; flex-direction: column; gap: .55rem; }
+    .check-group > .group-label {
+      font-size: .78rem;
+      font-weight: 600;
+      color: var(--ink-muted);
+      letter-spacing: .03em;
+    }
+    .checkbox-field {
+      display: flex;
+      align-items: flex-start;
+      gap: .5rem;
+      cursor: pointer;
+    }
+    .checkbox-field input[type="checkbox"] {
+      margin-top: .18rem;
+      width: 15px;
+      height: 15px;
+      accent-color: var(--red);
+      flex-shrink: 0;
+      cursor: pointer;
+    }
+    .checkbox-field span {
+      font-size: .79rem;
+      color: var(--ink);
+      line-height: 1.4;
     }
 
     /* ── RESULTS ── */
@@ -210,11 +243,42 @@
       color: var(--blue);
       padding: .45rem 1.25rem;
     }
+    .row-table tr.sub-header.red-header td {
+      background: var(--red-light);
+      color: var(--red);
+    }
+    .row-table tr.sub-header.green-header td {
+      background: var(--green-light);
+      color: var(--green);
+    }
     .row-table tr.subtotal td {
       background: #F8F6F2;
       font-weight: 600;
     }
     .row-table tr.subtotal td:last-child { color: var(--blue); }
+    .row-table tr.subtotal.red-row td:last-child { color: var(--red); }
+
+    /* ── INLINE BADGES ── */
+    .badge-ok {
+      display: inline-block;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: .72rem;
+      font-weight: 600;
+      padding: .15rem .45rem;
+      border-radius: 4px;
+      background: var(--green-light);
+      color: var(--green);
+    }
+    .badge-warn {
+      display: inline-block;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: .72rem;
+      font-weight: 600;
+      padding: .15rem .45rem;
+      border-radius: 4px;
+      background: var(--red-light);
+      color: var(--red);
+    }
 
     /* ── TOTAL BAR ── */
     .total-bar {
@@ -284,6 +348,106 @@
       color: #fff;
     }
     .grand-total-card .scenario.highlight .scenario-amount { color: var(--gold); }
+    .grand-total-card .scenario-sub {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: .78rem;
+      color: rgba(255,255,255,.45);
+      margin-top: .4rem;
+    }
+    .grand-total-card .scenario.highlight .scenario-sub { color: rgba(196,154,43,.55); }
+
+    /* ── COMPARAÇÃO DE PROPOSTAS ── */
+    .cmp-card {
+      background: var(--ink);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+    .cmp-header {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+    .cmp-header .cmp-col-label {
+      padding: .75rem 1.25rem;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: .68rem;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      font-weight: 600;
+    }
+    .cmp-header .cmp-col-label.a { background: rgba(26,75,122,.9); color: #fff; }
+    .cmp-header .cmp-col-label.b { background: rgba(196,154,43,.25); color: var(--gold); border-left: 1px solid rgba(196,154,43,.3); }
+    .cmp-body {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+    .cmp-col {
+      padding: 1.25rem;
+    }
+    .cmp-col.b { border-left: 1px solid rgba(255,255,255,.08); }
+    .cmp-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      padding: .3rem 0;
+      border-bottom: 1px solid rgba(255,255,255,.06);
+      font-size: .84rem;
+    }
+    .cmp-row:last-child { border-bottom: none; }
+    .cmp-row .cmp-lbl { color: rgba(255,255,255,.5); }
+    .cmp-row .cmp-val {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: .85rem;
+      color: rgba(255,255,255,.85);
+    }
+    .cmp-row .cmp-val.neg { color: #e57373; }
+    .cmp-net {
+      margin-top: .85rem;
+      padding-top: .85rem;
+      border-top: 1px solid rgba(255,255,255,.15);
+    }
+    .cmp-net .cmp-net-label {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: .65rem;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,.4);
+      margin-bottom: .3rem;
+    }
+    .cmp-net .cmp-net-amount {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 1.5rem;
+      font-weight: 500;
+      color: #fff;
+    }
+    .cmp-col.a .cmp-net-amount { color: #90caf9; }
+    .cmp-col.b .cmp-net-amount { color: var(--gold); }
+    .cmp-diff {
+      padding: .85rem 1.25rem;
+      border-top: 1px solid rgba(255,255,255,.08);
+      display: flex;
+      align-items: center;
+      gap: .75rem;
+    }
+    .cmp-diff .diff-label {
+      font-size: .8rem;
+      color: rgba(255,255,255,.5);
+      flex: 1;
+    }
+    .cmp-diff .diff-amount {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 1rem;
+      font-weight: 600;
+    }
+    .cmp-diff .diff-amount.pos { color: #a5d6a7; }
+    .cmp-diff .diff-amount.neg { color: #ef9a9a; }
+    .cmp-diff .diff-amount.zero { color: rgba(255,255,255,.4); }
+    .cmp-no-irs {
+      padding: 1.25rem;
+      font-size: .8rem;
+      color: rgba(255,255,255,.4);
+      font-style: italic;
+      text-align: center;
+    }
 
     /* ── DISCLAIMER ── */
     .disclaimer {
@@ -329,9 +493,9 @@
 <body>
 
   <header>
-    <div class="badge">art.º 366.º CT · Simulação indicativa</div>
+    <div class="badge">art.º 366.º CT · art.º 2.º, n.º 4 CIRS · Simulação indicativa</div>
     <h1>Calculadora de Cessação<br>de Contrato</h1>
-    <p>Preenche os campos — compensação, férias e subsídios calculam automaticamente.</p>
+    <p>Preenche os campos — compensação, férias, subsídios e fiscalidade calculam automaticamente.</p>
   </header>
 
   <div class="layout">
@@ -393,14 +557,91 @@
         <div class="card-header"><h2>Simulador de Acordo Negocial</h2></div>
         <div class="card-body">
           <div class="field">
-            <label>Compensação por ano (× salário)</label>
-            <input type="number" id="multAntig" value="1.3" min="0" step="0.1" />
-            <span class="hint">Ex: 1.3 = 1,3 salários por ano de serviço. Mínimo legal equivale a ≈ 0,47×/ano (14 dias ÷ 30).</span>
+            <label>Compensação por ano (dias de salário)</label>
+            <input type="number" id="multAntig" value="30" min="0" step="1" />
+            <span class="hint">Número de dias de salário bruto por ano de serviço. Ex: 30 = um mês de salário por ano. O mínimo legal é 14 dias/ano.</span>
           </div>
           <div class="field">
             <label>Bónus fixo (× salário)</label>
             <input type="number" id="multBonus" value="0" min="0" step="0.5" />
             <span class="hint">Ex: 2 = dois salários brutos de bónus fixo ("cláusula de paz social")</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Cláusula de não concorrência -->
+      <div class="card">
+        <div class="card-header"><h2>Cláusula de Não Concorrência</h2></div>
+        <div class="card-body">
+          <div class="check-group">
+            <label class="checkbox-field">
+              <input type="checkbox" id="inclNaoConcorrencia" />
+              <span>Incluir cláusula de não concorrência no cálculo principal</span>
+            </label>
+          </div>
+          <div id="info-nao-concorrencia" style="display:none;font-size:.79rem;color:var(--ink-muted);line-height:1.5;background:var(--blue-light);border-radius:6px;padding:.7rem .85rem;">
+            20% do salário bruto mensal durante 6 meses = <strong id="r-clausula-preview">—</strong>.<br>
+            Tratado como rendimento normal: sujeito a IRS (à taxa de retenção) e SS trabalhador (11%).
+          </div>
+        </div>
+      </div>
+
+      <!-- Comparação de propostas -->
+      <div class="card">
+        <div class="card-header"><h2>Comparação de Propostas</h2></div>
+        <div class="card-body">
+          <div style="font-size:.75rem;color:var(--ink-muted);margin-bottom:.25rem;">Define cada proposta independentemente — o líquido é calculado com os restantes dados acima.</div>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:.75rem;align-items:start;">
+            <div>
+              <div style="font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--blue);margin-bottom:.5rem;">Proposta A</div>
+              <div class="field">
+                <label>Dias/ano</label>
+                <input type="number" id="cmpDiasA" value="30" min="0" step="1" />
+              </div>
+              <label class="checkbox-field" style="margin-top:.55rem;">
+                <input type="checkbox" id="cmpClausulaA" checked />
+                <span style="font-size:.78rem;">Com cláusula não concorrência</span>
+              </label>
+            </div>
+            <div>
+              <div style="font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--gold);margin-bottom:.5rem;">Proposta B</div>
+              <div class="field">
+                <label>Dias/ano</label>
+                <input type="number" id="cmpDiasB" value="40" min="0" step="1" />
+              </div>
+              <label class="checkbox-field" style="margin-top:.55rem;">
+                <input type="checkbox" id="cmpClausulaB" />
+                <span style="font-size:.78rem;">Com cláusula não concorrência</span>
+              </label>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Fiscalidade IRS -->
+      <div class="card">
+        <div class="card-header"><h2>Fiscalidade — IRS</h2></div>
+        <div class="card-body">
+          <div class="field">
+            <label>Média remuneração regular (últimos 12 meses)</label>
+            <input type="number" id="media12m" placeholder="Por defeito: salário atual" min="0" step="1" />
+            <span class="hint">O seu <strong>salário bruto mensal fixo</strong> habitual — base + diuturnidades, se aplicável. Exclui bónus, horas extra ou outros valores irregulares. Se tiver 12 ou mais meses na empresa, some os 12 últimos recibos de vencimento nessa componente fixa e divida por 12. Se tiver menos de 12 meses, use a média do tempo que esteve. Encontra estes valores na coluna "Remuneração base" dos seus recibos. Deixe em branco para usar o salário atual introduzido acima.</span>
+          </div>
+          <div class="field">
+            <label>Taxa de retenção na fonte IRS (%)</label>
+            <input type="number" id="taxaIRS" placeholder="Ex: 28 — opcional" min="0" max="100" step="0.5" />
+            <span class="hint">Opcional — preencha para estimar o IRS retido e ver o montante líquido. Encontra a sua taxa no <strong>recibo de vencimento</strong>: divida o valor "IRS retido" pelo salário bruto e multiplique por 100. Em alternativa, consulte as tabelas de retenção da AT em <strong>portaldasfinancas.gov.pt</strong> (menu Apoio ao Contribuinte → Taxas de retenção na fonte) com base no seu escalão, estado civil e número de dependentes.</span>
+          </div>
+          <div class="check-group">
+            <span class="group-label">Condições de tributação integral (art.º 2.º, n.º 4 e 5 CIRS)</span>
+            <label class="checkbox-field">
+              <input type="checkbox" id="vinculo24m" />
+              <span>Novo vínculo profissional ou empresarial nos <strong>24 meses seguintes</strong> com a mesma entidade ou empresa do mesmo grupo/domínio</span>
+            </label>
+            <label class="checkbox-field">
+              <input type="checkbox" id="isencao5anos" />
+              <span>Já beneficiou desta exclusão de tributação nos <strong>últimos 5 anos</strong></span>
+            </label>
           </div>
         </div>
       </div>
@@ -469,7 +710,7 @@
             <tbody>
               <tr class="sub-header"><td colspan="2">Compensação por Antiguidade (acordo)</td></tr>
               <tr>
-                <td>Multiplicador acordado</td>
+                <td>Dias de salário por ano acordados</td>
                 <td id="r-mult-antig"></td>
               </tr>
               <tr>
@@ -495,7 +736,7 @@
               </tr>
               <tr class="sub-header"><td colspan="2">Comparação com Mínimo Legal</td></tr>
               <tr>
-                <td>Mínimo legal (14 dias/ano ≈ 0,47×/ano)</td>
+                <td>Mínimo legal (14 dias/ano)</td>
                 <td id="r-minimo-legal"></td>
               </tr>
               <tr>
@@ -574,45 +815,230 @@
           </table>
           <div style="padding:.75rem 1.25rem 1.25rem;">
             <div class="total-bar">
-              <span class="label">Total — Acerto de Contas</span>
+              <span class="label">Total — Acerto de Contas (créditos laborais)</span>
               <span class="amount" id="r-total-acerto"></span>
             </div>
           </div>
         </div>
       </div>
 
-      <!-- Grand Total -->
+      <!-- Fiscalidade IRS + SS -->
       <div class="result-section">
-        <div class="section-label">Montante Global</div>
+        <div class="section-label">Fiscalidade — IRS e Segurança Social</div>
+        <div class="card">
+          <table class="row-table">
+            <tbody>
+
+              <!-- IRS — limiar e regime -->
+              <tr class="sub-header"><td colspan="2">IRS — art.º 2.º, n.º 4 CIRS · Compensação por cessação</td></tr>
+              <tr>
+                <td>Média remuneração regular × antiguidade (anos + fração)</td>
+                <td id="r-irs-limiar"></td>
+              </tr>
+              <tr>
+                <td>Regime aplicável à compensação</td>
+                <td id="r-irs-regime"></td>
+              </tr>
+
+              <!-- DC -->
+              <tr class="sub-header green-header"><td colspan="2">Cenário DC — Mínimo Legal</td></tr>
+              <tr>
+                <td>Compensação isenta de IRS</td>
+                <td id="r-irs-isento-dc"></td>
+              </tr>
+              <tr>
+                <td>Compensação sujeita a IRS</td>
+                <td id="r-irs-trib-dc"></td>
+              </tr>
+
+              <!-- Acordo -->
+              <tr class="sub-header green-header"><td colspan="2">Cenário Acordo Negocial</td></tr>
+              <tr>
+                <td>Compensação isenta de IRS</td>
+                <td id="r-irs-isento-neg"></td>
+              </tr>
+              <tr>
+                <td>Compensação sujeita a IRS</td>
+                <td id="r-irs-trib-neg"></td>
+              </tr>
+
+              <!-- Créditos laborais -->
+              <tr class="sub-header red-header"><td colspan="2">Créditos laborais — sujeitos a IRS e SS na totalidade</td></tr>
+              <tr>
+                <td>Férias + subsídios (acerto de contas)</td>
+                <td id="r-irs-acerto"></td>
+              </tr>
+
+              <!-- Totais tributáveis -->
+              <tr class="subtotal">
+                <td>Total sujeito a IRS — Cenário DC</td>
+                <td id="r-irs-total-dc"></td>
+              </tr>
+              <tr class="subtotal">
+                <td>Total sujeito a IRS — Cenário Acordo</td>
+                <td id="r-irs-total-neg"></td>
+              </tr>
+
+              <!-- Estimativas IRS (condicionais) -->
+              <tr id="row-irs-est-dc" style="display:none">
+                <td>Estimativa IRS retido na fonte — DC</td>
+                <td id="r-irs-est-dc" style="color:var(--red)"></td>
+              </tr>
+              <tr id="row-irs-est-neg" style="display:none">
+                <td>Estimativa IRS retido na fonte — Acordo</td>
+                <td id="r-irs-est-neg" style="color:var(--red)"></td>
+              </tr>
+
+              <!-- Segurança Social -->
+              <tr class="sub-header"><td colspan="2">Segurança Social (SS)</td></tr>
+              <tr>
+                <td>Compensação por despedimento coletivo (todos os cenários)</td>
+                <td><span class="badge-ok">Isenta</span></td>
+              </tr>
+              <tr>
+                <td>Base contributiva — créditos laborais (férias e subsídios)</td>
+                <td id="r-ss-base"></td>
+              </tr>
+              <tr>
+                <td>Contribuição do trabalhador (11%)</td>
+                <td id="r-ss-worker" style="color:var(--red)"></td>
+              </tr>
+
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Cláusula de não concorrência (condicional) -->
+      <div class="result-section" id="section-clausula" style="display:none">
+        <div class="section-label">Cláusula de Não Concorrência</div>
+        <div class="card">
+          <table class="row-table">
+            <tbody>
+              <tr class="sub-header"><td colspan="2">Cálculo (20% × salário × 6 meses)</td></tr>
+              <tr>
+                <td>Valor bruto da cláusula</td>
+                <td id="r-clausula-bruto"></td>
+              </tr>
+              <tr>
+                <td>Regime fiscal</td>
+                <td style="font-family:'IBM Plex Mono',monospace;text-align:right;padding-right:1.25rem;font-size:.9rem"><span class="badge-warn">Rendimento normal</span></td>
+              </tr>
+              <tr>
+                <td>Base tributável IRS (totalidade)</td>
+                <td id="r-clausula-irs-base"></td>
+              </tr>
+              <tr id="row-clausula-irs-est" style="display:none">
+                <td>Estimativa IRS retido na fonte</td>
+                <td id="r-clausula-irs-est" style="color:var(--red)"></td>
+              </tr>
+              <tr>
+                <td>SS trabalhador (11%)</td>
+                <td id="r-clausula-ss" style="color:var(--red)"></td>
+              </tr>
+              <tr id="row-clausula-liq" class="subtotal" style="display:none">
+                <td>Líquido estimado da cláusula</td>
+                <td id="r-clausula-liq"></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Grand Total (bruto) -->
+      <div class="result-section">
+        <div class="section-label">Montante Global Bruto</div>
         <div class="grand-total-card">
           <div class="scenario">
             <div class="scenario-label">Cenário Base — Mínimo Legal</div>
             <div class="scenario-title">14 dias/ano (art.º 366.º CT) + acerto de férias e subsídios</div>
             <div class="scenario-amount" id="r-grand-sem"></div>
+            <div class="scenario-sub" id="r-grand-sem-sub" style="display:none"></div>
           </div>
           <div class="scenario highlight">
             <div class="scenario-label">Cenário Acordo Negocial</div>
             <div class="scenario-title">Comp. negociada (substitui 14 dias) + bónus fixo + acerto de férias</div>
             <div class="scenario-amount" id="r-grand-com"></div>
+            <div class="scenario-sub" id="r-grand-com-sub" style="display:none"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Líquido Estimado (só aparece se taxa IRS preenchida) -->
+      <div class="result-section" id="section-liquido" style="display:none">
+        <div class="section-label">Montante Líquido Estimado (após IRS e SS trabalhador)</div>
+        <div class="grand-total-card">
+          <div class="scenario">
+            <div class="scenario-label">Cenário DC — Líquido estimado</div>
+            <div class="scenario-title">Bruto − IRS − SS créditos laborais (11%)</div>
+            <div class="scenario-amount" id="r-liq-dc"></div>
+            <div class="scenario-sub" id="r-liq-dc-detail"></div>
+          </div>
+          <div class="scenario highlight">
+            <div class="scenario-label">Cenário Acordo — Líquido estimado</div>
+            <div class="scenario-title">Bruto − IRS − SS créditos laborais (11%)</div>
+            <div class="scenario-amount" id="r-liq-neg"></div>
+            <div class="scenario-sub" id="r-liq-neg-detail"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Comparação de Propostas -->
+      <div class="result-section">
+        <div class="section-label">Comparação de Propostas — Líquido lado a lado</div>
+        <div class="cmp-card">
+          <div class="cmp-header">
+            <div class="cmp-col-label a" id="cmp-title-a">Proposta A — 30 dias + cláusula</div>
+            <div class="cmp-col-label b" id="cmp-title-b">Proposta B — 40 dias s/ cláusula</div>
+          </div>
+          <!-- Breakdown (só com taxa IRS) -->
+          <div id="cmp-breakdown" style="display:none">
+            <div class="cmp-body">
+              <div class="cmp-col a">
+                <div class="cmp-row"><span class="cmp-lbl">Bruto total</span><span class="cmp-val" id="cmp-a-bruto"></span></div>
+                <div class="cmp-row"><span class="cmp-lbl">− IRS estimado</span><span class="cmp-val neg" id="cmp-a-irs"></span></div>
+                <div class="cmp-row"><span class="cmp-lbl">− SS trabalhador</span><span class="cmp-val neg" id="cmp-a-ss"></span></div>
+                <div class="cmp-net">
+                  <div class="cmp-net-label">Líquido estimado</div>
+                  <div class="cmp-net-amount" id="cmp-a-liq"></div>
+                </div>
+              </div>
+              <div class="cmp-col b">
+                <div class="cmp-row"><span class="cmp-lbl">Bruto total</span><span class="cmp-val" id="cmp-b-bruto"></span></div>
+                <div class="cmp-row"><span class="cmp-lbl">− IRS estimado</span><span class="cmp-val neg" id="cmp-b-irs"></span></div>
+                <div class="cmp-row"><span class="cmp-lbl">− SS trabalhador</span><span class="cmp-val neg" id="cmp-b-ss"></span></div>
+                <div class="cmp-net">
+                  <div class="cmp-net-label">Líquido estimado</div>
+                  <div class="cmp-net-amount" id="cmp-b-liq"></div>
+                </div>
+              </div>
+            </div>
+            <div class="cmp-diff">
+              <span class="diff-label" id="cmp-diff-label"></span>
+              <span class="diff-amount" id="cmp-diff-amount"></span>
+            </div>
+          </div>
+          <!-- Sem taxa IRS -->
+          <div id="cmp-no-irs" class="cmp-no-irs">
+            Preenche a taxa de retenção IRS (%) para ver o líquido estimado de cada proposta.
           </div>
         </div>
       </div>
 
       <!-- Disclaimer -->
       <div class="disclaimer">
-        <strong>ℹ Simulação indicativa</strong> — Baseada no simulador ACT e no art.º 366.º CT.
-        Em despedimento coletivo com acordo negocial, a compensação acordada <strong>substitui</strong> o mínimo de 14 dias/ano (não se soma).
-        O acordo não pode resultar em valor inferior ao mínimo legal; o simulador aplica sempre o mais favorável.
-        Não contempla período experimental, suspensões de contrato, impostos ou contribuições.
-        Teto de antiguidade: 12 × ref. salarial (salvo acordo mais favorável); teto salarial: 20 × SMN (€&nbsp;20&nbsp;400 em 2025).
-        Para casos específicos, consulta a <strong>ACT</strong> (act.gov.pt) ou advogado laboral.
+        <strong>ℹ Simulação indicativa</strong> — art.º 366.º CT · art.º 2.º, n.º 4, 5 e 10 CIRS · art.º 46.º, 48.º e 53.º CRCPSS.<br>
+        <strong>Compensação (IRS):</strong> excluída de tributação até à média da retribuição regular dos últimos 12 meses × antiguidade (anos + fração). O excedente é tributável. A exclusão não se aplica a: (a) administradores, gerentes e membros de órgãos sociais; (b) novo vínculo nos 24 meses seguintes com a mesma entidade ou empresa do mesmo grupo/domínio; (c) quem já beneficiou desta exclusão nos últimos 5 anos.<br>
+        <strong>Compensação (SS):</strong> em despedimento coletivo, não constitui base de incidência contributiva — totalmente isenta de SS para o trabalhador e para o empregador, independentemente do montante.<br>
+        <strong>Créditos laborais</strong> (férias, subsídio de férias, subsídio de Natal): sempre sujeitos a IRS e SS — segregados da compensação.<br>
+        Em despedimento coletivo com acordo negocial, a compensação acordada <strong>substitui</strong> o mínimo de 14 dias/ano (não se soma). O IRS estimado é indicativo — a taxa efetiva depende dos rendimentos totais do ano. Para casos específicos, consulte a <strong>ACT</strong> (act.gov.pt) ou advogado/contabilista.
       </div>
 
     </main>
   </div>
 
   <footer>
-    Calculadora de cessação de contrato · art.º 366.º CT · SMN 2025: 1 020 € · Simulação indicativa, sem valor jurídico
+    Calculadora de cessação · art.º 366.º CT · art.º 2.º, n.º 4 CIRS · SMN 2025: 1 020 € · Simulação indicativa, sem valor jurídico
   </footer>
 
   <script>
@@ -639,10 +1065,15 @@
       if (el.textContent !== newText) {
         el.textContent = newText;
         el.classList.remove('flash');
-        // Force reflow
         void el.offsetWidth;
         el.classList.add('flash');
       }
+    }
+
+    function setHTML(id, html) {
+      const el = document.getElementById(id);
+      if (!el) return;
+      el.innerHTML = html;
     }
 
     function daysBetween(a, b) {
@@ -654,7 +1085,7 @@
       const diut             = parseFloat(document.getElementById('diut').value)             || 0;
       const feriasGozadas    = parseFloat(document.getElementById('feriasGozadas').value)    || 0;
       const subsFeriasReceb  = parseFloat(document.getElementById('subsFeriasRecebido').value)|| 0;
-      const multAntig        = parseFloat(document.getElementById('multAntig').value)        || 0;
+      const diasAntig        = parseFloat(document.getElementById('multAntig').value)        || 0;
       const multBonus        = parseFloat(document.getElementById('multBonus').value)        || 0;
 
       const startVal = document.getElementById('startDate').value;
@@ -666,61 +1097,101 @@
       if (endDate <= startDate) return;
 
       // ── Remuneração ──────────────────────────────────
-      const total     = base + diut;
-      const refSal    = Math.min(total, 20 * SMN);
-      const valorDia  = refSal / 30;
+      const total    = base + diut;
+      const refSal   = Math.min(total, 20 * SMN);
+      const valorDia = refSal / 30;
 
       // ── Antiguidade ───────────────────────────────────
-      const totalDays    = daysBetween(startDate, endDate);
+      const totalDays     = daysBetween(startDate, endDate);
       const anosCompletos = Math.floor(totalDays / 365.25);
       const diasRestantes = totalDays - anosCompletos * 365.25;
-      const teto = 12 * refSal;
+      const totalAnos     = anosCompletos + diasRestantes / 365.25;
+      const teto          = 12 * refSal;
 
       // ── Despedimento Coletivo — mínimo legal (14 dias/ano) ──
-      const compAnos = anosCompletos * 14 * valorDia;
-      const compFrac = (diasRestantes / 365.25) * 14 * valorDia;
+      const compAnos  = anosCompletos * 14 * valorDia;
+      const compFrac  = (diasRestantes / 365.25) * 14 * valorDia;
       const subtotalDC = compAnos + compFrac;
-      const totalDC = Math.min(subtotalDC, teto);
+      const totalDC   = Math.min(subtotalDC, teto);
 
       // ── Acordo Negocial ───────────────────────────────
-      // O acordo expressa-se em × salário/ano (substitui o mínimo de 14 dias/ano = ≈0.467×/ano)
-      const totalAnos      = anosCompletos + diasRestantes / 365.25;
-      const acordAnos      = anosCompletos * multAntig * total;
-      const acordFrac      = (diasRestantes / 365.25) * multAntig * total;
-      const subtotalAcord  = acordAnos + acordFrac;
-      const compNegocial   = Math.min(subtotalAcord, teto);
-      const bonusValor     = multBonus * total;
-      const totalNegocial  = Math.max(compNegocial, totalDC) + bonusValor; // nunca abaixo do mínimo legal
+      const acordAnos     = anosCompletos * diasAntig * (total / 30);
+      const acordFrac     = (diasRestantes / 365.25) * diasAntig * (total / 30);
+      const subtotalAcord = acordAnos + acordFrac;
+      const compNegocial  = Math.min(subtotalAcord, teto);
+      const bonusValor    = multBonus * total;
+      const totalNegocial = Math.max(compNegocial, totalDC) + bonusValor;
 
       // ── Acerto de Contas ──────────────────────────────
       // Bloco A — férias vencidas a 1 Jan
-      const diasNaoGozados = Math.max(0, FERIAS_ANUAIS - feriasGozadas);
+      const diasNaoGozados    = Math.max(0, FERIAS_ANUAIS - feriasGozadas);
       const valorFeriasNaoGoz = diasNaoGozados * (total / FERIAS_ANUAIS);
-      // O subsídio de férias é sempre devido sobre os 22 dias vencidos a 1 Jan,
-      // independentemente dos dias já gozados (art.º 264.º CT).
-      // O que já foi pago deduz-se no campo "Subsídio de férias já recebido".
       const subsFeriasCorr    = total;
-      const subtotalA = valorFeriasNaoGoz + subsFeriasCorr;
+      const subtotalA         = valorFeriasNaoGoz + subsFeriasCorr;
 
       // Bloco B — proporcionais do ano de cessação
-      const jan1 = new Date(endDate.getFullYear(), 0, 1);
+      const jan1       = new Date(endDate.getFullYear(), 0, 1);
       const blocoStart = startDate > jan1 ? startDate : jan1;
-      const diasNoAno = daysBetween(blocoStart, endDate);
-      const feriasPropDias   = (diasNoAno / 365) * FERIAS_ANUAIS;
-      const valorFeriasProp  = (diasNoAno / 365) * total;
-      const subsFeriasProp   = (diasNoAno / 365) * total;
-      const subsNatalProp    = (diasNoAno / 365) * total;
-      const subtotalB = valorFeriasProp + subsFeriasProp + subsNatalProp;
+      const diasNoAno  = daysBetween(blocoStart, endDate);
+      const feriasPropDias  = (diasNoAno / 365) * FERIAS_ANUAIS;
+      const valorFeriasProp = (diasNoAno / 365) * total;
+      const subsFeriasProp  = (diasNoAno / 365) * total;
+      const subsNatalProp   = (diasNoAno / 365) * total;
+      const subtotalB       = valorFeriasProp + subsFeriasProp + subsNatalProp;
 
       const totalAcerto = subtotalA + subtotalB - subsFeriasReceb;
 
-      // ── Totais globais ────────────────────────────────
-      // Cenário base: mínimo legal + acerto
-      const grandSem = totalDC + totalAcerto;
-      // Cenário acordo: comp. negociada (substitui, não soma) + bónus fixo + acerto
-      const grandCom = totalNegocial + totalAcerto;
+      // ── Cláusula de não concorrência ─────────────────
+      const inclNaoConcorrencia = document.getElementById('inclNaoConcorrencia').checked;
+      const clausulaValor = inclNaoConcorrencia ? total * 0.20 * 6 : 0;
+      const clausulaSS    = clausulaValor * 0.11;
 
-      // ── Render ────────────────────────────────────────
+      // ── Totais globais (bruto) ────────────────────────
+      const grandSem = totalDC + totalAcerto + clausulaValor;
+      const grandCom = totalNegocial + totalAcerto + clausulaValor;
+
+      // ── Fiscalidade — IRS ─────────────────────────────
+      const media12mRaw   = parseFloat(document.getElementById('media12m').value);
+      const media12m      = media12mRaw > 0 ? media12mRaw : total;
+      const taxaIRS       = parseFloat(document.getElementById('taxaIRS').value) || 0;
+      const vinculo24m      = document.getElementById('vinculo24m').checked;
+      const isencao5anos    = document.getElementById('isencao5anos').checked;
+      const tributacaoTotal = vinculo24m || isencao5anos;
+
+      // Limiar de isenção: média 12 meses × total anos (com fração)
+      const limiarIsencao = media12m * totalAnos;
+
+      // Compensação para efeitos de IRS
+      // DC
+      const isentoIRS_DC    = tributacaoTotal ? 0 : Math.min(totalDC, limiarIsencao);
+      const tributavelIRS_DC = tributacaoTotal ? totalDC : Math.max(0, totalDC - limiarIsencao);
+
+      // Acordo (comp. negociada inclui bónus, que faz parte do acordo de cessação)
+      const isentoIRS_Neg    = tributacaoTotal ? 0 : Math.min(totalNegocial, limiarIsencao);
+      const tributavelIRS_Neg = tributacaoTotal ? totalNegocial : Math.max(0, totalNegocial - limiarIsencao);
+
+      // Créditos laborais — sempre sujeitos a IRS e SS na totalidade
+      const baseTaxavel_acerto = Math.max(0, totalAcerto);
+
+      // Total sujeito a IRS por cenário (cláusula é rendimento normal, totalmente tributável)
+      const totalTributavelDC  = tributavelIRS_DC  + baseTaxavel_acerto + clausulaValor;
+      const totalTributavelNeg = tributavelIRS_Neg + baseTaxavel_acerto + clausulaValor;
+
+      // Estimativas IRS (só se taxa preenchida)
+      const irsEstDC  = taxaIRS > 0 ? totalTributavelDC  * (taxaIRS / 100) : 0;
+      const irsEstNeg = taxaIRS > 0 ? totalTributavelNeg * (taxaIRS / 100) : 0;
+
+      // ── Segurança Social ──────────────────────────────
+      // Compensação por despedimento coletivo: totalmente isenta de SS (trabalhador e empregador)
+      // Créditos laborais: sujeitos nos termos gerais
+      const baseSS   = baseTaxavel_acerto;
+      const ssWorker = baseSS * 0.11;
+
+      // ── Líquido estimado ─────────────────────────────
+      const liquidoDC  = grandSem - irsEstDC  - ssWorker - clausulaSS;
+      const liquidoNeg = grandCom - irsEstNeg - ssWorker - clausulaSS;
+
+      // ── Render — existente ────────────────────────────
       set('r-smn',   SMN);
       set('r-ref',   refSal);
       set('r-dia',   valorDia);
@@ -731,22 +1202,22 @@
       set('r-teto',  teto);
       set('r-total-dc', totalDC);
 
-      set('r-mult-antig',    multAntig.toFixed(2) + '× / ano', false);
-      set('r-acord-anos',    acordAnos);
-      set('r-acord-frac',    acordFrac);
-      set('r-acord-teto',    teto);
+      set('r-mult-antig',     diasAntig.toFixed(0) + ' dias / ano', false);
+      set('r-acord-anos',     acordAnos);
+      set('r-acord-frac',     acordFrac);
+      set('r-acord-teto',     teto);
       set('r-acord-subtotal', compNegocial);
-      set('r-bonus-fixo',    bonusValor);
-      set('r-minimo-legal',  totalDC);
+      set('r-bonus-fixo',     bonusValor);
+      set('r-minimo-legal',   totalDC);
       set('r-valor-aplicavel', Math.max(compNegocial, totalDC));
-      set('r-total-extra',   totalNegocial);
+      set('r-total-extra',    totalNegocial);
 
       set('r-a-dias',  diasNaoGozados.toFixed(1) + ' dias', false);
       set('r-a-ferias', valorFeriasNaoGoz);
       set('r-a-sub',   subsFeriasCorr);
       set('r-a-total', subtotalA);
 
-      set('r-b-dias',       Math.round(diasNoAno) + ' dias', false);
+      set('r-b-dias',        Math.round(diasNoAno) + ' dias', false);
       set('r-b-ferias-dias', fmtDias(feriasPropDias), false);
       set('r-b-ferias',      valorFeriasProp);
       set('r-b-subferias',   subsFeriasProp);
@@ -758,14 +1229,189 @@
 
       set('r-grand-sem', grandSem);
       set('r-grand-com', grandCom);
+
+      // ── Render — IRS + SS ─────────────────────────────
+      set('r-irs-limiar', limiarIsencao);
+
+      // Regime badge
+      const regimeHTML = tributacaoTotal
+        ? '<span class="badge-warn">Tributação integral</span>'
+        : '<span class="badge-ok">Isenção parcial aplicável</span>';
+      setHTML('r-irs-regime', regimeHTML);
+
+      set('r-irs-isento-dc',  isentoIRS_DC);
+      set('r-irs-trib-dc',    tributavelIRS_DC);
+      set('r-irs-isento-neg', isentoIRS_Neg);
+      set('r-irs-trib-neg',   tributavelIRS_Neg);
+      set('r-irs-acerto',     baseTaxavel_acerto);
+      set('r-irs-total-dc',   totalTributavelDC);
+      set('r-irs-total-neg',  totalTributavelNeg);
+
+      // Estimativas IRS (condicionais)
+      const showEst = taxaIRS > 0;
+      document.getElementById('row-irs-est-dc').style.display  = showEst ? '' : 'none';
+      document.getElementById('row-irs-est-neg').style.display = showEst ? '' : 'none';
+      if (showEst) {
+        set('r-irs-est-dc',  irsEstDC);
+        set('r-irs-est-neg', irsEstNeg);
+      }
+
+      // SS
+      set('r-ss-base',   baseSS);
+      set('r-ss-worker', ssWorker);
+
+      // Cláusula de não concorrência (condicional)
+      const sectionClausula = document.getElementById('section-clausula');
+      const infoClausula    = document.getElementById('info-nao-concorrencia');
+      sectionClausula.style.display = inclNaoConcorrencia ? '' : 'none';
+      infoClausula.style.display    = inclNaoConcorrencia ? '' : 'none';
+      if (inclNaoConcorrencia) {
+        const clausulaIrsEst = taxaIRS > 0 ? clausulaValor * (taxaIRS / 100) : 0;
+        const clausulaLiq    = clausulaValor - clausulaIrsEst - clausulaSS;
+        set('r-clausula-preview',  clausulaValor, true);
+        set('r-clausula-bruto',    clausulaValor);
+        set('r-clausula-irs-base', clausulaValor);
+        set('r-clausula-ss',       clausulaSS);
+        document.getElementById('row-clausula-irs-est').style.display = showEst ? '' : 'none';
+        document.getElementById('row-clausula-liq').style.display     = showEst ? '' : 'none';
+        if (showEst) {
+          set('r-clausula-irs-est', clausulaIrsEst);
+          set('r-clausula-liq',     clausulaLiq);
+        }
+      }
+
+      // Nota "(inclui cláusula)" nos grand totals
+      const grandSubText = inclNaoConcorrencia ? `inclui cláusula não concorrência: +${fmt(clausulaValor)}` : '';
+      const grandSemSub  = document.getElementById('r-grand-sem-sub');
+      const grandComSub  = document.getElementById('r-grand-com-sub');
+      grandSemSub.textContent   = grandSubText;
+      grandSemSub.style.display = inclNaoConcorrencia ? '' : 'none';
+      grandComSub.textContent   = grandSubText;
+      grandComSub.style.display = inclNaoConcorrencia ? '' : 'none';
+
+      // Líquido (condicional)
+      const sectionLiq = document.getElementById('section-liquido');
+      sectionLiq.style.display = showEst ? '' : 'none';
+      if (showEst) {
+        set('r-liq-dc',  liquidoDC);
+        set('r-liq-neg', liquidoNeg);
+        const detailSS = inclNaoConcorrencia
+          ? `IRS: −${fmt(irsEstDC)} · SS créditos: −${fmt(ssWorker)} · SS cláusula: −${fmt(clausulaSS)}`
+          : `IRS: −${fmt(irsEstDC)} · SS créditos: −${fmt(ssWorker)}`;
+        const detailSSNeg = [
+          `IRS: −${fmt(irsEstNeg)}`,
+          `SS créditos: −${fmt(ssWorker)}`,
+          inclNaoConcorrencia ? `SS cláusula: −${fmt(clausulaSS)}` : null,
+        ].filter(Boolean).join(' · ');
+        set('r-liq-dc-detail',  detailSS,    false);
+        set('r-liq-neg-detail', detailSSNeg, false);
+      }
+
+      // ── Comparação de Propostas ───────────────────────
+      function calcProposta(diasPorAno, inclClausula) {
+        const acAnos   = anosCompletos * diasPorAno * (total / 30);
+        const acFrac   = (diasRestantes / 365.25) * diasPorAno * (total / 30);
+        const compP    = Math.min(Math.max(acAnos + acFrac, totalDC), teto);
+        const clausV   = inclClausula ? total * 0.20 * 6 : 0;
+        const clausSS  = clausV * 0.11;
+        const bruto    = compP + totalAcerto + clausV;
+
+        const isentoP  = tributacaoTotal ? 0 : Math.min(compP, limiarIsencao);
+        const tribComp = tributacaoTotal ? compP : Math.max(0, compP - limiarIsencao);
+        const tribTot  = tribComp + baseTaxavel_acerto + clausV;
+        const irsEst   = taxaIRS > 0 ? tribTot * (taxaIRS / 100) : 0;
+        const ssTot    = ssWorker + clausSS;
+        const liq      = bruto - irsEst - ssTot;
+
+        return { bruto, irsEst, ssTot, liq, clausV };
+      }
+
+      const cmpDiasA    = parseFloat(document.getElementById('cmpDiasA').value)  || 0;
+      const cmpDiasB    = parseFloat(document.getElementById('cmpDiasB').value)  || 0;
+      const cmpClausulaA = document.getElementById('cmpClausulaA').checked;
+      const cmpClausulaB = document.getElementById('cmpClausulaB').checked;
+
+      const pA = calcProposta(cmpDiasA, cmpClausulaA);
+      const pB = calcProposta(cmpDiasB, cmpClausulaB);
+
+      // Títulos dinâmicos
+      const labelA = `Proposta A — ${cmpDiasA} dias${cmpClausulaA ? ' + cláusula' : ''}`;
+      const labelB = `Proposta B — ${cmpDiasB} dias${cmpClausulaB ? ' + cláusula' : ''}`;
+      document.getElementById('cmp-title-a').textContent = labelA;
+      document.getElementById('cmp-title-b').textContent = labelB;
+
+      const cmpBreakdown = document.getElementById('cmp-breakdown');
+      const cmpNoIrs     = document.getElementById('cmp-no-irs');
+
+      if (taxaIRS > 0) {
+        cmpBreakdown.style.display = '';
+        cmpNoIrs.style.display     = 'none';
+
+        set('cmp-a-bruto', pA.bruto);
+        set('cmp-a-irs',   pA.irsEst);
+        set('cmp-a-ss',    pA.ssTot);
+        set('cmp-a-liq',   pA.liq);
+        set('cmp-b-bruto', pB.bruto);
+        set('cmp-b-irs',   pB.irsEst);
+        set('cmp-b-ss',    pB.ssTot);
+        set('cmp-b-liq',   pB.liq);
+
+        const diff     = pA.liq - pB.liq;
+        const diffEl   = document.getElementById('cmp-diff-amount');
+        const diffLbl  = document.getElementById('cmp-diff-label');
+        const absDiff  = Math.abs(diff);
+        diffEl.className = 'diff-amount ' + (diff > 0.01 ? 'pos' : diff < -0.01 ? 'neg' : 'zero');
+        if (Math.abs(diff) < 0.01) {
+          diffLbl.textContent = 'As duas propostas têm o mesmo líquido estimado';
+          diffEl.textContent  = '=';
+        } else {
+          const melhor = diff > 0 ? 'A' : 'B';
+          const pior   = diff > 0 ? 'B' : 'A';
+          diffLbl.textContent = `Proposta ${melhor} dá ${fmt(absDiff)} líquidos a mais do que a Proposta ${pior}`;
+          diffEl.textContent  = (diff > 0 ? '+' : '−') + fmt(absDiff).replace('-', '');
+        }
+      } else {
+        cmpBreakdown.style.display = 'none';
+        cmpNoIrs.style.display     = '';
+      }
     }
 
-    // Attach listeners
-    document.querySelectorAll('input').forEach(el => {
-      el.addEventListener('input', calculate);
+    // ── Persistência localStorage ─────────────────────
+    const STORAGE_KEY = 'cessacao_v4';
+
+    function saveToStorage() {
+      const data = {};
+      document.querySelectorAll('input[id]').forEach(el => {
+        data[el.id] = el.type === 'checkbox' ? el.checked : el.value;
+      });
+      try { localStorage.setItem(STORAGE_KEY, JSON.stringify(data)); } catch(e) {}
+    }
+
+    function loadFromStorage() {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        if (!raw) return false;
+        const data = JSON.parse(raw);
+        Object.entries(data).forEach(([id, val]) => {
+          const el = document.getElementById(id);
+          if (!el) return;
+          if (el.type === 'checkbox') el.checked = val;
+          else el.value = val;
+        });
+        return true;
+      } catch(e) { return false; }
+    }
+
+    // Attach listeners to all inputs (including checkboxes via change)
+    document.querySelectorAll('input[type="number"], input[type="date"]').forEach(el => {
+      el.addEventListener('input', () => { saveToStorage(); calculate(); });
+    });
+    document.querySelectorAll('input[type="checkbox"]').forEach(el => {
+      el.addEventListener('change', () => { saveToStorage(); calculate(); });
     });
 
-    // Initial render
+    // Initial render — restore saved values first, then calculate
+    loadFromStorage();
     calculate();
   </script>
 
