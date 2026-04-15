@@ -357,96 +357,84 @@
     .grand-total-card .scenario.highlight .scenario-sub { color: rgba(196,154,43,.55); }
 
     /* ── COMPARAÇÃO DE PROPOSTAS ── */
-    .cmp-card {
-      background: var(--ink);
-      border-radius: var(--radius);
-      overflow: hidden;
-    }
-    .cmp-header {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-    }
-    .cmp-header .cmp-col-label {
-      padding: .75rem 1.25rem;
-      font-family: 'IBM Plex Mono', monospace;
+    .cmp-table thead tr { border-bottom: 2px solid var(--border); }
+    .cmp-table th {
+      padding: .55rem 1.25rem;
       font-size: .68rem;
-      letter-spacing: .12em;
+      font-weight: 700;
+      letter-spacing: .08em;
       text-transform: uppercase;
-      font-weight: 600;
+      text-align: right;
+      white-space: nowrap;
+      vertical-align: top;
     }
-    .cmp-header .cmp-col-label.a { background: rgba(26,75,122,.9); color: #fff; }
-    .cmp-header .cmp-col-label.b { background: rgba(196,154,43,.25); color: var(--gold); border-left: 1px solid rgba(196,154,43,.3); }
-    .cmp-body {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
+    .cmp-table th:first-child {
+      text-align: left;
+      color: var(--ink-muted);
+      background: transparent;
+      font-size: .72rem;
+      letter-spacing: .04em;
     }
-    .cmp-col {
-      padding: 1.25rem;
+    .cmp-table th.cmp-th-a {
+      background: rgba(26,75,122,.08);
+      color: var(--blue);
+      border-left: 1px solid var(--border);
     }
-    .cmp-col.b { border-left: 1px solid rgba(255,255,255,.08); }
-    .cmp-row {
-      display: flex;
-      justify-content: space-between;
-      align-items: baseline;
-      padding: .3rem 0;
-      border-bottom: 1px solid rgba(255,255,255,.06);
-      font-size: .84rem;
+    .cmp-table th.cmp-th-b {
+      background: rgba(196,154,43,.1);
+      color: var(--gold);
+      border-left: 1px solid var(--border);
     }
-    .cmp-row:last-child { border-bottom: none; }
-    .cmp-row .cmp-lbl { color: rgba(255,255,255,.5); }
-    .cmp-row .cmp-val {
+    .cmp-table th .cmp-sub {
+      display: block;
+      font-weight: 400;
+      font-size: .62rem;
+      text-transform: none;
+      letter-spacing: 0;
+      margin-top: .15rem;
+      opacity: .75;
+    }
+    .cmp-table td:nth-child(2),
+    .cmp-table td:nth-child(3) {
+      text-align: right;
       font-family: 'IBM Plex Mono', monospace;
-      font-size: .85rem;
-      color: rgba(255,255,255,.85);
+      font-size: .88rem;
+      padding-right: 1.25rem;
+      border-left: 1px solid var(--border);
+      color: var(--ink);
+      white-space: nowrap;
     }
-    .cmp-row .cmp-val.neg { color: #e57373; }
-    .cmp-net {
-      margin-top: .85rem;
-      padding-top: .85rem;
-      border-top: 1px solid rgba(255,255,255,.15);
-    }
-    .cmp-net .cmp-net-label {
-      font-family: 'IBM Plex Mono', monospace;
-      font-size: .65rem;
-      letter-spacing: .1em;
-      text-transform: uppercase;
-      color: rgba(255,255,255,.4);
-      margin-bottom: .3rem;
-    }
-    .cmp-net .cmp-net-amount {
-      font-family: 'IBM Plex Mono', monospace;
-      font-size: 1.5rem;
-      font-weight: 500;
-      color: #fff;
-    }
-    .cmp-col.a .cmp-net-amount { color: #90caf9; }
-    .cmp-col.b .cmp-net-amount { color: var(--gold); }
-    .cmp-diff {
-      padding: .85rem 1.25rem;
-      border-top: 1px solid rgba(255,255,255,.08);
+    .cmp-table tr.subtotal td:nth-child(2) { color: var(--blue); }
+    .cmp-table tr.subtotal td:nth-child(3) { color: var(--gold); }
+    .cmp-diff-bar {
       display: flex;
       align-items: center;
-      gap: .75rem;
+      justify-content: space-between;
+      gap: 1rem;
+      padding: .85rem 1.25rem;
+      background: var(--ink);
+      border-radius: 0 0 var(--radius) var(--radius);
     }
-    .cmp-diff .diff-label {
-      font-size: .8rem;
-      color: rgba(255,255,255,.5);
-      flex: 1;
+    .cmp-diff-bar .diff-text {
+      font-size: .82rem;
+      color: rgba(255,255,255,.6);
     }
-    .cmp-diff .diff-amount {
+    .cmp-diff-bar .diff-val {
       font-family: 'IBM Plex Mono', monospace;
-      font-size: 1rem;
+      font-size: 1.05rem;
       font-weight: 600;
+      white-space: nowrap;
     }
-    .cmp-diff .diff-amount.pos { color: #a5d6a7; }
-    .cmp-diff .diff-amount.neg { color: #ef9a9a; }
-    .cmp-diff .diff-amount.zero { color: rgba(255,255,255,.4); }
-    .cmp-no-irs {
-      padding: 1.25rem;
+    .cmp-diff-bar .diff-val.pos { color: #a5d6a7; }
+    .cmp-diff-bar .diff-val.neg { color: #ef9a9a; }
+    .cmp-diff-bar .diff-val.zero { color: rgba(255,255,255,.4); }
+    .cmp-no-irs-msg {
+      padding: .9rem 1.25rem;
       font-size: .8rem;
-      color: rgba(255,255,255,.4);
+      color: var(--ink-muted);
       font-style: italic;
       text-align: center;
+      border-top: 1px solid var(--border);
     }
 
     /* ── DISCLAIMER ── */
@@ -582,38 +570,6 @@
           <div id="info-nao-concorrencia" style="display:none;font-size:.79rem;color:var(--ink-muted);line-height:1.5;background:var(--blue-light);border-radius:6px;padding:.7rem .85rem;">
             20% do salário bruto mensal durante 6 meses = <strong id="r-clausula-preview">—</strong>.<br>
             Tratado como rendimento normal: sujeito a IRS (à taxa de retenção) e SS trabalhador (11%).
-          </div>
-        </div>
-      </div>
-
-      <!-- Comparação de propostas -->
-      <div class="card">
-        <div class="card-header"><h2>Comparação de Propostas</h2></div>
-        <div class="card-body">
-          <div style="font-size:.75rem;color:var(--ink-muted);margin-bottom:.25rem;">Define cada proposta independentemente — o líquido é calculado com os restantes dados acima.</div>
-          <div style="display:grid;grid-template-columns:1fr 1fr;gap:.75rem;align-items:start;">
-            <div>
-              <div style="font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--blue);margin-bottom:.5rem;">Proposta A</div>
-              <div class="field">
-                <label>Dias/ano</label>
-                <input type="number" id="cmpDiasA" value="30" min="0" step="1" />
-              </div>
-              <label class="checkbox-field" style="margin-top:.55rem;">
-                <input type="checkbox" id="cmpClausulaA" checked />
-                <span style="font-size:.78rem;">Com cláusula não concorrência</span>
-              </label>
-            </div>
-            <div>
-              <div style="font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--gold);margin-bottom:.5rem;">Proposta B</div>
-              <div class="field">
-                <label>Dias/ano</label>
-                <input type="number" id="cmpDiasB" value="40" min="0" step="1" />
-              </div>
-              <label class="checkbox-field" style="margin-top:.55rem;">
-                <input type="checkbox" id="cmpClausulaB" />
-                <span style="font-size:.78rem;">Com cláusula não concorrência</span>
-              </label>
-            </div>
           </div>
         </div>
       </div>
@@ -985,42 +941,65 @@
 
       <!-- Comparação de Propostas -->
       <div class="result-section">
-        <div class="section-label">Comparação de Propostas — Líquido lado a lado</div>
-        <div class="cmp-card">
-          <div class="cmp-header">
-            <div class="cmp-col-label a" id="cmp-title-a">Proposta A — 30 dias + cláusula</div>
-            <div class="cmp-col-label b" id="cmp-title-b">Proposta B — 40 dias s/ cláusula</div>
-          </div>
-          <!-- Breakdown (só com taxa IRS) -->
-          <div id="cmp-breakdown" style="display:none">
-            <div class="cmp-body">
-              <div class="cmp-col a">
-                <div class="cmp-row"><span class="cmp-lbl">Bruto total</span><span class="cmp-val" id="cmp-a-bruto"></span></div>
-                <div class="cmp-row"><span class="cmp-lbl">− IRS estimado</span><span class="cmp-val neg" id="cmp-a-irs"></span></div>
-                <div class="cmp-row"><span class="cmp-lbl">− SS trabalhador</span><span class="cmp-val neg" id="cmp-a-ss"></span></div>
-                <div class="cmp-net">
-                  <div class="cmp-net-label">Líquido estimado</div>
-                  <div class="cmp-net-amount" id="cmp-a-liq"></div>
-                </div>
-              </div>
-              <div class="cmp-col b">
-                <div class="cmp-row"><span class="cmp-lbl">Bruto total</span><span class="cmp-val" id="cmp-b-bruto"></span></div>
-                <div class="cmp-row"><span class="cmp-lbl">− IRS estimado</span><span class="cmp-val neg" id="cmp-b-irs"></span></div>
-                <div class="cmp-row"><span class="cmp-lbl">− SS trabalhador</span><span class="cmp-val neg" id="cmp-b-ss"></span></div>
-                <div class="cmp-net">
-                  <div class="cmp-net-label">Líquido estimado</div>
-                  <div class="cmp-net-amount" id="cmp-b-liq"></div>
-                </div>
-              </div>
-            </div>
-            <div class="cmp-diff">
-              <span class="diff-label" id="cmp-diff-label"></span>
-              <span class="diff-amount" id="cmp-diff-amount"></span>
-            </div>
-          </div>
-          <!-- Sem taxa IRS -->
-          <div id="cmp-no-irs" class="cmp-no-irs">
+        <div class="section-label">Comparação de Propostas</div>
+        <div class="card" style="overflow:hidden">
+          <table class="row-table cmp-table">
+            <thead>
+              <tr>
+                <th></th>
+                <th class="cmp-th-a">Proposta A<span class="cmp-sub">40 dias · sem prémio · 0 férias gozadas</span></th>
+                <th class="cmp-th-b">Proposta B<span class="cmp-sub">45 dias · 1 sal. prémio · 22 férias gozadas</span></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Compensação (acordo c/ teto)</td>
+                <td id="cmp2-a-comp"></td>
+                <td id="cmp2-b-comp"></td>
+              </tr>
+              <tr>
+                <td>Bónus fixo</td>
+                <td id="cmp2-a-bonus"></td>
+                <td id="cmp2-b-bonus"></td>
+              </tr>
+              <tr>
+                <td>Acerto de contas (férias e subsídios)</td>
+                <td id="cmp2-a-acerto"></td>
+                <td id="cmp2-b-acerto"></td>
+              </tr>
+              <tr id="cmp2-row-clausula" style="display:none">
+                <td>Cláusula não concorrência</td>
+                <td id="cmp2-a-claus"></td>
+                <td id="cmp2-b-claus"></td>
+              </tr>
+              <tr class="subtotal">
+                <td>Total bruto</td>
+                <td id="cmp2-a-bruto"></td>
+                <td id="cmp2-b-bruto"></td>
+              </tr>
+              <tr id="cmp2-row-irs" style="display:none">
+                <td>− IRS estimado</td>
+                <td id="cmp2-a-irs" style="color:var(--red)"></td>
+                <td id="cmp2-b-irs" style="color:var(--red)"></td>
+              </tr>
+              <tr id="cmp2-row-ss" style="display:none">
+                <td>− SS trabalhador</td>
+                <td id="cmp2-a-ss" style="color:var(--red)"></td>
+                <td id="cmp2-b-ss" style="color:var(--red)"></td>
+              </tr>
+              <tr id="cmp2-row-liq" class="subtotal" style="display:none">
+                <td>Líquido estimado</td>
+                <td id="cmp2-a-liq"></td>
+                <td id="cmp2-b-liq"></td>
+              </tr>
+            </tbody>
+          </table>
+          <div id="cmp2-no-irs" class="cmp-no-irs-msg">
             Preenche a taxa de retenção IRS (%) para ver o líquido estimado de cada proposta.
+          </div>
+          <div id="cmp2-diff" class="cmp-diff-bar" style="display:none">
+            <span class="diff-text" id="cmp2-diff-text"></span>
+            <span class="diff-val" id="cmp2-diff-val"></span>
           </div>
         </div>
       </div>
@@ -1307,73 +1286,90 @@
         set('r-liq-neg-detail', detailSSNeg, false);
       }
 
-      // ── Comparação de Propostas ───────────────────────
-      function calcProposta(diasPorAno, inclClausula) {
-        const acAnos   = anosCompletos * diasPorAno * (total / 30);
-        const acFrac   = (diasRestantes / 365.25) * diasPorAno * (total / 30);
-        const compP    = Math.min(Math.max(acAnos + acFrac, totalDC), teto);
-        const clausV   = inclClausula ? total * 0.20 * 6 : 0;
-        const clausSS  = clausV * 0.11;
-        const bruto    = compP + totalAcerto + clausV;
+      // ── Comparação de Propostas (fixas) ──────────────
+      function calcPropostaFixed(diasPorAno, bonusMult, feriasGoz) {
+        const acAnos2   = anosCompletos * diasPorAno * (total / 30);
+        const acFrac2   = (diasRestantes / 365.25) * diasPorAno * (total / 30);
+        const compP2    = Math.min(acAnos2 + acFrac2, teto);
+        const negP      = Math.max(compP2, totalDC);
+        const bonusV    = bonusMult * total;
+        const negocial2 = negP + bonusV;
 
-        const isentoP  = tributacaoTotal ? 0 : Math.min(compP, limiarIsencao);
-        const tribComp = tributacaoTotal ? compP : Math.max(0, compP - limiarIsencao);
-        const tribTot  = tribComp + baseTaxavel_acerto + clausV;
-        const irsEst   = taxaIRS > 0 ? tribTot * (taxaIRS / 100) : 0;
-        const ssTot    = ssWorker + clausSS;
-        const liq      = bruto - irsEst - ssTot;
+        // Acerto — apenas Bloco A varia com feriasGoz; Bloco B é igual ao cálculo principal
+        const diasNaoGoz2        = Math.max(0, FERIAS_ANUAIS - feriasGoz);
+        const valorFeriasNaoGoz2 = diasNaoGoz2 * (total / FERIAS_ANUAIS);
+        const subtotalA2         = valorFeriasNaoGoz2 + total; // total = subsFeriasCorr (sempre 1 mês)
+        const acerto2            = subtotalA2 + subtotalB - subsFeriasReceb;
 
-        return { bruto, irsEst, ssTot, liq, clausV };
+        // Cláusula (igual ao cálculo principal — checkbox único)
+        const clausV2  = clausulaValor;
+        const clausSS2 = clausulaSS;
+
+        // Bruto
+        const bruto2 = negocial2 + acerto2 + clausV2;
+
+        // IRS
+        const tribNeg2   = tributacaoTotal ? negocial2 : Math.max(0, negocial2 - limiarIsencao);
+        const baseTax2   = Math.max(0, acerto2);
+        const totalTrib2 = tribNeg2 + baseTax2 + clausV2;
+        const irsEst2    = taxaIRS > 0 ? totalTrib2 * (taxaIRS / 100) : 0;
+
+        // SS
+        const ss2 = baseTax2 * 0.11 + clausSS2;
+
+        const liq2 = bruto2 - irsEst2 - ss2;
+
+        return { comp: negP, bonusV, acerto: acerto2, clausV: clausV2, bruto: bruto2, irsEst: irsEst2, ss: ss2, liq: liq2 };
       }
 
-      const cmpDiasA    = parseFloat(document.getElementById('cmpDiasA').value)  || 0;
-      const cmpDiasB    = parseFloat(document.getElementById('cmpDiasB').value)  || 0;
-      const cmpClausulaA = document.getElementById('cmpClausulaA').checked;
-      const cmpClausulaB = document.getElementById('cmpClausulaB').checked;
+      const pA2 = calcPropostaFixed(40, 0, 0);
+      const pB2 = calcPropostaFixed(45, 1, 22);
 
-      const pA = calcProposta(cmpDiasA, cmpClausulaA);
-      const pB = calcProposta(cmpDiasB, cmpClausulaB);
+      set('cmp2-a-comp',   pA2.comp);
+      set('cmp2-a-bonus',  pA2.bonusV);
+      set('cmp2-a-acerto', pA2.acerto);
+      set('cmp2-a-bruto',  pA2.bruto);
+      set('cmp2-b-comp',   pB2.comp);
+      set('cmp2-b-bonus',  pB2.bonusV);
+      set('cmp2-b-acerto', pB2.acerto);
+      set('cmp2-b-bruto',  pB2.bruto);
 
-      // Títulos dinâmicos
-      const labelA = `Proposta A — ${cmpDiasA} dias${cmpClausulaA ? ' + cláusula' : ''}`;
-      const labelB = `Proposta B — ${cmpDiasB} dias${cmpClausulaB ? ' + cláusula' : ''}`;
-      document.getElementById('cmp-title-a').textContent = labelA;
-      document.getElementById('cmp-title-b').textContent = labelB;
+      document.getElementById('cmp2-row-clausula').style.display = inclNaoConcorrencia ? '' : 'none';
+      if (inclNaoConcorrencia) {
+        set('cmp2-a-claus', pA2.clausV);
+        set('cmp2-b-claus', pB2.clausV);
+      }
 
-      const cmpBreakdown = document.getElementById('cmp-breakdown');
-      const cmpNoIrs     = document.getElementById('cmp-no-irs');
+      document.getElementById('cmp2-row-irs').style.display = showEst ? '' : 'none';
+      document.getElementById('cmp2-row-ss').style.display  = showEst ? '' : 'none';
+      document.getElementById('cmp2-row-liq').style.display = showEst ? '' : 'none';
+      document.getElementById('cmp2-no-irs').style.display  = showEst ? 'none' : '';
+      document.getElementById('cmp2-diff').style.display    = showEst ? '' : 'none';
 
-      if (taxaIRS > 0) {
-        cmpBreakdown.style.display = '';
-        cmpNoIrs.style.display     = 'none';
+      if (showEst) {
+        set('cmp2-a-irs', pA2.irsEst);
+        set('cmp2-b-irs', pB2.irsEst);
+        set('cmp2-a-ss',  pA2.ss);
+        set('cmp2-b-ss',  pB2.ss);
+        set('cmp2-a-liq', pA2.liq);
+        set('cmp2-b-liq', pB2.liq);
 
-        set('cmp-a-bruto', pA.bruto);
-        set('cmp-a-irs',   pA.irsEst);
-        set('cmp-a-ss',    pA.ssTot);
-        set('cmp-a-liq',   pA.liq);
-        set('cmp-b-bruto', pB.bruto);
-        set('cmp-b-irs',   pB.irsEst);
-        set('cmp-b-ss',    pB.ssTot);
-        set('cmp-b-liq',   pB.liq);
-
-        const diff     = pA.liq - pB.liq;
-        const diffEl   = document.getElementById('cmp-diff-amount');
-        const diffLbl  = document.getElementById('cmp-diff-label');
-        const absDiff  = Math.abs(diff);
-        diffEl.className = 'diff-amount ' + (diff > 0.01 ? 'pos' : diff < -0.01 ? 'neg' : 'zero');
-        if (Math.abs(diff) < 0.01) {
-          diffLbl.textContent = 'As duas propostas têm o mesmo líquido estimado';
-          diffEl.textContent  = '=';
+        const diff2    = pA2.liq - pB2.liq;
+        const absDiff2 = Math.abs(diff2);
+        const diffEl2  = document.getElementById('cmp2-diff-val');
+        const diffTxt2 = document.getElementById('cmp2-diff-text');
+        diffEl2.className = 'diff-val ' + (diff2 > 0.01 ? 'pos' : diff2 < -0.01 ? 'neg' : 'zero');
+        if (absDiff2 < 0.01) {
+          diffTxt2.textContent = 'As duas propostas têm o mesmo líquido estimado';
+          diffEl2.textContent  = '=';
         } else {
-          const melhor = diff > 0 ? 'A' : 'B';
-          const pior   = diff > 0 ? 'B' : 'A';
-          diffLbl.textContent = `Proposta ${melhor} dá ${fmt(absDiff)} líquidos a mais do que a Proposta ${pior}`;
-          diffEl.textContent  = (diff > 0 ? '+' : '−') + fmt(absDiff).replace('-', '');
+          const melhor2 = diff2 > 0 ? 'A' : 'B';
+          const pior2   = diff2 > 0 ? 'B' : 'A';
+          diffTxt2.textContent = `Proposta ${melhor2} dá ${fmt(absDiff2)} líquidos a mais do que a Proposta ${pior2}`;
+          diffEl2.textContent  = (diff2 > 0 ? '+' : '−') + fmt(absDiff2).replace('-', '');
         }
-      } else {
-        cmpBreakdown.style.display = 'none';
-        cmpNoIrs.style.display     = '';
       }
+
     }
 
     // ── Persistência localStorage ─────────────────────
