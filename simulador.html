@@ -682,16 +682,20 @@
                 <td>Regime aplicável à compensação</td>
                 <td id="r-irs-regime"></td>
               </tr>
-              <tr class="sub-header green-header"><td colspan="2">Compensação Acordada</td></tr>
+              <tr class="sub-header green-header"><td colspan="2">Compensação por Antiguidade</td></tr>
               <tr>
-                <td>Compensação isenta de IRS</td>
+                <td>Compensação por antiguidade isenta de IRS</td>
                 <td id="r-irs-isento"></td>
               </tr>
               <tr>
-                <td>Compensação sujeita a IRS</td>
+                <td>Compensação por antiguidade sujeita a IRS</td>
                 <td id="r-irs-trib"></td>
               </tr>
-              <tr class="sub-header red-header"><td colspan="2">Créditos laborais — sujeitos a IRS e SS na totalidade</td></tr>
+              <tr class="sub-header red-header"><td colspan="2">Rendimento normal — sujeito a IRS e SS na totalidade</td></tr>
+              <tr>
+                <td>Prémio (1 × salário bruto)</td>
+                <td id="r-irs-bonus"></td>
+              </tr>
               <tr>
                 <td>Férias + subsídios (acerto de contas)</td>
                 <td id="r-irs-acerto"></td>
@@ -711,7 +715,7 @@
                 <td><span class="badge-ok">Isenta</span></td>
               </tr>
               <tr>
-                <td>Base contributiva — créditos laborais (férias e subsídios)</td>
+                <td>Base contributiva — prémio + créditos laborais</td>
                 <td id="r-ss-base"></td>
               </tr>
               <tr>
@@ -915,16 +919,16 @@
 
       const limiarIsencao = media12m * totalAnos;
 
-      const isentoIRS  = tributacaoTotal ? 0 : Math.min(totalComp, limiarIsencao);
-      const tributavel = tributacaoTotal ? totalComp : Math.max(0, totalComp - limiarIsencao);
+      const isentoIRS  = tributacaoTotal ? 0 : Math.min(compAplicavel, limiarIsencao);
+      const tributavel = tributacaoTotal ? compAplicavel : Math.max(0, compAplicavel - limiarIsencao);
 
       const baseTaxavel_acerto = Math.max(0, totalAcerto);
-      const totalTributavel    = tributavel + baseTaxavel_acerto + clausulaValor;
+      const totalTributavel    = tributavel + bonusValor + baseTaxavel_acerto + clausulaValor;
 
       const irsEst = taxaIRS > 0 ? totalTributavel * (taxaIRS / 100) : 0;
 
       // ── Segurança Social ──────────────────────────────
-      const baseSS   = baseTaxavel_acerto;
+      const baseSS   = baseTaxavel_acerto + bonusValor;
       const ssWorker = baseSS * 0.11;
 
       // ── Líquido estimado ─────────────────────────────
@@ -971,6 +975,7 @@
       setHTML('r-irs-regime', regimeHTML);
       set('r-irs-isento',  isentoIRS);
       set('r-irs-trib',    tributavel);
+      set('r-irs-bonus',   bonusValor);
       set('r-irs-acerto',  baseTaxavel_acerto);
       set('r-irs-total',   totalTributavel);
 
@@ -1012,12 +1017,12 @@
       const liqTitle = document.getElementById('r-liq-title');
       const detailParts = [];
       if (showEst) {
-        liqTitle.textContent = 'Bruto − IRS − SS créditos laborais (11%)';
+        liqTitle.textContent = 'Bruto − IRS − SS prémio e créditos laborais (11%)';
         detailParts.push(`IRS: −${fmt(irsEst)}`);
       } else {
-        liqTitle.textContent = 'Bruto − SS créditos laborais (11%) · IRS não estimado';
+        liqTitle.textContent = 'Bruto − SS prémio e créditos laborais (11%) · IRS não estimado';
       }
-      detailParts.push(`SS créditos: −${fmt(ssWorker)}`);
+      detailParts.push(`SS (prémio + créditos): −${fmt(ssWorker)}`);
       if (inclNaoConcorrencia) detailParts.push(`SS cláusula: −${fmt(clausulaSS)}`);
       set('r-liq-detail', detailParts.join(' · '), false);
     }
