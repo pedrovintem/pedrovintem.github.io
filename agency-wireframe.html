@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>The Studio L · Wireframe v3</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+<style>
+/* ── WIREFRAME TOKENS ─────────────────────────────── */
+:root {
+  --white:    #FFFFFF;
+  --bg:       #F5F5F5;
+  --border:   #C8C8C8;
+  --border2:  #E0E0E0;
+  --fill:     #E8E8E8;
+  --fill2:    #D8D8D8;
+  --fill3:    #BEBEBE;
+  --text:     #1A1A1A;
+  --muted:    #777777;
+  --note:     #A0A0A0;
+  --label:    #555555;
+  --f:        'Inter', system-ui, sans-serif;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  font-family: var(--f);
+  font-size: 15px;
+  color: var(--text);
+  line-height: 1.6;
+}
+
+/* ── WIREFRAME UTILITY ────────────────────────────── */
+
+/* Section wrapper */
+.section {
+  background: var(--white);
+  border-bottom: 1px solid var(--border);
+  padding: 0;
+  position: relative;
+}
+
+/* Section inner max-width */
+.inner {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 64px 48px;
+}
+.inner.tight  { padding: 40px 48px; }
+.inner.flush  { padding: 0 48px; }
+
+/* Directorial note */
+.dir {
+  font-size: 11px;
+  font-style: italic;
+  color: var(--note);
+  background: #F9F9F9;
+  border: 1px dashed var(--border2);
+  border-radius: 3px;
+  padding: 8px 12px;
+  margin-bottom: 24px;
+  line-height: 1.55;
+}
+.dir strong { color: var(--muted); font-style: normal; }
+
+/* Placeholder image/video box */
+.placeholder {
+  background: var(--fill);
+  border: 1.5px dashed var(--fill3);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  position: relative;
+}
+.placeholder::before {
+  content: '';
+  display: block;
+  width: 32px; height: 2px;
+  background: var(--fill3);
+  margin-bottom: 4px;
+}
+
+/* Annotation label */
+.ann {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--note);
+  margin-bottom: 10px;
+  display: block;
+}
+
+/* Divider line */
+.divider {
+  border: none;
+  border-top: 1px solid var(--border2);
+  margin: 40px 0;
+}
+
+/* Section label badge */
+.section-badge {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--white);
+  background: var(--text);
+  padding: 3px 8px;
+  border-radius: 2px;
+  margin-bottom: 24px;
+}
+
+/* Copy: headline */
+.headline {
+  font-size: clamp(28px, 4vw, 48px);
+  font-weight: 600;
+  line-height: 1.15;
+  letter-spacing: -0.5px;
+  color: var(--text);
+  margin-bottom: 16px;
+}
+.headline.xl {
+  font-size: clamp(32px, 5vw, 60px);
+  letter-spacing: -1px;
+}
+.headline.sm {
+  font-size: clamp(20px, 2.5vw, 28px);
+  font-weight: 500;
+}
+
+/* Copy: body */
+.body-copy {
+  font-size: clamp(15px, 1.6vw, 18px);
+  font-weight: 300;
+  color: var(--label);
+  line-height: 1.7;
+  max-width: 580px;
+}
+
+/* Copy: label/eyebrow */
+.eyebrow {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 12px;
+  display: block;
+}
+
+/* CTA button wireframe */
+.cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 28px;
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 2px solid var(--text);
+  padding-bottom: 2px;
+}
+.cta::after { content: '→'; }
+
+/* Grid helpers */
+.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; }
+.grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 32px; }
+.grid-4 { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 24px; }
+
+/* Card wireframe */
+.card {
+  border: 1.5px solid var(--border);
+  border-radius: 3px;
+  overflow: hidden;
+  background: var(--white);
+}
+.card-img  { width: 100%; aspect-ratio: 16/10; }
+.card-body { padding: 16px; }
+.card-body .headline.sm { margin-bottom: 4px; }
+.card-subject {
+  font-size: 12px;
+  color: var(--muted);
+  font-weight: 400;
+}
+
+/* Quote block */
+.quote-block {
+  border-left: 3px solid var(--fill3);
+  padding: 16px 24px;
+  background: var(--bg);
+  border-radius: 0 3px 3px 0;
+}
+.quote-text {
+  font-size: clamp(16px, 1.8vw, 20px);
+  font-weight: 400;
+  font-style: italic;
+  color: var(--text);
+  line-height: 1.65;
+  margin-bottom: 12px;
+}
+.quote-attr {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--muted);
+  letter-spacing: 0.5px;
+}
+
+/* Form wireframe */
+.form-field {
+  border: 1.5px solid var(--border);
+  border-radius: 3px;
+  padding: 12px 16px;
+  font-size: 14px;
+  color: var(--muted);
+  background: var(--white);
+  width: 100%;
+  margin-bottom: 12px;
+  font-family: var(--f);
+}
+.form-btn {
+  background: var(--text);
+  color: var(--white);
+  border: none;
+  padding: 13px 28px;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: var(--f);
+  border-radius: 3px;
+  cursor: pointer;
+  letter-spacing: 0.3px;
+}
+
+/* Stat large */
+.stat-number {
+  font-size: clamp(56px, 9vw, 100px);
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -2px;
+  color: var(--text);
+}
+.stat-line {
+  font-size: clamp(15px, 1.7vw, 18px);
+  font-weight: 300;
+  color: var(--label);
+  margin-top: 8px;
+}
+.stat-twist {
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* Name row */
+.name-row {
+  display: flex;
+  gap: 8px;
+  align-items: baseline;
+  margin-bottom: 8px;
+}
+.name-row strong { font-weight: 600; font-size: 15px; }
+.name-row span   { font-size: 13px; color: var(--muted); font-weight: 300; }
+
+/* Tag row for "what we do" */
+.do-block { padding: 24px; border: 1.5px solid var(--border); border-radius: 3px; }
+.do-label { font-size: 18px; font-weight: 600; color: var(--text); margin-bottom: 10px; }
+.do-copy  { font-size: 14px; font-weight: 300; color: var(--label); line-height: 1.6; }
+
+/* Footer */
+.footer {
+  background: var(--text);
+  color: var(--white);
+  padding: 24px 48px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.footer span { font-size: 13px; opacity: 0.6; }
+
+/* Page frame label */
+.page-label {
+  background: var(--fill2);
+  border-bottom: 1px solid var(--border);
+  padding: 10px 48px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.page-label .v { font-weight: 400; opacity: 0.6; }
+
+/* Proof bar */
+.proof-bar {
+  background: var(--fill);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  padding: 32px 48px;
+  display: flex;
+  align-items: center;
+  gap: 48px;
+}
+.proof-sep { width: 1px; height: 40px; background: var(--border); flex-shrink: 0; }
+
+/* Navigation */
+.nav {
+  position: sticky;
+  top: 0;
+  background: var(--white);
+  border-bottom: 1.5px solid var(--border);
+  z-index: 100;
+  padding: 0 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60px;
+}
+.nav-logo   { font-size: 15px; font-weight: 600; color: var(--text); }
+.nav-links  { display: flex; gap: 32px; }
+.nav-link   { font-size: 14px; font-weight: 400; color: var(--label); text-decoration: none; }
+
+/* Hover note on work cards */
+.card-hover-note {
+  font-size: 11px;
+  font-style: italic;
+  color: var(--note);
+  padding: 8px 16px;
+  background: var(--fill);
+  border-top: 1px dashed var(--border2);
+}
+
+@media (max-width: 768px) {
+  .grid-2, .grid-3, .grid-4 { grid-template-columns: 1fr; }
+  .inner { padding: 48px 24px; }
+  .proof-bar { flex-direction: column; gap: 24px; }
+  .nav { padding: 0 24px; }
+  .footer { padding: 24px; }
+}
+</style>
+</head>
+<body>
+
+<!-- PAGE LABEL -->
+<div class="page-label">
+  <span>The Studio L · Homepage Wireframe</span>
+  <span class="v">v3 · Copy complete · Design TBD</span>
+</div>
+
+<!-- ════════════════════════════════════
+  NAVIGATION
+════════════════════════════════════ -->
+<div class="section">
+  <nav class="nav">
+    <div class="nav-logo">The Studio L</div>
+    <div class="nav-links">
+      <a class="nav-link" href="#">Work</a>
+      <a class="nav-link" href="#">About</a>
+      <a class="nav-link" href="#">Contact</a>
+    </div>
+  </nav>
+</div>
+
+<!-- ════════════════════════════════════
+  HERO
+════════════════════════════════════ -->
+<div class="section">
+  <div class="dir" style="margin:24px 48px 0; max-width:720px;">
+    <strong>HERO —</strong> Full viewport. Headline dominates. Background: strong still from a piece of work, or a looping silent video — visually arresting from the portfolio. Nothing stock. Nothing abstract. The image does half the positioning work.
+  </div>
+
+  <div style="margin: 0 48px 0; position:relative;">
+    <div class="placeholder" style="height:88vh; margin-bottom:0;">
+      <span style="font-size:13px;">[ PROJECT VIDEO LOOP or PORTFOLIO STILL ]</span>
+      <span style="font-size:11px; color:var(--note);">Full viewport · Autoplay · Muted · No controls</span>
+    </div>
+
+    <!-- Overlaid copy block -->
+    <div style="position:absolute; bottom:10%; left:6%; max-width:680px; background:rgba(255,255,255,0.94); padding:40px 44px; border:1.5px solid var(--border); border-radius:2px;">
+      <div class="headline xl">
+        We build digital learning that actually sticks — for business content that can't afford to be forgotten.
+      </div>
+      <p class="body-copy" style="margin-top:16px;">
+        Learning worth remembering.
+      </p>
+      <a class="cta" href="#">What are you trying to build?</a>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════
+  PROOF BAR
+════════════════════════════════════ -->
+<div class="section">
+  <div class="dir" style="margin:20px 48px 0; max-width:720px;">
+    <strong>PROOF BAR —</strong> Single row. One large number, one short line. The 150,000 should be typographically the largest number on the page. Keep the twist line with it — that's what makes it memorable, not just impressive.
+  </div>
+  <div class="proof-bar">
+    <div>
+      <div class="stat-number">150,000</div>
+      <div class="stat-line">
+        people have experienced our work.<br>
+        <span class="stat-twist">Now it's your time.</span>
+      </div>
+    </div>
+    <div class="proof-sep"></div>
+    <div style="max-width:400px;">
+      <p style="font-size:14px; font-weight:300; color:var(--label); line-height:1.7;">
+        We spent years running the studio that created learning inside Airbus, experienced by employees, suppliers, and partners across one of the most complex industrial organisations in the world. Now we work directly with you.
+      </p>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════
+  SHOWREEL
+════════════════════════════════════ -->
+<div class="section">
+  <div class="inner">
+    <div class="dir">
+      <strong>SHOWREEL —</strong> 60 to 90 seconds. Range and quality of studio output. Not a talking-head explainer. Visuals from actual projects: concept worlds, interaction moments, animated sequences, production stills. Music. No voiceover needed if the work speaks. If showreel isn't ready at launch, substitute with one strong case study project played in full.
+    </div>
+    <span class="eyebrow">The work in motion</span>
+    <div class="headline sm" style="margin-bottom:24px;">The Studio L in 90 seconds.</div>
+    <div class="placeholder" style="height:480px; width:100%;">
+      <span>[ SHOWREEL VIDEO ]</span>
+      <span style="font-size:11px; color:var(--note);">60–90s · Portfolio range · Music · No voiceover</span>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════
+  WHAT WE DO
+════════════════════════════════════ -->
+<div class="section">
+  <div class="inner">
+    <div class="dir">
+      <strong>WHAT WE DO —</strong> Three short blocks, side by side on desktop, stacked on mobile. Each: one label, one sentence. Visual for each block is a still or short loop from a project that exemplifies it. No icons. No illustrations. Actual work. The temptation will be to add explanation. Resist it — sub-pages carry the depth.
+    </div>
+    <span class="eyebrow">What we do</span>
+    <div class="grid-3" style="margin-top:8px;">
+
+      <div>
+        <div class="placeholder" style="height:200px; margin-bottom:16px;">
+          <span>[ EXTRACTION / PROCESS STILL ]</span>
+          <span style="font-size:10px; color:var(--note);">Knowledge session or storyboard moment</span>
+        </div>
+        <div class="do-label">Extract</div>
+        <div class="do-copy">We find out what your experts actually know before we decide how to teach it.</div>
+      </div>
+
+      <div>
+        <div class="placeholder" style="height:200px; margin-bottom:16px;">
+          <span>[ CONCEPT FRAME ]</span>
+          <span style="font-size:10px; color:var(--note);">The moment the creative world becomes visible</span>
+        </div>
+        <div class="do-label">Concept</div>
+        <div class="do-copy">One strong creative idea that makes the subject matter worth following.</div>
+      </div>
+
+      <div>
+        <div class="placeholder" style="height:200px; margin-bottom:16px;">
+          <span>[ PRODUCTION STILL or ANIMATION ]</span>
+          <span style="font-size:10px; color:var(--note);">Finished interaction or animated sequence</span>
+        </div>
+        <div class="do-label">Make</div>
+        <div class="do-copy">Writing, interaction, and design working together from the start.</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════
+  WHY IT WORKS
+════════════════════════════════════ -->
+<div class="section">
+  <div class="inner">
+    <div class="dir">
+      <strong>WHY IT WORKS —</strong> This is the section that converts. Two columns: left is the argument, right is a craft proof visual. Below: six outcome headlines — no subtext. Each headline should be self-explanatory to any L&D buyer. Design should feel editorial, not sales-y.
+    </div>
+
+    <div class="grid-2" style="align-items:start; gap:72px; margin-bottom:56px;">
+
+      <div>
+        <span class="eyebrow">Why it works</span>
+        <div class="headline" style="margin-bottom:20px;">
+          Organisations choose us because it looks good.<br>
+          They stay because it works.
+        </div>
+        <p class="body-copy" style="margin-bottom:20px;">
+          Beautiful design isn't decoration. It's the reason people lean in rather than click through. There's a principle in cognitive psychology called the Aesthetic Usability Effect: when something looks considered, people engage with it more, trust it more, and remember more of it.
+        </p>
+        <p class="body-copy">
+          We build learning at the intersection of craft and science. Every narrative decision, every visual hierarchy choice, every moment of interaction is there because it helps something land — not because it fills a slide.
+        </p>
+      </div>
+
+      <div>
+        <div class="placeholder" style="height:380px; width:100%;">
+          <span>[ CRAFT PROOF VISUAL ]</span>
+          <span style="font-size:10px; color:var(--note);">A strong project still showing design quality — interaction detail, animation frame, or concept world. The image makes the argument the copy sets up.</span>
+        </div>
+      </div>
+
+    </div>
+
+    <hr class="divider" />
+
+    <div class="dir">
+      <strong>OUTCOMES ROW —</strong> Six headlines only. Self-explanatory to any L&D buyer. No subtext. Two rows of three on desktop, stacked on mobile. Bold top border on first row, lighter on second.
+    </div>
+
+    <div class="grid-3" style="gap:0;">
+
+      <div style="padding:24px 24px 24px 0; border-top:2px solid var(--text);">
+        <div style="font-size:17px; font-weight:600; color:var(--text);">The SMEs give us their knowledge. We give you a finished module.</div>
+      </div>
+
+      <div style="padding:24px; border-top:2px solid var(--text);">
+        <div style="font-size:17px; font-weight:600; color:var(--text);">People complete it because they want to, not because they have to.</div>
+      </div>
+
+      <div style="padding:24px 0 24px 24px; border-top:2px solid var(--text);">
+        <div style="font-size:17px; font-weight:600; color:var(--text);">Plain language and legal accuracy are not opposites. We write both.</div>
+      </div>
+
+      <div style="padding:24px 24px 24px 0; border-top:1px solid var(--border);">
+        <div style="font-size:17px; font-weight:600; color:var(--text);">We don't disappear for six weeks and come back with something unrecognisable.</div>
+      </div>
+
+      <div style="padding:24px; border-top:1px solid var(--border);">
+        <div style="font-size:17px; font-weight:600; color:var(--text);">SCORM, xAPI, browser-based. No deployment surprises on launch day.</div>
+      </div>
+
+      <div style="padding:24px 0 24px 24px; border-top:1px solid var(--border);">
+        <div style="font-size:17px; font-weight:600; color:var(--text);">We don't sign off until a learner can remember something on Monday morning.</div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- ════════════════════════════════════
+  THE WORK
+════════════════════════════════════ -->
+<div class="section">
+  <div class="inner">
+    <div class="dir">
+      <strong>THE WORK —</strong> Three or four project cards in a grid. Image-first. On hover/tap: concept name + subject appear over the image. Click goes to full case study. Copy here is minimal — image and concept name carry it. Cards should feel like editorial thumbnails, not UI components.
+    </div>
+    <span class="eyebrow">Selected projects</span>
+
+    <div class="grid-3" style="margin-top:8px;">
+
+      <div class="card">
+        <div class="placeholder card-img">
+          <span>[ PROJECT IMAGE ]</span>
+        </div>
+        <div class="card-hover-note">↑ On hover: concept name + subject line appear over image</div>
+        <div class="card-body">
+          <div class="headline sm">[CONCEPT NAME]</div>
+          <div class="card-subject">e.g. Ecodesign for engineers</div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="placeholder card-img">
+          <span>[ PROJECT IMAGE ]</span>
+        </div>
+        <div class="card-hover-note">↑ On hover: concept name + subject line appear over image</div>
+        <div class="card-body">
+          <div class="headline sm">[CONCEPT NAME]</div>
+          <div class="card-subject">e.g. Supply chain resilience</div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="placeholder card-img">
+          <span>[ PROJECT IMAGE ]</span>
+        </div>
+        <div class="card-hover-note">↑ On hover: concept name + subject line appear over image</div>
+        <div class="card-body">
+          <div class="headline sm">[CONCEPT NAME]</div>
+          <div class="card-subject">e.g. Compliance under pressure</div>
+        </div>
+      </div>
+
+    </div>
+
+    <div style="margin-top:32px; padding-top:24px; border-top:1px solid var(--border2);">
+      <a class="cta" href="#">See all work</a>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════
+  TESTIMONIALS
+════════════════════════════════════ -->
+<div class="section" style="background:var(--bg);">
+  <div class="inner">
+    <div class="dir">
+      <strong>TESTIMONIALS —</strong> Two or three quotes. Photo of person if available. Name and title. Short quotes only — one or two sentences. If confidentiality prevents named quotes, run with project outcomes instead — a metric or result stated as a fact, no attribution needed. Placeholder until real client quotes confirmed.
+    </div>
+    <span class="eyebrow">What clients say</span>
+
+    <div class="grid-2" style="margin-top:8px;">
+
+      <div class="quote-block">
+        <div class="quote-text">
+          "[Short quote — specific and human. Not generic praise. Something that names a concrete outcome or a moment of surprise.]"
+        </div>
+        <div style="display:flex; align-items:center; gap:12px; margin-top:16px;">
+          <div class="placeholder" style="width:40px; height:40px; border-radius:50%; flex-shrink:0;">
+            <span style="font-size:9px;">PHOTO</span>
+          </div>
+          <div class="quote-attr">
+            [Name] · [Title] · [Organisation]
+          </div>
+        </div>
+      </div>
+
+      <div class="quote-block">
+        <div class="quote-text">
+          "[Short quote — specific and human. Not generic praise. Something that names a concrete outcome or a moment of surprise.]"
+        </div>
+        <div style="display:flex; align-items:center; gap:12px; margin-top:16px;">
+          <div class="placeholder" style="width:40px; height:40px; border-radius:50%; flex-shrink:0;">
+            <span style="font-size:9px;">PHOTO</span>
+          </div>
+          <div class="quote-attr">
+            [Name] · [Title] · [Organisation]
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════
+  WHO WE ARE
+════════════════════════════════════ -->
+<div class="section">
+  <div class="inner">
+    <div class="dir">
+      <strong>WHO WE ARE —</strong> Very short. Not a bio section — a one-paragraph frame followed by three names. The full story lives on the About page. Three-word descriptions for each person should be their actual function, not a job title. Honest and direct.
+    </div>
+
+    <div class="grid-2" style="align-items:start; gap:64px;">
+
+      <div>
+        <span class="eyebrow">Who we are</span>
+        <div class="headline sm" style="margin-bottom:20px;">Three people.<br>One thing we do well.</div>
+        <p class="body-copy">
+          We built learning for 150,000 people inside Airbus. We weren't a supplier — we ran the studio. Now we do it for you.
+        </p>
+        <a class="cta" href="#">About us</a>
+      </div>
+
+      <div style="padding-top:8px;">
+        <div style="display:flex; flex-direction:column; gap:20px; margin-top:16px;">
+          <div style="display:flex; align-items:center; gap:16px; padding-bottom:20px; border-bottom:1px solid var(--border2);">
+            <div class="placeholder" style="width:56px; height:56px; border-radius:50%; flex-shrink:0;">
+              <span style="font-size:9px;">PHOTO</span>
+            </div>
+            <div>
+              <div style="font-weight:600; font-size:15px; margin-bottom:2px;">[Name]</div>
+              <div style="font-size:13px; color:var(--muted); font-weight:300;">words and strategy</div>
+            </div>
+          </div>
+          <div style="display:flex; align-items:center; gap:16px; padding-bottom:20px; border-bottom:1px solid var(--border2);">
+            <div class="placeholder" style="width:56px; height:56px; border-radius:50%; flex-shrink:0;">
+              <span style="font-size:9px;">PHOTO</span>
+            </div>
+            <div>
+              <div style="font-weight:600; font-size:15px; margin-bottom:2px;">[Name]</div>
+              <div style="font-size:13px; color:var(--muted); font-weight:300;">interaction and design</div>
+            </div>
+          </div>
+          <div style="display:flex; align-items:center; gap:16px;">
+            <div class="placeholder" style="width:56px; height:56px; border-radius:50%; flex-shrink:0;">
+              <span style="font-size:9px;">PHOTO</span>
+            </div>
+            <div>
+              <div style="font-weight:600; font-size:15px; margin-bottom:2px;">[Name]</div>
+              <div style="font-size:13px; color:var(--muted); font-weight:300;">image and visual</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════
+  CONTACT
+════════════════════════════════════ -->
+<div class="section" style="background:var(--fill);">
+  <div class="inner" style="max-width:640px;">
+    <div class="dir">
+      <strong>CONTACT —</strong> One question. Simple form. Nothing else. The question is the headline — it does the work of a CTA and a brief simultaneously. Asking "what are you trying to teach?" pre-qualifies the conversation before it starts.
+    </div>
+    <div class="headline" style="margin-bottom:32px;">What are you trying to build?</div>
+    <div>
+      <input class="form-field" type="text" placeholder="Name" />
+      <input class="form-field" type="text" placeholder="Organisation" />
+      <textarea class="form-field" rows="5" placeholder="Tell us what you're working on" style="resize:vertical;"></textarea>
+      <button class="form-btn">Send →</button>
+    </div>
+    <div style="margin-top:28px; font-size:13px; color:var(--muted); font-weight:300;">
+      [email address] · Lisbon, Portugal
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════
+  FOOTER
+════════════════════════════════════ -->
+<div class="footer">
+  <div style="font-size:14px; font-weight:500;">The Studio L · Learning worth remembering</div>
+  <div style="display:flex; gap:24px; align-items:center;">
+    <span>© [Year]</span>
+    <span>LinkedIn →</span>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════
+  ANNOTATION LEGEND
+════════════════════════════════════ -->
+<div style="background:var(--fill2); border-top:2px solid var(--border); padding:32px 48px;">
+  <div style="max-width:800px;">
+    <div style="font-size:11px; font-weight:600; letter-spacing:3px; text-transform:uppercase; color:var(--muted); margin-bottom:20px;">Wireframe Legend</div>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:16px;">
+      <div style="display:flex; gap:12px; align-items:flex-start;">
+        <div style="width:32px; height:20px; background:var(--fill); border:1.5px dashed var(--fill3); border-radius:2px; flex-shrink:0; margin-top:2px;"></div>
+        <div style="font-size:13px; color:var(--label);">Dashed box = image or video placeholder. Replace with actual project asset before launch.</div>
+      </div>
+      <div style="display:flex; gap:12px; align-items:flex-start;">
+        <div style="width:32px; height:20px; background:#F9F9F9; border:1px dashed var(--border2); border-radius:2px; flex-shrink:0; margin-top:2px;"></div>
+        <div style="font-size:13px; color:var(--label);">Italic grey box = directorial note for designer/developer. Does not appear in final page.</div>
+      </div>
+      <div style="display:flex; gap:12px; align-items:flex-start;">
+        <div style="font-size:13px; font-weight:600; color:var(--text); flex-shrink:0;">[ BRACKETS ]</div>
+        <div style="font-size:13px; color:var(--label);">Content to be confirmed — agency name, founder names, client quotes, project titles.</div>
+      </div>
+      <div style="display:flex; gap:12px; align-items:flex-start;">
+        <div style="font-size:13px; color:var(--text); flex-shrink:0; font-style:italic;">"Real copy"</div>
+        <div style="font-size:13px; color:var(--label);">All non-bracketed copy is final or near-final. Do not substitute with lorem ipsum.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
