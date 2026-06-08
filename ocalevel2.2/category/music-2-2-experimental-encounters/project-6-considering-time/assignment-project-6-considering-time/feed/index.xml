@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Assignment &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 08 Jun 2026 13:29:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>Assignment 6: Case Studies</title>
+		<link>./../../../../../678-2/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2026 13:25:19 +0000</pubDate>
+				<category><![CDATA[Assignment]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 6: Considering Time]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=678</guid>
+
+					<description><![CDATA[The case study makes clear from the start that there is no standard model for collaborative practice, and it presents several distinct types. It uses Stravinsky to show how even the same artist can occupy...]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">The case study makes clear from the start that there is no standard model for collaborative practice, and it presents several distinct types. It uses Stravinsky to show how even the same artist can occupy completely different positions across different projects. For <em>The Firebird</em> in 1910, Stravinsky was the junior party: the scenario was fixed before he arrived, and he was there to write music to fit a structure someone else had already decided. Three years later, on <em>The Rite of Spring</em>, he was the dominant force and Nijinsky had to work around him. At the opposite extreme, Cage and Cunningham built an entire aesthetic philosophy around deliberate non-collaboration during creation: each made their contribution entirely independently, and the two only came together at the moment of performance. Cage&#8217;s position was that each art form should support itself without needing the other. Their method was not a failure of collaboration but they genuinely believed that music and dance did not need to serve each other. For them, forcing the two art forms to connect or align would actually diminish both.</p>
+
+
+
+<p class="wp-block-paragraph">Between these extremes sits the Bernstein-Robbins relationship, which is the case study&#8217;s main example and the most analytically useful for thinking about my own work. Using Taylor&#8217;s framework from the research task, I would describe it as interactive co-operation: there was a clear division of labour (Robbins choreographed, Bernstein composed), but each party had genuine influence over the other&#8217;s decisions at the points where their tasks intersected. Bernstein could push back. Robbins could request changes. Neither had total authority over the finished work, even if Robbins held the overall vision. The Oliver Smith dimension adds a third type: Smith, the scenic designer, was simultaneously negotiating with Robbins about what the choreography needed and with the ballet company about what they would finance. His role was closer to consultation, translating between artistic ambition and institutional reality, with decisions being made above and around him.</p>
+
+
+
+<p class="wp-block-paragraph">I recognise myself more in the Firebird situation than in any of these. I came into this project as a student with some compositional training but no experience delivering work for an institution under real constraints. John and Elena had been teaching these students for years and knew what those voices and string players could actually do.</p>
+
+
+
+<p class="wp-block-paragraph">Before this project started I wrote in an earlier log entry that my feelings about collaboration were mixed, and that I thrive on independent work. I predicted that sharing ownership and having to constantly articulate my thought process would feel energy-draining. That prediction was partly right, but not in the way I expected. The part that drained energy was the waiting. Long gaps between emails, decisions that could not be made without institutional sign-off, a performance slot that was possible but not confirmed. The independence I ended up with was not the kind I wanted. I was working alone because communication had slowed, not because I had designed it that way.</p>
+
+
+
+<p class="wp-block-paragraph">This connects to what I found most striking in the Bernstein-Robbins story: the volume of their correspondence. Because both were touring, almost everything happened through letters. Bernstein sent music scene by scene, explained his decisions, and waited for a response. Robbins wrote back with requests or objections. It was slow, but it was continuous. My communication with CAISL has gaps of weeks where I was either waiting or generating material without the back-and-forth that makes iteration meaningful. Bernstein did not send the full score at once and wait for approval. </p>
+
+
+
+<p class="wp-block-paragraph">One thing the case study illuminates that I had not thought about clearly is the role of practical constraints as creative material. Robbins built the characters in&nbsp;<em>Fancy Free</em>&nbsp;around the specific dancers he knew he would have. A character written as a femme fatale in an early draft became more naive once casting was confirmed. The performers&#8217; capabilities shaped the work from inside. I experienced this when Elena told me the 5th grade string students could only play A, B, C#, D, E, F#, and G, forcing me to transpose Part 3 from C minor to B minor. The constraint changed the music. And when she returned after the first reading to say Part 1 had worked but Part 2 would need simplification, that was the same principle: real information about real people making a real piece.</p>
+
+
+
+<p class="wp-block-paragraph">The social dimension of <em>Fancy Free</em> is something the case study handles well and that I initially underestimated in my own work. Robbins built the scenario from direct observation: he noticed that sailors in wartime New York tended to move in threes, and so there are three sailors in the ballet. The social observation preceded and shaped the artistic decision.</p>
+
+
+
+<p class="wp-block-paragraph">My piece has a similar foundation, though I reached it through concept rather than observation. The bridges metaphor is historically specific enough to resist being decorative: the school&#8217;s founding was tied to the construction of the Ponte 25 de Abril, and that origin gives the whole structure something real to stand on. But the most socially acute contribution anyone made to the project came from John and Elena, when they proposed the bilingual narration. They understood what it means for a room full of students from different language backgrounds to hear their two languages treated as equal in a single sentence. I had not fully thought that through, and the piece is better because they did.</p>
+
+
+
+<p class="wp-block-paragraph">What I expected from this collaboration was something closer to the Bernstein-Robbins dynamic: a scenario handed to me and a clear brief to respond to musically. What happened was that I wrote the concept, the structure, the narration, the drama, and the music. Part of this was my own instinct toward independent work reasserting itself under pressure. When responses were slow, I filled the gaps with production rather than waiting. </p>
+
+
+
+<p class="wp-block-paragraph">The question the case study makes me think about is whether the Robbins role is compatible with being a student. Robbins had institutional backing, a budget, collaborators with defined contracts, and recognised authority over the project. I am a student with a copywriting background who had never done such a project before. The ambiguity about my actual standing in the collaboration is where most of the difficulties came from, and the case study suggests that resolving that kind of ambiguity early, which Robbins and Bernstein did by defining their respective domains before work began, is not bureaucratic but creative. Clear roles made productive disagreement possible.</p>
+
+
+
+<p class="wp-block-paragraph">What redeemed the final weeks was António Andrade, the drama teacher, who came in late but looked at the script carefully enough to catch a syntactic distinction in the bilingual section I had not considered. He proposed changing &#8220;We are the bridges / Nós construímos&#8221; to &#8220;We are the bridges / Que construímos,&#8221; on the grounds that the first version produces two distinct statements while the second links them into one sentence expressed across two languages. He was right, and he had the Portuguese language and literature training to say precisely why. That is the closest the project came to the Bernstein dynamic: someone with genuine expertise in a specific domain pushing back on a specific choice, with a reason, from a position of real engagement. It arrived late. But it arrived, and it changed something. And it came from someone whose role had never been clearly defined at the start, which is itself something to carry forward.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

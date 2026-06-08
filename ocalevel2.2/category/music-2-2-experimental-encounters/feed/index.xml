@@ -12,14 +12,197 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Thu, 12 Mar 2026 21:52:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jun 2026 13:29:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9.4</generator>
+	<generator>https://wordpress.org/?v=7.0</generator>
 	<item>
+		<title>Assignment 6: Case Studies</title>
+		<link>./../../../678-2/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2026 13:25:19 +0000</pubDate>
+				<category><![CDATA[Assignment]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 6: Considering Time]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=678</guid>
+
+					<description><![CDATA[The case study makes clear from the start that there is no standard model for collaborative practice, and it presents several distinct types. It uses Stravinsky to show how even the same artist can occupy...]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">The case study makes clear from the start that there is no standard model for collaborative practice, and it presents several distinct types. It uses Stravinsky to show how even the same artist can occupy completely different positions across different projects. For <em>The Firebird</em> in 1910, Stravinsky was the junior party: the scenario was fixed before he arrived, and he was there to write music to fit a structure someone else had already decided. Three years later, on <em>The Rite of Spring</em>, he was the dominant force and Nijinsky had to work around him. At the opposite extreme, Cage and Cunningham built an entire aesthetic philosophy around deliberate non-collaboration during creation: each made their contribution entirely independently, and the two only came together at the moment of performance. Cage&#8217;s position was that each art form should support itself without needing the other. Their method was not a failure of collaboration but they genuinely believed that music and dance did not need to serve each other. For them, forcing the two art forms to connect or align would actually diminish both.</p>
+
+
+
+<p class="wp-block-paragraph">Between these extremes sits the Bernstein-Robbins relationship, which is the case study&#8217;s main example and the most analytically useful for thinking about my own work. Using Taylor&#8217;s framework from the research task, I would describe it as interactive co-operation: there was a clear division of labour (Robbins choreographed, Bernstein composed), but each party had genuine influence over the other&#8217;s decisions at the points where their tasks intersected. Bernstein could push back. Robbins could request changes. Neither had total authority over the finished work, even if Robbins held the overall vision. The Oliver Smith dimension adds a third type: Smith, the scenic designer, was simultaneously negotiating with Robbins about what the choreography needed and with the ballet company about what they would finance. His role was closer to consultation, translating between artistic ambition and institutional reality, with decisions being made above and around him.</p>
+
+
+
+<p class="wp-block-paragraph">I recognise myself more in the Firebird situation than in any of these. I came into this project as a student with some compositional training but no experience delivering work for an institution under real constraints. John and Elena had been teaching these students for years and knew what those voices and string players could actually do.</p>
+
+
+
+<p class="wp-block-paragraph">Before this project started I wrote in an earlier log entry that my feelings about collaboration were mixed, and that I thrive on independent work. I predicted that sharing ownership and having to constantly articulate my thought process would feel energy-draining. That prediction was partly right, but not in the way I expected. The part that drained energy was the waiting. Long gaps between emails, decisions that could not be made without institutional sign-off, a performance slot that was possible but not confirmed. The independence I ended up with was not the kind I wanted. I was working alone because communication had slowed, not because I had designed it that way.</p>
+
+
+
+<p class="wp-block-paragraph">This connects to what I found most striking in the Bernstein-Robbins story: the volume of their correspondence. Because both were touring, almost everything happened through letters. Bernstein sent music scene by scene, explained his decisions, and waited for a response. Robbins wrote back with requests or objections. It was slow, but it was continuous. My communication with CAISL has gaps of weeks where I was either waiting or generating material without the back-and-forth that makes iteration meaningful. Bernstein did not send the full score at once and wait for approval. </p>
+
+
+
+<p class="wp-block-paragraph">One thing the case study illuminates that I had not thought about clearly is the role of practical constraints as creative material. Robbins built the characters in&nbsp;<em>Fancy Free</em>&nbsp;around the specific dancers he knew he would have. A character written as a femme fatale in an early draft became more naive once casting was confirmed. The performers&#8217; capabilities shaped the work from inside. I experienced this when Elena told me the 5th grade string students could only play A, B, C#, D, E, F#, and G, forcing me to transpose Part 3 from C minor to B minor. The constraint changed the music. And when she returned after the first reading to say Part 1 had worked but Part 2 would need simplification, that was the same principle: real information about real people making a real piece.</p>
+
+
+
+<p class="wp-block-paragraph">The social dimension of <em>Fancy Free</em> is something the case study handles well and that I initially underestimated in my own work. Robbins built the scenario from direct observation: he noticed that sailors in wartime New York tended to move in threes, and so there are three sailors in the ballet. The social observation preceded and shaped the artistic decision.</p>
+
+
+
+<p class="wp-block-paragraph">My piece has a similar foundation, though I reached it through concept rather than observation. The bridges metaphor is historically specific enough to resist being decorative: the school&#8217;s founding was tied to the construction of the Ponte 25 de Abril, and that origin gives the whole structure something real to stand on. But the most socially acute contribution anyone made to the project came from John and Elena, when they proposed the bilingual narration. They understood what it means for a room full of students from different language backgrounds to hear their two languages treated as equal in a single sentence. I had not fully thought that through, and the piece is better because they did.</p>
+
+
+
+<p class="wp-block-paragraph">What I expected from this collaboration was something closer to the Bernstein-Robbins dynamic: a scenario handed to me and a clear brief to respond to musically. What happened was that I wrote the concept, the structure, the narration, the drama, and the music. Part of this was my own instinct toward independent work reasserting itself under pressure. When responses were slow, I filled the gaps with production rather than waiting. </p>
+
+
+
+<p class="wp-block-paragraph">The question the case study makes me think about is whether the Robbins role is compatible with being a student. Robbins had institutional backing, a budget, collaborators with defined contracts, and recognised authority over the project. I am a student with a copywriting background who had never done such a project before. The ambiguity about my actual standing in the collaboration is where most of the difficulties came from, and the case study suggests that resolving that kind of ambiguity early, which Robbins and Bernstein did by defining their respective domains before work began, is not bureaucratic but creative. Clear roles made productive disagreement possible.</p>
+
+
+
+<p class="wp-block-paragraph">What redeemed the final weeks was António Andrade, the drama teacher, who came in late but looked at the script carefully enough to catch a syntactic distinction in the bilingual section I had not considered. He proposed changing &#8220;We are the bridges / Nós construímos&#8221; to &#8220;We are the bridges / Que construímos,&#8221; on the grounds that the first version produces two distinct statements while the second links them into one sentence expressed across two languages. He was right, and he had the Portuguese language and literature training to say precisely why. That is the closest the project came to the Bernstein dynamic: someone with genuine expertise in a specific domain pushing back on a specific choice, with a reason, from a position of real engagement. It arrived late. But it arrived, and it changed something. And it came from someone whose role had never been clearly defined at the start, which is itself something to carry forward.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Research Task 1: Collaboration in Contemporary Music</title>
+		<link>./../../../research-task-1-collaboration-in-contemporary-music/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Mon, 01 Jun 2026 09:28:02 +0000</pubDate>
+				<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 6: Considering Time]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=675</guid>
+
+					<description><![CDATA[Taylor&#8217;s paper argues that &#8220;collaboration&#8221; is used so loosely in discussions of shared artistic work that it ends up describing almost nothing precisely. He draws a useful distinction between dialogic creation and the specific, different...]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Taylor&#8217;s paper argues that &#8220;collaboration&#8221; is used so loosely in discussions of shared artistic work that it ends up describing almost nothing precisely. He draws a useful distinction between dialogic creation and the specific, different thing that happens when people are actually present together, making decisions together. From that distinction he builds a typology of four working relationships: collaboration proper (shared imagination, shared decision-making), two forms of co-operation (divided tasks but mutual influence, either within a pre-agreed framework or interactively), and consultation (one party generates ideas, the other decides). He adds that the closer the language of communication is to the language of the art form itself, the more likely genuine collaboration becomes, which is why jazz musicians can collaborate in ways that composers writing notation generally cannot.</p>
+
+
+
+<p class="wp-block-paragraph">Reading this against my experience with the CAISL piece was uncomfortable in a clarifying way. I had been calling this a collaboration, and I do not think it was, not in Taylor&#8217;s sense. The bridges concept, the three-part structure, the musical arc, the full script: I generated all of it and sent it for approval. What came back was enthusiasm, content suggestions, and domain expertise. That maps cleanly onto Taylor&#8217;s consultative type, with moments of interactive co-operation when Elena revised the string parts or told me which notes the students could actually play. Those moments changed the music. But they did not change who was imagining the piece.</p>
+
+
+
+<p class="wp-block-paragraph">What strikes me most is that I am not sure the collaboration could have been anything other than consultative, given the conditions. But the deeper issue is institutional. I was engaged as the composer. That role carries assumptions that no amount of goodwill entirely dissolves. What I take from Taylor is not that I should have done this differently, but that I should have been honest about the shape of it from the start, rather than using the word collaboration as a placeholder for something I hoped might develop. Naming the relationship accurately is not a demotion of what John and Elena contributed. It is a more respectful account of what each of us actually did.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Exercise 2: Work Sharing</title>
+		<link>./../../../exercise-2-work-sharing/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Fri, 29 May 2026 09:12:26 +0000</pubDate>
+				<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 6: Considering Time]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=670</guid>
+
+					<description><![CDATA[The piece was conceived for live performance, in CAISL&#8217;s main performance space, as part of the 70th anniversary programme. That framing still holds as the intended form, but as of writing this, the live performance...]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">The piece was conceived for live performance, in CAISL&#8217;s main performance space, as part of the 70th anniversary programme. That framing still holds as the intended form, but as of writing this, the live performance is uncertain. Responses from my collaborators have slowed considerably, and the logistical decision (confirmation from the elementary division head, integration of the drama teacher, scheduling) has not fully materialised. I have chosen to continue working regardless, because the piece is worth finishing on its own terms. But this uncertainty has forced me to think differently about what &#8220;sharing the work&#8221; means.</p>
+
+
+
+<p class="wp-block-paragraph">If the work is ultimately shared only as a score, a set of demos, and a document, it becomes something closer to time-based work in the way a film is time-based: experienced through playback, imagined by a listener rather than witnessed in a space. That is a legitimate outcome, but a different one. The audience encounter I was designing, parents in a room with children performing, becomes hypothetical. I am now writing for an imagined occasion rather than a confirmed one, which changes the energy of the compositional decisions in ways I am still working through.</p>
+
+
+
+<p class="wp-block-paragraph">The beginning has been the most resolved part of the piece from early on, and remains so. The bass and piano opening (a motif that came from my daughter Sofia, who first thought it sounded &#8220;scary&#8221; and then changed her mind when I added the major piano chords) sets the tone in a way that feels right: something emerging slowly, not announced. The narration enters over this establishing the founding year.</p>
+
+
+
+<p class="wp-block-paragraph">The transitions between sections were a source of productive disagreement with myself. The move from past to present involves a shift from rhythmic, percussive texture to something more melodic and anthem-like. I have been treating it as a slow handover rather than a cut: the strings carry the energy forward while the percussion recedes. The move from present to future is still the hardest. I want it to feel like an opening, not a conclusion, but the modular structure of Part 3 (several 4-bar loops that can be layered and removed by the conductor) makes the transition compositionally tricky. A modular section needs a clear entry point</p>
+
+
+
+<p class="wp-block-paragraph">John&#8217;s (choir teacher) contributions in March were mostly about content: historical texts about the Ponte 25 de Abril, the school&#8217;s community initiatives, the bilingual dimension. Elena&#8217;s (orchestra teacher) contributions have been technical: what the string students can actually play, which notes are accessible, how to revise the arrangement to fit the players. António (drama teacher) has not yet been formally involved. I have been designing the audience encounter largely alone, working from a sense of who will be in that room if a room ever materialises.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Exercise 1: Exploring Time-based Work</title>
+		<link>./../../../exercise-1-exploring-time-based-work/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Tue, 26 May 2026 09:15:41 +0000</pubDate>
+				<category><![CDATA[Coursework]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 6: Considering Time]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=672</guid>
+
+					<description><![CDATA[Two pieces came to mind. The first was Britten&#8217;s Noye&#8217;s Fludde, because of how directly it maps onto what I am trying to do at CAISL. It is a community opera for children and amateur performers,...]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Two pieces came to mind. The first was Britten&#8217;s <em>Noye&#8217;s Fludde</em>, because of how directly it maps onto what I am trying to do at CAISL. It is a community opera for children and amateur performers, with professional musicians just sining some parts, built around a single narrative that everyone already knows. What struck me is how Britten uses the congregation hymn <em>Eternal Father, Strong to Save</em> as a structural anchor: the audience sings it, which collapses the distance between watching and participating. The piece exists in time, obviously, but it also exists in a kind of social time, the experience of a community doing something together, publicly, which cannot be repeated in exactly the same form. The staging, the costumes, the spoken word, the music: none of these could be extracted and remain meaningful on their own.</p>
+
+
+
+<p class="wp-block-paragraph">The second piece I spent time with was Christian Marclay&#8217;s <em>The Clock</em> (2010), a 24-hour video montage assembled from thousands of film and television clips, each featuring a visible clock or timepiece, synchronised with real time so that the time shown on screen is always the actual time. The piece was shown at the Berardo Collection in Lisbon in 2015, which I was lucky to see at the time. What makes it remarkable as a time-based work is that it refuses any conventional audience relationship. You can walk in at any moment, and the piece will have already been going for hours. You can leave before it ends. There is no beginning you are expected to have witnessed and no ending you are expected to wait for. Marclay described it as a memento mori, and I think that is accurate: the longer you watch, the more aware you become of the time you are spending watching it, which is also the time of your life. The audience&#8217;s consciousness of duration becomes part of the work itself.</p>
+
+
+
+<p class="wp-block-paragraph">Thinking about these two pieces clarified something I had been feeling but not quite articulating. <em>Noye&#8217;s Fludde</em> works because the audience&#8217;s role is defined in advance: they know when they are watching and when they are joining in, and the transition between those states is part of the piece. <em>The Clock</em> works on an entirely different principle: the audience is never anchored to a collective starting point, and the experience varies completely depending on when you arrive. What I have not yet decided, for the CAISL piece, is where our audience sits on that spectrum. Given that the audience will be largely parents and teachers of the children performing, there is a pull toward the congregational model: they will want to feel included in something, not observed from the outside.</p>
+
+
+
+<p class="wp-block-paragraph">I should be honest about one thing <em>Noye&#8217;s Fludde</em> also makes me feel: envy at the institutional conditions that made it possible. Britten had a community that was fully mobilised and present. The CAISL piece may end up without a live performance at all. The more I think about Britten&#8217;s piece as a model, the more I notice that what I am actually making may be something quite different: a score, a set of intentions, a proposal for something that might one day happen.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listening to Alanis Morissette – You Oughta Know</title>
+		<link>./../../../listening-to-alanis-morissette-you-oughta-know/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Sun, 22 Mar 2026 21:46:26 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 5: Progressing With Your Collaboration]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=667</guid>
+
+					<description><![CDATA[I have been listening to this song for thirty years. I knew it was raw. I knew it was angry. But I never stopped to look at who played on it until recently, and that...]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">I have been listening to this song for thirty years. I knew it was raw. I knew it was angry. But I never stopped to look at who played on it until recently, and that changed everything about how I hear it.</p>
+
+
+
+<p class="wp-block-paragraph">The lyrics are almost confrontational in their specificity. There is no attempt to disguise the target, no softening for the listener&#8217;s comfort. That directness is what made the song feel so real in 1995 and still makes it feel real now. You believe her completely. Whether it is autobiographical or not almost doesn&#8217;t matter, because it sounds like it costs her something to sing it.</p>
+
+
+
+<p class="wp-block-paragraph">But this time I was listening differently, because I had just discovered that the bass and guitar were recorded by Flea and Dave Navarro. Two musicians I love, playing on a song I already loved, and I had no idea. Flea&#8217;s bass is the thing that gives the track its body. It moves constantly, it has that low-end urgency. And Navarro&#8217;s guitar sits underneath everything, restrained, almost uncomfortable, which is exactly right for the song.</p>
+
+
+
+<p class="wp-block-paragraph">What it made me think about was how much a player&#8217;s identity can come through even when they are in service of someone else&#8217;s work. I didn&#8217;t know it was Flea. But I felt something in that bass that I couldn&#8217;t name. It turns out it was just him, being himself.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Assignment 4: Case Studies</title>
 		<link>./../../../assignment-4-case-studies/index.html</link>
 		
@@ -32,55 +215,55 @@
 
 					<description><![CDATA[Reading this case study felt personal. Many of the questions the Nautilus team faced were questions I was asking myself at the same time I creating my collaborative project: Who is really the author here? What...]]></description>
 										<content:encoded><![CDATA[
-<p>Reading this case study felt personal. Many of the questions the <em>Nautilus</em> team faced were questions I was asking myself at the same time I creating my collaborative project: Who is really the author here? What happens when a composer gives up some control? And how do you make something collaborative without losing the artistic vision?</p>
+<p class="wp-block-paragraph">Reading this case study felt personal. Many of the questions the <em>Nautilus</em> team faced were questions I was asking myself at the same time I creating my collaborative project: Who is really the author here? What happens when a composer gives up some control? And how do you make something collaborative without losing the artistic vision?</p>
 
 
 
-<p>I will also be honest: I felt a degree of envy reading it. Technology is something I love, and the idea of mixing music with a game engine, machine learning, and generative AI is exactly the kind of experiment I would want to do. <em>Nautilus</em> exists at the intersection of things I find compelling, and reading it made me think about how I might bring that kind of approach into my own work in the future.</p>
+<p class="wp-block-paragraph">I will also be honest: I felt a degree of envy reading it. Technology is something I love, and the idea of mixing music with a game engine, machine learning, and generative AI is exactly the kind of experiment I would want to do. <em>Nautilus</em> exists at the intersection of things I find compelling, and reading it made me think about how I might bring that kind of approach into my own work in the future.</p>
 
 
 
-<p>On the surface, <em>Nautilus</em> looks like a piece for solo bass flute. But the article quickly shows that this description is too simple. This is not the usual model where a composer writes everything and a performer simply plays it. In <em>Nautilus</em>, every person and the technology, were making creative decisions throughout the process.</p>
+<p class="wp-block-paragraph">On the surface, <em>Nautilus</em> looks like a piece for solo bass flute. But the article quickly shows that this description is too simple. This is not the usual model where a composer writes everything and a performer simply plays it. In <em>Nautilus</em>, every person and the technology, were making creative decisions throughout the process.</p>
 
 
 
-<p>This connects to what Sawyer and DeZutter (2009) call distributed creativity: a phenomenon where a creative product emerges collectively from a group&#8217;s collaboration, rather than being determined by the intentions or mind of any single participant. <em>Nautilus</em> is an example of this. Vear himself admits that his role felt less like a traditional composer and more like a &#8220;creative director&#8221;, as someone guiding a shared vision rather than controlling every detail. </p>
+<p class="wp-block-paragraph">This connects to what Sawyer and DeZutter (2009) call distributed creativity: a phenomenon where a creative product emerges collectively from a group&#8217;s collaboration, rather than being determined by the intentions or mind of any single participant. <em>Nautilus</em> is an example of this. Vear himself admits that his role felt less like a traditional composer and more like a &#8220;creative director&#8221;, as someone guiding a shared vision rather than controlling every detail. </p>
 
 
 
-<p>I also connected with this personally. Before studying music, I worked as a Creative Director, and that role is exactly about orientation: shaping a vision, making decisions about direction, and trusting others to bring it to life. Vear&#8217;s description of his role in <em>Nautilus</em> felt familiar. It also made me think about where composition is heading more broadly. With generative AI now capable of producing music, the role of the composer may increasingly become a directive one. It may go into the direction of less about writing every note and more about setting intention, curating decisions, and giving creative shape to what tools and collaborators produce. </p>
+<p class="wp-block-paragraph">I also connected with this personally. Before studying music, I worked as a Creative Director, and that role is exactly about orientation: shaping a vision, making decisions about direction, and trusting others to bring it to life. Vear&#8217;s description of his role in <em>Nautilus</em> felt familiar. It also made me think about where composition is heading more broadly. With generative AI now capable of producing music, the role of the composer may increasingly become a directive one. It may go into the direction of less about writing every note and more about setting intention, curating decisions, and giving creative shape to what tools and collaborators produce. </p>
 
 
 
-<p>One of the biggest challenges in <em>Nautilus</em> was combining very different artistic and technical worlds: classical music, visual game design, artificial intelligence, and generative sound. The authors describe this honestly, warning against what they call a &#8220;Frankenstein score&#8221;.  To avoid this, the team used what is called a transdisciplinary approach. This means going beyond simply using ideas from different fields and instead finding new principles that only emerge when those fields truly work together. </p>
+<p class="wp-block-paragraph">One of the biggest challenges in <em>Nautilus</em> was combining very different artistic and technical worlds: classical music, visual game design, artificial intelligence, and generative sound. The authors describe this honestly, warning against what they call a &#8220;Frankenstein score&#8221;.  To avoid this, the team used what is called a transdisciplinary approach. This means going beyond simply using ideas from different fields and instead finding new principles that only emerge when those fields truly work together. </p>
 
 
 
-<p>This challenge feels real to me. My own project brings together music, Portuguese history, drama, and the physical limitations of ten and eleven-year-old beginners who have only learned a few notes on their instruments. If I am not careful, the result could be a piece that is historically interesting but musically weak, or technically manageable but emotionally empty. <em>Nautilus</em> taught me that transdisciplinary work requires continuous conversation between all the people involved.</p>
+<p class="wp-block-paragraph">This challenge feels real to me. My own project brings together music, Portuguese history, drama, and the physical limitations of ten and eleven-year-old beginners who have only learned a few notes on their instruments. If I am not careful, the result could be a piece that is historically interesting but musically weak, or technically manageable but emotionally empty. <em>Nautilus</em> taught me that transdisciplinary work requires continuous conversation between all the people involved.</p>
 
 
 
-<p>A central idea in the article is Christopher Small&#8217;s concept of musicking. This was new to me, and I found it one of the most interesting ideas in the article. Small argues that music is not a thing but an activity. Musicking means taking part in music in any way: playing, listening, composing, even helping to set up the chairs in a concert hall. The meaning of music, Small says, lives in the relationships between all the people involved, not only in the notes on a page.</p>
+<p class="wp-block-paragraph">A central idea in the article is Christopher Small&#8217;s concept of musicking. This was new to me, and I found it one of the most interesting ideas in the article. Small argues that music is not a thing but an activity. Musicking means taking part in music in any way: playing, listening, composing, even helping to set up the chairs in a concert hall. The meaning of music, Small says, lives in the relationships between all the people involved, not only in the notes on a page.</p>
 
 
 
-<p>The&nbsp;<em>Nautilus</em>&nbsp;team uses this idea to argue that the score is not just the notation on screen. It includes the Unity visual environment, the AI-generated sound, the physical presence of the performer, and everything these elements create together in the moment of performance. The score is alive.</p>
+<p class="wp-block-paragraph">The&nbsp;<em>Nautilus</em>&nbsp;team uses this idea to argue that the score is not just the notation on screen. It includes the Unity visual environment, the AI-generated sound, the physical presence of the performer, and everything these elements create together in the moment of performance. The score is alive.</p>
 
 
 
-<p>This made me think about my fifth-grade students. During one of our first planning conversations, my collaborator John suggested that the students could influence the composition, for example, telling me when something is too difficult to play or sing, or when a melody feels wrong. At the time I thought of this as practical feedback. After reading <em>Nautilus</em>, I see it differently. When a child suggests that a note should go up instead of down, they are musicking. They are participating in the meaning-making. The challenge for me is to design the project so that this participation is real and valued, not just a gesture.</p>
+<p class="wp-block-paragraph">This made me think about my fifth-grade students. During one of our first planning conversations, my collaborator John suggested that the students could influence the composition, for example, telling me when something is too difficult to play or sing, or when a melody feels wrong. At the time I thought of this as practical feedback. After reading <em>Nautilus</em>, I see it differently. When a child suggests that a note should go up instead of down, they are musicking. They are participating in the meaning-making. The challenge for me is to design the project so that this participation is real and valued, not just a gesture.</p>
 
 
 
-<p>The article is honest about the project&#8217;s limitations. The neural network was trained using jazz music transcriptions, which did not match Carla&#8217;s personal musical style or the natural sound of the bass flute. As a result, she sometimes felt what researchers call &#8220;stylistic entrapment&#8221;. This is an important lesson: technology is not neutral. Every tool carries assumptions and preferences, and if those do not fit the people using them, the collaboration suffers.</p>
+<p class="wp-block-paragraph">The article is honest about the project&#8217;s limitations. The neural network was trained using jazz music transcriptions, which did not match Carla&#8217;s personal musical style or the natural sound of the bass flute. As a result, she sometimes felt what researchers call &#8220;stylistic entrapment&#8221;. This is an important lesson: technology is not neutral. Every tool carries assumptions and preferences, and if those do not fit the people using them, the collaboration suffers.</p>
 
 
 
-<p>I also noticed that the article says very little about the audience&#8217;s experience of the final performance. The reflections at the end focus almost entirely on the composer, the programmer and the performer. But if we take Small&#8217;s concept of musicking seriously, the audience is musicking too. They are participants in the relationships that give the work its meaning. For my project, the audience (the entire elementary school community) is not a secondary detail. They are part of the piece. Understanding how they receive the work can be just as important as understanding how the team created it. This is something I want to be more deliberate about in my own process.</p>
+<p class="wp-block-paragraph">I also noticed that the article says very little about the audience&#8217;s experience of the final performance. The reflections at the end focus almost entirely on the composer, the programmer and the performer. But if we take Small&#8217;s concept of musicking seriously, the audience is musicking too. They are participants in the relationships that give the work its meaning. For my project, the audience (the entire elementary school community) is not a secondary detail. They are part of the piece. Understanding how they receive the work can be just as important as understanding how the team created it. This is something I want to be more deliberate about in my own process.</p>
 
 
 
-<p>I am still at the beginning of my own version of this process. I do not yet know what will surprise me, or what my collaborators will bring that I cannot yet see. But reading&nbsp;<em>Nautilus</em>, I feel more ready for that uncertainty. I am less focused on controlling the outcome and more curious about what we will discover together. For me, that is the shift this case study has produced.</p>
+<p class="wp-block-paragraph">I am still at the beginning of my own version of this process. I do not yet know what will surprise me, or what my collaborators will bring that I cannot yet see. But reading&nbsp;<em>Nautilus</em>, I feel more ready for that uncertainty. I am less focused on controlling the outcome and more curious about what we will discover together. For me, that is the shift this case study has produced.</p>
 
 
 
@@ -88,7 +271,7 @@
 
 
 
-<p>Sawyer, R.K. and DeZutter, S. (2009) &#8216;Distributed Creativity: How Collective Creations Emerge from Collaboration&#8217;,&nbsp;<em>Psychology of Aesthetics, Creativity, and the Arts</em>, 3(2), pp. 81–92.</p>
+<p class="wp-block-paragraph">Sawyer, R.K. and DeZutter, S. (2009) &#8216;Distributed Creativity: How Collective Creations Emerge from Collaboration&#8217;,&nbsp;<em>Psychology of Aesthetics, Creativity, and the Arts</em>, 3(2), pp. 81–92.</p>
 ]]></content:encoded>
 					
 		
@@ -107,27 +290,27 @@
 
 					<description><![CDATA[I was researching early Debussy, trying to understand how he got from where he started to where he ended up, and this piece appeared. The opening is slow and loose, almost like the pianist is...]]></description>
 										<content:encoded><![CDATA[
-<p>I was researching early Debussy, trying to understand how he got from where he started to where he ended up, and this piece appeared. </p>
+<p class="wp-block-paragraph">I was researching early Debussy, trying to understand how he got from where he started to where he ended up, and this piece appeared. </p>
 
 
 
-<p>The opening is slow and loose, almost like the pianist is still deciding what to play. There&#8217;s no dramatic entry. It just begins, gently, and I found myself relaxing without noticing. The melody drifts more than it moves forward, and somehow that&#8217;s enough to hold my attention.</p>
+<p class="wp-block-paragraph">The opening is slow and loose, almost like the pianist is still deciding what to play. There&#8217;s no dramatic entry. It just begins, gently, and I found myself relaxing without noticing. The melody drifts more than it moves forward, and somehow that&#8217;s enough to hold my attention.</p>
 
 
 
-<p>What I wasn&#8217;t prepared for was the middle section. Something shifts. The texture thickens, the dynamic rises, and the piece feels urgent. It surprised me. And then it passes. The calm returns, the melody comes back, and the piece closes as gently as it opened.</p>
+<p class="wp-block-paragraph">What I wasn&#8217;t prepared for was the middle section. Something shifts. The texture thickens, the dynamic rises, and the piece feels urgent. It surprised me. And then it passes. The calm returns, the melody comes back, and the piece closes as gently as it opened.</p>
 
 
 
-<p>By the end I felt like I&#8217;d been let in on something private. Not a grand statement. Just a mood, carefully held.</p>
+<p class="wp-block-paragraph">By the end I felt like I&#8217;d been let in on something private. Not a grand statement. Just a mood, carefully held.</p>
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 ]]></content:encoded>
 					
 		
@@ -146,19 +329,19 @@
 
 					<description><![CDATA[Analysing this piece provides a good contrast to the contemporary works I&#8217;ve examined. Performed by the O. Koshetz Choir, this a cappella choral piece demonstrates how the human voice alone can create a complex narrative structure...]]></description>
 										<content:encoded><![CDATA[
-<p>Analysing this piece provides a good contrast to the contemporary works I&#8217;ve examined. Performed by the O. Koshetz Choir, this a cappella choral piece demonstrates how the human voice alone can create a complex narrative structure and emotional arc.</p>
+<p class="wp-block-paragraph">Analysing this piece provides a good contrast to the contemporary works I&#8217;ve examined. Performed by the O. Koshetz Choir, this a cappella choral piece demonstrates how the human voice alone can create a complex narrative structure and emotional arc.</p>
 
 
 
-<p>The piece starts with a simple, rhythmic motive that mimics the sound of a piper&#8217;s pipe. This motive acts as a leitmotif, recurring throughout to maintain the connection to the titular character. The build-up is achieved through increasing rhythmic complexity and a broadening of the choral harmony, moving from a transparent, light texture to a much denser, more resonant one.</p>
+<p class="wp-block-paragraph">The piece starts with a simple, rhythmic motive that mimics the sound of a piper&#8217;s pipe. This motive acts as a leitmotif, recurring throughout to maintain the connection to the titular character. The build-up is achieved through increasing rhythmic complexity and a broadening of the choral harmony, moving from a transparent, light texture to a much denser, more resonant one.</p>
 
 
 
-<p>The piece feels like a celebration of folk life, yet it&#8217;s also grounded in intensity. The timbre of the choir shifts from playful and light in the initial verses to a powerful resonance in the climactic sections. The way the different vocal lines intertwine feels like a &#8220;reflective mosaic&#8221; of people coming together, each adding their own color to the collective whole.</p>
+<p class="wp-block-paragraph">The piece feels like a celebration of folk life, yet it&#8217;s also grounded in intensity. The timbre of the choir shifts from playful and light in the initial verses to a powerful resonance in the climactic sections. The way the different vocal lines intertwine feels like a &#8220;reflective mosaic&#8221; of people coming together, each adding their own color to the collective whole.</p>
 
 
 
-<p>It reminds me that even without external instruments or a dedicated narrator, the human voice can convey a powerful sense of story and emotion. This has given me much to think about in terms of how I might use choral elements or even just layered vocal textures in my own project.</p>
+<p class="wp-block-paragraph">It reminds me that even without external instruments or a dedicated narrator, the human voice can convey a powerful sense of story and emotion. This has given me much to think about in terms of how I might use choral elements or even just layered vocal textures in my own project.</p>
 ]]></content:encoded>
 					
 		
@@ -177,7 +360,7 @@
 
 					<description><![CDATA[The following plan was drawn up in discussion between Pedro, Elena and John. It sets out the methods we will use, who is responsible, and how material will be shared across the team. What Method...]]></description>
 										<content:encoded><![CDATA[
-<p>The following plan was drawn up in discussion between Pedro, Elena and John. It sets out the methods we will use, who is responsible, and how material will be shared across the team.</p>
+<p class="wp-block-paragraph">The following plan was drawn up in discussion between Pedro, Elena and John. It sets out the methods we will use, who is responsible, and how material will be shared across the team.</p>
 
 
 
@@ -204,15 +387,15 @@
 
 
 
-<p>This phase covers everything from the first planning meeting through to the final rehearsals. The core question is: how do we capture a process that is spread across three people, multiple school departments, and a group of 60 ten-year-old students?</p>
+<p class="wp-block-paragraph">This phase covers everything from the first planning meeting through to the final rehearsals. The core question is: how do we capture a process that is spread across three people, multiple school departments, and a group of 60 ten-year-old students?</p>
 
 
 
-<p><strong>Pedro&#8217;s learning journal</strong>&nbsp;will be the primary record. After each collaborative meeting, class visit, or composition session, I will write a short entry reflecting on what happened, what decisions were made, and what questions remain open. This is also what the OCA requires, so the journal serves both the course and the project.</p>
+<p class="wp-block-paragraph"><strong>Pedro&#8217;s learning journal</strong>&nbsp;will be the primary record. After each collaborative meeting, class visit, or composition session, I will write a short entry reflecting on what happened, what decisions were made, and what questions remain open. This is also what the OCA requires, so the journal serves both the course and the project.</p>
 
 
 
-<p><strong>Meeting notes</strong> will be written up after each formal meeting between Pedro, Elena and John. These do not need to be long. A few bullet points covering what was discussed, what was agreed, and what each person will do next.</p>
+<p class="wp-block-paragraph"><strong>Meeting notes</strong> will be written up after each formal meeting between Pedro, Elena and John. These do not need to be long. A few bullet points covering what was discussed, what was agreed, and what each person will do next.</p>
 
 
 
@@ -220,19 +403,19 @@
 
 
 
-<p>This phase covers material we need to gather in order to make the work. Research, resources, and raw material that will inform or appear in the composition.</p>
+<p class="wp-block-paragraph">This phase covers material we need to gather in order to make the work. Research, resources, and raw material that will inform or appear in the composition.</p>
 
 
 
-<p><strong>Historical research notes</strong> on Portuguese history from the 1950s to the present, gathered in collaboration with Portuguese language and history teachers at CAISL. </p>
+<p class="wp-block-paragraph"><strong>Historical research notes</strong> on Portuguese history from the 1950s to the present, gathered in collaboration with Portuguese language and history teachers at CAISL. </p>
 
 
 
-<p><strong>Audio references</strong>&nbsp;— recordings of Portuguese music from different decades (fado, José Afonso, Madredeus, contemporary artists) that will help Pedro understand the musical landscape he is composing within and give John and Elena reference points for the stylistic direction of each section.</p>
+<p class="wp-block-paragraph"><strong>Audio references</strong>&nbsp;— recordings of Portuguese music from different decades (fado, José Afonso, Madredeus, contemporary artists) that will help Pedro understand the musical landscape he is composing within and give John and Elena reference points for the stylistic direction of each section.</p>
 
 
 
-<p><strong>Draft scores and sketches</strong> — each version of the score, however incomplete, will be saved and shared. This creates a record of how the composition evolved and shows where collaborator or student feedback caused a revision.</p>
+<p class="wp-block-paragraph"><strong>Draft scores and sketches</strong> — each version of the score, however incomplete, will be saved and shared. This creates a record of how the composition evolved and shows where collaborator or student feedback caused a revision.</p>
 
 
 
@@ -240,294 +423,23 @@
 
 
 
-<p>This phase covers the final work and its presentation in June.</p>
+<p class="wp-block-paragraph">This phase covers the final work and its presentation in June.</p>
 
 
 
-<p><strong>A video recording</strong> of the performance will be made. This is the primary record of the finished piece and the students&#8217; realisation of it. </p>
+<p class="wp-block-paragraph"><strong>A video recording</strong> of the performance will be made. This is the primary record of the finished piece and the students&#8217; realisation of it. </p>
 
 
 
-<p><strong>A final annotated score</strong>&nbsp;will be produced after the performance, incorporating any changes made during rehearsals. This is the document that could be used if the piece were ever performed again.</p>
+<p class="wp-block-paragraph"><strong>A final annotated score</strong>&nbsp;will be produced after the performance, incorporating any changes made during rehearsals. This is the document that could be used if the piece were ever performed again.</p>
 
 
 
-<p><strong>A short written reflection</strong> on how the process unfolded and what they would do differently. These will be written independently and then shared, forming the basis of the project evaluation.</p>
+<p class="wp-block-paragraph"><strong>A short written reflection</strong> on how the process unfolded and what they would do differently. These will be written independently and then shared, forming the basis of the project evaluation.</p>
 
 
 
-<p><strong>A selection of student responses</strong>, gathered informally after the performance, capturing how the students experienced the work.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Listening to Rosalía, Carminho – Memória</title>
-		<link>./../../../listening-to-rosalia-carminho-memoria/index.html</link>
-		
-		<dc:creator><![CDATA[pedro]]></dc:creator>
-		<pubDate>Thu, 15 Jan 2026 22:19:07 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
-		<category><![CDATA[Project 3: Designing Your Project]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=629</guid>
-
-					<description><![CDATA[The global success of Rosalía’s new album, Lux, made it impossible for me to ignore, so I finally sat down to listen. In my view, the record is a triumph because it is a conceptual...]]></description>
-										<content:encoded><![CDATA[
-<p>The global success of Rosalía’s new album, Lux, made it impossible for me to ignore, so I finally sat down to listen. In my view, the record is a triumph because it is a conceptual work where a mainstream artist takes the liberty to create something entirely different from the formatted pop we hear today. Among the tracks, <em>Memória</em> stood out most. Partly because I am Portuguese and I adore Carminho, but also because of how it bridges two worlds.</p>
-
-
-
-<p>To me, <em>Memória</em> captures a deep sense of saudade through its inherent sadness. The dramatic contrast between the quiet instruments and the intense, longing delivery of the lyrics creates a mood of profound introspection. It feels like a bridge between the past and the present, where the minimalist production allows the emotional weight of the Fado tradition to shine without being over-produced. I found the experience deeply moving, as it proves that mainstream music can still be surprising.</p>
-
-
-
-<p>I adore how the minimalist texture, featuring a delicate interplay between harp and piano, replaces the traditional Portuguese guitar, pushing the sound toward an ethereal, dreamlike atmosphere rather than a standard folk style.</p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Listening to Joseph Turrin &#8211; Lullaby for Vaska</title>
-		<link>./../../../listening-to-joseph-turrin-lullaby-for-vaska/index.html</link>
-		
-		<dc:creator><![CDATA[pedro]]></dc:creator>
-		<pubDate>Wed, 07 Jan 2026 22:55:13 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
-		<category><![CDATA[Project 3: Designing Your Project]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=644</guid>
-
-					<description><![CDATA[This piece combines chamber orchestra, narrator, and voice in a way that clearly separates their roles. The orchestra provides the main emotional and structural foundation, using long, sustained lines and gentle dynamics that reflect the...]]></description>
-										<content:encoded><![CDATA[
-<p>This piece combines chamber orchestra, narrator, and voice in a way that clearly separates their roles. The orchestra provides the main emotional and structural foundation, using long, sustained lines and gentle dynamics that reflect the idea of a lullaby. These musical features create a calm and continuous background rather than strong contrasts or dramatic development.</p>
-
-
-
-<p>The narrator delivers the text in a clear and direct manner, which allows the meaning of the words to remain understandable. The solo voice adds another layer, using simple melodic material that blends with the orchestral texture instead of standing out too strongly.</p>
-
-
-
-<p>This work moved me, particularly the contrast between the innocence of a &#8220;lullaby&#8221; and the brutal reality of the siege. The dramatic contrast between the narrator&#8217;s steady voice and the soaring, mournful soprano at the end felt like a deep experience, reflecting both deep despair and a glimmer of hope. It reinforces my belief that including a narrator can transform a musical performance into a personal, cinematic journey.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Listening to Dana Wilson – Mirror for String Quartet and Narration</title>
-		<link>./../../../listening-to-dana-wilson-mirror-for-string-quartet-and-narration/index.html</link>
-		
-		<dc:creator><![CDATA[pedro]]></dc:creator>
-		<pubDate>Tue, 06 Jan 2026 22:45:22 +0000</pubDate>
-				<category><![CDATA[Listening Log]]></category>
-		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
-		<category><![CDATA[Project 3: Designing Your Project]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=642</guid>
-
-					<description><![CDATA[Listening to this was a different experience from most string quartet music I know. What interested me most was how the spoken text and the music exist together without competing. The narration does not tell...]]></description>
-										<content:encoded><![CDATA[
-<p>Listening to this was a different experience from most string quartet music I know. What interested me most was how the spoken text and the music exist together without competing. The narration does not tell a story in a dramatic way. Instead, it feels like quiet thoughts placed inside the music. This made me listen more carefully to both elements.</p>
-
-
-
-<p>I found that the music creates a space for reflection rather than strong emotions. The rhythmic patterns and repeated ideas reminded me of everyday movement and energy, especially in modern life. At the same time, the spoken words felt personal and honest. Because the text is spoken, not sung, I could understand it easily, and it felt more direct and human.</p>
-
-
-
-<p>I also liked that the piece changes depending on where it is performed and who writes the text. This made me think about music as something connected to people and place. Overall, the piece made me reflect on how music can support thinking and listening, rather than leading the listener too strongly. </p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Exercise 3: Risk Assessments and Ethics</title>
-		<link>./../../../exercise-3-risk-assessments-and-ethics/index.html</link>
-		
-		<dc:creator><![CDATA[pedro]]></dc:creator>
-		<pubDate>Fri, 02 Jan 2026 23:07:02 +0000</pubDate>
-				<category><![CDATA[Coursework]]></category>
-		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
-		<category><![CDATA[Project 3: Designing Your Project]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=626</guid>
-
-					<description><![CDATA[Working with Children This is the extreme risk and rightly so. I&#8217;ve never composed for children before, and whilst Elena and John will supervise everything, I&#8217;m acutely aware I could inadvertently cause harm. The case...]]></description>
-										<content:encoded><![CDATA[
-<p><h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); letter-spacing: normal; white-space: normal;">Working with Children</h2><p class="font-claude-response-body break-words whitespace-normal leading-[1.7]" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;">This is the extreme risk and rightly so. I&#8217;ve never composed for children before, and whilst Elena and John will supervise everything, I&#8217;m acutely aware I could inadvertently cause harm. The case study about the film students getting arrested whilst filming gang violence really struck me. Good intentions aren&#8217;t enough if you don&#8217;t think through practical implications.</p><p class="font-claude-response-body break-words whitespace-normal leading-[1.7]" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;"></p><h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); letter-spacing: normal; white-space: normal;">Making Them Feel Rubbish About Themselves</h2><p class="font-claude-response-body break-words whitespace-normal leading-[1.7]" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;">This worry feels almost embarrassing to write down, but it&#8217;s real: what if I write music that&#8217;s too hard and students feel inadequate? I don&#8217;t want to make these children feel small. Q<span style="background-color: rgba(0, 0, 0, 0.2);">uite possible some students will struggle, and the emotional impact could be significant.</span></p><p class="font-claude-response-body break-words whitespace-normal leading-[1.7]" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;"></p><p class="font-claude-response-body break-words whitespace-normal leading-[1.7]" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;"></p><h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); letter-spacing: normal; white-space: normal;"><span style="font-size: 1.75rem; background-color: rgb(255, 255, 255);">What If We Just Fail?</span></h2><p class="font-claude-response-body break-words whitespace-normal leading-[1.7]" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;">The collaboration might break down. We might disagree. Students might lose interest. The timeline might prove impossible. And that&#8217;s okay, as long as I document it honestly.<span style="background-color: rgb(255, 255, 255);"> </span>I still feel anxious though. What if Elena and John get frustrated with my inexperience? What if students are disappointed? I need to be really honest throughout. Not pretending I know what I&#8217;m doing when I don&#8217;t, asking for help early, and being willing to stop if it&#8217;s not working.</p><h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); letter-spacing: normal; white-space: normal;"></h2></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Exercise 1: Expectations</title>
-		<link>./../../../exercise-1-expectations/index.html</link>
-		
-		<dc:creator><![CDATA[pedro]]></dc:creator>
-		<pubDate>Tue, 30 Dec 2025 22:30:27 +0000</pubDate>
-				<category><![CDATA[Coursework]]></category>
-		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
-		<category><![CDATA[Project 3: Designing Your Project]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=624</guid>
-
-					<description><![CDATA[Shared Expectations What we all agree on: What we all need: Communication: Decision-Making: Roles and Responsibilities: Boundaries and Limitations:]]></description>
-										<content:encoded><![CDATA[
-<h3 class="wp-block-heading">Shared Expectations</h3>
-
-
-
-<p><strong>What we all agree on:</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>The process is more important than the final product</li>
-
-
-
-<li>We value honest communication and feedback throughout</li>
-
-
-
-<li>We want students to be actively involved in the co-creation process</li>
-
-
-
-<li>We recognise this is experimental and requires flexibility from everyone</li>
-
-
-
-<li>We want to create something that connects students to Portuguese history and CAISL&#8217;s heritage</li>
-</ul>
-
-
-
-<p><strong>What we all need:</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>Regular communication and check-ins</li>
-
-
-
-<li>Flexibility and understanding of each other&#8217;s constraints</li>
-
-
-
-<li>Honesty about what is/isn&#8217;t working</li>
-
-
-
-<li>Willingness to revise and adapt as the project develops</li>
-
-
-
-<li>Time to adequately prepare students once the composition is ready</li>
-</ul>
-
-
-
-<p><strong>Communication:</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>Regular meetings (approximately monthly) to discuss progress and challenges</li>
-
-
-
-<li>Email updates between meetings as needed</li>
-
-
-
-<li>Open door policy &#8211; anyone can raise concerns or questions at any time</li>
-
-
-
-<li>Pedro to share drafts and ideas early and often for feedback</li>
-</ul>
-
-
-
-<p><strong>Decision-Making:</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>Compositional decisions led by Pedro with input from Elena and John</li>
-
-
-
-<li>Pedagogical decisions (what&#8217;s appropriate for students) led by Elena and John</li>
-
-
-
-<li>Major decisions about project direction made collaboratively</li>
-
-
-
-<li>If disagreements arise, we discuss openly and seek compromise</li>
-
-
-
-<li>If collaboration breaks down, we document the process and reasons honestly</li>
-</ul>
-
-
-
-<p><strong>Roles and Responsibilities:</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>Pedro: Lead composer, draft musical ideas, revise based on feedback, document process</li>
-
-
-
-<li>Elena: Provide string expertise, facilitate orchestra access, lead string rehearsals, provide piano support</li>
-
-
-
-<li>John: Provide vocal expertise, facilitate choir access, lead vocal rehearsals, coordinate with drama if needed</li>
-
-
-
-<li>All: Attend collaborative sessions with students, provide honest feedback, communicate openly</li>
-</ul>
-
-
-
-<p><strong>Boundaries and Limitations:</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>Pedro has never composed for such young players. Learning curve expected</li>
-
-
-
-<li>5th graders have significant technical limitations. Music must be very simple</li>
-
-
-
-<li>Timeline is tight. All collaborators have other commitments</li>
-
-
-
-<li>Exploratory rotation schedule affects which students are available when</li>
-
-
-
-<li>School calendar is busy. Rehearsal time may be limited</li>
-</ul>
+<p class="wp-block-paragraph"><strong>A selection of student responses</strong>, gathered informally after the performance, capturing how the students experienced the work.</p>
 ]]></content:encoded>
 					
 		
