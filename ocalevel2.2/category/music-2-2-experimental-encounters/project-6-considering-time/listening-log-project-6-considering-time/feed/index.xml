@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Listening Log &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2026 14:21:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+	<item>
+		<title>Listening Log – Élégie Op. 24 (Gabriel Fauré)</title>
+		<link>./../../../../../listening-log-elegie-op-24-gabriel-faure/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Tue, 02 Jun 2026 14:20:00 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 6: Considering Time]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=718</guid>
+
+					<description><![CDATA[At the beginning of Fauré&#8217;s Élégie, I hear something almost like a slow march. The piano creates the feeling of heavy, dragging steps before the cello enters with the main melody. When the cello begins, the...]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">At the beginning of Fauré&#8217;s <em>Élégie</em>, I hear something almost like a slow march. The piano creates the feeling of heavy, dragging steps before the cello enters with the main melody. When the cello begins, the mood becomes much more clearly sad. I particularly notice how the cello suspensions create tension.</p>
+
+
+
+<p class="wp-block-paragraph">In the middle section, both instruments become more active and the texture feels almost “fuzzy” to me. There is then a surprising change of mood. The piano becomes more playful and energetic, taking a stronger role, while the cello seems to hold on to the sadness of the opening. It feels almost as if the cello is pushing against the piano&#8217;s new energy.</p>
+
+
+
+<p class="wp-block-paragraph">Eventually, the cello seems to give in and follows the piano into this more energetic section. The two instruments begin to sound almost like they are having a conversation, responding to each other. When the main motif returns, it is more energetic than at the beginning, but the piece does not end happily. Instead, it returns to a calm and dark atmosphere. I like this because the sadness seems to remain present even after the music has changed.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

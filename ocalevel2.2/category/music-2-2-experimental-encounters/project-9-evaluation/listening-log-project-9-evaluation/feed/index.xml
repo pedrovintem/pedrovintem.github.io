@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Listening Log &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 28 Sep 2026 21:02:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+	<item>
+		<title>Listening Log to Stanley Myers &#8211; Cavatina</title>
+		<link>./../../../../../listening-log-to-stanley-myers-cavatina/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Thu, 23 Jul 2026 20:22:00 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 9: Evaluation]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=722</guid>
+
+					<description><![CDATA[I found the combination of two acoustic guitars and orchestra interesting, especially because of the relationship between the guitars and the strings. Together, they create a romantic and intimate atmosphere. I particularly like the contrast...]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">I found the combination of two acoustic guitars and orchestra interesting, especially because of the relationship between the guitars and the strings. Together, they create a romantic and intimate atmosphere. I particularly like the contrast between the clear attack of the guitars and the warmer sound of the strings.</p>
+
+
+
+<p class="wp-block-paragraph">I was also interested in how the two guitars explore different registers. At some moments, they reach very high and low registers at the same time, creating a wide sound space. However, I sometimes felt that having two guitars did not add enough to the original musical idea. The piece was originally written for one guitar, and for me, the simplicity of the single guitar is part of what makes&nbsp;<em>Cavatina</em>&nbsp;effective.</p>
+
+
+
+<p class="wp-block-paragraph">If two guitars are used, I would expect more interaction between them, such as one guitar taking over the melody or the two instruments creating a stronger dialogue. I also think there could be more exploration of different guitar techniques or textures. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

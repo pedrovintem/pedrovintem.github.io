@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Listening Log &#8211; Pedro Vintém</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2026 14:34:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+	<item>
+		<title>Listening to Edward Elgar &#8211; Cello Concerto in E minor, Op. 85: I. Adagio; Moderato</title>
+		<link>./../../../../../listening-to-edward-elgar-cello-concerto-in-e-minor-op-85-i-adagio-moderato/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Sat, 13 Jun 2026 14:31:00 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 7: Completing Your Project]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=720</guid>
+
+					<description><![CDATA[I read that Elgar composed this concerto just after the First World War, and this historical context strongly influenced the way I heard the music. For me, it communicates a feeling of despair, destruction, and...]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">I read that Elgar composed this concerto just after the First World War, and this historical context strongly influenced the way I heard the music. For me, it communicates a feeling of despair, destruction, and hopelessness. The opening cello melody feels very exposed and fragile, almost as if it is speaking after something has been lost.</p>
+
+
+
+<p class="wp-block-paragraph">I particularly like the way the cello slowly rises and then comes back down at almost the same pace. The melody is beautiful but also very simple and almost crude in its expression. This makes it feel very direct. I also find it impressive how the cello moves from its lowest register to its highest register. When the orchestra enters more strongly afterwards, the contrast creates a very dramatic moment.</p>
+
+
+
+<p class="wp-block-paragraph">Something that surprised me was the appearance of a waltz-like feeling in some sections. The interaction between the cello and orchestra becomes lighter and more flowing, which contrasts strongly with the darker material. It almost feels like a glimpse of hope within an otherwise dark piece. However, this hope does not completely remove the sadness, which makes the contrast more powerful for me.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

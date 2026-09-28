@@ -12,13 +12,13 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Sun, 28 Sep 2025 21:14:51 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Sep 2026 20:36:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.2</generator>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
 	<item>
 		<title>Assignment 1: Reflection</title>
 		<link>./../../../../assignment-1-reflection/index.html</link>
@@ -119,6 +119,60 @@
 		
 			</item>
 		<item>
+		<title>Listening to Benjamin Britten – Four Sea Interludes from Peter Grimes</title>
+		<link>./../../../../listening-to-benjamin-britten-four-sea-interludes-from-peter-grimes/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2025 13:42:00 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=712</guid>
+
+					<description><![CDATA[What impressed me most about this suite is how Britten uses the sea as a mirror for human emotion. Even without watching the opera, I felt a strong sense of nature throughout the work. The...]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">What impressed me most about this suite is how Britten uses the sea as a mirror for human emotion. Even without watching the opera, I felt a strong sense of nature throughout the work. The bright moments in &#8220;Sunday Morning&#8221; feel almost fake when contrasted with the heavy, anxious atmosphere of &#8220;Moonlight&#8221; and &#8220;Storm&#8221;.</p>
+
+
+
+<p class="wp-block-paragraph">The abrupt transitions between high, thin textures and deep brass chords gave me a feeling of restlessness, as though danger is always present. It makes me wonder how much our emotional interpretation of nature in music is tied to these dramatic contrasts in orchestration.</p>
+
+
+
+<h3 class="wp-block-heading">I. &#8220;Dawn&#8221;</h3>
+
+
+
+<p class="wp-block-paragraph">The piece opens in a quiet, fragile state. High violins and flutes hold long, sustained lines, creating a thin texture that mimics the vastness of an open horizon.</p>
+
+
+
+<h3 class="wp-block-heading">II. &#8220;Sunday Morning&#8221;</h3>
+
+
+
+<p class="wp-block-paragraph">The second movement presents a total change in energy and rhythm. Britten uses a bright, syncopated motif across the woodwinds and trumpets to portray the activity of a coastal town. Rapid runs in the violins give a feeling of constant motion and underlying urgency. Towards the end, the light mood turns dark. Dissonant harmonies creep into the brass, turning the joyful activity into something far more tense.</p>
+
+
+
+<h3 class="wp-block-heading">III. &#8220;Moonlight&#8221;</h3>
+
+
+
+<p class="wp-block-paragraph">This movement returns to a quiet atmosphere, yet its weight feels much heavier than &#8220;Dawn&#8221;. The structure relies on low, pulsating string chords that act as a somber foundation. To my ears, the static repetition of the low chords creates a sense of paralysis, as if the calm surface hides a deep discomfort.</p>
+
+
+
+<h3 class="wp-block-heading">IV. &#8220;Storm&#8221;</h3>
+
+
+
+<p class="wp-block-paragraph">The final movement is violent and relentless. Britten employs heavy-rock-like orchestration through powerful brass blasts and thunderous timpani rolls that dominate the dynamics. Chromatic runs in the upper woodwinds and strings move rapidly across the orchestra, giving the impression of howling wind and rushing waves.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Listening to The Kills &#8211; The Last Goodbye</title>
 		<link>./../../../../listening-to-the-kills-the-last-goodbye/index.html</link>
 		
@@ -212,6 +266,33 @@
 		
 			</item>
 		<item>
+		<title>Listening Log to Ennio Morricone &#8211; Gabriel&#8217;s Oboe</title>
+		<link>./../../../../listening-log-to-ennio-morricone-gabriels-oboe/index.html</link>
+		
+		<dc:creator><![CDATA[pedro]]></dc:creator>
+		<pubDate>Sun, 21 Sep 2025 20:34:00 +0000</pubDate>
+				<category><![CDATA[Listening Log]]></category>
+		<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
+		<category><![CDATA[Project 1: Introduction to Collaboration]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=724</guid>
+
+					<description><![CDATA[Gabriel&#8217;s Oboe&#160;is a very melodic and expressive piece. What I like most is how the oboe brings a certain sadness to an otherwise beautiful and simple melody. Its higher register is especially emotional, and it...]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><em>Gabriel&#8217;s Oboe</em>&nbsp;is a very melodic and expressive piece. What I like most is how the oboe brings a certain sadness to an otherwise beautiful and simple melody. Its higher register is especially emotional, and it works very well with the strings. The strings create a soft harmonic background that gives the oboe enough space to be heard clearly.</p>
+
+
+
+<p class="wp-block-paragraph">Although the piece is relatively short and uses simple musical material, it feels full of emotion. I think this is partly because of the way Morricone treats the oboe almost like a human voice. The long melodic lines and expressive phrasing make it feel as if the instrument is singing rather than simply playing notes.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Listening to Joy Crookes &#8211; Skin</title>
 		<link>./../../../../listening-to-joy-crookes-skin/index.html</link>
 		
@@ -267,36 +348,6 @@
 
 
 <p class="wp-block-paragraph">Dubois&#8217;s example suggests that collaboration does not require giving up your identity or artistic vision. Instead, it can expand how you realise that vision. The key is to find collaborators whose needs align with your interests, rather than forcing connections.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Research Task 1: Typology of Collaboration</title>
-		<link>./../../../../research-task-1-typology-of-collaboration/index.html</link>
-		
-		<dc:creator><![CDATA[pedro]]></dc:creator>
-		<pubDate>Mon, 15 Sep 2025 20:59:41 +0000</pubDate>
-				<category><![CDATA[Music 2.2: Experimental Encounters]]></category>
-		<category><![CDATA[Project 1: Introduction to Collaboration]]></category>
-		<guid isPermaLink="false">./../../../../index.html?p=592</guid>
-
-					<description><![CDATA[Creative partnerships thrive when individuals complement each other in style, temperament, disciplinary training, and specific vision. The expression &#8220;revealing mirrors&#8221; resonated with me because it suggests that these partnerships have the power to show both...]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Creative partnerships thrive when individuals complement each other in style, temperament, disciplinary training, and specific vision. The expression &#8220;revealing mirrors&#8221; resonated with me because it suggests that these partnerships have the power to show both complementary and at the same time, antagonistic points of view. It&#8217;s almost like a special sum of 1+1=3 because the gains from a creative partnership extend to both individual solo works and the joint project. This is a powerful reminder. My natural inclination might be to seek out collaborators who share my exact vision or working method, assuming it will lead to smoother progress. But in reality, someone completely different from me can unleash a powerful result.</p>
-
-
-
-<p class="wp-block-paragraph">The idea that struck me most was that creativity springs solely from an individual is a &#8220;debilitating myth.&#8221; This resonates strongly. I frequently find myself battling the internal pressure to do it all myself. This myth can isolate me and limit my potential. I need to consciously acknowledge that my creative output can be much more influenced by mentors, peers, and the broader creative community.</p>
-
-
-
-<p class="wp-block-paragraph">But collaboration requires significant joint thought and understanding. There must be an openness for critique, judgment, and the allowance for different personalities to momentarily suspend their individual artistic or professional persona.</p>
-
-
-
-<p class="wp-block-paragraph">The types of collaboration are a novel concept for me, which leads me to wonder: before embarking on a new project, should I reflect on which type of collaboration I&#8217;m aiming for? Is it important to think about whether I&#8217;m looking for efficient output and a synergistic combination of distinct skills (complementary)? Or am I striving for a deeper, more transformative fusion of minds that might redefine an artistic or intellectual paradigm (integrative)? Or should creative partnerships be allowed to flourish naturally? I still don&#8217;t have an answer, but I hope to find it during my unit.</p>
 ]]></content:encoded>
 					
 		
