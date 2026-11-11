@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Assignment &#8211; Oca 2.3</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 28 Oct 2026 22:14:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.4</generator>
+	<item>
+		<title>ORC Assignment 1: Arranging for Band</title>
+		<link>./../../../../../orc-assignment-1-arranging-for-band/index.html</link>
+					<comments>./../../../../../orc-assignment-1-arranging-for-band/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Fri, 30 Oct 2026 22:11:11 +0000</pubDate>
+				<category><![CDATA[Assignment]]></category>
+		<category><![CDATA[Orchestration Pathway]]></category>
+		<category><![CDATA[Project 1]]></category>
+		<guid isPermaLink="false">./../../../../../index.html?p=19</guid>
+
+					<description><![CDATA[I had a lot of fun with this arrangement. I chose&#160;American Pie&#160;because it’s a recognisable tune that works both slow and mellow and fast and rhythmic, so I went for a mixture of the two....]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">I had a lot of fun with this arrangement. I chose&nbsp;<em>American Pie</em>&nbsp;because it’s a recognisable tune that works both slow and mellow and fast and rhythmic, so I went for a mixture of the two. I also picked it because I grew up watching American college brass bands, so my mind went straight to American songs.</p>
+
+
+
+<p class="wp-block-paragraph">The song is longer than the two minutes allowed, so I chose a slow opening verse, followed by a more jolly and cheerful chorus, a verse, and a final chorus with a modulation.</p>
+
+
+
+<p class="wp-block-paragraph">Transposition was a challenge. I first wrote the arrangement in B♭, the usual brass band key, but I wanted to keep the song’s original key of G. It simply sounded better, or perhaps I’m just used to hearing it at that pitch. I also had to keep checking ranges. For example, I moved a euphonium run down an octave because it had become too high.</p>
+
+
+
+<p class="wp-block-paragraph">Shaping the texture was another challenge. I contrasted a solo flugelhorn introduction and a verse led by the euphonium with full-band choruses, and I modulated up a tone for the final chorus. I added richer harmony, and I also tried using extended techniques such as falls, cup mutes, flutter-tonguing and trombone glissandi. Not every idea worked.</p>
+
+
+
+<p class="wp-block-paragraph">Overall, I think the arrangement is successful, because the song stays recognisable while the band’s full range of timbres is used. If I developed it further, I would want to hear it played live to check the balance and whether players have enough time for the mute changes.</p>
+
+
+
+<p class="wp-block-paragraph">I learned that arranging depends on careful listening and editing, not on adding as many ideas as possible. I did overwork it at times, but I often came back to the original. Often the simpler chord is the better one.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../../orc-assignment-1-arranging-for-band/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
